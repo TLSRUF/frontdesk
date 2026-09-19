@@ -1,0 +1,827 @@
+[
+  {
+    "id": "github:makeplane/plane",
+    "name": "plane",
+    "owner": "makeplane",
+    "type": "github-repo",
+    "source_url": "https://github.com/makeplane/plane",
+    "metric": {
+      "stars": 59605
+    },
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "topics": [
+      "boards",
+      "bug-tracker",
+      "django",
+      "docker",
+      "gantt",
+      "issue-tracker",
+      "jira",
+      "jira-alternative",
+      "kanban",
+      "linear",
+      "postgresql",
+      "product-management",
+      "project-management",
+      "project-planning",
+      "python",
+      "react",
+      "redis",
+      "typescipt",
+      "vite",
+      "work-management"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:phuryn/pm-skills",
+    "name": "pm-skills",
+    "owner": "phuryn",
+    "type": "github-repo",
+    "source_url": "https://github.com/phuryn/pm-skills",
+    "metric": {
+      "stars": 26434
+    },
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "topics": [
+      "agent-skill-repository",
+      "agent-skills",
+      "agentic-skills",
+      "claude-code-marketplace",
+      "claude-code-plugins",
+      "claude-cowork-plugin",
+      "product-management"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:opf/openproject",
+    "name": "openproject",
+    "owner": "opf",
+    "type": "github-repo",
+    "source_url": "https://github.com/opf/openproject",
+    "metric": {
+      "stars": 16148
+    },
+    "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
+    "topics": [
+      "agile-development",
+      "angular",
+      "bcf",
+      "boards",
+      "bug-tracker",
+      "gantt",
+      "gantt-chart",
+      "ifc",
+      "issue-tracker",
+      "jira-alternative",
+      "kanban",
+      "openproject",
+      "product-management",
+      "project-management",
+      "project-planning",
+      "roadmap",
+      "ruby",
+      "scrum",
+      "timeline",
+      "workflows"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:unopim/unopim",
+    "name": "unopim",
+    "owner": "unopim",
+    "type": "github-repo",
+    "source_url": "https://github.com/unopim/unopim",
+    "metric": {
+      "stars": 10972
+    },
+    "description": "Open source Product Information Management (PIM) and Digital Asset Management (DAM) platform built on Laravel — manage, enrich, and scale product data and digital assets beyond 10 million products. Free forever.",
+    "topics": [
+      "laravel",
+      "open-source",
+      "opensource",
+      "php",
+      "pim",
+      "product",
+      "product-information-management",
+      "product-management",
+      "pxm"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:deanpeters/Product-Manager-Skills",
+    "name": "Product-Manager-Skills",
+    "owner": "deanpeters",
+    "type": "github-repo",
+    "source_url": "https://github.com/deanpeters/Product-Manager-Skills",
+    "metric": {
+      "stars": 7002
+    },
+    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+    "topics": [
+      "ai-agents",
+      "ai-product-management",
+      "claude-skills",
+      "pm-frameworks",
+      "product-management"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:ProductHired/open-product-management",
+    "name": "open-product-management",
+    "owner": "ProductHired",
+    "type": "github-repo",
+    "source_url": "https://github.com/ProductHired/open-product-management",
+    "metric": {
+      "stars": 4471
+    },
+    "description": "A curated list of product management advice for technical people.",
+    "topics": [
+      "management",
+      "product",
+      "product-hunt",
+      "product-leader",
+      "product-management",
+      "product-manager",
+      "product-roadmap",
+      "silicon-valley"
+    ],
+    "license": null,
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:pimcore/pimcore",
+    "name": "pimcore",
+    "owner": "pimcore",
+    "type": "github-repo",
+    "source_url": "https://github.com/pimcore/pimcore",
+    "metric": {
+      "stars": 3849
+    },
+    "description": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+    "topics": [
+      "cdp",
+      "cms",
+      "cms-framework",
+      "customer-data-platform",
+      "dam",
+      "data-management",
+      "digital-platform",
+      "ecommerce",
+      "ecommerce-platform",
+      "experience-manager",
+      "hacktoberfest",
+      "master-data-management",
+      "mdm",
+      "online-shop",
+      "pim",
+      "pimcore",
+      "product-information-management",
+      "product-management",
+      "shop",
+      "wcms"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:kdeldycke/awesome-engineering-team-management",
+    "name": "awesome-engineering-team-management",
+    "owner": "kdeldycke",
+    "type": "github-repo",
+    "source_url": "https://github.com/kdeldycke/awesome-engineering-team-management",
+    "metric": {
+      "stars": 2603
+    },
+    "description": "👔 How to transition from software development to engineering management",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "career",
+      "compensation",
+      "cto",
+      "culture",
+      "engineering-manager",
+      "engineering-team",
+      "executive-management",
+      "hiring",
+      "leadership",
+      "management",
+      "motivation",
+      "onboarding",
+      "politics",
+      "product-management",
+      "recruitment",
+      "systems",
+      "team-management",
+      "transition"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:dend/awesome-product-management",
+    "name": "awesome-product-management",
+    "owner": "dend",
+    "type": "github-repo",
+    "source_url": "https://github.com/dend/awesome-product-management",
+    "metric": {
+      "stars": 2368
+    },
+    "description": "🚀 A curated list of awesome resources for product/program managers to learn and grow.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "pm",
+      "product",
+      "product-management"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:orico/www.mlcompendium.com",
+    "name": "www.mlcompendium.com",
+    "owner": "orico",
+    "type": "github-repo",
+    "source_url": "https://github.com/orico/www.mlcompendium.com",
+    "metric": {
+      "stars": 2194
+    },
+    "description": "The Machine Learning & Deep Learning Compendium was a list of references in my private & single document, which I curated in order to expand my knowledge, it is now an open knowledge-sharing project compiled using Gitbook.",
+    "topics": [
+      "algorithms",
+      "data-science",
+      "deep-learning",
+      "full-stack",
+      "gitbook",
+      "machine-learning",
+      "marketing",
+      "mlcompendium",
+      "probability",
+      "product-management",
+      "statistics",
+      "ux-design",
+      "ux-experience",
+      "ux-research"
+    ],
+    "license": null,
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:RedPlanetHQ/tegon",
+    "name": "tegon",
+    "owner": "RedPlanetHQ",
+    "type": "github-repo",
+    "source_url": "https://github.com/RedPlanetHQ/tegon",
+    "metric": {
+      "stars": 1913
+    },
+    "description": "Tegon is an open-source, dev-first alternative to Jira, Linear",
+    "topics": [
+      "ai",
+      "issue-management",
+      "issue-tracker",
+      "issue-tracking-system",
+      "jira",
+      "jira-alternative",
+      "kanban",
+      "linear-alternative",
+      "open-source",
+      "product-management",
+      "productivity",
+      "project-management",
+      "react",
+      "typescript"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:lorabv/awesome-agile",
+    "name": "awesome-agile",
+    "owner": "lorabv",
+    "type": "github-repo",
+    "source_url": "https://github.com/lorabv/awesome-agile",
+    "metric": {
+      "stars": 1484
+    },
+    "description": "Awesome List of resources on Agile Software Development.",
+    "topics": [
+      "a-b-testing",
+      "agile",
+      "agile-architecture",
+      "agile-development",
+      "agile-manifesto",
+      "awesome",
+      "awesome-list",
+      "backlog",
+      "design-thinking",
+      "kanban",
+      "lean",
+      "okr",
+      "pair-programming",
+      "product-management",
+      "retrospectives",
+      "scrum",
+      "scrum-master",
+      "tdd",
+      "technical-debt",
+      "user-stories"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:mohitagw15856/pm-claude-skills",
+    "name": "pm-claude-skills",
+    "owner": "mohitagw15856",
+    "type": "github-repo",
+    "source_url": "https://github.com/mohitagw15856/pm-claude-skills",
+    "metric": {
+      "stars": 1378
+    },
+    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a disability benefit, building a go-bag, and settling into a new country. Plain-markdown, MIT, in Anthropic's official plugin directory. Free in-browser or 'npx pm-claude-skills add'.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "product-management",
+      "productivity",
+      "prompt-engineering",
+      "prompts",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:RefoundAI/lenny-skills",
+    "name": "lenny-skills",
+    "owner": "RefoundAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/RefoundAI/lenny-skills",
+    "metric": {
+      "stars": 1335
+    },
+    "description": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "claude",
+      "claude-code",
+      "lenny-rachitsky",
+      "llm",
+      "pm-tools",
+      "product-management",
+      "product-skills",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:deanpeters/product-manager-prompts",
+    "name": "product-manager-prompts",
+    "owner": "deanpeters",
+    "type": "github-repo",
+    "source_url": "https://github.com/deanpeters/product-manager-prompts",
+    "metric": {
+      "stars": 1136
+    },
+    "description": "A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini",
+    "topics": [
+      "agile",
+      "chatgpt",
+      "documentation-generator",
+      "generative-ai",
+      "product-management",
+      "product-owner"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:logchimp/logchimp",
+    "name": "logchimp",
+    "owner": "logchimp",
+    "type": "github-repo",
+    "source_url": "https://github.com/logchimp/logchimp",
+    "metric": {
+      "stars": 1128
+    },
+    "description": "🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!",
+    "topics": [
+      "customer-feedback",
+      "feedback",
+      "hacktoberfest",
+      "product-management",
+      "product-roadmap",
+      "production-ready",
+      "roadmap",
+      "user-feedback"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:rampstackco/claude-skills",
+    "name": "claude-skills",
+    "owner": "rampstackco",
+    "type": "github-repo",
+    "source_url": "https://github.com/rampstackco/claude-skills",
+    "metric": {
+      "stars": 881
+    },
+    "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-skills",
+      "mcp",
+      "product-management",
+      "rampstack",
+      "seo",
+      "skills-collection",
+      "web-design",
+      "web-development"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:borghei/Claude-Skills",
+    "name": "Claude-Skills",
+    "owner": "borghei",
+    "type": "github-repo",
+    "source_url": "https://github.com/borghei/Claude-Skills",
+    "metric": {
+      "stars": 790
+    },
+    "description": "368 AI skills, 76 expert agents, and 859 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
+    "topics": [
+      "agentic-coding",
+      "agile",
+      "ai-agents",
+      "ai-skills",
+      "business-operations",
+      "claude-code",
+      "claude-skills",
+      "compliance-automation",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "github-copilot",
+      "jira",
+      "mcp-server",
+      "notion",
+      "product-management",
+      "project-management",
+      "research-ops",
+      "technical-writing"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:croffasia/itsaplan",
+    "name": "itsaplan",
+    "owner": "croffasia",
+    "type": "github-repo",
+    "source_url": "https://github.com/croffasia/itsaplan",
+    "metric": {
+      "stars": 761
+    },
+    "description": "Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+    "topics": [
+      "agentic",
+      "agile",
+      "ai-agents",
+      "bug-reporting",
+      "bug-tracker",
+      "gantt",
+      "issue-tracker",
+      "jira",
+      "jira-alternative",
+      "kanban",
+      "linear",
+      "linear-alternative",
+      "open-source",
+      "product-management",
+      "project-management",
+      "roadmap",
+      "self-hosted",
+      "sprint-planning",
+      "team-collaboration",
+      "trello-alternative"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:paywallpro/paywall-gallery",
+    "name": "paywall-gallery",
+    "owner": "paywallpro",
+    "type": "github-repo",
+    "source_url": "https://github.com/paywallpro/paywall-gallery",
+    "metric": {
+      "stars": 752
+    },
+    "description": "Top iOS app subscription paywall and onboarding gallery with screenshots, videos, pricing models, patterns, and monetization signals.",
+    "topics": [
+      "app-business",
+      "app-store",
+      "growth",
+      "ios",
+      "mobile-apps",
+      "monetization",
+      "onboarding",
+      "paywall",
+      "pricing",
+      "product-management",
+      "revenue",
+      "saas",
+      "subscription",
+      "subscription-apps",
+      "ux-design"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:product-on-purpose/pm-skills",
+    "name": "pm-skills",
+    "owner": "product-on-purpose",
+    "type": "github-repo",
+    "source_url": "https://github.com/product-on-purpose/pm-skills",
+    "metric": {
+      "stars": 683
+    },
+    "description": "68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0.",
+    "topics": [
+      "agent-skills",
+      "agentskills",
+      "ai-skills",
+      "claude-code",
+      "claude-desktop",
+      "codex",
+      "design-sprint",
+      "foundation-sprint",
+      "openskills",
+      "product-management",
+      "skill-families",
+      "triple-diamond"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:TexasBedouin/vibe-check",
+    "name": "vibe-check",
+    "owner": "TexasBedouin",
+    "type": "github-repo",
+    "source_url": "https://github.com/TexasBedouin/vibe-check",
+    "metric": {
+      "stars": 604
+    },
+    "description": "By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then guides the build (GitHub basics, clean-code habits, a verify-and-iterate loop, a checkup for the mess). For Claude Code, Codex, and Antigravity. grill-me is for engineers, vibe-check is for everyone else.",
+    "topics": [
+      "ai-coding",
+      "antigravity",
+      "beginners",
+      "claude-code",
+      "claude-skill",
+      "codex",
+      "jobs-to-be-done",
+      "jtbd",
+      "no-code",
+      "outcome-driven-development",
+      "product-discovery",
+      "product-management",
+      "prompt-engineering",
+      "vibe-coding"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:anombyte93/prd-taskmaster",
+    "name": "prd-taskmaster",
+    "owner": "anombyte93",
+    "type": "github-repo",
+    "source_url": "https://github.com/anombyte93/prd-taskmaster",
+    "metric": {
+      "stars": 600
+    },
+    "description": "Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task graph, evidence-gated execution.",
+    "topics": [
+      "agents",
+      "ai-development",
+      "claude-code",
+      "claude-skills",
+      "mcp",
+      "prd",
+      "product-management",
+      "product-requirements",
+      "requirements-engineering",
+      "taskmaster"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:menkesu/awesome-pm-skills",
+    "name": "awesome-pm-skills",
+    "owner": "menkesu",
+    "type": "github-repo",
+    "source_url": "https://github.com/menkesu/awesome-pm-skills",
+    "metric": {
+      "stars": 406
+    },
+    "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code & Cursor into world-class product partners.",
+    "topics": [
+      "ai",
+      "awesome-list",
+      "claude",
+      "cursor",
+      "lenny-rachitsky",
+      "pm-skills",
+      "product-management"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:haydenbleasel/eververse",
+    "name": "eververse",
+    "owner": "haydenbleasel",
+    "type": "github-repo",
+    "source_url": "https://github.com/haydenbleasel/eververse",
+    "metric": {
+      "stars": 362
+    },
+    "description": "The open source product management platform.",
+    "topics": [
+      "ai",
+      "gantt",
+      "initiatives",
+      "product-management",
+      "project-management",
+      "roadmap"
+    ],
+    "license": "MIT",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:hugo53/awesome-ProductManager",
+    "name": "awesome-ProductManager",
+    "owner": "hugo53",
+    "type": "github-repo",
+    "source_url": "https://github.com/hugo53/awesome-ProductManager",
+    "metric": {
+      "stars": 343
+    },
+    "description": "A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.",
+    "topics": [
+      "product-management",
+      "product-manager"
+    ],
+    "license": null,
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:yuhenobi/awesome-product-manager",
+    "name": "awesome-product-manager",
+    "owner": "yuhenobi",
+    "type": "github-repo",
+    "source_url": "https://github.com/yuhenobi/awesome-product-manager",
+    "metric": {
+      "stars": 331
+    },
+    "description": "A curated list of awesome resources for product managers to learn and grow.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "product-design",
+      "product-management"
+    ],
+    "license": null,
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:hi0001234d/nexpath",
+    "name": "nexpath",
+    "owner": "hi0001234d",
+    "type": "github-repo",
+    "source_url": "https://github.com/hi0001234d/nexpath",
+    "metric": {
+      "stars": 330
+    },
+    "description": "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers — catch missing tests and safety checks across Claude Code, Cursor, Windsurf, Replit, Lovable and Bolt.new.",
+    "topics": [
+      "ai-code-tools",
+      "ai-coding-assistants",
+      "ai-developer-tools",
+      "ai-pair-programming",
+      "bolt-new",
+      "claude-code-plugin",
+      "code-quality",
+      "code-review",
+      "cursor-ai",
+      "developer-productivity-tool",
+      "developer-workflows",
+      "indie-hackers",
+      "lovable-ai",
+      "product-management",
+      "prompt-engineering",
+      "replit",
+      "secure-coding",
+      "software-testing",
+      "vibe-coding",
+      "windsurf"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:coco-research/coco",
+    "name": "coco",
+    "owner": "coco-research",
+    "type": "github-repo",
+    "source_url": "https://github.com/coco-research/coco",
+    "metric": {
+      "stars": 320
+    },
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skills, 386 commands, persistent state. Local. Open-core — MIT core; Super Intelligence is proprietary, own-use.",
+    "topics": [
+      "agent-skills",
+      "agents-md",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "llm-tools",
+      "mcp",
+      "pm-tools",
+      "product-management",
+      "productivity",
+      "prompt-engineering",
+      "workflow-automation"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  },
+  {
+    "id": "github:archlizheng/AIPM-Wiki",
+    "name": "AIPM-Wiki",
+    "owner": "archlizheng",
+    "type": "github-repo",
+    "source_url": "https://github.com/archlizheng/AIPM-Wiki",
+    "metric": {
+      "stars": 300
+    },
+    "description": "🧱 AI 产品经理入门知识库:面试题库 · AI 基础 · 案例拆解 · 学习路线 | 无论是零基础转行还是持续进步,一个仓库就够了",
+    "topics": [
+      "ai",
+      "ai-product-manager",
+      "aipm",
+      "chinese",
+      "interview",
+      "interview-questions",
+      "knowledge-base",
+      "llm",
+      "product-management",
+      "product-manager",
+      "prompt-engineering"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "product-management"
+  }
+]

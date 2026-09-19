@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/n8n-io/n8n",
     "metric": {
-      "stars": 205293
+      "stars": 205309
     },
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "topics": [
@@ -41,7 +41,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/google-gemini/gemini-cli",
     "metric": {
-      "stars": 107072
+      "stars": 107074
     },
     "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
     "topics": [
@@ -63,7 +63,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/koala73/worldmonitor",
     "metric": {
-      "stars": 86939
+      "stars": 86948
     },
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
     "topics": [
@@ -90,7 +90,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/D4Vinci/Scrapling",
     "metric": {
-      "stars": 82189
+      "stars": 82211
     },
     "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ",
     "topics": [
@@ -125,7 +125,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ruvnet/ruflo",
     "metric": {
-      "stars": 72805
+      "stars": 72810
     },
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "topics": [
@@ -160,7 +160,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/sansan0/TrendRadar",
     "metric": {
-      "stars": 62394
+      "stars": 62397
     },
     "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
     "topics": [
@@ -191,7 +191,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/upstash/context7",
     "metric": {
-      "stars": 62178
+      "stars": 62184
     },
     "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
     "topics": [
@@ -210,7 +210,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "metric": {
-      "stars": 52283
+      "stars": 52288
     },
     "description": "Chrome DevTools for coding agents",
     "topics": [
@@ -233,7 +233,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/DeusData/codebase-memory-mcp",
     "metric": {
-      "stars": 43773
+      "stars": 43779
     },
     "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
     "topics": [
@@ -268,7 +268,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/reactive-resume/reactive-resume",
     "metric": {
-      "stars": 43169
+      "stars": 43173
     },
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "topics": [
@@ -340,7 +340,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/oraios/serena",
     "metric": {
-      "stars": 29586
+      "stars": 29591
     },
     "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
     "topics": [
@@ -367,7 +367,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/assafelovic/gpt-researcher",
     "metric": {
-      "stars": 29517
+      "stars": 29518
     },
     "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
     "topics": [
@@ -440,7 +440,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/pascalorg/editor",
     "metric": {
-      "stars": 24105
+      "stars": 24110
     },
     "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
     "topics": [
@@ -473,7 +473,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/mksglu/context-mode",
     "metric": {
-      "stars": 23546
+      "stars": 23556
     },
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
     "topics": [
@@ -508,7 +508,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/czlonkowski/n8n-mcp",
     "metric": {
-      "stars": 22942
+      "stars": 22944
     },
     "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
     "topics": [
@@ -556,7 +556,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/modelscope/FunASR",
     "metric": {
-      "stars": 20417
+      "stars": 20419
     },
     "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
     "topics": [
@@ -591,7 +591,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
     "metric": {
-      "stars": 20183
+      "stars": 20188
     },
     "description": "🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。",
     "topics": [
@@ -714,7 +714,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
     "metric": {
-      "stars": 16328
+      "stars": 16332
     },
     "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
     "topics": [
@@ -749,7 +749,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/budtmo/docker-android",
     "metric": {
-      "stars": 15866
+      "stars": 15867
     },
     "description": "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent",
     "topics": [
@@ -783,7 +783,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/xpzouying/xiaohongshu-mcp",
     "metric": {
-      "stars": 15861
+      "stars": 15862
     },
     "description": "MCP for xiaohongshu.com",
     "topics": [

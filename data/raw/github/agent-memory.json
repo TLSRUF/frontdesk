@@ -1,0 +1,871 @@
+[
+  {
+    "id": "github:666ghj/MiroFish",
+    "name": "MiroFish",
+    "owner": "666ghj",
+    "type": "github-repo",
+    "source_url": "https://github.com/666ghj/MiroFish",
+    "metric": {
+      "stars": 73943
+    },
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:bojieli/ai-agent-book",
+    "name": "ai-agent-book",
+    "owner": "bojieli",
+    "type": "github-repo",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "metric": {
+      "stars": 48566
+    },
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agent",
+      "book",
+      "coding-agent",
+      "context-engineering",
+      "large-language-models",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "multimodal",
+      "rag",
+      "reinforcement-learning"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:pingcap/tidb",
+    "name": "tidb",
+    "owner": "pingcap",
+    "type": "github-repo",
+    "source_url": "https://github.com/pingcap/tidb",
+    "metric": {
+      "stars": 40550
+    },
+    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+    "topics": [
+      "agent",
+      "agent-context",
+      "agent-memory",
+      "agentic",
+      "ai",
+      "cloud-native",
+      "database",
+      "distributed-database",
+      "distributed-transactions",
+      "go",
+      "hacktoberfest",
+      "htap",
+      "memory",
+      "mysql",
+      "mysql-compatibility",
+      "scale",
+      "serverless",
+      "sql",
+      "tidb"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:volcengine/OpenViking",
+    "name": "OpenViking",
+    "owner": "volcengine",
+    "type": "github-repo",
+    "source_url": "https://github.com/volcengine/OpenViking",
+    "metric": {
+      "stars": 38025
+    },
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "topics": [
+      "agent-memory",
+      "agent-plugins",
+      "agentic-rag",
+      "context-database",
+      "dsh-plugin",
+      "self-evolving"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:topoteretes/cognee",
+    "name": "cognee",
+    "owner": "topoteretes",
+    "type": "github-repo",
+    "source_url": "https://github.com/topoteretes/cognee",
+    "metric": {
+      "stars": 30821
+    },
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database",
+      "graph-rag",
+      "help-wanted",
+      "knowledge",
+      "knowledge-graph",
+      "memory-management",
+      "open-source",
+      "vector-database"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:supermemoryai/supermemory",
+    "name": "supermemory",
+    "owner": "supermemoryai",
+    "type": "github-repo",
+    "source_url": "https://github.com/supermemoryai/supermemory",
+    "metric": {
+      "stars": 30363
+    },
+    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "topics": [
+      "agent-memory",
+      "ai-memory",
+      "cloudflare-kv",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "drizzle-orm",
+      "memory",
+      "postgres",
+      "remix",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:dolthub/dolt",
+    "name": "dolt",
+    "owner": "dolthub",
+    "type": "github-repo",
+    "source_url": "https://github.com/dolthub/dolt",
+    "metric": {
+      "stars": 24469
+    },
+    "description": "Dolt – Git for Data",
+    "topics": [
+      "agent-memory",
+      "agent-memory-server",
+      "ai-agents",
+      "ai-database",
+      "data-version-control",
+      "data-versioning",
+      "database",
+      "database-version-control",
+      "database-versioning",
+      "decentralized-database",
+      "git",
+      "git-database",
+      "git-for-data",
+      "git-for-databases",
+      "git-sql",
+      "immutable-database",
+      "mariadb",
+      "mysql",
+      "sql",
+      "version-controlled-database"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:MemoriLabs/Memori",
+    "name": "Memori",
+    "owner": "MemoriLabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/MemoriLabs/Memori",
+    "metric": {
+      "stars": 16805
+    },
+    "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "agenticai",
+      "ai",
+      "ai-memory",
+      "claude-code",
+      "enterprise",
+      "hermes",
+      "llm",
+      "long-short-term-memory",
+      "memory",
+      "memory-management",
+      "openclaw",
+      "python",
+      "rag",
+      "state-management",
+      "stateful",
+      "typescript"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:NevaMind-AI/memU",
+    "name": "memU",
+    "owner": "NevaMind-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/NevaMind-AI/memU",
+    "metric": {
+      "stars": 14420
+    },
+    "description": "Personal memory across agents",
+    "topics": [
+      "agent-memory",
+      "claude-skills",
+      "harness",
+      "loop-engineering",
+      "mcp",
+      "memory",
+      "openclaw",
+      "openclaw-skills",
+      "sandbox",
+      "skills"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:semantica-agi/semantica",
+    "name": "semantica",
+    "owner": "semantica-agi",
+    "type": "github-repo",
+    "source_url": "https://github.com/semantica-agi/semantica",
+    "metric": {
+      "stars": 13219
+    },
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-governance",
+      "ai-infrastructure",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "data-engineering",
+      "decision-intelligence",
+      "developer-tools",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "semantic-search"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:EverMind-AI/EverOS",
+    "name": "EverOS",
+    "owner": "EverMind-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/EverMind-AI/EverOS",
+    "metric": {
+      "stars": 13059
+    },
+    "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai",
+      "chats",
+      "clawdbot",
+      "clawdbot-skill",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "memory",
+      "memory-management",
+      "python3",
+      "rag",
+      "skills"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:deeplethe/utopia",
+    "name": "utopia",
+    "owner": "deeplethe",
+    "type": "github-repo",
+    "source_url": "https://github.com/deeplethe/utopia",
+    "metric": {
+      "stars": 8452
+    },
+    "description": "World's first open-source enterprise world model.",
+    "topics": [
+      "agent-memory",
+      "bitemporal",
+      "graphrag",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "pgvector",
+      "postgresql",
+      "rag",
+      "rust",
+      "self-hosted",
+      "semantic-search",
+      "temporal-knowledge-graph",
+      "world-model"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:plastic-labs/honcho",
+    "name": "honcho",
+    "owner": "plastic-labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/plastic-labs/honcho",
+    "metric": {
+      "stars": 7247
+    },
+    "description": " Memory library for building stateful agents",
+    "topics": [
+      "agent-memory",
+      "agentic-rag",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "context-engineering",
+      "continual-learning",
+      "dsh-plugin",
+      "llm",
+      "memory"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:kungfu-systems/kungfu",
+    "name": "kungfu",
+    "owner": "kungfu-systems",
+    "type": "github-repo",
+    "source_url": "https://github.com/kungfu-systems/kungfu",
+    "metric": {
+      "stars": 4520
+    },
+    "description": "Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface.",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "agent-memory",
+      "agent-orchestration"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:FlowElement-xinliuyuansu/m_flow",
+    "name": "m_flow",
+    "owner": "FlowElement-xinliuyuansu",
+    "type": "github-repo",
+    "source_url": "https://github.com/FlowElement-xinliuyuansu/m_flow",
+    "metric": {
+      "stars": 4505
+    },
+    "description": "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.",
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-reasoning",
+      "episodic-memory",
+      "graph-database",
+      "knowledge-graph",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "memory-engine",
+      "python",
+      "rag",
+      "semantic-memory",
+      "vector-search"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:ai-boost/awesome-harness-engineering",
+    "name": "awesome-harness-engineering",
+    "owner": "ai-boost",
+    "type": "github-repo",
+    "source_url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "metric": {
+      "stars": 4373
+    },
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-orchestration",
+      "ai-agent-harness",
+      "ai-agents",
+      "awesome-list",
+      "context-engineering",
+      "harness-engineering",
+      "mcp"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:letta-ai/letta-code",
+    "name": "letta-code",
+    "owner": "letta-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/letta-ai/letta-code",
+    "metric": {
+      "stars": 3377
+    },
+    "description": "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "claude",
+      "codex",
+      "continual-learning",
+      "letta",
+      "memgpt",
+      "stateful-agents"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:neomjs/neo",
+    "name": "neo",
+    "owner": "neomjs",
+    "type": "github-repo",
+    "source_url": "https://github.com/neomjs/neo",
+    "metric": {
+      "stars": 3279
+    },
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-agent",
+      "ai-memory",
+      "context-engineering",
+      "frontend",
+      "frontend-runtime",
+      "graph-rag",
+      "javascript",
+      "json",
+      "knowledge-graph",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "multi-agent-systems",
+      "rag",
+      "scene-graph",
+      "semantic-search",
+      "web-workers"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:zilliztech/memsearch",
+    "name": "memsearch",
+    "owner": "zilliztech",
+    "type": "github-repo",
+    "source_url": "https://github.com/zilliztech/memsearch",
+    "metric": {
+      "stars": 2625
+    },
+    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "embeddings",
+      "hybrid-search",
+      "long-term-memory",
+      "memory",
+      "milvus",
+      "openclaw",
+      "opencode",
+      "rag",
+      "semantic-search",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:kayba-ai/agentic-context-engine",
+    "name": "agentic-context-engine",
+    "owner": "kayba-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/kayba-ai/agentic-context-engine",
+    "metric": {
+      "stars": 2574
+    },
+    "description": "🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai ",
+    "topics": [
+      "agent-learning",
+      "agent-memory",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "machine-learning",
+      "memory",
+      "python"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:Bitterbot-AI/bitterbot-desktop",
+    "name": "bitterbot-desktop",
+    "owner": "Bitterbot-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+    "metric": {
+      "stars": 2459
+    },
+    "description": "Bitterbot - a mesh of agents that turns shared experience into collective capability.",
+    "topics": [
+      "a2a-protocol",
+      "agent-economy",
+      "agent-memory",
+      "ai-agent",
+      "chatbot",
+      "cognitive-architecture",
+      "decentralized-ai",
+      "desktop-app",
+      "dream-engine",
+      "local-first",
+      "multi-channel",
+      "open-source",
+      "p2p",
+      "personal-ai",
+      "skills-marketplace",
+      "typescript",
+      "x402"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:cytostack/openwolf",
+    "name": "openwolf",
+    "owner": "cytostack",
+    "type": "github-repo",
+    "source_url": "https://github.com/cytostack/openwolf",
+    "metric": {
+      "stars": 2348
+    },
+    "description": "Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry.",
+    "topics": [
+      "agent-memory",
+      "anthropic",
+      "claude-ai",
+      "claude-code",
+      "cli",
+      "codex",
+      "context-engineering",
+      "developer-tools",
+      "middleware",
+      "observability",
+      "open-source",
+      "openai",
+      "opencode",
+      "token-optimization"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:moorcheh-ai/memanto",
+    "name": "memanto",
+    "owner": "moorcheh-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/moorcheh-ai/memanto",
+    "metric": {
+      "stars": 2250
+    },
+    "description": "Memory that AI Agents Love!",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "crewai",
+      "langchain",
+      "llm-memory",
+      "long-term-memory",
+      "memanto",
+      "memory",
+      "moorcheh",
+      "rag",
+      "semantic-memory",
+      "stateful-ai"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:cortexkit/magic-context",
+    "name": "magic-context",
+    "owner": "cortexkit",
+    "type": "github-repo",
+    "source_url": "https://github.com/cortexkit/magic-context",
+    "metric": {
+      "stars": 2147
+    },
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.",
+    "topics": [
+      "agent-framework",
+      "agent-memory",
+      "ai",
+      "ai-agents",
+      "ai-context",
+      "ai-memory",
+      "cache-aware",
+      "context-engineering",
+      "context-management",
+      "langchain",
+      "memory",
+      "opencode",
+      "pi-coding-agent"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:doobidoo/mcp-memory-service",
+    "name": "mcp-memory-service",
+    "owner": "doobidoo",
+    "type": "github-repo",
+    "source_url": "https://github.com/doobidoo/mcp-memory-service",
+    "metric": {
+      "stars": 1951
+    },
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "autogen",
+      "claude",
+      "crewai",
+      "knowledge-graph",
+      "langgraph",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "model-context-protocol",
+      "multi-agent",
+      "open-source",
+      "rag",
+      "semantic-search",
+      "sqlite-vec",
+      "vector-database",
+      "vector-storage"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:Prismer-AI/PrismerCloud",
+    "name": "PrismerCloud",
+    "owner": "Prismer-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/Prismer-AI/PrismerCloud",
+    "metric": {
+      "stars": 1558
+    },
+    "description": "Prismer Cloud",
+    "topics": [
+      "agent-communication",
+      "agent-memory",
+      "ai-agents",
+      "claude",
+      "cursor",
+      "docker",
+      "knowledge-base",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "nextjs",
+      "rag",
+      "self-hosted",
+      "typescript",
+      "windsurf"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:Intuition-Lab/personal-model",
+    "name": "personal-model",
+    "owner": "Intuition-Lab",
+    "type": "github-repo",
+    "source_url": "https://github.com/Intuition-Lab/personal-model",
+    "metric": {
+      "stars": 1321
+    },
+    "description": "Build your HUMAN.md.",
+    "topics": [
+      "agent-memory",
+      "local-first",
+      "macos",
+      "mcp",
+      "personal-ai",
+      "personal-model",
+      "privacy",
+      "python"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:IAAR-Shanghai/Awesome-AI-Memory",
+    "name": "Awesome-AI-Memory",
+    "owner": "IAAR-Shanghai",
+    "type": "github-repo",
+    "source_url": "https://github.com/IAAR-Shanghai/Awesome-AI-Memory",
+    "metric": {
+      "stars": 1222
+    },
+    "description": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。",
+    "topics": [
+      "agent-memory",
+      "ai-memory",
+      "ai-memory-system",
+      "awesome-ai-memory",
+      "continual-learning",
+      "llm-memory",
+      "long-term-memory",
+      "memory-augmented-models",
+      "memory-systems",
+      "rag",
+      "reasoning-over-time"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:LycheeMem/LycheeMem",
+    "name": "LycheeMem",
+    "owner": "LycheeMem",
+    "type": "github-repo",
+    "source_url": "https://github.com/LycheeMem/LycheeMem",
+    "metric": {
+      "stars": 1091
+    },
+    "description": "Lightweight Long-Term Memory for LLM Agents.",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-memory",
+      "ai-memory-system",
+      "hermes",
+      "llm-memory",
+      "lychee",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "memory-system",
+      "openclaw",
+      "openclaw-plugin",
+      "skill"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  },
+  {
+    "id": "github:NirDiamant/Agent_Memory_Techniques",
+    "name": "Agent_Memory_Techniques",
+    "owner": "NirDiamant",
+    "type": "github-repo",
+    "source_url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+    "metric": {
+      "stars": 1067
+    },
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "anthropic",
+      "episodic-memory",
+      "generative-ai",
+      "graphiti",
+      "knowledge-graph",
+      "langchain",
+      "letta",
+      "llm",
+      "llm-agents",
+      "llm-memory",
+      "mem0",
+      "memgpt",
+      "openai",
+      "python",
+      "rag",
+      "semantic-memory",
+      "vector-database",
+      "zep"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-memory"
+  }
+]

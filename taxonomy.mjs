@@ -19,9 +19,10 @@ export const departments = [
     name: "프로덕트 매니지먼트",
     categories: [
       { id: "2.1", name: "PRD/요구사항 작성", keywords: ["prd", "product requirement", "spec writing", "requirements doc"] },
-      { id: "2.2", name: "로드맵/우선순위", keywords: ["roadmap", "prioritization", "backlog"] },
+      { id: "2.2", name: "로드맵/우선순위", keywords: ["roadmap", "prioritization", "backlog", "okr"] },
       { id: "2.3", name: "유저 리서치/피드백", keywords: ["user research", "user interview", "feedback analysis", "customer research"] },
-      { id: "2.4", name: "지표/분석 정의", keywords: ["product analytics", "metrics definition", "kpi", "north star metric"] }
+      { id: "2.4", name: "지표/분석 정의", keywords: ["product analytics", "metrics definition", "kpi", "north star metric"] },
+      { id: "2.5", name: "프로덕트 매니지먼트 일반", keywords: ["product management", "product manager"] }
     ]
   },
   {
@@ -41,7 +42,7 @@ export const departments = [
     name: "엔지니어링-프론트엔드",
     categories: [
       { id: "4.1", name: "웹 프론트엔드", keywords: ["react", "vue", "svelte", "next.js", "nextjs", "frontend", "tailwind"] },
-      { id: "4.2", name: "모바일", keywords: ["react native", "flutter", "ios development", "android development", "swiftui"] },
+      { id: "4.2", name: "모바일", keywords: ["react native", "flutter", "ios development", "android development", "swiftui", "mobile app", "ios app", "android app"] },
       { id: "4.3", name: "프론트엔드 성능", keywords: ["web vitals", "frontend performance", "bundle size", "lighthouse"] }
     ]
   },
@@ -59,7 +60,7 @@ export const departments = [
     id: "6",
     name: "엔지니어링-인프라/DevOps",
     categories: [
-      { id: "6.1", name: "CI/CD", keywords: ["ci/cd", "github actions", "continuous deployment", "pipeline"] },
+      { id: "6.1", name: "CI/CD", keywords: ["ci/cd", "github actions", "continuous deployment", "continuous integration", "deployment pipeline", "build pipeline", "release pipeline", "gitlab ci", "jenkins"] },
       { id: "6.2", name: "IaC", keywords: ["terraform", "pulumi", "infrastructure as code", "cloudformation", "iac"] },
       { id: "6.3", name: "옵저버빌리티/모니터링", keywords: ["observability", "monitoring", "logging", "tracing", "grafana"] },
       { id: "6.4", name: "FinOps/비용최적화", keywords: ["finops", "cost optimization", "cloud cost"] }
@@ -71,7 +72,7 @@ export const departments = [
     categories: [
       { id: "7.1", name: "데이터 파이프라인/ETL", keywords: ["etl", "data pipeline", "data engineering"] },
       { id: "7.2", name: "모델 학습", keywords: ["model training", "fine-tuning", "machine learning", "pytorch"] },
-      { id: "7.3", name: "RAG/벡터검색", keywords: ["rag", "retrieval augmented generation", "vector search", "embeddings", "vector database"] },
+      { id: "7.3", name: "RAG/벡터검색", keywords: ["rag", "retrieval augmented generation", "vector search", "embeddings", "vector database", "hybrid search", "embedded retrieval", "search engine api"] },
       { id: "7.4", name: "에이전트 오케스트레이션/프롬프트엔지니어링", keywords: ["agent orchestration", "prompt engineering", "multi-agent", "llm agent", "ai agent"] },
       { id: "7.5", name: "평가/벤치마크", keywords: ["evaluation", "benchmark", "llm eval", "promptfoo"] }
     ]
@@ -102,7 +103,7 @@ export const departments = [
     id: "10",
     name: "세일즈/매출",
     categories: [
-      { id: "10.1", name: "세일즈 아웃리치", keywords: ["sales outreach", "cold email", "lead generation"] },
+      { id: "10.1", name: "세일즈 아웃리치", keywords: ["sales outreach", "cold email", "lead generation", "sales automation", "crm"] },
       { id: "10.2", name: "결제/빌링 연동", keywords: ["stripe", "billing", "payment integration", "subscription billing"] },
       { id: "10.3", name: "고객지원 자동화", keywords: ["customer support", "helpdesk", "support automation", "chatbot support"] }
     ]
@@ -112,8 +113,8 @@ export const departments = [
     name: "운영/거버넌스",
     categories: [
       { id: "11.1", name: "프로젝트 관리", keywords: ["project management", "task tracking", "jira", "linear"] },
-      { id: "11.2", name: "문서화", keywords: ["documentation generation", "docs generation", "technical writing"] },
-      { id: "11.3", name: "법무/컴플라이언스", keywords: ["compliance", "legal document", "terms of service", "gdpr"] },
+      { id: "11.2", name: "문서화", keywords: ["documentation generation", "docs generation", "technical writing", "documentation generator", "documentation", "docs", "adr", "readme"] },
+      { id: "11.3", name: "법무/컴플라이언스", keywords: ["compliance", "legal document", "terms of service", "gdpr", "legal contract", "contract review", "contract"] },
       { id: "11.4", name: "채용/HR", keywords: ["hiring", "job description", "recruiting", "hr automation"] }
     ]
   },
@@ -121,9 +122,9 @@ export const departments = [
     id: "12",
     name: "메타/효율화 레이어",
     categories: [
-      { id: "12.1", name: "토큰 절약/프롬프트 압축", keywords: ["token efficient", "prompt compression", "context compression", "yagni", "ponytail", "few token", "reduce token", "token consumption", "less code", "meta-prompting", "context engineering"] },
+      { id: "12.1", name: "토큰 절약/프롬프트 압축", keywords: ["token efficient", "prompt compression", "context compression", "yagni", "ponytail", "few token", "reduce token", "token consumption", "less code", "meta-prompting"] },
       { id: "12.2", name: "에이전트 라우팅 메타에이전트", keywords: ["agent router", "orchestrator", "swarm", "agent coordination"] },
-      { id: "12.3", name: "메모리/컨텍스트 관리", keywords: ["agent memory", "context management", "long-term memory", "rag memory", "self-correcting memory", "remembers"] },
+      { id: "12.3", name: "메모리/컨텍스트 관리", keywords: ["agent memory", "context management", "long-term memory", "rag memory", "self-correcting memory", "remembers", "context engineering", "prompt compression"] },
       { id: "12.4", name: "멀티에이전트 조율 프레임워크", keywords: ["langchain", "autogen", "crewai", "multi-agent framework"] }
     ]
   },
@@ -135,7 +136,8 @@ export const departments = [
       { id: "13.2", name: "범용 코딩 에이전트/하네스", keywords: ["agent harness", "coding agent from scratch", "build a coding agent", "agent builder", "terminal agent", "ai gateway", "agent organization", "spec-driven", "vibecode", "vibe coding"] },
       { id: "13.3", name: "에이전트 안전/거버넌스", keywords: ["safety net", "guardrail", "destructive git", "pre-execution guard"] },
       { id: "13.4", name: "IDE 규칙/컨벤션", keywords: ["cursor rules", ".mdc", "coding convention", "output-style", "agents.md"] },
-      { id: "13.5", name: "세션/워크플로 유틸리티", keywords: ["session manager", "resume any ai coding session", "cross-model", "terminal session", "workflow for ai coding"] }
+      { id: "13.5", name: "세션/워크플로 유틸리티", keywords: ["session manager", "resume any ai coding session", "cross-model", "terminal session", "workflow for ai coding"] },
+      { id: "13.6", name: "MCP 서버/툴 연동", keywords: ["mcp server", "model context protocol", "mcp toolkit", "mcp for"] }
     ]
   }
 ];

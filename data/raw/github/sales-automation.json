@@ -1,0 +1,807 @@
+[
+  {
+    "id": "github:espocrm/espocrm",
+    "name": "espocrm",
+    "owner": "espocrm",
+    "type": "github-repo",
+    "source_url": "https://github.com/espocrm/espocrm",
+    "metric": {
+      "stars": 3371
+    },
+    "description": "EspoCRM – Open Source CRM Application",
+    "topics": [
+      "calendar",
+      "contacts",
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "customer-portal",
+      "customer-support",
+      "customizable",
+      "documents",
+      "email-marketing",
+      "kanban",
+      "leads",
+      "open-source",
+      "php",
+      "platform",
+      "sales-automation",
+      "single-page-application",
+      "support"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:melgarafael/DeskcommCRM",
+    "name": "DeskcommCRM",
+    "owner": "melgarafael",
+    "type": "github-repo",
+    "source_url": "https://github.com/melgarafael/DeskcommCRM",
+    "metric": {
+      "stars": 3229
+    },
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chatbot",
+      "crm",
+      "customer-support",
+      "ecommerce",
+      "lgpd",
+      "mcp",
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "open-source",
+      "rag",
+      "sales-automation",
+      "self-hosted",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "whatsapp-api"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:kaymen99/sales-outreach-automation-langgraph",
+    "name": "sales-outreach-automation-langgraph",
+    "owner": "kaymen99",
+    "type": "github-repo",
+    "source_url": "https://github.com/kaymen99/sales-outreach-automation-langgraph",
+    "metric": {
+      "stars": 388
+    },
+    "description": "Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)",
+    "topics": [
+      "ai-agents",
+      "ai-automation",
+      "automation",
+      "crm-connections",
+      "hubspot",
+      "langchain",
+      "langgraph",
+      "lead-generation",
+      "leads-management",
+      "sales-automation"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Othmane-Khadri/YALC-the-GTM-operating-system",
+    "name": "YALC-the-GTM-operating-system",
+    "owner": "Othmane-Khadri",
+    "type": "github-repo",
+    "source_url": "https://github.com/Othmane-Khadri/YALC-the-GTM-operating-system",
+    "metric": {
+      "stars": 306
+    },
+    "description": "YALC 1.0, the open-source Clay alternative. MIT, CLI-first, self-hosted, runs in Claude Code. Yalc today is an intelligent orchestration layer that runs pre configured GTM agents on your existing tech stack (CRM, sequencer and call recorder) → yalc.ai",
+    "topics": [
+      "ai-native",
+      "clay-alternative",
+      "cli",
+      "gtm",
+      "lead-generation",
+      "open-source",
+      "sales-automation",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:OneWave-AI/claude-skills",
+    "name": "claude-skills",
+    "owner": "OneWave-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/OneWave-AI/claude-skills",
+    "metric": {
+      "stars": 295
+    },
+    "description": "200+ production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "sales-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:nando0x/ProspectOS",
+    "name": "ProspectOS",
+    "owner": "nando0x",
+    "type": "github-repo",
+    "source_url": "https://github.com/nando0x/ProspectOS",
+    "metric": {
+      "stars": 221
+    },
+    "description": "CRM de prospecção de leads com scraping de Google Maps + Instagram e mensagens geradas por IA.",
+    "topics": [
+      "crm",
+      "flask",
+      "google-maps",
+      "instagram",
+      "python",
+      "react",
+      "sales-automation",
+      "typescript",
+      "web-scraping"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:iPythoning/b2b-sdr-agent-template",
+    "name": "b2b-sdr-agent-template",
+    "owner": "iPythoning",
+    "type": "github-repo",
+    "source_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+    "metric": {
+      "stars": 184
+    },
+    "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
+    "topics": [
+      "ai-agent",
+      "ai-sales",
+      "ai-sdr",
+      "b2b",
+      "b2b-sales",
+      "cold-email",
+      "crm",
+      "export-business",
+      "lead-generation",
+      "openclaw",
+      "sales-automation",
+      "telegram-bot",
+      "whatsapp-bot"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:toofast1/awesome-ai-lead-generation",
+    "name": "awesome-ai-lead-generation",
+    "owner": "toofast1",
+    "type": "github-repo",
+    "source_url": "https://github.com/toofast1/awesome-ai-lead-generation",
+    "metric": {
+      "stars": 131
+    },
+    "description": "A curated list of AI tools for finding customers, social listening, and automated outreach. The modern growth stack.",
+    "topics": [
+      "ai-marketing",
+      "awesome",
+      "awesome-ai-lead-generation",
+      "b2b-sales",
+      "cold-email",
+      "growth-hacking",
+      "lead-generation",
+      "marketing-automation",
+      "sales-automation",
+      "social-listening"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:kaymen99/AI-Sales-agent",
+    "name": "AI-Sales-agent",
+    "owner": "kaymen99",
+    "type": "github-repo",
+    "source_url": "https://github.com/kaymen99/AI-Sales-agent",
+    "metric": {
+      "stars": 95
+    },
+    "description": "Sales AI agent that talks with your customers, recommend products, book consultations, and process Stripe payments",
+    "topics": [
+      "ai-agents",
+      "calendly",
+      "groq",
+      "litellm",
+      "llama3",
+      "rag",
+      "sales-agent",
+      "sales-automation",
+      "website-chatbot"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Awaisali36/50k-lead-generation-system",
+    "name": "50k-lead-generation-system",
+    "owner": "Awaisali36",
+    "type": "github-repo",
+    "source_url": "https://github.com/Awaisali36/50k-lead-generation-system",
+    "metric": {
+      "stars": 93
+    },
+    "description": "🎯 Complete B2B lead generation system combining Apollo.io, Google Search, LinkedIn scraping, and AI qualification. Generate, enrich, and score thousands of leads automatically with n8n, Airtable, and Google Gemini.",
+    "topics": [
+      "ai-qualification",
+      "airtable",
+      "apify",
+      "apollo-io",
+      "b2b-sales",
+      "crm-automation",
+      "google-gemini",
+      "lead-enrichment",
+      "lead-generation",
+      "linkedin-scraping",
+      "n8n-workflow",
+      "prospecting",
+      "sales-automation",
+      "serper-api",
+      "tavily"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:gtm-api/linkedin-mcp",
+    "name": "linkedin-mcp",
+    "owner": "gtm-api",
+    "type": "github-repo",
+    "source_url": "https://github.com/gtm-api/linkedin-mcp",
+    "metric": {
+      "stars": 90
+    },
+    "description": "Managed LinkedIn MCP server for AI agents: search, connect, message & enrich on LinkedIn from Claude, ChatGPT or Cursor. Self-reported 20,000+ accounts at <1% ban.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-sdr",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "gtm",
+      "linkedin",
+      "linkedin-api",
+      "linkedin-automation",
+      "mcp",
+      "model-context-protocol",
+      "sales-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:nickvidal/mailsheet",
+    "name": "mailsheet",
+    "owner": "nickvidal",
+    "type": "github-repo",
+    "source_url": "https://github.com/nickvidal/mailsheet",
+    "metric": {
+      "stars": 70
+    },
+    "description": "Send emails from Google Sheets",
+    "topics": [
+      "gmail",
+      "google-docs",
+      "google-sheets",
+      "mail-merge",
+      "marketing-automation",
+      "sales-automation"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:keinsaasforever/gtm-pipeline-skills",
+    "name": "gtm-pipeline-skills",
+    "owner": "keinsaasforever",
+    "type": "github-repo",
+    "source_url": "https://github.com/keinsaasforever/gtm-pipeline-skills",
+    "metric": {
+      "stars": 69
+    },
+    "description": "B2B Sales Claude Skills",
+    "topics": [
+      "gtm-engineering",
+      "lead-generation",
+      "research-automation",
+      "sales",
+      "sales-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Linked-API/linkedapi-mcp",
+    "name": "linkedapi-mcp",
+    "owner": "Linked-API",
+    "type": "github-repo",
+    "source_url": "https://github.com/Linked-API/linkedapi-mcp",
+    "metric": {
+      "stars": 67
+    },
+    "description": "MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data.",
+    "topics": [
+      "b2b-marketing",
+      "growth-hacking",
+      "linkedin",
+      "linkedin-automation",
+      "linkedin-data",
+      "mcp",
+      "mcp-server",
+      "sales-automation",
+      "social-selling"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Awaisali36/Outbound-Real-State-Voice-AI-Agent-",
+    "name": "Outbound-Real-State-Voice-AI-Agent-",
+    "owner": "Awaisali36",
+    "type": "github-repo",
+    "source_url": "https://github.com/Awaisali36/Outbound-Real-State-Voice-AI-Agent-",
+    "metric": {
+      "stars": 64
+    },
+    "description": "📞 Automated voice AI calling system using VAPI, n8n, and Airtable. Calls leads automatically, conducts natural conversations, and books appointments via Calendly. Multi-channel follow-up with email and WhatsApp.",
+    "topics": [
+      "ai-phone-calls",
+      "airtable-crm",
+      "appointment-booking",
+      "calendly-integration",
+      "conversational-ai",
+      "lead-generation",
+      "lead-qualification",
+      "n8n-workflow",
+      "outbound-calling",
+      "sales-automation",
+      "twilio-whatsapp",
+      "vapi",
+      "voice-ai",
+      "voice-bot"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:BraaMohammed/bricks",
+    "name": "bricks",
+    "owner": "BraaMohammed",
+    "type": "github-repo",
+    "source_url": "https://github.com/BraaMohammed/bricks",
+    "metric": {
+      "stars": 64
+    },
+    "description": "Bricks is the open-source, fully local alternative to Clay.com. It combines AI agents, advanced web scraping, and Puppeteer automation to turn raw CSV data into actionable business intelligence — without subscriptions, vendor lock-in, or sending your data to the cloud.",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "b2b",
+      "browser-automation",
+      "clay",
+      "cold-outreach",
+      "data-enrichment",
+      "lead-generation",
+      "local-first",
+      "open-source",
+      "outreach",
+      "puppeteer",
+      "react",
+      "sales",
+      "sales-automation",
+      "self-hosted",
+      "web-scraping"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:markster/markster-os",
+    "name": "markster-os",
+    "owner": "markster",
+    "type": "github-repo",
+    "source_url": "https://github.com/markster/markster-os",
+    "metric": {
+      "stars": 64
+    },
+    "description": "B2B sales and marketing OS (aka GTM) inside Claude, GPT, Gemini, or Openclaw. Cold email to close. No dashboard. No SaaS.",
+    "topics": [
+      "ai-agent",
+      "b2b",
+      "claude",
+      "cold-email",
+      "gtm",
+      "llm",
+      "marketing",
+      "open-source",
+      "outreach",
+      "pipeline",
+      "playbook",
+      "revenue-operations",
+      "sales",
+      "sales-automation",
+      "sales-playbook"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Linked-API/linkedin-skills",
+    "name": "linkedin-skills",
+    "owner": "Linked-API",
+    "type": "github-repo",
+    "source_url": "https://github.com/Linked-API/linkedin-skills",
+    "metric": {
+      "stars": 61
+    },
+    "description": "LinkedIn automation skills for AI agents – sales, social selling, data extraction, and more.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "linkedin",
+      "openclaw",
+      "openclaw-skills",
+      "sales-automation",
+      "skills",
+      "skillsmp"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:KlementMultiverse/ai-crm-agents",
+    "name": "ai-crm-agents",
+    "owner": "KlementMultiverse",
+    "type": "github-repo",
+    "source_url": "https://github.com/KlementMultiverse/ai-crm-agents",
+    "metric": {
+      "stars": 60
+    },
+    "description": "Production-ready AI-powered CRM with 6 autonomous agents for lead qualification, email intelligence, sales pipeline, customer success, meeting scheduling, and analytics",
+    "topics": [
+      "ai",
+      "analytics",
+      "autonomous-agents",
+      "claude",
+      "crm",
+      "customer-success",
+      "email-intelligence",
+      "fastapi",
+      "langchain",
+      "lead-qualification",
+      "multi-agent",
+      "openai",
+      "postgresql",
+      "python",
+      "sales-automation"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:getaero-io/gtm-eng-skills",
+    "name": "gtm-eng-skills",
+    "owner": "getaero-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/getaero-io/gtm-eng-skills",
+    "metric": {
+      "stars": 60
+    },
+    "description": "10 AI agent skills for Claude Code — waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.",
+    "topics": [
+      "ai-agent",
+      "ai-skills",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "deepline",
+      "email-enrichment",
+      "enrichment",
+      "go-to-market",
+      "gtm",
+      "lead-enrichment",
+      "lead-generation",
+      "mcp",
+      "outbound",
+      "prospecting",
+      "sales",
+      "sales-automation",
+      "waterfall-enrichment"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Linked-API/linkedin-cli",
+    "name": "linkedin-cli",
+    "owner": "Linked-API",
+    "type": "github-repo",
+    "source_url": "https://github.com/Linked-API/linkedin-cli",
+    "metric": {
+      "stars": 59
+    },
+    "description": "AI-agent-friendly CLI for controlling LinkedIn accounts and retrieving real-time data.",
+    "topics": [
+      "agent-cli",
+      "ai-agents",
+      "ai-cli",
+      "cli",
+      "lead-generation",
+      "linkedin",
+      "linkedin-messaging",
+      "openclaw",
+      "sales-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:kaymen99/leads-reactivation-with-AI-Voice-Agent",
+    "name": "leads-reactivation-with-AI-Voice-Agent",
+    "owner": "kaymen99",
+    "type": "github-repo",
+    "source_url": "https://github.com/kaymen99/leads-reactivation-with-AI-Voice-Agent",
+    "metric": {
+      "stars": 56
+    },
+    "description": "Voice AI agent for reactivating cold leads through personalized calls, assessing their interest with AI agents, and syncing insights directly to your CRMs.",
+    "topics": [
+      "ai-agent",
+      "ai-voice",
+      "airtable-api",
+      "automation",
+      "crm-connections",
+      "hubspot-crm",
+      "leads-generation",
+      "retellai",
+      "sales-automation",
+      "vapi-ai",
+      "voice-agent"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant",
+    "name": "Autonomous-Sales-Inbox-and-CRM-Assistant",
+    "owner": "jacob-dietle",
+    "type": "github-repo",
+    "source_url": "https://github.com/jacob-dietle/Autonomous-Sales-Inbox-and-CRM-Assistant",
+    "metric": {
+      "stars": 55
+    },
+    "description": "This app leverages generative AI to intelligently manage your sales inbox and CRM, auto-draft replies using your sales playbook & company branding, and more.",
+    "topics": [
+      "generative-ai",
+      "gmail",
+      "growth-engineering",
+      "hubspot",
+      "sales-automation"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:yerdaulet-damir/langgraph-sales-agent",
+    "name": "langgraph-sales-agent",
+    "owner": "yerdaulet-damir",
+    "type": "github-repo",
+    "source_url": "https://github.com/yerdaulet-damir/langgraph-sales-agent",
+    "metric": {
+      "stars": 47
+    },
+    "description": "Multi-tenant LangGraph runtime that isolates each business's agent, catalog, tools and LLM across Telegram, Instagram, WhatsApp and web.",
+    "topics": [
+      "langchain",
+      "langgraph",
+      "langgraph-agents",
+      "langgraph-template",
+      "sales-agent",
+      "sales-automation",
+      "starter-kit"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:iPythoning/b2b-sdr-hermes-skill",
+    "name": "b2b-sdr-hermes-skill",
+    "owner": "iPythoning",
+    "type": "github-repo",
+    "source_url": "https://github.com/iPythoning/b2b-sdr-hermes-skill",
+    "metric": {
+      "stars": 43
+    },
+    "description": "Autonomous AI SDR skill for Hermes Agent — finds buyers, qualifies leads, sends outreach, manages CRM across WhatsApp/Email/Telegram for B2B export businesses",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "b2b",
+      "crm",
+      "hermes-agent",
+      "hermes-skill",
+      "lead-generation",
+      "sales-automation",
+      "sdr",
+      "skills-sh",
+      "whatsapp"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:buildingopen/opengtm",
+    "name": "opengtm",
+    "owner": "buildingopen",
+    "type": "github-repo",
+    "source_url": "https://github.com/buildingopen/opengtm",
+    "metric": {
+      "stars": 41
+    },
+    "description": "Open source alternative to Clay, Apollo, Semrush. AI lead generation, ICP scoring, AEO health check, outreach automation. Free with Gemini API.",
+    "topics": [
+      "aeo",
+      "ai-sales-tools",
+      "ai-seo",
+      "answer-engine-optimization",
+      "apollo-alternative",
+      "b2b-prospecting",
+      "claude-code",
+      "clay-alternative",
+      "cold-email",
+      "cold-outreach",
+      "gemini",
+      "generative-engine-optimization",
+      "gtm-automation",
+      "icp-scoring",
+      "keyword-research",
+      "lead-generation",
+      "outreach-automation",
+      "python",
+      "sales-automation",
+      "seo"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:vanshyadav1408/Omentir",
+    "name": "Omentir",
+    "owner": "vanshyadav1408",
+    "type": "github-repo",
+    "source_url": "https://github.com/vanshyadav1408/Omentir",
+    "metric": {
+      "stars": 41
+    },
+    "description": "Open Source HeyReach & Gojiberry alternative",
+    "topics": [
+      "ai",
+      "firebase",
+      "gemini",
+      "lead-generation",
+      "linkedin",
+      "nextjs",
+      "outreach",
+      "sales",
+      "sales-automation",
+      "self-hosted"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:browser-use/contact-use",
+    "name": "contact-use",
+    "owner": "browser-use",
+    "type": "github-repo",
+    "source_url": "https://github.com/browser-use/contact-use",
+    "metric": {
+      "stars": 37
+    },
+    "description": "✉️ Use the power of browser-use to contact any person or organization... by any means necessary",
+    "topics": [
+      "ai",
+      "browser-agent",
+      "browser-use",
+      "computer-use",
+      "contact-info-scraper",
+      "operator",
+      "sales",
+      "sales-automation",
+      "scraping",
+      "scraping-bot"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:Hainrixz/whatsapp-closer-agentkit",
+    "name": "whatsapp-closer-agentkit",
+    "owner": "Hainrixz",
+    "type": "github-repo",
+    "source_url": "https://github.com/Hainrixz/whatsapp-closer-agentkit",
+    "metric": {
+      "stars": 33
+    },
+    "description": "Repo blueprint para Claude Code: no trae la app, trae las instrucciones para construirla en tu máquina paso a paso. Un agente que atiende cada chat de WhatsApp como setter y closer: califica, responde la objeción, agenda y escribe el CRM. 16 archivos por fase, 30 versiones fijadas, compuerta de 23 chequeos. En español.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "anthropic",
+      "blueprint",
+      "chatbot",
+      "claude-code",
+      "crm",
+      "fastapi",
+      "google-calendar",
+      "lead-qualification",
+      "meta-cloud-api",
+      "python",
+      "railway",
+      "sales",
+      "sales-automation",
+      "spanish",
+      "whatsapp",
+      "whatsapp-bot",
+      "whatsapp-cloud-api",
+      "whisper"
+    ],
+    "license": "MIT",
+    "seed_topic": "sales-automation"
+  },
+  {
+    "id": "github:IsaacBell/leads-db",
+    "name": "leads-db",
+    "owner": "IsaacBell",
+    "type": "github-repo",
+    "source_url": "https://github.com/IsaacBell/leads-db",
+    "metric": {
+      "stars": 33
+    },
+    "description": "An AI-powered B2B lead generation system. Private preview available",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "b2b",
+      "flask",
+      "lead-generation",
+      "nextjs",
+      "python",
+      "sales-automation",
+      "typescript",
+      "web-scraping"
+    ],
+    "license": null,
+    "seed_topic": "sales-automation"
+  }
+]

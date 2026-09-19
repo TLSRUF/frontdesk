@@ -30,7 +30,20 @@ const KEYWORDS = [
   "email marketing",
   "billing stripe",
   "project management",
-  "documentation"
+  "documentation",
+  "roadmap",
+  "user research",
+  "okr",
+  "sales outreach",
+  "crm",
+  "customer support",
+  "hiring",
+  "job description",
+  "legal contract",
+  "compliance",
+  "agent memory",
+  "context engineering",
+  "mobile app"
 ];
 
 const ANSI_RE = /\u001b\[[0-9;]*m/g;

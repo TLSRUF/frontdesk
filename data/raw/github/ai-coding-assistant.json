@@ -30,7 +30,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/chaitin/MonkeyCode",
     "metric": {
-      "stars": 4729
+      "stars": 4731
     },
     "description": "AI coding platform for teams",
     "topics": [
@@ -56,7 +56,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/pacifio/atlas",
     "metric": {
-      "stars": 4721
+      "stars": 4722
     },
     "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
     "topics": [
@@ -136,7 +136,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ai-for-developers/awesome-ai-coding-tools",
     "metric": {
-      "stars": 2081
+      "stars": 2082
     },
     "description": "A curated list of AI-powered coding tools",
     "topics": [
@@ -203,7 +203,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/yigitkonur/cli-continues",
     "metric": {
-      "stars": 1519
+      "stars": 1520
     },
     "description": "resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor",
     "topics": [
@@ -226,7 +226,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/awslabs/cli-agent-orchestrator",
     "metric": {
-      "stars": 1315
+      "stars": 1316
     },
     "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
     "topics": [
@@ -353,7 +353,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/asheshgoplani/agent-deck",
     "metric": {
-      "stars": 920
+      "stars": 921
     },
     "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
     "topics": [
@@ -489,7 +489,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/zhinkgit/embeddedskills",
     "metric": {
-      "stars": 686
+      "stars": 687
     },
     "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
     "topics": [
@@ -523,7 +523,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ningbainb/deepseek-harness-desktop",
     "metric": {
-      "stars": 621
+      "stars": 624
     },
     "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
     "topics": [

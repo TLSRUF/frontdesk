@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:anthropics/claude-for-legal@hiring-review",
+    "name": "anthropics/claude-for-legal@hiring-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/claude-for-legal/hiring-review",
+    "metric": {
+      "installs": 547
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/claude-for-legal@hiring-review",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:borghei/claude-skills@talent-acquisition",
+    "name": "borghei/claude-skills@talent-acquisition",
+    "type": "skill",
+    "source_url": "https://skills.sh/borghei/claude-skills/talent-acquisition",
+    "metric": {
+      "installs": 340
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add borghei/claude-skills@talent-acquisition",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:apidojo-io/apidojo-skills@tracking-hiring-signals-from-company-tweets",
+    "name": "apidojo-io/apidojo-skills@tracking-hiring-signals-from-company-tweets",
+    "type": "skill",
+    "source_url": "https://skills.sh/apidojo-io/apidojo-skills/tracking-hiring-signals-from-company-tweets",
+    "metric": {
+      "installs": 303
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add apidojo-io/apidojo-skills@tracking-hiring-signals-from-company-tweets",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:mbfinotti/sales-skills@sales-hiring",
+    "name": "mbfinotti/sales-skills@sales-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/sales-skills/sales-hiring",
+    "metric": {
+      "installs": 297
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mbfinotti/sales-skills@sales-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:mbfinotti/revops-skills@revops-hiring",
+    "name": "mbfinotti/revops-skills@revops-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/revops-skills/revops-hiring",
+    "metric": {
+      "installs": 287
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mbfinotti/revops-skills@revops-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:samber/developer-relations-skills@devrel-hiring",
+    "name": "samber/developer-relations-skills@devrel-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/developer-relations-skills/devrel-hiring",
+    "metric": {
+      "installs": 277
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/developer-relations-skills@devrel-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:mbfinotti/partnerships-skills@partnerships-hiring",
+    "name": "mbfinotti/partnerships-skills@partnerships-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/partnerships-skills/partnerships-hiring",
+    "metric": {
+      "installs": 253
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mbfinotti/partnerships-skills@partnerships-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:mbfinotti/advertising-skills@advertising-hiring",
+    "name": "mbfinotti/advertising-skills@advertising-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/advertising-skills/advertising-hiring",
+    "metric": {
+      "installs": 234
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mbfinotti/advertising-skills@advertising-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@hiring-product-talent",
+    "name": "refoundai/lenny-skills@hiring-product-talent",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/hiring-product-talent",
+    "metric": {
+      "installs": 230
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@hiring-product-talent",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:onewave-ai/claude-skills@hiring-scorecard",
+    "name": "onewave-ai/claude-skills@hiring-scorecard",
+    "type": "skill",
+    "source_url": "https://skills.sh/onewave-ai/claude-skills/hiring-scorecard",
+    "metric": {
+      "installs": 219
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add onewave-ai/claude-skills@hiring-scorecard",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:samber/dev-event-organizer-skills@dev-event-hiring",
+    "name": "samber/dev-event-organizer-skills@dev-event-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/dev-event-organizer-skills/dev-event-hiring",
+    "metric": {
+      "installs": 180
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/dev-event-organizer-skills@dev-event-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:pluginagentmarketplace/custom-plugin-engineering-manager@hiring-recruitment",
+    "name": "pluginagentmarketplace/custom-plugin-engineering-manager@hiring-recruitment",
+    "type": "skill",
+    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-engineering-manager/hiring-recruitment",
+    "metric": {
+      "installs": 160
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pluginagentmarketplace/custom-plugin-engineering-manager@hiring-recruitment",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:samber/developer-platform-skills@developer-platform-hiring",
+    "name": "samber/developer-platform-skills@developer-platform-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/developer-platform-skills/developer-platform-hiring",
+    "metric": {
+      "installs": 148
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/developer-platform-skills@developer-platform-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:manager-dot-dev/manager-skills@hiring",
+    "name": "manager-dot-dev/manager-skills@hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/manager-dot-dev/manager-skills/hiring",
+    "metric": {
+      "installs": 144
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add manager-dot-dev/manager-skills@hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:shipshitdev/skills@early-hiring-advisor",
+    "name": "shipshitdev/skills@early-hiring-advisor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shipshitdev/skills/early-hiring-advisor",
+    "metric": {
+      "installs": 126
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shipshitdev/skills@early-hiring-advisor",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:curiositech/some_claude_skills@hiring-manager-deep-dive",
+    "name": "curiositech/some_claude_skills@hiring-manager-deep-dive",
+    "type": "skill",
+    "source_url": "https://skills.sh/curiositech/some_claude_skills/hiring-manager-deep-dive",
+    "metric": {
+      "installs": 107
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add curiositech/some_claude_skills@hiring-manager-deep-dive",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:onewave-ai/claude-skills@cowork-hiring-screener",
+    "name": "onewave-ai/claude-skills@cowork-hiring-screener",
+    "type": "skill",
+    "source_url": "https://skills.sh/onewave-ai/claude-skills/cowork-hiring-screener",
+    "metric": {
+      "installs": 61
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add onewave-ai/claude-skills@cowork-hiring-screener",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:kylezantos/soleio-design-hiring@soleio-design-hiring",
+    "name": "kylezantos/soleio-design-hiring@soleio-design-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/kylezantos/soleio-design-hiring/soleio-design-hiring",
+    "metric": {
+      "installs": 57
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kylezantos/soleio-design-hiring@soleio-design-hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:thecraighewitt/skills@hiring",
+    "name": "thecraighewitt/skills@hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/thecraighewitt/skills/hiring",
+    "metric": {
+      "installs": 35
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add thecraighewitt/skills@hiring",
+    "seed_keyword": "hiring"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@hiring-screener",
+    "name": "anthropics/knowledge-work-plugins@hiring-screener",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/hiring-screener",
+    "metric": {
+      "installs": 30
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@hiring-screener",
+    "seed_keyword": "hiring"
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "id": "github:poteto/hiring-without-whiteboards",
+    "name": "hiring-without-whiteboards",
+    "owner": "poteto",
+    "type": "github-repo",
+    "source_url": "https://github.com/poteto/hiring-without-whiteboards",
+    "metric": {
+      "stars": 52148
+    },
+    "description": "⭐️  Companies that don't have a broken hiring process",
+    "topics": [
+      "airtable",
+      "hiring",
+      "hiring-without-whiteboards",
+      "interview",
+      "jobs",
+      "tech",
+      "whiteboard"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:kuchin/awesome-cto",
+    "name": "awesome-cto",
+    "owner": "kuchin",
+    "type": "github-repo",
+    "source_url": "https://github.com/kuchin/awesome-cto",
+    "metric": {
+      "stars": 35476
+    },
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "topics": [
+      "architecture",
+      "awesome",
+      "awesome-list",
+      "cto",
+      "decision-making",
+      "engineering-management",
+      "hiring",
+      "interviewing",
+      "leadership",
+      "management",
+      "principles",
+      "roadmap",
+      "software-engineering",
+      "startups"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:speedyapply/2027-SWE-College-Jobs",
+    "name": "2027-SWE-College-Jobs",
+    "owner": "speedyapply",
+    "type": "github-repo",
+    "source_url": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+    "metric": {
+      "stars": 9293
+    },
+    "description": "2027 SWE internship & new graduate job list updated daily",
+    "topics": [
+      "applications",
+      "college",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobboard",
+      "jobs",
+      "junior",
+      "newgrad",
+      "remote-job",
+      "remote-jobs",
+      "software-engineering",
+      "software-internships",
+      "swe",
+      "swe-internships",
+      "university"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:backend-br/vagas",
+    "name": "vagas",
+    "owner": "backend-br",
+    "type": "github-repo",
+    "source_url": "https://github.com/backend-br/vagas",
+    "metric": {
+      "stars": 7976
+    },
+    "description": "Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.",
+    "topics": [
+      "backend",
+      "backend-br",
+      "backend-jobs",
+      "brasil",
+      "emprego",
+      "empregos",
+      "hiring",
+      "jobs",
+      "remote-jobs",
+      "trabalho-remoto",
+      "vagas",
+      "vagas-para-desenvolvedores"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:speedyapply/2027-AI-College-Jobs",
+    "name": "2027-AI-College-Jobs",
+    "owner": "speedyapply",
+    "type": "github-repo",
+    "source_url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+    "metric": {
+      "stars": 6411
+    },
+    "description": "2027 AI/ML internship & new graduate job list updated daily",
+    "topics": [
+      "ai",
+      "applications",
+      "artificial-intelligence",
+      "college",
+      "data",
+      "data-science",
+      "fulltime",
+      "hiring",
+      "intern",
+      "internship",
+      "internships",
+      "interviews",
+      "jobbboard",
+      "jobs",
+      "junior",
+      "machine-learning",
+      "ml",
+      "newgrad",
+      "quant",
+      "university"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:zapplyjobs/Internships-2027",
+    "name": "Internships-2027",
+    "owner": "zapplyjobs",
+    "type": "github-repo",
+    "source_url": "https://github.com/zapplyjobs/Internships-2027",
+    "metric": {
+      "stars": 5184
+    },
+    "description": "2027 tech & software engineering internships for students — new grad US roles, summer & full-year",
+    "topics": [
+      "2027",
+      "applications",
+      "college",
+      "early-career",
+      "hiring",
+      "internship",
+      "internships",
+      "interviews",
+      "job-search",
+      "jobboard",
+      "jobs",
+      "jobs-2027",
+      "junior",
+      "new-grad-jobs",
+      "newgrad",
+      "remote-job",
+      "summer-internship",
+      "swe",
+      "tech-internship",
+      "university"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:AndrewStetsenko/tech-jobs-with-relocation",
+    "name": "tech-jobs-with-relocation",
+    "owner": "AndrewStetsenko",
+    "type": "github-repo",
+    "source_url": "https://github.com/AndrewStetsenko/tech-jobs-with-relocation",
+    "metric": {
+      "stars": 4537
+    },
+    "description": "All-in-one guide to getting a tech job abroad 🌎 ",
+    "topics": [
+      "abroad",
+      "hiring",
+      "job-search",
+      "jobsearch",
+      "overseas",
+      "relocate",
+      "relocation"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:kdeldycke/awesome-engineering-team-management",
+    "name": "awesome-engineering-team-management",
+    "owner": "kdeldycke",
+    "type": "github-repo",
+    "source_url": "https://github.com/kdeldycke/awesome-engineering-team-management",
+    "metric": {
+      "stars": 2603
+    },
+    "description": "👔 How to transition from software development to engineering management",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "career",
+      "compensation",
+      "cto",
+      "culture",
+      "engineering-manager",
+      "engineering-team",
+      "executive-management",
+      "hiring",
+      "leadership",
+      "management",
+      "motivation",
+      "onboarding",
+      "politics",
+      "product-management",
+      "recruitment",
+      "systems",
+      "team-management",
+      "transition"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:vasu-devs/JustHireMe",
+    "name": "JustHireMe",
+    "owner": "vasu-devs",
+    "type": "github-repo",
+    "source_url": "https://github.com/vasu-devs/JustHireMe",
+    "metric": {
+      "stars": 2249
+    },
+    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.",
+    "topics": [
+      "agents",
+      "ai",
+      "hireme",
+      "hiring",
+      "job",
+      "jobs",
+      "mulytiagent",
+      "rag",
+      "scrape",
+      "semantic-search",
+      "vector-database"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:jenndryden/Canadian-Tech-Internships-and-New-Grad-2025",
+    "name": "Canadian-Tech-Internships-and-New-Grad-2025",
+    "owner": "jenndryden",
+    "type": "github-repo",
+    "source_url": "https://github.com/jenndryden/Canadian-Tech-Internships-and-New-Grad-2025",
+    "metric": {
+      "stars": 1961
+    },
+    "description": "Crowdsourced list of Canadian tech companies that are hiring Interns and New Grads for 2025",
+    "topics": [
+      "2025",
+      "2025-internships",
+      "canadian-tech-companies",
+      "canadian-tech-internships",
+      "full-time-jobs-canada",
+      "hiring",
+      "hiring-interns",
+      "internship",
+      "jobs",
+      "new-grad",
+      "new-grad-canada",
+      "new-grad-swe",
+      "new-grad-swe-canada",
+      "summer-internships",
+      "swe-internships-2025",
+      "tech"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:hugo53/awesome-RemoteWork",
+    "name": "awesome-RemoteWork",
+    "owner": "hugo53",
+    "type": "github-repo",
+    "source_url": "https://github.com/hugo53/awesome-RemoteWork",
+    "metric": {
+      "stars": 1650
+    },
+    "description": "Resources for remote workers: approaches, hiring page, remote life and more.",
+    "topics": [
+      "hiring",
+      "hiring-sites",
+      "job-board",
+      "jobs",
+      "remote",
+      "remote-job",
+      "remote-work",
+      "remote-workers",
+      "telecom"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:zapplyjobs/New-Grad-Jobs-2027",
+    "name": "New-Grad-Jobs-2027",
+    "owner": "zapplyjobs",
+    "type": "github-repo",
+    "source_url": "https://github.com/zapplyjobs/New-Grad-Jobs-2027",
+    "metric": {
+      "stars": 1551
+    },
+    "description": "2027 entry-level jobs in tech, finance, healthcare & more — new grad US roles across software, business, operations & beyond",
+    "topics": [
+      "2027",
+      "applications",
+      "college",
+      "early-career",
+      "fulltime",
+      "hiring",
+      "intern",
+      "interviews",
+      "job-search",
+      "jobboard",
+      "jobs",
+      "jobs-2027",
+      "junior",
+      "new-grad",
+      "new-grad-jobs",
+      "newgrad",
+      "remote-job",
+      "software-engineering",
+      "tech-jobs",
+      "university"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:marmelo/tech-companies-in-portugal",
+    "name": "tech-companies-in-portugal",
+    "owner": "marmelo",
+    "type": "github-repo",
+    "source_url": "https://github.com/marmelo/tech-companies-in-portugal",
+    "metric": {
+      "stars": 1520
+    },
+    "description": ":portugal: List of technology companies in Portugal.",
+    "topics": [
+      "aveiro",
+      "braga",
+      "careers",
+      "coimbra",
+      "companies",
+      "hiring",
+      "jobs",
+      "lisboa",
+      "lisbon",
+      "oporto",
+      "porto",
+      "portugal",
+      "tech",
+      "technology"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:FoloUp/FoloUp",
+    "name": "FoloUp",
+    "owner": "FoloUp",
+    "type": "github-repo",
+    "source_url": "https://github.com/FoloUp/FoloUp",
+    "metric": {
+      "stars": 1263
+    },
+    "description": "💼 Your own AI-powered voice interviewer for hiring.",
+    "topics": [
+      "hiring",
+      "interviewing",
+      "recruiting",
+      "voice-ai-agents",
+      "webapp"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:upupming/new-grad-positions",
+    "name": "new-grad-positions",
+    "owner": "upupming",
+    "type": "github-repo",
+    "source_url": "https://github.com/upupming/new-grad-positions",
+    "metric": {
+      "stars": 885
+    },
+    "description": "本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。",
+    "topics": [
+      "database",
+      "hiring",
+      "internet-company",
+      "internship",
+      "jobs",
+      "new-grad",
+      "students",
+      "work"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+    "name": "Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+    "owner": "zshah101",
+    "type": "github-repo",
+    "source_url": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+    "metric": {
+      "stars": 813
+    },
+    "description": "Tech internships & CS jobs tracker - 180 open software engineering internships from 4,300 employer job boards, auto-updated every 30 min with visa-sponsorship and H-1B sponsor data.",
+    "topics": [
+      "2027",
+      "career",
+      "computer-science",
+      "faang",
+      "h1b",
+      "hiring",
+      "internship-search",
+      "internships",
+      "job-board",
+      "job-search",
+      "jobs",
+      "new-grad",
+      "software-engineering",
+      "summer-2027",
+      "summer-2027-internships",
+      "swe-internship-2027",
+      "swe-internships",
+      "tech-internships",
+      "tech-jobs",
+      "visa-sponsorship"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:strelov1/freehire",
+    "name": "freehire",
+    "owner": "strelov1",
+    "type": "github-repo",
+    "source_url": "https://github.com/strelov1/freehire",
+    "metric": {
+      "stars": 737
+    },
+    "description": "freehire — the open-source search engine for job seekers",
+    "topics": [
+      "ats",
+      "career",
+      "careers",
+      "golang",
+      "hiring",
+      "job-aggregator",
+      "job-board",
+      "job-portal",
+      "job-scraper",
+      "job-search",
+      "jobs",
+      "langchain",
+      "llm",
+      "meilisearch",
+      "postgresql",
+      "recruitment",
+      "remote-jobs",
+      "self-hosted",
+      "svelte",
+      "sveltekit"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs",
+    "name": "Awesome-daily-list-of-visa-sponsored-jobs",
+    "owner": "Lamiiine",
+    "type": "github-repo",
+    "source_url": "https://github.com/Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs",
+    "metric": {
+      "stars": 718
+    },
+    "description": "A daily list of jobs that offer visa sponsorship and help with relocation",
+    "topics": [
+      "hiring",
+      "jobs",
+      "sponsorship",
+      "visa"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:Sjamilla/awesome-recruitment",
+    "name": "awesome-recruitment",
+    "owner": "Sjamilla",
+    "type": "github-repo",
+    "source_url": "https://github.com/Sjamilla/awesome-recruitment",
+    "metric": {
+      "stars": 537
+    },
+    "description": "List of my favourite recruitment things 💫",
+    "topics": [
+      "awesome-list",
+      "hiring",
+      "recruiter",
+      "recruiting",
+      "recruitment",
+      "resources",
+      "sourcing",
+      "talent-acquisition",
+      "tools"
+    ],
+    "license": "Unlicense",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:hehehai/x-hiring",
+    "name": "x-hiring",
+    "owner": "hehehai",
+    "type": "github-repo",
+    "source_url": "https://github.com/hehehai/x-hiring",
+    "metric": {
+      "stars": 458
+    },
+    "description": "🤗 每日最新招聘信息，使用 Google AI 提取摘要",
+    "topics": [
+      "hiring",
+      "jobs",
+      "nextjs",
+      "shadcn-ui"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:vorojar/ai-native-hiring-guide",
+    "name": "ai-native-hiring-guide",
+    "owner": "vorojar",
+    "type": "github-repo",
+    "source_url": "https://github.com/vorojar/ai-native-hiring-guide",
+    "metric": {
+      "stars": 446
+    },
+    "description": "AI-Native 工程师招聘面试官手册 · Builder / Reviewer 双岗评分 · AI 驾驶能力实操考核 · 易哈佛医疗",
+    "topics": [
+      "agent",
+      "ai-engineering",
+      "ai-native",
+      "claude-code",
+      "hiring",
+      "interview",
+      "recruitment"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:profilecity/vidur",
+    "name": "vidur",
+    "owner": "profilecity",
+    "type": "github-repo",
+    "source_url": "https://github.com/profilecity/vidur",
+    "metric": {
+      "stars": 429
+    },
+    "description": "[WIP] OpenSource ATS",
+    "topics": [
+      "career-site",
+      "hiring",
+      "nuxt",
+      "recruiting",
+      "recruiting-software",
+      "saas",
+      "vue"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:mesaugat/tech-companies-in-nepal",
+    "name": "tech-companies-in-nepal",
+    "owner": "mesaugat",
+    "type": "github-repo",
+    "source_url": "https://github.com/mesaugat/tech-companies-in-nepal",
+    "metric": {
+      "stars": 422
+    },
+    "description": "List of tech companies based or working in Nepal. 🇳🇵",
+    "topics": [
+      "airtable",
+      "companies",
+      "hacktoberfest",
+      "hiring",
+      "jobs",
+      "nepal",
+      "tech",
+      "tech-companies",
+      "web"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:jobright-ai/Daily-H1B-Jobs-In-Tech",
+    "name": "Daily-H1B-Jobs-In-Tech",
+    "owner": "jobright-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/jobright-ai/Daily-H1B-Jobs-In-Tech",
+    "metric": {
+      "stars": 323
+    },
+    "description": "A collection of high quality jobs with H1B sponsorship in SWE, PM, Marketing, and Design",
+    "topics": [
+      "application",
+      "design",
+      "engineer",
+      "fulltime",
+      "h1b",
+      "hiring",
+      "jobs",
+      "marketing",
+      "product",
+      "techjobs"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:Creditas/challenge",
+    "name": "challenge",
+    "owner": "Creditas",
+    "type": "github-repo",
+    "source_url": "https://github.com/Creditas/challenge",
+    "metric": {
+      "stars": 277
+    },
+    "description": "Team recruiting challenges",
+    "topics": [
+      "challenges",
+      "ember",
+      "hiring",
+      "java",
+      "javascript",
+      "ruby"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:sliday/resume-job-matcher",
+    "name": "resume-job-matcher",
+    "owner": "sliday",
+    "type": "github-repo",
+    "source_url": "https://github.com/sliday/resume-job-matcher",
+    "metric": {
+      "stars": 271
+    },
+    "description": "TypeScript CLI for AI resume screening: hard constraints gate candidates out before scoring, every score cites the resume span behind it, and an embedding pre-filter keeps large pools cheap. Claude, GPT, or OpenRouter.",
+    "topics": [
+      "anthropic",
+      "ats",
+      "cli",
+      "embeddings",
+      "hiring",
+      "llm",
+      "openai",
+      "openrouter",
+      "recruiting",
+      "resume-screening",
+      "typescript",
+      "vercel-ai-sdk"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:Dannny-Babs/Canadian-Tech-Internships-2025",
+    "name": "Canadian-Tech-Internships-2025",
+    "owner": "Dannny-Babs",
+    "type": "github-repo",
+    "source_url": "https://github.com/Dannny-Babs/Canadian-Tech-Internships-2025",
+    "metric": {
+      "stars": 244
+    },
+    "description": "Looking for tech internships in Canada for Summer 2025? This repository hosts a crowdsourced list of Canadian tech companies hiring interns in various tech, software engineering, and related fields. Get a head start on your internship search today!",
+    "topics": [
+      "2025",
+      "2025-intern",
+      "canada",
+      "canadian",
+      "canadian-tech-companies",
+      "canadian-tech-internships",
+      "canadian-tech-job-market",
+      "co-op",
+      "cs-internships",
+      "hiring",
+      "hiring-interns",
+      "internship",
+      "job",
+      "jobsearch",
+      "summer-internship",
+      "swe-internships",
+      "swe-internships-2025",
+      "tech"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:1146345502/aural-oss",
+    "name": "aural-oss",
+    "owner": "1146345502",
+    "type": "github-repo",
+    "source_url": "https://github.com/1146345502/aural-oss",
+    "metric": {
+      "stars": 204
+    },
+    "description": "Open-source AI interview platform for voice, chat & video",
+    "topics": [
+      "ai",
+      "ai-interview",
+      "hiring",
+      "interview-platform",
+      "nextjs",
+      "open-source",
+      "openai",
+      "react",
+      "self-hosted",
+      "shadcn-ui",
+      "supabase",
+      "tailwindcss",
+      "trpc",
+      "typescript",
+      "voice"
+    ],
+    "license": "MIT",
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:PeterCookDev/TechLeading",
+    "name": "TechLeading",
+    "owner": "PeterCookDev",
+    "type": "github-repo",
+    "source_url": "https://github.com/PeterCookDev/TechLeading",
+    "metric": {
+      "stars": 200
+    },
+    "description": "Resources for tech leads",
+    "topics": [
+      "coaching",
+      "communication",
+      "hiring",
+      "leadership"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  },
+  {
+    "id": "github:sourcegraph/careers",
+    "name": "careers",
+    "owner": "sourcegraph",
+    "type": "github-repo",
+    "source_url": "https://github.com/sourcegraph/careers",
+    "metric": {
+      "stars": 132
+    },
+    "description": "Want to work at Sourcegraph?",
+    "topics": [
+      "careers",
+      "hiring",
+      "jobs",
+      "repo-type-business"
+    ],
+    "license": null,
+    "seed_topic": "hiring"
+  }
+]

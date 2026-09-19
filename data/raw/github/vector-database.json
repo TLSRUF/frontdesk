@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Mintplex-Labs/anything-llm",
     "metric": {
-      "stars": 66195
+      "stars": 66199
     },
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
     "topics": [
@@ -36,7 +36,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/meilisearch/meilisearch",
     "metric": {
-      "stars": 59331
+      "stars": 59333
     },
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "topics": [
@@ -71,7 +71,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/pathwaycom/llm-app",
     "metric": {
-      "stars": 58917
+      "stars": 58918
     },
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
     "topics": [
@@ -126,7 +126,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/milvus-io/milvus",
     "metric": {
-      "stars": 46156
+      "stars": 46157
     },
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "topics": [
@@ -159,7 +159,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/VectifyAI/PageIndex",
     "metric": {
-      "stars": 35741
+      "stars": 35744
     },
     "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "topics": [
@@ -186,7 +186,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/qdrant/qdrant",
     "metric": {
-      "stars": 34666
+      "stars": 34669
     },
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
     "topics": [
@@ -221,7 +221,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/topoteretes/cognee",
     "metric": {
-      "stars": 30819
+      "stars": 30821
     },
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
     "topics": [
@@ -255,7 +255,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/NirDiamant/RAG_Techniques",
     "metric": {
-      "stars": 29539
+      "stars": 29541
     },
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
     "topics": [
@@ -358,7 +358,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/alibaba/zvec",
     "metric": {
-      "stars": 15966
+      "stars": 15967
     },
     "description": "A lightweight, lightning-fast, in-process vector database",
     "topics": [
@@ -524,7 +524,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/lancedb/lancedb",
     "metric": {
-      "stars": 11462
+      "stars": 11464
     },
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "topics": [
@@ -676,7 +676,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/activeloopai/deeplake",
     "metric": {
-      "stars": 9240
+      "stars": 9241
     },
     "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
     "topics": [
@@ -799,7 +799,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/vespa-engine/vespa",
     "metric": {
-      "stars": 7095
+      "stars": 7096
     },
     "description": "The AI search platform",
     "topics": [
@@ -828,7 +828,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/postgresml/postgresml",
     "metric": {
-      "stars": 6822
+      "stars": 6823
     },
     "description": "Postgres with GPUs for ML/AI apps.",
     "topics": [
@@ -907,7 +907,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/HelixDB/helix-db",
     "metric": {
-      "stars": 5933
+      "stars": 5938
     },
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "topics": [

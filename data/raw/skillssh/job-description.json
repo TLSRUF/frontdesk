@@ -1,0 +1,236 @@
+[
+  {
+    "id": "skillssh:paramchoudhary/resumeskills@job-description-analyzer",
+    "name": "paramchoudhary/resumeskills@job-description-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/paramchoudhary/resumeskills/job-description-analyzer",
+    "metric": {
+      "installs": 8300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add paramchoudhary/resumeskills@job-description-analyzer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@writing-job-descriptions",
+    "name": "refoundai/lenny-skills@writing-job-descriptions",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/writing-job-descriptions",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@writing-job-descriptions",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:shawnpang/startup-founder-skills@job-description",
+    "name": "shawnpang/startup-founder-skills@job-description",
+    "type": "skill",
+    "source_url": "https://skills.sh/shawnpang/startup-founder-skills/job-description",
+    "metric": {
+      "installs": 150
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shawnpang/startup-founder-skills@job-description",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:madslorentzen/ai-job-search@jobdanmark-search",
+    "name": "madslorentzen/ai-job-search@jobdanmark-search",
+    "type": "skill",
+    "source_url": "https://skills.sh/madslorentzen/ai-job-search/jobdanmark-search",
+    "metric": {
+      "installs": 142
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add madslorentzen/ai-job-search@jobdanmark-search",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:chasen-liao/resume-skills@job-description-analyzer",
+    "name": "chasen-liao/resume-skills@job-description-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/chasen-liao/resume-skills/job-description-analyzer",
+    "metric": {
+      "installs": 134
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add chasen-liao/resume-skills@job-description-analyzer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:cockroachlabs/cockroachdb-skills@monitoring-background-jobs",
+    "name": "cockroachlabs/cockroachdb-skills@monitoring-background-jobs",
+    "type": "skill",
+    "source_url": "https://skills.sh/cockroachlabs/cockroachdb-skills/monitoring-background-jobs",
+    "metric": {
+      "installs": 118
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cockroachlabs/cockroachdb-skills@monitoring-background-jobs",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:salesforcecommercecloud/b2c-developer-tooling@b2c-job",
+    "name": "salesforcecommercecloud/b2c-developer-tooling@b2c-job",
+    "type": "skill",
+    "source_url": "https://skills.sh/salesforcecommercecloud/b2c-developer-tooling/b2c-job",
+    "metric": {
+      "installs": 92
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add salesforcecommercecloud/b2c-developer-tooling@b2c-job",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:vince-winkintel/gitlab-cli-skills@glab-job",
+    "name": "vince-winkintel/gitlab-cli-skills@glab-job",
+    "type": "skill",
+    "source_url": "https://skills.sh/vince-winkintel/gitlab-cli-skills/glab-job",
+    "metric": {
+      "installs": 76
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vince-winkintel/gitlab-cli-skills@glab-job",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:tilebox/skills@tilebox-workflow-jobs",
+    "name": "tilebox/skills@tilebox-workflow-jobs",
+    "type": "skill",
+    "source_url": "https://skills.sh/tilebox/skills/tilebox-workflow-jobs",
+    "metric": {
+      "installs": 74
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add tilebox/skills@tilebox-workflow-jobs",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "name": "catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "type": "skill",
+    "source_url": "https://skills.sh/catalystbyzoho/agent-skills/catalyst-job-scheduling",
+    "metric": {
+      "installs": 70
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:jshchnz/claude-jobs@claude-jobs",
+    "name": "jshchnz/claude-jobs@claude-jobs",
+    "type": "skill",
+    "source_url": "https://skills.sh/jshchnz/claude-jobs/claude-jobs",
+    "metric": {
+      "installs": 60
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jshchnz/claude-jobs@claude-jobs",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:dengineproblem/agents-monorepo@job-description-generator",
+    "name": "dengineproblem/agents-monorepo@job-description-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/dengineproblem/agents-monorepo/job-description-generator",
+    "metric": {
+      "installs": 59
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dengineproblem/agents-monorepo@job-description-generator",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:mohitagw15856/pm-claude-skills@job-description-writer",
+    "name": "mohitagw15856/pm-claude-skills@job-description-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/mohitagw15856/pm-claude-skills/job-description-writer",
+    "metric": {
+      "installs": 53
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mohitagw15856/pm-claude-skills@job-description-writer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:lytics/agent-skills@job-manager",
+    "name": "lytics/agent-skills@job-manager",
+    "type": "skill",
+    "source_url": "https://skills.sh/lytics/agent-skills/job-manager",
+    "metric": {
+      "installs": 51
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add lytics/agent-skills@job-manager",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:w95/awesome-claude-corporate-skills@job-description-writer",
+    "name": "w95/awesome-claude-corporate-skills@job-description-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/w95/awesome-claude-corporate-skills/job-description-writer",
+    "metric": {
+      "installs": 38
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add w95/awesome-claude-corporate-skills@job-description-writer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:ericgandrade/claude-superskills@job-description-analyzer",
+    "name": "ericgandrade/claude-superskills@job-description-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/ericgandrade/claude-superskills/job-description-analyzer",
+    "metric": {
+      "installs": 21
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ericgandrade/claude-superskills@job-description-analyzer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:davila7/claude-code-templates@job-description-analyzer",
+    "name": "davila7/claude-code-templates@job-description-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/davila7/claude-code-templates/job-description-analyzer",
+    "metric": {
+      "installs": 13
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add davila7/claude-code-templates@job-description-analyzer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:inbharatai/claude-skills@job-description",
+    "name": "inbharatai/claude-skills@job-description",
+    "type": "skill",
+    "source_url": "https://skills.sh/inbharatai/claude-skills/job-description",
+    "metric": {
+      "installs": 11
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add inbharatai/claude-skills@job-description",
+    "seed_keyword": "job description"
+  }
+]

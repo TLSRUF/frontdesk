@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:langchain-ai/langchain-skills@deep-agents-memory",
+    "name": "langchain-ai/langchain-skills@deep-agents-memory",
+    "type": "skill",
+    "source_url": "https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory",
+    "metric": {
+      "installs": 16700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add langchain-ai/langchain-skills@deep-agents-memory",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@remember",
+    "name": "rohitg00/agentmemory@remember",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/remember",
+    "metric": {
+      "installs": 12300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@remember",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@recall",
+    "name": "rohitg00/agentmemory@recall",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/recall",
+    "metric": {
+      "installs": 12200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@recall",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@session-history",
+    "name": "rohitg00/agentmemory@session-history",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/session-history",
+    "metric": {
+      "installs": 12100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@session-history",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@forget",
+    "name": "rohitg00/agentmemory@forget",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/forget",
+    "metric": {
+      "installs": 12100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@forget",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@recap",
+    "name": "rohitg00/agentmemory@recap",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/recap",
+    "metric": {
+      "installs": 12000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@recap",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@commit-context",
+    "name": "rohitg00/agentmemory@commit-context",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/commit-context",
+    "metric": {
+      "installs": 12000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@commit-context",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@commit-history",
+    "name": "rohitg00/agentmemory@commit-history",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/commit-history",
+    "metric": {
+      "installs": 12000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@commit-history",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@handoff",
+    "name": "rohitg00/agentmemory@handoff",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/handoff",
+    "metric": {
+      "installs": 11900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@handoff",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:wshobson/agents@memory-safety-patterns",
+    "name": "wshobson/agents@memory-safety-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/memory-safety-patterns",
+    "metric": {
+      "installs": 10700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@memory-safety-patterns",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:wshobson/agents@memory-forensics",
+    "name": "wshobson/agents@memory-forensics",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/memory-forensics",
+    "metric": {
+      "installs": 10000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@memory-forensics",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@agentmemory-agents",
+    "name": "rohitg00/agentmemory@agentmemory-agents",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-agents",
+    "metric": {
+      "installs": 9400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@agentmemory-agents",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@agentmemory-mcp-tools",
+    "name": "rohitg00/agentmemory@agentmemory-mcp-tools",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-mcp-tools",
+    "metric": {
+      "installs": 9300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@agentmemory-mcp-tools",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@agentmemory-config",
+    "name": "rohitg00/agentmemory@agentmemory-config",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-config",
+    "metric": {
+      "installs": 9300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@agentmemory-config",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@agentmemory-rest-api",
+    "name": "rohitg00/agentmemory@agentmemory-rest-api",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-rest-api",
+    "metric": {
+      "installs": 9300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@agentmemory-rest-api",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@agentmemory-architecture",
+    "name": "rohitg00/agentmemory@agentmemory-architecture",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-architecture",
+    "metric": {
+      "installs": 9200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@agentmemory-architecture",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@agentmemory-hooks",
+    "name": "rohitg00/agentmemory@agentmemory-hooks",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-hooks",
+    "metric": {
+      "installs": 9200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@agentmemory-hooks",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:rohitg00/agentmemory@write-agentmemory-skill",
+    "name": "rohitg00/agentmemory@write-agentmemory-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/agentmemory/write-agentmemory-skill",
+    "metric": {
+      "installs": 9200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/agentmemory@write-agentmemory-skill",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@agent-memory-systems",
+    "name": "sickn33/agentic-awesome-skills@agent-memory-systems",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/agent-memory-systems",
+    "metric": {
+      "installs": 1900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@agent-memory-systems",
+    "seed_keyword": "agent memory"
+  },
+  {
+    "id": "skillssh:api/git@agent-memory",
+    "name": "api/git@agent-memory",
+    "type": "skill",
+    "source_url": "https://skills.sh/api/git/agent-memory",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add api/git@agent-memory",
+    "seed_keyword": "agent memory"
+  }
+]

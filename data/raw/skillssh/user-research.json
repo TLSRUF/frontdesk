@@ -1,0 +1,197 @@
+[
+  {
+    "id": "skillssh:nexu-io/open-design@swiss-user-research-video-template",
+    "name": "nexu-io/open-design@swiss-user-research-video-template",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexu-io/open-design/swiss-user-research-video-template",
+    "metric": {
+      "installs": 2500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexu-io/open-design@swiss-user-research-video-template",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@user-research-analysis",
+    "name": "aj-geddes/useful-ai-prompts@user-research-analysis",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/user-research-analysis",
+    "metric": {
+      "installs": 599
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@user-research-analysis",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@user-research-synthesis",
+    "name": "anthropics/knowledge-work-plugins@user-research-synthesis",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/user-research-synthesis",
+    "metric": {
+      "installs": 418
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@user-research-synthesis",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:glebis/claude-skills@deep-research",
+    "name": "glebis/claude-skills@deep-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/glebis/claude-skills/deep-research",
+    "metric": {
+      "installs": 316
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add glebis/claude-skills@deep-research",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:cookiy-ai/user-research-skill@user-research-cookiy",
+    "name": "cookiy-ai/user-research-skill@user-research-cookiy",
+    "type": "skill",
+    "source_url": "https://skills.sh/cookiy-ai/user-research-skill/user-research-cookiy",
+    "metric": {
+      "installs": 248
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cookiy-ai/user-research-skill@user-research-cookiy",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:shawnpang/startup-founder-skills@user-research-synthesis",
+    "name": "shawnpang/startup-founder-skills@user-research-synthesis",
+    "type": "skill",
+    "source_url": "https://skills.sh/shawnpang/startup-founder-skills/user-research-synthesis",
+    "metric": {
+      "installs": 151
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shawnpang/startup-founder-skills@user-research-synthesis",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@user-research-cookiy",
+    "name": "podo/design-agent-skills@user-research-cookiy",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/user-research-cookiy",
+    "metric": {
+      "installs": 136
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@user-research-cookiy",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:yonatangross/orchestkit@user-research",
+    "name": "yonatangross/orchestkit@user-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/yonatangross/orchestkit/user-research",
+    "metric": {
+      "installs": 108
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add yonatangross/orchestkit@user-research",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:mohitagw15856/pm-claude-skills@user-research-synthesis",
+    "name": "mohitagw15856/pm-claude-skills@user-research-synthesis",
+    "type": "skill",
+    "source_url": "https://skills.sh/mohitagw15856/pm-claude-skills/user-research-synthesis",
+    "metric": {
+      "installs": 67
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mohitagw15856/pm-claude-skills@user-research-synthesis",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
+    "name": "pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/user-discovery-research",
+    "metric": {
+      "installs": 55
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:nicepkg/ai-workflow@user-research",
+    "name": "nicepkg/ai-workflow@user-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/nicepkg/ai-workflow/user-research",
+    "metric": {
+      "installs": 46
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nicepkg/ai-workflow@user-research",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:sylphxai/skills@user-research-repository-review",
+    "name": "sylphxai/skills@user-research-repository-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/sylphxai/skills/user-research-repository-review",
+    "metric": {
+      "installs": 39
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sylphxai/skills@user-research-repository-review",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:monumentalsystems/atlas-agent-teams@user-research",
+    "name": "monumentalsystems/atlas-agent-teams@user-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/monumentalsystems/atlas-agent-teams/user-research",
+    "metric": {
+      "installs": 33
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add monumentalsystems/atlas-agent-teams@user-research",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:kelegele/oh-my-pm@user-research",
+    "name": "kelegele/oh-my-pm@user-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/kelegele/oh-my-pm/user-research",
+    "metric": {
+      "installs": 16
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kelegele/oh-my-pm@user-research",
+    "seed_keyword": "user research"
+  },
+  {
+    "id": "skillssh:rsmdt/the-startup@user-research",
+    "name": "rsmdt/the-startup@user-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/rsmdt/the-startup/user-research",
+    "metric": {
+      "installs": 11
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rsmdt/the-startup@user-research",
+    "seed_keyword": "user research"
+  }
+]

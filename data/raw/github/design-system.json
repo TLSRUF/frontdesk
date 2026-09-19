@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/donnemartin/system-design-primer",
     "metric": {
-      "stars": 370680
+      "stars": 370687
     },
     "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
     "topics": [
@@ -34,7 +34,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/VoltAgent/awesome-design-md",
     "metric": {
-      "stars": 116573
+      "stars": 116580
     },
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
     "topics": [
@@ -79,7 +79,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/saadeghi/daisyui",
     "metric": {
-      "stars": 42420
+      "stars": 42421
     },
     "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
     "topics": [
@@ -250,7 +250,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/markmead/hyperui",
     "metric": {
-      "stars": 12235
+      "stars": 12236
     },
     "description": "Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀",
     "topics": [
@@ -321,7 +321,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/mui/base-ui",
     "metric": {
-      "stars": 10942
+      "stars": 10944
     },
     "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
     "topics": [
@@ -390,7 +390,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/themesberg/flowbite",
     "metric": {
-      "stars": 9356
+      "stars": 9357
     },
     "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
     "topics": [

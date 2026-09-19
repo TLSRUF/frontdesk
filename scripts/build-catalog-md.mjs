@@ -10,9 +10,12 @@ function metricLabel(item) {
   return "";
 }
 
+const weakTotal = catalog.filter((c) => c.weak_match).length;
+
 let md = `# AI 개발 에이전트/스킬 카탈로그\n\n`;
 md += `GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 분류한 카탈로그입니다. 총 ${catalog.length}건.\n\n`;
 md += `자동 생성 파일입니다 — 직접 수정하지 말고 \`npm run all\`로 재생성하세요.\n\n`;
+md += `⚠ 표시(${weakTotal}건)는 이름/설명에 직접적인 키워드가 없어 검색 시드로만 분류된 "약한 매칭"입니다 — 카테고리가 부정확할 수 있으니 참고용으로만 보세요.\n\n`;
 md += `---\n\n`;
 
 for (const dept of departments) {
@@ -25,7 +28,8 @@ for (const dept of departments) {
     md += `### ${cat.id} ${cat.name}\n\n`;
     for (const item of items) {
       const metric = metricLabel(item);
-      md += `- **[${item.name}](${item.source_url})**${metric ? ` (${metric})` : ""} — ${item.description || "_설명 없음_"}\n`;
+      const weak = item.weak_match ? " ⚠" : "";
+      md += `- **[${item.name}](${item.source_url})**${metric ? ` (${metric})` : ""}${weak} — ${item.description || "_설명 없음_"}\n`;
     }
     md += `\n`;
   }

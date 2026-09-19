@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/bregman-arie/devops-exercises",
     "metric": {
-      "stars": 84520
+      "stars": 84521
     },
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "topics": [
@@ -139,7 +139,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/coder/coder",
     "metric": {
-      "stars": 15310
+      "stars": 15346
     },
     "description": "Secure environments for developers and their agents",
     "topics": [
@@ -189,7 +189,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/semaphoreui/semaphore",
     "metric": {
-      "stars": 14155
+      "stars": 14156
     },
     "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
     "topics": [
@@ -251,7 +251,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/hashicorp/terraform-provider-aws",
     "metric": {
-      "stars": 11092
+      "stars": 11091
     },
     "description": "The AWS Provider enables Terraform to manage AWS resources.",
     "topics": [
@@ -269,7 +269,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/gruntwork-io/terragrunt",
     "metric": {
-      "stars": 9840
+      "stars": 9839
     },
     "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
     "topics": [
@@ -321,7 +321,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Agents365-ai/drawio-skill",
     "metric": {
-      "stars": 9457
+      "stars": 9458
     },
     "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
     "topics": [
@@ -356,7 +356,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/runatlantis/atlantis",
     "metric": {
-      "stars": 9295
+      "stars": 9294
     },
     "description": "Terraform Pull Request Automation",
     "topics": [
@@ -477,7 +477,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Orange-Cyberdefense/GOAD",
     "metric": {
-      "stars": 8331
+      "stars": 8332
     },
     "description": "game of active directory",
     "topics": [

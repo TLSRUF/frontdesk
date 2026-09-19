@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/anthropics/skills",
     "metric": {
-      "stars": 177051
+      "stars": 177059
     },
     "description": "Public repository for Agent Skills",
     "topics": [
@@ -22,7 +22,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/DietrichGebert/ponytail",
     "metric": {
-      "stars": 142048
+      "stars": 142112
     },
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "topics": [
@@ -47,7 +47,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/nexu-io/open-design",
     "metric": {
-      "stars": 96964
+      "stars": 96971
     },
     "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
     "topics": [
@@ -82,7 +82,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/addyosmani/agent-skills",
     "metric": {
-      "stars": 96430
+      "stars": 96493
     },
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": [
@@ -103,7 +103,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "metric": {
-      "stars": 75299
+      "stars": 75302
     },
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "topics": [
@@ -135,7 +135,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/tt-a1i/archify",
     "metric": {
-      "stars": 66854
+      "stars": 66931
     },
     "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
     "topics": [
@@ -170,7 +170,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/hesreallyhim/awesome-claude-code",
     "metric": {
-      "stars": 54282
+      "stars": 54286
     },
     "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
     "topics": [
@@ -204,7 +204,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/VoltAgent/awesome-openclaw-skills",
     "metric": {
-      "stars": 52655
+      "stars": 52656
     },
     "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
     "topics": [
@@ -231,7 +231,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/CherryHQ/cherry-studio",
     "metric": {
-      "stars": 51976
+      "stars": 51977
     },
     "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
     "topics": [
@@ -255,7 +255,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/blader/humanizer",
     "metric": {
-      "stars": 49958
+      "stars": 49992
     },
     "description": "Agent skill that removes signs of AI-generated writing from text",
     "topics": [
@@ -277,7 +277,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/sickn33/agentic-awesome-skills",
     "metric": {
-      "stars": 46573
+      "stars": 46574
     },
     "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
     "topics": [
@@ -312,7 +312,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "metric": {
-      "stars": 45521
+      "stars": 45532
     },
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "topics": [
@@ -344,7 +344,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/reactive-resume/reactive-resume",
     "metric": {
-      "stars": 43169
+      "stars": 43173
     },
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "topics": [
@@ -369,7 +369,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/cathrynlavery/diagram-design",
     "metric": {
-      "stars": 41173
+      "stars": 41202
     },
     "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "topics": [
@@ -392,7 +392,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/wshobson/agents",
     "metric": {
-      "stars": 39783
+      "stars": 39789
     },
     "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
     "topics": [
@@ -427,7 +427,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/github/awesome-copilot",
     "metric": {
-      "stars": 39149
+      "stars": 39151
     },
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "topics": [
@@ -450,7 +450,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/alibaba/open-code-review",
     "metric": {
-      "stars": 36724
+      "stars": 36836
     },
     "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
     "topics": [
@@ -471,7 +471,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/VoltAgent/awesome-agent-skills",
     "metric": {
-      "stars": 34578
+      "stars": 34581
     },
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
     "topics": [
@@ -498,7 +498,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/virgiliojr94/book-to-skill",
     "metric": {
-      "stars": 31125
+      "stars": 31134
     },
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "topics": [
@@ -526,7 +526,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/googleworkspace/cli",
     "metric": {
-      "stars": 31054
+      "stars": 31053
     },
     "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
     "topics": [
@@ -557,7 +557,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/topoteretes/cognee",
     "metric": {
-      "stars": 30819
+      "stars": 30821
     },
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
     "topics": [
@@ -626,7 +626,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/phuryn/pm-skills",
     "metric": {
-      "stars": 26436
+      "stars": 26434
     },
     "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
     "topics": [
@@ -648,7 +648,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/alirezarezvani/claude-skills",
     "metric": {
-      "stars": 26127
+      "stars": 26129
     },
     "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
     "topics": [
@@ -702,7 +702,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/agentskills/agentskills",
     "metric": {
-      "stars": 25504
+      "stars": 25507
     },
     "description": "Specification and documentation for Agent Skills",
     "topics": [
@@ -718,7 +718,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/titanwings/distilly",
     "metric": {
-      "stars": 24867
+      "stars": 24869
     },
     "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
     "topics": [
@@ -752,7 +752,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/pascalorg/editor",
     "metric": {
-      "stars": 24105
+      "stars": 24110
     },
     "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
     "topics": [
@@ -785,7 +785,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/KKKKhazix/khazix-skills",
     "metric": {
-      "stars": 20794
+      "stars": 20797
     },
     "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
     "topics": [
@@ -809,7 +809,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/NVIDIA/SkillSpector",
     "metric": {
-      "stars": 17777
+      "stars": 17781
     },
     "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
     "topics": [

@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/f/prompts.chat",
     "metric": {
-      "stars": 170696
+      "stars": 170700
     },
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "topics": [
@@ -39,7 +39,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/DietrichGebert/ponytail",
     "metric": {
-      "stars": 142048
+      "stars": 142112
     },
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "topics": [
@@ -64,7 +64,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
     "metric": {
-      "stars": 120036
+      "stars": 120039
     },
     "description": "21 Lessons, Get Started Building with Generative AI ",
     "topics": [
@@ -93,7 +93,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/JuliusBrussee/caveman",
     "metric": {
-      "stars": 106608
+      "stars": 106629
     },
     "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
     "topics": [
@@ -118,7 +118,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "metric": {
-      "stars": 78454
+      "stars": 78456
     },
     "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
     "topics": [
@@ -144,7 +144,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/headroomlabs-ai/headroom",
     "metric": {
-      "stars": 72965
+      "stars": 72976
     },
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
     "topics": [
@@ -179,7 +179,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
     "metric": {
-      "stars": 67475
+      "stars": 67479
     },
     "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
     "topics": [
@@ -214,7 +214,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/elder-plinius/CL4R1T4S",
     "metric": {
-      "stars": 50027
+      "stars": 50032
     },
     "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
     "topics": [
@@ -249,7 +249,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/blader/humanizer",
     "metric": {
-      "stars": 49958
+      "stars": 49992
     },
     "description": "Agent skill that removes signs of AI-generated writing from text",
     "topics": [
@@ -271,7 +271,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Imbad0202/academic-research-skills",
     "metric": {
-      "stars": 48657
+      "stars": 48669
     },
     "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
     "topics": [
@@ -294,7 +294,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/github/awesome-copilot",
     "metric": {
-      "stars": 39149
+      "stars": 39151
     },
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "topics": [
@@ -317,7 +317,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/linshenkx/prompt-optimizer",
     "metric": {
-      "stars": 35030
+      "stars": 35047
     },
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
     "topics": [
@@ -342,7 +342,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/langfuse/langfuse",
     "metric": {
-      "stars": 34787
+      "stars": 34792
     },
     "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "topics": [
@@ -376,7 +376,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
     "metric": {
-      "stars": 32696
+      "stars": 32707
     },
     "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
     "topics": [
@@ -401,7 +401,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/mlflow/mlflow",
     "metric": {
-      "stars": 28028
+      "stars": 28030
     },
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
     "topics": [
@@ -434,7 +434,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/humanlayer/12-factor-agents",
     "metric": {
-      "stars": 26283
+      "stars": 26284
     },
     "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
     "topics": [
@@ -460,7 +460,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/alirezarezvani/claude-skills",
     "metric": {
-      "stars": 26127
+      "stars": 26129
     },
     "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
     "topics": [
@@ -495,7 +495,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/promptfoo/promptfoo",
     "metric": {
-      "stars": 25270
+      "stars": 25272
     },
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
     "topics": [
@@ -584,7 +584,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/jnMetaCode/agency-agents-zh",
     "metric": {
-      "stars": 20784
+      "stars": 20785
     },
     "description": "🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
     "topics": [
@@ -618,7 +618,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "metric": {
-      "stars": 17210
+      "stars": 17211
     },
     "description": "GPT-Image-2 API and Prompts",
     "topics": [
@@ -653,7 +653,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/tradecatlabs/vibe-coding-cn",
     "metric": {
-      "stars": 16289
+      "stars": 16291
     },
     "description": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
     "topics": [
@@ -686,7 +686,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/dottxt-ai/outlines",
     "metric": {
-      "stars": 15832
+      "stars": 15833
     },
     "description": "Structured Outputs",
     "topics": [
@@ -740,7 +740,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/nidhinjs/prompt-master",
     "metric": {
-      "stars": 13348
+      "stars": 13353
     },
     "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
     "topics": [
@@ -788,7 +788,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
     "metric": {
-      "stars": 11705
+      "stars": 11706
     },
     "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
     "topics": [

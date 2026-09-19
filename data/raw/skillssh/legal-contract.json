@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "name": "qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/legal-document-analyzer",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:anthropics/claude-for-legal@material-contract-schedule",
+    "name": "anthropics/claude-for-legal@material-contract-schedule",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/claude-for-legal/material-contract-schedule",
+    "metric": {
+      "installs": 548
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/claude-for-legal@material-contract-schedule",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:cowork-os/cowork-os@legal-contract-negotiation-review",
+    "name": "cowork-os/cowork-os@legal-contract-negotiation-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/cowork-os/cowork-os/legal-contract-negotiation-review",
+    "metric": {
+      "installs": 225
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cowork-os/cowork-os@legal-contract-negotiation-review",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:lawve-ai/awesome-legal-skills@contract-review-anthropic",
+    "name": "lawve-ai/awesome-legal-skills@contract-review-anthropic",
+    "type": "skill",
+    "source_url": "https://skills.sh/lawve-ai/awesome-legal-skills/contract-review-anthropic",
+    "metric": {
+      "installs": 177
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add lawve-ai/awesome-legal-skills@contract-review-anthropic",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:zh-xx/legal-assistant-skills@contract-review",
+    "name": "zh-xx/legal-assistant-skills@contract-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/zh-xx/legal-assistant-skills/contract-review",
+    "metric": {
+      "installs": 150
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zh-xx/legal-assistant-skills@contract-review",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:lawve-ai/awesome-legal-skills@tech-contract-negotiation-patrick-munro",
+    "name": "lawve-ai/awesome-legal-skills@tech-contract-negotiation-patrick-munro",
+    "type": "skill",
+    "source_url": "https://skills.sh/lawve-ai/awesome-legal-skills/tech-contract-negotiation-patrick-munro",
+    "metric": {
+      "installs": 116
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add lawve-ai/awesome-legal-skills@tech-contract-negotiation-patrick-munro",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:evolsb/claude-legal-skill@contract-review",
+    "name": "evolsb/claude-legal-skill@contract-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/evolsb/claude-legal-skill/contract-review",
+    "metric": {
+      "installs": 110
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add evolsb/claude-legal-skill@contract-review",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:skala-io/legal-skills@contractor-agreement-review",
+    "name": "skala-io/legal-skills@contractor-agreement-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/skala-io/legal-skills/contractor-agreement-review",
+    "metric": {
+      "installs": 109
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add skala-io/legal-skills@contractor-agreement-review",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:qfeius/contract-cli@contract-cli-mdm-legal",
+    "name": "qfeius/contract-cli@contract-cli-mdm-legal",
+    "type": "skill",
+    "source_url": "https://skills.sh/qfeius/contract-cli/contract-cli-mdm-legal",
+    "metric": {
+      "installs": 103
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add qfeius/contract-cli@contract-cli-mdm-legal",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:qfeius/contract-cli@contract-cli-contract",
+    "name": "qfeius/contract-cli@contract-cli-contract",
+    "type": "skill",
+    "source_url": "https://skills.sh/qfeius/contract-cli/contract-cli-contract",
+    "metric": {
+      "installs": 99
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add qfeius/contract-cli@contract-cli-contract",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:cat-xierluo/legal-skills@contract-copilot",
+    "name": "cat-xierluo/legal-skills@contract-copilot",
+    "type": "skill",
+    "source_url": "https://skills.sh/cat-xierluo/legal-skills/contract-copilot",
+    "metric": {
+      "installs": 96
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cat-xierluo/legal-skills@contract-copilot",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:lawve-ai/awesome-legal-skills@nil-contract-analysis-samir-patel",
+    "name": "lawve-ai/awesome-legal-skills@nil-contract-analysis-samir-patel",
+    "type": "skill",
+    "source_url": "https://skills.sh/lawve-ai/awesome-legal-skills/nil-contract-analysis-samir-patel",
+    "metric": {
+      "installs": 70
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add lawve-ai/awesome-legal-skills@nil-contract-analysis-samir-patel",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:zubair-trabzada/ai-legal-claude@contract-comparison",
+    "name": "zubair-trabzada/ai-legal-claude@contract-comparison",
+    "type": "skill",
+    "source_url": "https://skills.sh/zubair-trabzada/ai-legal-claude/contract-comparison",
+    "metric": {
+      "installs": 66
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zubair-trabzada/ai-legal-claude@contract-comparison",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:zh-xx/legal-assistant-skills@contract-gen",
+    "name": "zh-xx/legal-assistant-skills@contract-gen",
+    "type": "skill",
+    "source_url": "https://skills.sh/zh-xx/legal-assistant-skills/contract-gen",
+    "metric": {
+      "installs": 61
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zh-xx/legal-assistant-skills@contract-gen",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:box/skills@box-legal-workflows-contract",
+    "name": "box/skills@box-legal-workflows-contract",
+    "type": "skill",
+    "source_url": "https://skills.sh/box/skills/box-legal-workflows-contract",
+    "metric": {
+      "installs": 59
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add box/skills@box-legal-workflows-contract",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:mohitagw15856/pm-claude-skills@contract-review",
+    "name": "mohitagw15856/pm-claude-skills@contract-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/mohitagw15856/pm-claude-skills/contract-review",
+    "metric": {
+      "installs": 57
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mohitagw15856/pm-claude-skills@contract-review",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:iankiku/forwward-teams@legal",
+    "name": "iankiku/forwward-teams@legal",
+    "type": "skill",
+    "source_url": "https://skills.sh/iankiku/forwward-teams/legal",
+    "metric": {
+      "installs": 55
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add iankiku/forwward-teams@legal",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:liaoann/skills@contracts",
+    "name": "liaoann/skills@contracts",
+    "type": "skill",
+    "source_url": "https://skills.sh/liaoann/skills/contracts",
+    "metric": {
+      "installs": 42
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add liaoann/skills@contracts",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:austintgriffith/ethskills@contracts",
+    "name": "austintgriffith/ethskills@contracts",
+    "type": "skill",
+    "source_url": "https://skills.sh/austintgriffith/ethskills/contracts",
+    "metric": {
+      "installs": 35
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add austintgriffith/ethskills@contracts",
+    "seed_keyword": "legal contract"
+  },
+  {
+    "id": "skillssh:ni032mas/agent-skills-ru@ru-legal-contract-review",
+    "name": "ni032mas/agent-skills-ru@ru-legal-contract-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/ni032mas/agent-skills-ru/ru-legal-contract-review",
+    "metric": {
+      "installs": 19
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ni032mas/agent-skills-ru@ru-legal-contract-review",
+    "seed_keyword": "legal contract"
+  }
+]

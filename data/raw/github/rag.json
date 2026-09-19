@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/open-webui/open-webui",
     "metric": {
-      "stars": 152505
+      "stars": 152511
     },
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "topics": [
@@ -36,7 +36,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/langchain-ai/langchain",
     "metric": {
-      "stars": 146618
+      "stars": 146627
     },
     "description": "The agent engineering platform.",
     "topics": [
@@ -71,7 +71,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "metric": {
-      "stars": 138851
+      "stars": 138866
     },
     "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
     "topics": [
@@ -90,7 +90,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Graphify-Labs/graphify",
     "metric": {
-      "stars": 119396
+      "stars": 119421
     },
     "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
     "topics": [
@@ -124,7 +124,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/thedotmack/claude-mem",
     "metric": {
-      "stars": 94211
+      "stars": 94217
     },
     "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
     "topics": [
@@ -159,7 +159,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/infiniflow/ragflow",
     "metric": {
-      "stars": 90964
+      "stars": 90969
     },
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "topics": [
@@ -189,7 +189,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
     "metric": {
-      "stars": 89796
+      "stars": 89799
     },
     "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
     "topics": [
@@ -217,7 +217,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/datawhalechina/hello-agents",
     "metric": {
-      "stars": 79798
+      "stars": 79810
     },
     "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
     "topics": [
@@ -236,7 +236,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "metric": {
-      "stars": 78454
+      "stars": 78456
     },
     "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
     "topics": [
@@ -262,7 +262,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/headroomlabs-ai/headroom",
     "metric": {
-      "stars": 72965
+      "stars": 72976
     },
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
     "topics": [
@@ -297,7 +297,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Mintplex-Labs/anything-llm",
     "metric": {
-      "stars": 66195
+      "stars": 66199
     },
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
     "topics": [
@@ -327,7 +327,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/mem0ai/mem0",
     "metric": {
-      "stars": 65609
+      "stars": 65617
     },
     "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
     "topics": [
@@ -356,7 +356,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/pathwaycom/llm-app",
     "metric": {
-      "stars": 58917
+      "stars": 58918
     },
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
     "topics": [
@@ -386,7 +386,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/FlowiseAI/Flowise",
     "metric": {
-      "stars": 55468
+      "stars": 55469
     },
     "description": "Build AI Agents, Visually",
     "topics": [
@@ -443,7 +443,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/bojieli/ai-agent-book",
     "metric": {
-      "stars": 48546
+      "stars": 48566
     },
     "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
     "topics": [
@@ -506,7 +506,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/milvus-io/milvus",
     "metric": {
-      "stars": 46156
+      "stars": 46157
     },
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "topics": [
@@ -539,7 +539,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/langchain-ai/langgraph",
     "metric": {
-      "stars": 41909
+      "stars": 41912
     },
     "description": "Build resilient agents.",
     "topics": [
@@ -572,7 +572,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/HKUDS/DeepTutor",
     "metric": {
-      "stars": 39961
+      "stars": 39962
     },
     "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
     "topics": [
@@ -692,7 +692,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/patchy631/ai-engineering-hub",
     "metric": {
-      "stars": 37746
+      "stars": 37753
     },
     "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
     "topics": [
@@ -713,7 +713,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/khoj-ai/khoj",
     "metric": {
-      "stars": 37406
+      "stars": 37408
     },
     "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
     "topics": [
@@ -748,7 +748,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ItzCrazyKns/Vane",
     "metric": {
-      "stars": 36875
+      "stars": 36877
     },
     "description": "Vane is an AI-powered answering engine.",
     "topics": [
@@ -799,7 +799,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/VectifyAI/PageIndex",
     "metric": {
-      "stars": 35741
+      "stars": 35744
     },
     "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "topics": [
@@ -826,7 +826,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/datawhalechina/happy-llm",
     "metric": {
-      "stars": 33899
+      "stars": 33900
     },
     "description": "📚 从零开始构建大模型",
     "topics": [

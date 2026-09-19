@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:phuryn/pm-skills@outcome-roadmap",
+    "name": "phuryn/pm-skills@outcome-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/phuryn/pm-skills/outcome-roadmap",
+    "metric": {
+      "installs": 9500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add phuryn/pm-skills@outcome-roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:deanpeters/product-manager-skills@roadmap-planning",
+    "name": "deanpeters/product-manager-skills@roadmap-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/deanpeters/product-manager-skills/roadmap-planning",
+    "metric": {
+      "installs": 3500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add deanpeters/product-manager-skills@roadmap-planning",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@roadmap-update",
+    "name": "anthropics/knowledge-work-plugins@roadmap-update",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/roadmap-update",
+    "metric": {
+      "installs": 2800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@roadmap-update",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@technical-roadmaps",
+    "name": "refoundai/lenny-skills@technical-roadmaps",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/technical-roadmaps",
+    "metric": {
+      "installs": 1900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@technical-roadmaps",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@prioritizing-roadmap",
+    "name": "refoundai/lenny-skills@prioritizing-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/prioritizing-roadmap",
+    "metric": {
+      "installs": 1900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@prioritizing-roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:codestable/codestable@cs-roadmap",
+    "name": "codestable/codestable@cs-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/codestable/codestable/cs-roadmap",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add codestable/codestable@cs-roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:jezweb/claude-skills@roadmap",
+    "name": "jezweb/claude-skills@roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/jezweb/claude-skills/roadmap",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jezweb/claude-skills@roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@roadmap-communicator",
+    "name": "alirezarezvani/claude-skills@roadmap-communicator",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/roadmap-communicator",
+    "metric": {
+      "installs": 588
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@roadmap-communicator",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@technical-roadmap-planning",
+    "name": "aj-geddes/useful-ai-prompts@technical-roadmap-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/technical-roadmap-planning",
+    "metric": {
+      "installs": 564
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@technical-roadmap-planning",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@roadmap-management",
+    "name": "anthropics/knowledge-work-plugins@roadmap-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/roadmap-management",
+    "metric": {
+      "installs": 350
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@roadmap-management",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:promovaweb/specsfy@specsfy-roadmap-milestone-interviewer",
+    "name": "promovaweb/specsfy@specsfy-roadmap-milestone-interviewer",
+    "type": "skill",
+    "source_url": "https://skills.sh/promovaweb/specsfy/specsfy-roadmap-milestone-interviewer",
+    "metric": {
+      "installs": 315
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add promovaweb/specsfy@specsfy-roadmap-milestone-interviewer",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@roadmap-prioritization",
+    "name": "refoundai/lenny-skills@roadmap-prioritization",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/roadmap-prioritization",
+    "metric": {
+      "installs": 305
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@roadmap-prioritization",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:tech-leads-club/agent-skills@decomposition-planning-roadmap",
+    "name": "tech-leads-club/agent-skills@decomposition-planning-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/tech-leads-club/agent-skills/decomposition-planning-roadmap",
+    "metric": {
+      "installs": 281
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add tech-leads-club/agent-skills@decomposition-planning-roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:rysweet/amplihack@roadmap-strategist",
+    "name": "rysweet/amplihack@roadmap-strategist",
+    "type": "skill",
+    "source_url": "https://skills.sh/rysweet/amplihack/roadmap-strategist",
+    "metric": {
+      "installs": 262
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rysweet/amplihack@roadmap-strategist",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:codestable/codestable@cs-roadmap-review",
+    "name": "codestable/codestable@cs-roadmap-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/codestable/codestable/cs-roadmap-review",
+    "metric": {
+      "installs": 254
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add codestable/codestable@cs-roadmap-review",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:codestable/codestable@cs-roadmap-impl-goal",
+    "name": "codestable/codestable@cs-roadmap-impl-goal",
+    "type": "skill",
+    "source_url": "https://skills.sh/codestable/codestable/cs-roadmap-impl-goal",
+    "metric": {
+      "installs": 252
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add codestable/codestable@cs-roadmap-impl-goal",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:assimovt/productskills@roadmap-planning",
+    "name": "assimovt/productskills@roadmap-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/assimovt/productskills/roadmap-planning",
+    "metric": {
+      "installs": 204
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add assimovt/productskills@roadmap-planning",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:rampstackco/claude-skills@roadmap-planning",
+    "name": "rampstackco/claude-skills@roadmap-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/rampstackco/claude-skills/roadmap-planning",
+    "metric": {
+      "installs": 204
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rampstackco/claude-skills@roadmap-planning",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:f-labs-io/agent-html-skills@html-timeline-roadmap",
+    "name": "f-labs-io/agent-html-skills@html-timeline-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/f-labs-io/agent-html-skills/html-timeline-roadmap",
+    "metric": {
+      "installs": 202
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add f-labs-io/agent-html-skills@html-timeline-roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
+    "id": "skillssh:shipshitdev/skills@roadmap-analyzer",
+    "name": "shipshitdev/skills@roadmap-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shipshitdev/skills/roadmap-analyzer",
+    "metric": {
+      "installs": 182
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shipshitdev/skills@roadmap-analyzer",
+    "seed_keyword": "roadmap"
+  }
+]

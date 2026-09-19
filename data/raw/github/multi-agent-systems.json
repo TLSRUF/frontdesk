@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ruvnet/ruflo",
     "metric": {
-      "stars": 72805
+      "stars": 72810
     },
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "topics": [
@@ -41,7 +41,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/HKUDS/DeepTutor",
     "metric": {
-      "stars": 39961
+      "stars": 39962
     },
     "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
     "topics": [
@@ -65,7 +65,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
     "metric": {
-      "stars": 39245
+      "stars": 39247
     },
     "description": "Teams-first Multi-agent orchestration for Claude Code",
     "topics": [
@@ -159,7 +159,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/google/adk-python",
     "metric": {
-      "stars": 21572
+      "stars": 21573
     },
     "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
     "topics": [
@@ -244,7 +244,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/camel-ai/camel",
     "metric": {
-      "stars": 17744
+      "stars": 17745
     },
     "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
     "topics": [
@@ -268,7 +268,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/eigent-ai/eigent",
     "metric": {
-      "stars": 15305
+      "stars": 15310
     },
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
     "topics": [
@@ -292,7 +292,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/google/adk-go",
     "metric": {
-      "stars": 8800
+      "stars": 8801
     },
     "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
     "topics": [
@@ -321,7 +321,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/TeamWiseFlow/xiaobei",
     "metric": {
-      "stars": 8544
+      "stars": 8546
     },
     "description": "为OPC/中小微企业量身打造的自媒体获客智能体",
     "topics": [
@@ -343,7 +343,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/strands-agents/harness-sdk",
     "metric": {
-      "stars": 7361
+      "stars": 7364
     },
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
     "topics": [
@@ -378,7 +378,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/kyegomez/swarms",
     "metric": {
-      "stars": 7179
+      "stars": 7181
     },
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
     "topics": [
@@ -411,7 +411,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
     "metric": {
-      "stars": 7083
+      "stars": 7085
     },
     "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
     "topics": [
@@ -445,7 +445,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/InternLM/MindSearch",
     "metric": {
-      "stars": 6928
+      "stars": 6929
     },
     "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
     "topics": [
@@ -470,7 +470,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/camel-ai/oasis",
     "metric": {
-      "stars": 5159
+      "stars": 5160
     },
     "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. ",
     "topics": [
@@ -529,7 +529,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/JetBrains/koog",
     "metric": {
-      "stars": 4578
+      "stars": 4579
     },
     "description": "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
     "topics": [
@@ -564,7 +564,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/0xNyk/council-of-high-intelligence",
     "metric": {
-      "stars": 4245
+      "stars": 4246
     },
     "description": "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.",
     "topics": [

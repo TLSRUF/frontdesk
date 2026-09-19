@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:addyosmani/agent-skills@context-engineering",
+    "name": "addyosmani/agent-skills@context-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/agent-skills/context-engineering",
+    "metric": {
+      "installs": 36800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/agent-skills@context-engineering",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:muratcankoylan/agent-skills-for-context-engineering@context-engineering-collection",
+    "name": "muratcankoylan/agent-skills-for-context-engineering@context-engineering-collection",
+    "type": "skill",
+    "source_url": "https://skills.sh/muratcankoylan/agent-skills-for-context-engineering/context-engineering-collection",
+    "metric": {
+      "installs": 3900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add muratcankoylan/agent-skills-for-context-engineering@context-engineering-collection",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:deanpeters/product-manager-skills@context-engineering-advisor",
+    "name": "deanpeters/product-manager-skills@context-engineering-advisor",
+    "type": "skill",
+    "source_url": "https://skills.sh/deanpeters/product-manager-skills/context-engineering-advisor",
+    "metric": {
+      "installs": 2000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add deanpeters/product-manager-skills@context-engineering-advisor",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@prompt-engineering",
+    "name": "neolabhq/context-engineering-kit@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/prompt-engineering",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@prompt-engineering",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@thought-based-reasoning",
+    "name": "neolabhq/context-engineering-kit@thought-based-reasoning",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/thought-based-reasoning",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@thought-based-reasoning",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@reflect",
+    "name": "neolabhq/context-engineering-kit@reflect",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/reflect",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@reflect",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@write-concisely",
+    "name": "neolabhq/context-engineering-kit@write-concisely",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/write-concisely",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@write-concisely",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@multi-agent-patterns",
+    "name": "neolabhq/context-engineering-kit@multi-agent-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/multi-agent-patterns",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@multi-agent-patterns",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@update-docs",
+    "name": "neolabhq/context-engineering-kit@update-docs",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/update-docs",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@update-docs",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@critique",
+    "name": "neolabhq/context-engineering-kit@critique",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/critique",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@critique",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@brainstorm",
+    "name": "neolabhq/context-engineering-kit@brainstorm",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/brainstorm",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@brainstorm",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@kaizen",
+    "name": "neolabhq/context-engineering-kit@kaizen",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/kaizen",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@kaizen",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@judge-with-debate",
+    "name": "neolabhq/context-engineering-kit@judge-with-debate",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/judge-with-debate",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@judge-with-debate",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@memorize",
+    "name": "neolabhq/context-engineering-kit@memorize",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/memorize",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@memorize",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@subagent-driven-development",
+    "name": "neolabhq/context-engineering-kit@subagent-driven-development",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/subagent-driven-development",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@subagent-driven-development",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@plan-task",
+    "name": "neolabhq/context-engineering-kit@plan-task",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/plan-task",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@plan-task",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@implement-task",
+    "name": "neolabhq/context-engineering-kit@implement-task",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/implement-task",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@implement-task",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:guia-matthieu/clawfu-skills@context-engineering",
+    "name": "guia-matthieu/clawfu-skills@context-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/context-engineering",
+    "metric": {
+      "installs": 226
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add guia-matthieu/clawfu-skills@context-engineering",
+    "seed_keyword": "context engineering"
+  },
+  {
+    "id": "skillssh:siviter-xyz/dot-agent@context-engineering",
+    "name": "siviter-xyz/dot-agent@context-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/siviter-xyz/dot-agent/context-engineering",
+    "metric": {
+      "installs": 186
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add siviter-xyz/dot-agent@context-engineering",
+    "seed_keyword": "context engineering"
+  }
+]

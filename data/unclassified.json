@@ -5,7 +5,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/anthropics/skills",
     "metric": {
-      "stars": 177051
+      "stars": 177059
     },
     "description": "Public repository for Agent Skills",
     "license": null,
@@ -19,7 +19,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/addyosmani/agent-skills",
     "metric": {
-      "stars": 96430
+      "stars": 96493
     },
     "description": "Production-grade engineering skills for AI coding agents.",
     "license": "MIT",
@@ -33,39 +33,11 @@
     "type": "github-repo",
     "source_url": "https://github.com/tt-a1i/archify",
     "metric": {
-      "stars": 66854
+      "stars": 66931
     },
     "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
     "license": "MIT",
     "install": "git clone https://github.com/tt-a1i/archify",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:CherryHQ/cherry-studio",
-    "name": "cherry-studio",
-    "type": "github-repo",
-    "source_url": "https://github.com/CherryHQ/cherry-studio",
-    "metric": {
-      "stars": 51976
-    },
-    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/CherryHQ/cherry-studio",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:blader/humanizer",
-    "name": "humanizer",
-    "type": "github-repo",
-    "source_url": "https://github.com/blader/humanizer",
-    "metric": {
-      "stars": 49958
-    },
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "license": "MIT",
-    "install": "git clone https://github.com/blader/humanizer",
     "category": null,
     "category_name": null
   },
@@ -75,7 +47,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/cathrynlavery/diagram-design",
     "metric": {
-      "stars": 41173
+      "stars": 41202
     },
     "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "license": "MIT",
@@ -98,138 +70,12 @@
     "category_name": null
   },
   {
-    "id": "github:agentskills/agentskills",
-    "name": "agentskills",
-    "type": "github-repo",
-    "source_url": "https://github.com/agentskills/agentskills",
-    "metric": {
-      "stars": 25504
-    },
-    "description": "Specification and documentation for Agent Skills",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/agentskills/agentskills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:KKKKhazix/khazix-skills",
-    "name": "khazix-skills",
-    "type": "github-repo",
-    "source_url": "https://github.com/KKKKhazix/khazix-skills",
-    "metric": {
-      "stars": 20794
-    },
-    "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
-    "license": "MIT",
-    "install": "git clone https://github.com/KKKKhazix/khazix-skills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:NousResearch/hermes-agent",
-    "name": "hermes-agent",
-    "type": "github-repo",
-    "source_url": "https://github.com/NousResearch/hermes-agent",
-    "metric": {
-      "stars": 246927
-    },
-    "description": "The agent that grows with you",
-    "license": "MIT",
-    "install": "git clone https://github.com/NousResearch/hermes-agent",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:deepseek-ai/deepseek-harness",
-    "name": "deepseek-harness",
-    "type": "github-repo",
-    "source_url": "https://github.com/deepseek-ai/deepseek-harness",
-    "metric": {
-      "stars": 229182
-    },
-    "description": "DeepSeek Harness: Everything is a Plugin.",
-    "license": "MIT",
-    "install": "git clone https://github.com/deepseek-ai/deepseek-harness",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:firecrawl/firecrawl",
-    "name": "firecrawl",
-    "type": "github-repo",
-    "source_url": "https://github.com/firecrawl/firecrawl",
-    "metric": {
-      "stars": 182026
-    },
-    "description": "The web data API to search, scrape, and interact at scale. 🔥",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/firecrawl/firecrawl",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:stablyai/orca",
-    "name": "orca",
-    "type": "github-repo",
-    "source_url": "https://github.com/stablyai/orca",
-    "metric": {
-      "stars": 72003
-    },
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "license": "MIT",
-    "install": "git clone https://github.com/stablyai/orca",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:daytonaio/daytona",
-    "name": "daytona",
-    "type": "github-repo",
-    "source_url": "https://github.com/daytonaio/daytona",
-    "metric": {
-      "stars": 71743
-    },
-    "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
-    "license": null,
-    "install": "git clone https://github.com/daytonaio/daytona",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:code-yeongyu/oh-my-openagent",
-    "name": "oh-my-openagent",
-    "type": "github-repo",
-    "source_url": "https://github.com/code-yeongyu/oh-my-openagent",
-    "metric": {
-      "stars": 69197
-    },
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/code-yeongyu/oh-my-openagent",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:asgeirtj/system_prompts_leaks",
-    "name": "system_prompts_leaks",
-    "type": "github-repo",
-    "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "metric": {
-      "stars": 67475
-    },
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-    "license": "CC0-1.0",
-    "install": "git clone https://github.com/asgeirtj/system_prompts_leaks",
-    "category": null,
-    "category_name": null
-  },
-  {
     "id": "github:pacifio/atlas",
     "name": "atlas",
     "type": "github-repo",
     "source_url": "https://github.com/pacifio/atlas",
     "metric": {
-      "stars": 4721
+      "stars": 4722
     },
     "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
     "license": "Apache-2.0",
@@ -266,72 +112,16 @@
     "category_name": null
   },
   {
-    "id": "github:Natfii/UnrealClaude",
-    "name": "UnrealClaude",
-    "type": "github-repo",
-    "source_url": "https://github.com/Natfii/UnrealClaude",
-    "metric": {
-      "stars": 906
-    },
-    "description": "Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.",
-    "license": null,
-    "install": "git clone https://github.com/Natfii/UnrealClaude",
-    "category": null,
-    "category_name": null
-  },
-  {
     "id": "github:zhinkgit/embeddedskills",
     "name": "embeddedskills",
     "type": "github-repo",
     "source_url": "https://github.com/zhinkgit/embeddedskills",
     "metric": {
-      "stars": 686
+      "stars": 687
     },
     "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
     "license": "MIT",
     "install": "git clone https://github.com/zhinkgit/embeddedskills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:ningbainb/deepseek-harness-desktop",
-    "name": "deepseek-harness-desktop",
-    "type": "github-repo",
-    "source_url": "https://github.com/ningbainb/deepseek-harness-desktop",
-    "metric": {
-      "stars": 621
-    },
-    "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
-    "license": "BSD-3-Clause",
-    "install": "git clone https://github.com/ningbainb/deepseek-harness-desktop",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:oliver-kriska/claude-elixir-phoenix",
-    "name": "claude-elixir-phoenix",
-    "type": "github-repo",
-    "source_url": "https://github.com/oliver-kriska/claude-elixir-phoenix",
-    "metric": {
-      "stars": 555
-    },
-    "description": "Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge.",
-    "license": "MIT",
-    "install": "git clone https://github.com/oliver-kriska/claude-elixir-phoenix",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:JohnCrickett/ai-assisted-engineering",
-    "name": "ai-assisted-engineering",
-    "type": "github-repo",
-    "source_url": "https://github.com/JohnCrickett/ai-assisted-engineering",
-    "metric": {
-      "stars": 427
-    },
-    "description": "A Guide To AI-Assisted Software Engineering",
-    "license": null,
-    "install": "git clone https://github.com/JohnCrickett/ai-assisted-engineering",
     "category": null,
     "category_name": null
   },
@@ -341,7 +131,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ayghri/i-have-adhd",
     "metric": {
-      "stars": 48078
+      "stars": 48176
     },
     "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "license": "MIT",
@@ -355,25 +145,11 @@
     "type": "github-repo",
     "source_url": "https://github.com/revfactory/harness",
     "metric": {
-      "stars": 9023
+      "stars": 9024
     },
     "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
     "license": "Apache-2.0",
     "install": "git clone https://github.com/revfactory/harness",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:nyldn/claude-octopus",
-    "name": "claude-octopus",
-    "type": "github-repo",
-    "source_url": "https://github.com/nyldn/claude-octopus",
-    "metric": {
-      "stars": 4088
-    },
-    "description": "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.",
-    "license": "MIT",
-    "install": "git clone https://github.com/nyldn/claude-octopus",
     "category": null,
     "category_name": null
   },
@@ -397,7 +173,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/zenbu-labs/terminal-browser",
     "metric": {
-      "stars": 3108
+      "stars": 3113
     },
     "description": "A browser inside your terminal",
     "license": "MIT",
@@ -420,58 +196,16 @@
     "category_name": null
   },
   {
-    "id": "github:jordanrendric/claude-video-vision",
-    "name": "claude-video-vision",
+    "id": "github:farion1231/cc-switch",
+    "name": "cc-switch",
     "type": "github-repo",
-    "source_url": "https://github.com/jordanrendric/claude-video-vision",
+    "source_url": "https://github.com/farion1231/cc-switch",
     "metric": {
-      "stars": 1314
+      "stars": 133592
     },
-    "description": "Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis",
+    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
     "license": "MIT",
-    "install": "git clone https://github.com/jordanrendric/claude-video-vision",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:SethGammon/Citadel",
-    "name": "Citadel",
-    "type": "github-repo",
-    "source_url": "https://github.com/SethGammon/Citadel",
-    "metric": {
-      "stars": 922
-    },
-    "description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
-    "license": "MIT",
-    "install": "git clone https://github.com/SethGammon/Citadel",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:Egonex-AI/Understand-Anything",
-    "name": "Understand-Anything",
-    "type": "github-repo",
-    "source_url": "https://github.com/Egonex-AI/Understand-Anything",
-    "metric": {
-      "stars": 83252
-    },
-    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "license": "MIT",
-    "install": "git clone https://github.com/Egonex-AI/Understand-Anything",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:career-ops-hq/career-ops",
-    "name": "career-ops",
-    "type": "github-repo",
-    "source_url": "https://github.com/career-ops-hq/career-ops",
-    "metric": {
-      "stars": 72078
-    },
-    "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-    "license": "MIT",
-    "install": "git clone https://github.com/career-ops-hq/career-ops",
+    "install": "git clone https://github.com/farion1231/cc-switch",
     "category": null,
     "category_name": null
   },
@@ -481,193 +215,11 @@
     "type": "github-repo",
     "source_url": "https://github.com/router-for-me/CLIProxyAPI",
     "metric": {
-      "stars": 52435
+      "stars": 52441
     },
     "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
     "license": "MIT",
     "install": "git clone https://github.com/router-for-me/CLIProxyAPI",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:flyeric0212/cursor-rules",
-    "name": "cursor-rules",
-    "type": "github-repo",
-    "source_url": "https://github.com/flyeric0212/cursor-rules",
-    "metric": {
-      "stars": 1886
-    },
-    "description": "整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。",
-    "license": null,
-    "install": "git clone https://github.com/flyeric0212/cursor-rules",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:kleosr/cursorkleosr",
-    "name": "cursorkleosr",
-    "type": "github-repo",
-    "source_url": "https://github.com/kleosr/cursorkleosr",
-    "metric": {
-      "stars": 327
-    },
-    "description": "Make AI Development Feel Natural in Cursor",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/kleosr/cursorkleosr",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "name": "andrej-karpathy-skills-cursor-vscode",
-    "type": "github-repo",
-    "source_url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "metric": {
-      "stars": 271
-    },
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
-    "license": null,
-    "install": "git clone https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:RollingGo-AI/rollinggo-hotel-skill-cn",
-    "name": "rollinggo-hotel-skill-cn",
-    "type": "github-repo",
-    "source_url": "https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn",
-    "metric": {
-      "stars": 155
-    },
-    "description": "全球酒店预订&低价监控提醒Skill，200万+精选酒店，独家优惠价格，让你的Agent轻松预订品质酒店，支持支付宝下单+查询历史订单，24 小时客服支持，全天候响应。",
-    "license": "MIT",
-    "install": "git clone https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:MohamedAbdallah-14/unslop",
-    "name": "unslop",
-    "type": "github-repo",
-    "source_url": "https://github.com/MohamedAbdallah-14/unslop",
-    "metric": {
-      "stars": 140
-    },
-    "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini.",
-    "license": "MIT",
-    "install": "git clone https://github.com/MohamedAbdallah-14/unslop",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:Mark393295827/third-brain-v7-skills",
-    "name": "third-brain-v7-skills",
-    "type": "github-repo",
-    "source_url": "https://github.com/Mark393295827/third-brain-v7-skills",
-    "metric": {
-      "stars": 139
-    },
-    "description": "agent wiki +engineering skills ",
-    "license": "MIT",
-    "install": "git clone https://github.com/Mark393295827/third-brain-v7-skills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:SalesforceAIResearch/agentforce-adlc",
-    "name": "agentforce-adlc",
-    "type": "github-repo",
-    "source_url": "https://github.com/SalesforceAIResearch/agentforce-adlc",
-    "metric": {
-      "stars": 109
-    },
-    "description": "Agent Development Life Cycle — Build, deploy, test, and optimize Agentforce agents using Claude Code skills and Agent Script DSL.",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/SalesforceAIResearch/agentforce-adlc",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:HugoRCD/nuxt-ui-rules",
-    "name": "nuxt-ui-rules",
-    "type": "github-repo",
-    "source_url": "https://github.com/HugoRCD/nuxt-ui-rules",
-    "metric": {
-      "stars": 62
-    },
-    "description": "Comprehensive guidelines for AI assistants working with Nuxt UI v3. Prevents common v2→v3 migration errors and provides best practices for modern Nuxt UI development.",
-    "license": null,
-    "install": "git clone https://github.com/HugoRCD/nuxt-ui-rules",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:SkeneTechnologies/skene-cookbook",
-    "name": "skene-cookbook",
-    "type": "github-repo",
-    "source_url": "https://github.com/SkeneTechnologies/skene-cookbook",
-    "metric": {
-      "stars": 53
-    },
-    "description": "700+ AI skills for Claude and Cursor — PLG, marketing, security, DevEx, and more. One command to install.",
-    "license": "MIT",
-    "install": "git clone https://github.com/SkeneTechnologies/skene-cookbook",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:donnemartin/system-design-primer",
-    "name": "system-design-primer",
-    "type": "github-repo",
-    "source_url": "https://github.com/donnemartin/system-design-primer",
-    "metric": {
-      "stars": 370680
-    },
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/donnemartin/system-design-primer",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:material-components/material-web",
-    "name": "material-web",
-    "type": "github-repo",
-    "source_url": "https://github.com/material-components/material-web",
-    "metric": {
-      "stars": 11252
-    },
-    "description": "Material Design Web Components",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/material-components/material-web",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:nuejs/nue",
-    "name": "nue",
-    "type": "github-repo",
-    "source_url": "https://github.com/nuejs/nue",
-    "metric": {
-      "stars": 8820
-    },
-    "description": "Fastest way to build modern websites",
-    "license": "MIT",
-    "install": "git clone https://github.com/nuejs/nue",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:basscss/basscss",
-    "name": "basscss",
-    "type": "github-repo",
-    "source_url": "https://github.com/basscss/basscss",
-    "metric": {
-      "stars": 5897
-    },
-    "description": "Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library",
-    "license": "MIT",
-    "install": "git clone https://github.com/basscss/basscss",
     "category": null,
     "category_name": null
   },
@@ -728,104 +280,6 @@
     "category_name": null
   },
   {
-    "id": "github:2noise/ChatTTS",
-    "name": "ChatTTS",
-    "type": "github-repo",
-    "source_url": "https://github.com/2noise/ChatTTS",
-    "metric": {
-      "stars": 39856
-    },
-    "description": "A generative speech model for daily dialogue.",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/2noise/ChatTTS",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-    "name": "PocketFlow-Tutorial-Codebase-Knowledge",
-    "type": "github-repo",
-    "source_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-    "metric": {
-      "stars": 12671
-    },
-    "description": "Pocket Flow: Codebase to Tutorial",
-    "license": "MIT",
-    "install": "git clone https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:areal-project/AReaL",
-    "name": "AReaL",
-    "type": "github-repo",
-    "source_url": "https://github.com/areal-project/AReaL",
-    "metric": {
-      "stars": 5775
-    },
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/areal-project/AReaL",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:xiaobright/dsh-anchored-standard",
-    "name": "dsh-anchored-standard",
-    "type": "github-repo",
-    "source_url": "https://github.com/xiaobright/dsh-anchored-standard",
-    "metric": {
-      "stars": 3809
-    },
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/xiaobright/dsh-anchored-standard",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:DSXiangLi/DecryptPrompt",
-    "name": "DecryptPrompt",
-    "type": "github-repo",
-    "source_url": "https://github.com/DSXiangLi/DecryptPrompt",
-    "metric": {
-      "stars": 3440
-    },
-    "description": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
-    "license": null,
-    "install": "git clone https://github.com/DSXiangLi/DecryptPrompt",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:AGI-Edgerunners/LLM-Agents-Papers",
-    "name": "LLM-Agents-Papers",
-    "type": "github-repo",
-    "source_url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
-    "metric": {
-      "stars": 2345
-    },
-    "description": "A repo lists papers related to LLM based agent",
-    "license": null,
-    "install": "git clone https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:Weizhena/Deep-Research-skills",
-    "name": "Deep-Research-skills",
-    "type": "github-repo",
-    "source_url": "https://github.com/Weizhena/Deep-Research-skills",
-    "metric": {
-      "stars": 2189
-    },
-    "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
-    "license": "MIT",
-    "install": "git clone https://github.com/Weizhena/Deep-Research-skills",
-    "category": null,
-    "category_name": null
-  },
-  {
     "id": "github:liguodongiot/llm-action",
     "name": "llm-action",
     "type": "github-repo",
@@ -845,7 +299,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/0xPlaygrounds/rig",
     "metric": {
-      "stars": 8668
+      "stars": 8669
     },
     "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
     "license": "MIT",
@@ -854,660 +308,16 @@
     "category_name": null
   },
   {
-    "id": "github:mettle/sendportal-core",
-    "name": "sendportal-core",
+    "id": "github:alyssaxuu/flowy",
+    "name": "flowy",
     "type": "github-repo",
-    "source_url": "https://github.com/mettle/sendportal-core",
+    "source_url": "https://github.com/alyssaxuu/flowy",
     "metric": {
-      "stars": 299
+      "stars": 12131
     },
-    "description": "Core functionality for SendPortal",
+    "description": "The minimal javascript library to create flowcharts ✨",
     "license": "MIT",
-    "install": "git clone https://github.com/mettle/sendportal-core",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:ChromeDevTools/chrome-devtools-mcp",
-    "name": "chrome-devtools-mcp",
-    "type": "github-repo",
-    "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "metric": {
-      "stars": 52283
-    },
-    "description": "Chrome DevTools for coding agents",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:github/github-mcp-server",
-    "name": "github-mcp-server",
-    "type": "github-repo",
-    "source_url": "https://github.com/github/github-mcp-server",
-    "metric": {
-      "stars": 33043
-    },
-    "description": "GitHub's official MCP Server",
-    "license": "MIT",
-    "install": "git clone https://github.com/github/github-mcp-server",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:oraios/serena",
-    "name": "serena",
-    "type": "github-repo",
-    "source_url": "https://github.com/oraios/serena",
-    "metric": {
-      "stars": 29586
-    },
-    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/oraios/serena",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:assafelovic/gpt-researcher",
-    "name": "gpt-researcher",
-    "type": "github-repo",
-    "source_url": "https://github.com/assafelovic/gpt-researcher",
-    "metric": {
-      "stars": 29517
-    },
-    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/assafelovic/gpt-researcher",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:modelcontextprotocol/python-sdk",
-    "name": "python-sdk",
-    "type": "github-repo",
-    "source_url": "https://github.com/modelcontextprotocol/python-sdk",
-    "metric": {
-      "stars": 24335
-    },
-    "description": "The official Python SDK for Model Context Protocol servers and clients",
-    "license": "MIT",
-    "install": "git clone https://github.com/modelcontextprotocol/python-sdk",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:czlonkowski/n8n-mcp",
-    "name": "n8n-mcp",
-    "type": "github-repo",
-    "source_url": "https://github.com/czlonkowski/n8n-mcp",
-    "metric": {
-      "stars": 22942
-    },
-    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
-    "license": "MIT",
-    "install": "git clone https://github.com/czlonkowski/n8n-mcp",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:microsoft/mcp-for-beginners",
-    "name": "mcp-for-beginners",
-    "type": "github-repo",
-    "source_url": "https://github.com/microsoft/mcp-for-beginners",
-    "metric": {
-      "stars": 17246
-    },
-    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-    "license": "MIT",
-    "install": "git clone https://github.com/microsoft/mcp-for-beginners",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:budtmo/docker-android",
-    "name": "docker-android",
-    "type": "github-repo",
-    "source_url": "https://github.com/budtmo/docker-android",
-    "metric": {
-      "stars": 15866
-    },
-    "description": "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/budtmo/docker-android",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:xpzouying/xiaohongshu-mcp",
-    "name": "xiaohongshu-mcp",
-    "type": "github-repo",
-    "source_url": "https://github.com/xpzouying/xiaohongshu-mcp",
-    "metric": {
-      "stars": 15861
-    },
-    "description": "MCP for xiaohongshu.com",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/xpzouying/xiaohongshu-mcp",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:yusufkaraaslan/Skill_Seekers",
-    "name": "Skill_Seekers",
-    "type": "github-repo",
-    "source_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-    "metric": {
-      "stars": 15002
-    },
-    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "license": "MIT",
-    "install": "git clone https://github.com/yusufkaraaslan/Skill_Seekers",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:elder-plinius/CL4R1T4S",
-    "name": "CL4R1T4S",
-    "type": "github-repo",
-    "source_url": "https://github.com/elder-plinius/CL4R1T4S",
-    "metric": {
-      "stars": 50027
-    },
-    "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/elder-plinius/CL4R1T4S",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:dottxt-ai/outlines",
-    "name": "outlines",
-    "type": "github-repo",
-    "source_url": "https://github.com/dottxt-ai/outlines",
-    "metric": {
-      "stars": 15832
-    },
-    "description": "Structured Outputs",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/dottxt-ai/outlines",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:nidhinjs/prompt-master",
-    "name": "prompt-master",
-    "type": "github-repo",
-    "source_url": "https://github.com/nidhinjs/prompt-master",
-    "metric": {
-      "stars": 13348
-    },
-    "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
-    "license": "MIT",
-    "install": "git clone https://github.com/nidhinjs/prompt-master",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:meilisearch/meilisearch",
-    "name": "meilisearch",
-    "type": "github-repo",
-    "source_url": "https://github.com/meilisearch/meilisearch",
-    "metric": {
-      "stars": 59331
-    },
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/meilisearch/meilisearch",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:lancedb/lancedb",
-    "name": "lancedb",
-    "type": "github-repo",
-    "source_url": "https://github.com/lancedb/lancedb",
-    "metric": {
-      "stars": 11462
-    },
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/lancedb/lancedb",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:RediSearch/RediSearch",
-    "name": "RediSearch",
-    "type": "github-repo",
-    "source_url": "https://github.com/RediSearch/RediSearch",
-    "metric": {
-      "stars": 6240
-    },
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/RediSearch/RediSearch",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:samber/cc-skills-golang@golang-documentation",
-    "name": "samber/cc-skills-golang@golang-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-documentation",
-    "metric": {
-      "installs": 38800
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add samber/cc-skills-golang@golang-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:addyosmani/agent-skills@documentation-and-adrs",
-    "name": "addyosmani/agent-skills@documentation-and-adrs",
-    "type": "skill",
-    "source_url": "https://skills.sh/addyosmani/agent-skills/documentation-and-adrs",
-    "metric": {
-      "installs": 37900
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add addyosmani/agent-skills@documentation-and-adrs",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:anthropics/knowledge-work-plugins@documentation",
-    "name": "anthropics/knowledge-work-plugins@documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/documentation",
-    "metric": {
-      "installs": 9600
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add anthropics/knowledge-work-plugins@documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:trkbt10/indexion-skills@indexion-documentation",
-    "name": "trkbt10/indexion-skills@indexion-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/trkbt10/indexion-skills/indexion-documentation",
-    "metric": {
-      "installs": 5000
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add trkbt10/indexion-skills@indexion-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:openai/skills@notion-research-documentation",
-    "name": "openai/skills@notion-research-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/openai/skills/notion-research-documentation",
-    "metric": {
-      "installs": 3100
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add openai/skills@notion-research-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:dart-lang/skills@dart-write-documentation",
-    "name": "dart-lang/skills@dart-write-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/dart-lang/skills/dart-write-documentation",
-    "metric": {
-      "installs": 2700
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add dart-lang/skills@dart-write-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:geoffjay/claude-plugins@documentation-update",
-    "name": "geoffjay/claude-plugins@documentation-update",
-    "type": "skill",
-    "source_url": "https://skills.sh/geoffjay/claude-plugins/documentation-update",
-    "metric": {
-      "installs": 1800
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add geoffjay/claude-plugins@documentation-update",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:bytedance/deer-flow@code-documentation",
-    "name": "bytedance/deer-flow@code-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/bytedance/deer-flow/code-documentation",
-    "metric": {
-      "installs": 1700
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add bytedance/deer-flow@code-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:owl-listener/designer-skills@documentation-template",
-    "name": "owl-listener/designer-skills@documentation-template",
-    "type": "skill",
-    "source_url": "https://skills.sh/owl-listener/designer-skills/documentation-template",
-    "metric": {
-      "installs": 1600
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add owl-listener/designer-skills@documentation-template",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:mcollina/skills@documentation",
-    "name": "mcollina/skills@documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/mcollina/skills/documentation",
-    "metric": {
-      "installs": 1600
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mcollina/skills@documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:callicrate/skills@make-documentation",
-    "name": "callicrate/skills@make-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/callicrate/skills/make-documentation",
-    "metric": {
-      "installs": 1400
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add callicrate/skills@make-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:upstash/context7@documentation-lookup",
-    "name": "upstash/context7@documentation-lookup",
-    "type": "skill",
-    "source_url": "https://skills.sh/upstash/context7/documentation-lookup",
-    "metric": {
-      "installs": 1400
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add upstash/context7@documentation-lookup",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:aj-geddes/useful-ai-prompts@markdown-documentation",
-    "name": "aj-geddes/useful-ai-prompts@markdown-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/markdown-documentation",
-    "metric": {
-      "installs": 1300
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add aj-geddes/useful-ai-prompts@markdown-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:makenotion/claude-code-notion-plugin@notion-research-documentation",
-    "name": "makenotion/claude-code-notion-plugin@notion-research-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/makenotion/claude-code-notion-plugin/notion-research-documentation",
-    "metric": {
-      "installs": 316
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add makenotion/claude-code-notion-plugin@notion-research-documentation",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:designed-by-ai/skills@design-mobile-apps",
-    "name": "designed-by-ai/skills@design-mobile-apps",
-    "type": "skill",
-    "source_url": "https://skills.sh/designed-by-ai/skills/design-mobile-apps",
-    "metric": {
-      "installs": 297500
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add designed-by-ai/skills@design-mobile-apps",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:ceorkm/mobile-app-ui-design@mobile-app-ui-design",
-    "name": "ceorkm/mobile-app-ui-design@mobile-app-ui-design",
-    "type": "skill",
-    "source_url": "https://skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design",
-    "metric": {
-      "installs": 9300
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add ceorkm/mobile-app-ui-design@mobile-app-ui-design",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:solana-mobile/solana-mobile-skills@solana-mobile",
-    "name": "solana-mobile/solana-mobile-skills@solana-mobile",
-    "type": "skill",
-    "source_url": "https://skills.sh/solana-mobile/solana-mobile-skills/solana-mobile",
-    "metric": {
-      "installs": 5100
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add solana-mobile/solana-mobile-skills@solana-mobile",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:forcedotcom/sf-skills@mobile-apps-create",
-    "name": "forcedotcom/sf-skills@mobile-apps-create",
-    "type": "skill",
-    "source_url": "https://skills.sh/forcedotcom/sf-skills/mobile-apps-create",
-    "metric": {
-      "installs": 4700
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add forcedotcom/sf-skills@mobile-apps-create",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:forcedotcom/sf-skills@building-mobile-apps",
-    "name": "forcedotcom/sf-skills@building-mobile-apps",
-    "type": "skill",
-    "source_url": "https://skills.sh/forcedotcom/sf-skills/building-mobile-apps",
-    "metric": {
-      "installs": 1600
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add forcedotcom/sf-skills@building-mobile-apps",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:aj-geddes/useful-ai-prompts@mobile-app-debugging",
-    "name": "aj-geddes/useful-ai-prompts@mobile-app-debugging",
-    "type": "skill",
-    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-debugging",
-    "metric": {
-      "installs": 551
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add aj-geddes/useful-ai-prompts@mobile-app-debugging",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:secondsky/claude-skills@mobile-app-debugging",
-    "name": "secondsky/claude-skills@mobile-app-debugging",
-    "type": "skill",
-    "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-debugging",
-    "metric": {
-      "installs": 396
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add secondsky/claude-skills@mobile-app-debugging",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
-    "name": "mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
-    "type": "skill",
-    "source_url": "https://skills.sh/mukul975/anthropic-cybersecurity-skills/conducting-mobile-app-penetration-test",
-    "metric": {
-      "installs": 282
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:nexu-io/open-design@mobile-app",
-    "name": "nexu-io/open-design@mobile-app",
-    "type": "skill",
-    "source_url": "https://skills.sh/nexu-io/open-design/mobile-app",
-    "metric": {
-      "installs": 276
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add nexu-io/open-design@mobile-app",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:peterhdd/agent-skills@engineering-mobile-app-builder",
-    "name": "peterhdd/agent-skills@engineering-mobile-app-builder",
-    "type": "skill",
-    "source_url": "https://skills.sh/peterhdd/agent-skills/engineering-mobile-app-builder",
-    "metric": {
-      "installs": 163
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add peterhdd/agent-skills@engineering-mobile-app-builder",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:qodex-ai/ai-agent-skills@mobile-app-interface",
-    "name": "qodex-ai/ai-agent-skills@mobile-app-interface",
-    "type": "skill",
-    "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/mobile-app-interface",
-    "metric": {
-      "installs": 160
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add qodex-ai/ai-agent-skills@mobile-app-interface",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:podo/design-agent-skills@mobile-app-design",
-    "name": "podo/design-agent-skills@mobile-app-design",
-    "type": "skill",
-    "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-design",
-    "metric": {
-      "installs": 129
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add podo/design-agent-skills@mobile-app-design",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:404kidwiz/claude-supercode-skills@mobile-app-developer",
-    "name": "404kidwiz/claude-supercode-skills@mobile-app-developer",
-    "type": "skill",
-    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/mobile-app-developer",
-    "metric": {
-      "installs": 128
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add 404kidwiz/claude-supercode-skills@mobile-app-developer",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:podo/design-agent-skills@mobile-app-ui-design",
-    "name": "podo/design-agent-skills@mobile-app-ui-design",
-    "type": "skill",
-    "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-ui-design",
-    "metric": {
-      "installs": 127
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add podo/design-agent-skills@mobile-app-ui-design",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:ww-w-ai/bkit-claude-code@mobile-app",
-    "name": "ww-w-ai/bkit-claude-code@mobile-app",
-    "type": "skill",
-    "source_url": "https://skills.sh/ww-w-ai/bkit-claude-code/mobile-app",
-    "metric": {
-      "installs": 110
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add ww-w-ai/bkit-claude-code@mobile-app",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "skillssh:mphinance/alpha-skills@mobile-app",
-    "name": "mphinance/alpha-skills@mobile-app",
-    "type": "skill",
-    "source_url": "https://skills.sh/mphinance/alpha-skills/mobile-app",
-    "metric": {
-      "installs": 84
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mphinance/alpha-skills@mobile-app",
+    "install": "git clone https://github.com/alyssaxuu/flowy",
     "category": null,
     "category_name": null
   }

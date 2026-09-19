@@ -1,0 +1,210 @@
+[
+  {
+    "id": "skillssh:refoundai/lenny-skills@product-led-sales",
+    "name": "refoundai/lenny-skills@product-led-sales",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/product-led-sales",
+    "metric": {
+      "installs": 1700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@product-led-sales",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:louisblythe/sales-skills@email-sequence",
+    "name": "louisblythe/sales-skills@email-sequence",
+    "type": "skill",
+    "source_url": "https://skills.sh/louisblythe/sales-skills/email-sequence",
+    "metric": {
+      "installs": 415
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add louisblythe/sales-skills@email-sequence",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:mbfinotti/sales-skills@sales-outreach-personalization",
+    "name": "mbfinotti/sales-skills@sales-outreach-personalization",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/sales-skills/sales-outreach-personalization",
+    "metric": {
+      "installs": 302
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mbfinotti/sales-skills@sales-outreach-personalization",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@outreach",
+    "name": "membranedev/application-skills@outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/outreach",
+    "metric": {
+      "installs": 201
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add membranedev/application-skills@outreach",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:crustdata/skills@sales-outreach",
+    "name": "crustdata/skills@sales-outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/crustdata/skills/sales-outreach",
+    "metric": {
+      "installs": 169
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add crustdata/skills@sales-outreach",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:iamzifei/show-me-the-money@money-outreach",
+    "name": "iamzifei/show-me-the-money@money-outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/iamzifei/show-me-the-money/money-outreach",
+    "metric": {
+      "installs": 43
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add iamzifei/show-me-the-money@money-outreach",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:openai/role-specific-plugins@sales-company-research",
+    "name": "openai/role-specific-plugins@sales-company-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/openai/role-specific-plugins/sales-company-research",
+    "metric": {
+      "installs": 40
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add openai/role-specific-plugins@sales-company-research",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:gooseworks-ai/goose-skills@leadership-change-outreach",
+    "name": "gooseworks-ai/goose-skills@leadership-change-outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/gooseworks-ai/goose-skills/leadership-change-outreach",
+    "metric": {
+      "installs": 36
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add gooseworks-ai/goose-skills@leadership-change-outreach",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:pollow/c-suite-skills@vp-sales",
+    "name": "pollow/c-suite-skills@vp-sales",
+    "type": "skill",
+    "source_url": "https://skills.sh/pollow/c-suite-skills/vp-sales",
+    "metric": {
+      "installs": 36
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pollow/c-suite-skills@vp-sales",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:kiluazen/kstack@outreach",
+    "name": "kiluazen/kstack@outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/kiluazen/kstack/outreach",
+    "metric": {
+      "installs": 34
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kiluazen/kstack@outreach",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:sales-skills/sales@sales-media-relations",
+    "name": "sales-skills/sales@sales-media-relations",
+    "type": "skill",
+    "source_url": "https://skills.sh/sales-skills/sales/sales-media-relations",
+    "metric": {
+      "installs": 27
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sales-skills/sales@sales-media-relations",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:whawkinsiv/solo-founder-skills@sales",
+    "name": "whawkinsiv/solo-founder-skills@sales",
+    "type": "skill",
+    "source_url": "https://skills.sh/whawkinsiv/solo-founder-skills/sales",
+    "metric": {
+      "installs": 24
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add whawkinsiv/solo-founder-skills@sales",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:salesably/salesably-marketplace@sales-orchestrator",
+    "name": "salesably/salesably-marketplace@sales-orchestrator",
+    "type": "skill",
+    "source_url": "https://skills.sh/salesably/salesably-marketplace/sales-orchestrator",
+    "metric": {
+      "installs": 24
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add salesably/salesably-marketplace@sales-orchestrator",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:sales-skills/sales@sales-influencer-hero",
+    "name": "sales-skills/sales@sales-influencer-hero",
+    "type": "skill",
+    "source_url": "https://skills.sh/sales-skills/sales/sales-influencer-hero",
+    "metric": {
+      "installs": 22
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sales-skills/sales@sales-influencer-hero",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:sales-skills/sales@sales-outreach-io",
+    "name": "sales-skills/sales@sales-outreach-io",
+    "type": "skill",
+    "source_url": "https://skills.sh/sales-skills/sales/sales-outreach-io",
+    "metric": {
+      "installs": 21
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sales-skills/sales@sales-outreach-io",
+    "seed_keyword": "sales outreach"
+  },
+  {
+    "id": "skillssh:mr-kelly/skills@kelly-sales-outreach",
+    "name": "mr-kelly/skills@kelly-sales-outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/mr-kelly/skills/kelly-sales-outreach",
+    "metric": {
+      "installs": 14
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mr-kelly/skills@kelly-sales-outreach",
+    "seed_keyword": "sales outreach"
+  }
+]

@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/BerriAI/litellm",
     "metric": {
-      "stars": 59114
+      "stars": 59117
     },
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
     "topics": [
@@ -37,7 +37,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/pathwaycom/llm-app",
     "metric": {
-      "stars": 58917
+      "stars": 58918
     },
     "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
     "topics": [
@@ -67,7 +67,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/langfuse/langfuse",
     "metric": {
-      "stars": 34787
+      "stars": 34792
     },
     "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "topics": [
@@ -133,7 +133,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/mlflow/mlflow",
     "metric": {
-      "stars": 28028
+      "stars": 28030
     },
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
     "topics": [
@@ -166,7 +166,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/promptfoo/promptfoo",
     "metric": {
-      "stars": 25270
+      "stars": 25272
     },
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
     "topics": [
@@ -339,7 +339,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/vibrantlabsai/ragas",
     "metric": {
-      "stars": 15767
+      "stars": 15768
     },
     "description": "Supercharge Your LLM Application Evaluations 🚀",
     "topics": [
@@ -420,7 +420,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/dataelement/bisheng",
     "metric": {
-      "stars": 11978
+      "stars": 11979
     },
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
     "topics": [
@@ -586,7 +586,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/0xPlaygrounds/rig",
     "metric": {
-      "stars": 8668
+      "stars": 8669
     },
     "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
     "topics": [
@@ -611,7 +611,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/maximhq/bifrost",
     "metric": {
-      "stars": 8164
+      "stars": 8168
     },
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
     "topics": [
@@ -704,7 +704,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/katanemo/plano",
     "metric": {
-      "stars": 7054
+      "stars": 7055
     },
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
     "topics": [
@@ -766,7 +766,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/MakazhanAlpamys/Soup",
     "metric": {
-      "stars": 6816
+      "stars": 6821
     },
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "topics": [
@@ -877,7 +877,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Giskard-AI/giskard-oss",
     "metric": {
-      "stars": 5825
+      "stars": 5826
     },
     "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
     "topics": [

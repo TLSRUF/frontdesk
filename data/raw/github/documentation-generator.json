@@ -1,0 +1,738 @@
+[
+  {
+    "id": "github:Redocly/redoc",
+    "name": "redoc",
+    "owner": "Redocly",
+    "type": "github-repo",
+    "source_url": "https://github.com/Redocly/redoc",
+    "metric": {
+      "stars": 25916
+    },
+    "description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
+    "topics": [
+      "api-documentation",
+      "documentation-generator",
+      "documentation-tool",
+      "hacktoberfest",
+      "openapi",
+      "openapi-specification",
+      "openapi3",
+      "openapi31",
+      "reactjs",
+      "redoc",
+      "swagger"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:yusufkaraaslan/Skill_Seekers",
+    "name": "Skill_Seekers",
+    "owner": "yusufkaraaslan",
+    "type": "github-repo",
+    "source_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "metric": {
+      "stars": 15002
+    },
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "topics": [
+      "ai-tools",
+      "ast-parser",
+      "automation",
+      "claude-ai",
+      "claude-skills",
+      "code-analysis",
+      "conflict-detection",
+      "documentation",
+      "documentation-generator",
+      "github",
+      "github-scraper",
+      "mcp",
+      "mcp-server",
+      "multi-source",
+      "ocr",
+      "pdf",
+      "python",
+      "web-scraping"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:scanopy/scanopy",
+    "name": "scanopy",
+    "owner": "scanopy",
+    "type": "github-repo",
+    "source_url": "https://github.com/scanopy/scanopy",
+    "metric": {
+      "stars": 5763
+    },
+    "description": "Network diagrams that update themselves",
+    "topics": [
+      "documentation",
+      "documentation-generator",
+      "documentation-tools",
+      "homelab",
+      "network-analysis",
+      "network-diagram",
+      "network-diagrams",
+      "network-docs",
+      "network-documentation",
+      "network-mapper",
+      "network-mapping-tool",
+      "network-visualization",
+      "network-visualizer",
+      "networking",
+      "self-hosted",
+      "visualization"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:AnswerDotAI/nbdev",
+    "name": "nbdev",
+    "owner": "AnswerDotAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/AnswerDotAI/nbdev",
+    "metric": {
+      "stars": 5315
+    },
+    "description": "Create delightful software with Jupyter Notebooks",
+    "topics": [
+      "conda",
+      "developer-tools",
+      "documentation-generator",
+      "documentation-tool",
+      "fastai",
+      "jupyter",
+      "jupyter-notebooks",
+      "literate-programming",
+      "nbdev",
+      "pypi",
+      "python",
+      "python-modules"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:jupyter-book/jupyter-book",
+    "name": "jupyter-book",
+    "owner": "jupyter-book",
+    "type": "github-repo",
+    "source_url": "https://github.com/jupyter-book/jupyter-book",
+    "metric": {
+      "stars": 4276
+    },
+    "description": "Create beautiful, publication-quality books and documents from computational content.",
+    "topics": [
+      "documentation-generator",
+      "jupyter",
+      "markdown",
+      "notebooks",
+      "scientific-writing"
+    ],
+    "license": "BSD-3-Clause",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:axnsan12/drf-yasg",
+    "name": "drf-yasg",
+    "owner": "axnsan12",
+    "type": "github-repo",
+    "source_url": "https://github.com/axnsan12/drf-yasg",
+    "metric": {
+      "stars": 3546
+    },
+    "description": "Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.",
+    "topics": [
+      "coreapi",
+      "django",
+      "django-rest-framework",
+      "django-rest-swagger",
+      "documentation-generator",
+      "openapi",
+      "openapi-specification",
+      "redoc",
+      "rest",
+      "rest-api",
+      "swagger",
+      "swagger-codegen",
+      "swagger-ui"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:nuxt-content/docus",
+    "name": "docus",
+    "owner": "nuxt-content",
+    "type": "github-repo",
+    "source_url": "https://github.com/nuxt-content/docus",
+    "metric": {
+      "stars": 3038
+    },
+    "description": "Write beautiful documentations with Nuxt and Markdown.",
+    "topics": [
+      "documentation-generator",
+      "nuxt",
+      "nuxt-theme"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:eli64s/readme-ai",
+    "name": "readme-ai",
+    "owner": "eli64s",
+    "type": "github-repo",
+    "source_url": "https://github.com/eli64s/readme-ai",
+    "metric": {
+      "stars": 2988
+    },
+    "description": "README file generator, powered by AI.",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-documentation",
+      "anthropic",
+      "badge-generator",
+      "cli",
+      "developer-tools",
+      "devtools",
+      "documentation",
+      "documentation-generator",
+      "gemini",
+      "gpt",
+      "markdown",
+      "markdown-generator",
+      "python",
+      "readme",
+      "readme-generator",
+      "readme-md-generator",
+      "readme-template"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:tfranzel/drf-spectacular",
+    "name": "drf-spectacular",
+    "owner": "tfranzel",
+    "type": "github-repo",
+    "source_url": "https://github.com/tfranzel/drf-spectacular",
+    "metric": {
+      "stars": 2861
+    },
+    "description": "Sane and flexible OpenAPI 3 schema generation for Django REST framework.",
+    "topics": [
+      "django",
+      "documentation-generator",
+      "drf",
+      "openapi-generator",
+      "openapi-specification",
+      "openapi3",
+      "rest-api",
+      "rest-framework",
+      "swagger"
+    ],
+    "license": "BSD-3-Clause",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:mitmproxy/pdoc",
+    "name": "pdoc",
+    "owner": "mitmproxy",
+    "type": "github-repo",
+    "source_url": "https://github.com/mitmproxy/pdoc",
+    "metric": {
+      "stars": 2512
+    },
+    "description": "API Documentation for Python Projects",
+    "topics": [
+      "api",
+      "api-documentation",
+      "docs",
+      "docstring",
+      "docstrings",
+      "documentation",
+      "documentation-generator",
+      "documentation-tool",
+      "pdoc",
+      "python",
+      "python3"
+    ],
+    "license": "MIT-0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:context-labs/autodoc",
+    "name": "autodoc",
+    "owner": "context-labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/context-labs/autodoc",
+    "metric": {
+      "stars": 2371
+    },
+    "description": "Experimental toolkit for auto-generating codebase documentation using LLMs",
+    "topics": [
+      "cli-tool",
+      "documentation-generator",
+      "language-model",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:jsdoc2md/jsdoc-to-markdown",
+    "name": "jsdoc-to-markdown",
+    "owner": "jsdoc2md",
+    "type": "github-repo",
+    "source_url": "https://github.com/jsdoc2md/jsdoc-to-markdown",
+    "metric": {
+      "stars": 1759
+    },
+    "description": "Generate markdown documentation from jsdoc-annotated javascript",
+    "topics": [
+      "api-documentation",
+      "documentation",
+      "documentation-generator",
+      "documentation-tool",
+      "generator",
+      "jsdoc",
+      "jsdoc-to-markdown",
+      "markdown",
+      "readme"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:FSoft-AI4Code/CodeWiki",
+    "name": "CodeWiki",
+    "owner": "FSoft-AI4Code",
+    "type": "github-repo",
+    "source_url": "https://github.com/FSoft-AI4Code/CodeWiki",
+    "metric": {
+      "stars": 1705
+    },
+    "description": "[ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases",
+    "topics": [
+      "automated-documentation",
+      "code-documentation",
+      "code-understanding",
+      "documentation-generator",
+      "open-source-deepwiki",
+      "repository-documentation"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:SwiftDocOrg/swift-doc",
+    "name": "swift-doc",
+    "owner": "SwiftDocOrg",
+    "type": "github-repo",
+    "source_url": "https://github.com/SwiftDocOrg/swift-doc",
+    "metric": {
+      "stars": 1680
+    },
+    "description": "A documentation generator for Swift projects",
+    "topics": [
+      "documentation-generator",
+      "swift"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:davialabs/davia",
+    "name": "davia",
+    "owner": "davialabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/davialabs/davia",
+    "metric": {
+      "stars": 1654
+    },
+    "description": "Interactive, editable docs designed for coding agents",
+    "topics": [
+      "ai-tools",
+      "documentation",
+      "documentation-generator",
+      "knowledge-base",
+      "knowledge-representation",
+      "local",
+      "open-sou",
+      "wiki",
+      "wiki-engine"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:2fd/graphdoc",
+    "name": "graphdoc",
+    "owner": "2fd",
+    "type": "github-repo",
+    "source_url": "https://github.com/2fd/graphdoc",
+    "metric": {
+      "stars": 1562
+    },
+    "description": "Static page generator for documenting GraphQL Schema",
+    "topics": [
+      "documentation",
+      "documentation-generator",
+      "documentation-tool",
+      "graphql"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:sourcey/sourcey",
+    "name": "sourcey",
+    "owner": "sourcey",
+    "type": "github-repo",
+    "source_url": "https://github.com/sourcey/sourcey",
+    "metric": {
+      "stars": 1370
+    },
+    "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
+    "topics": [
+      "api-documentation",
+      "developer-tools",
+      "docs",
+      "documentation",
+      "documentation-generator",
+      "doxygen",
+      "godoc",
+      "llms-txt",
+      "mcp-server",
+      "openapi",
+      "openapi-documentation",
+      "openapi3",
+      "openapi31",
+      "static-site-generator",
+      "swagger",
+      "typescript"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:retypeapp/retype",
+    "name": "retype",
+    "owner": "retypeapp",
+    "type": "github-repo",
+    "source_url": "https://github.com/retypeapp/retype",
+    "metric": {
+      "stars": 1339
+    },
+    "description": "Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.",
+    "topics": [
+      "cli",
+      "docs",
+      "documentation",
+      "documentation-generator",
+      "documentation-tool",
+      "documentation-website",
+      "notebooks",
+      "notes",
+      "retype",
+      "static-site-generation"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:docuowl/docuowl",
+    "name": "docuowl",
+    "owner": "docuowl",
+    "type": "github-repo",
+    "source_url": "https://github.com/docuowl/docuowl",
+    "metric": {
+      "stars": 1312
+    },
+    "description": "🦉 A documentation generator",
+    "topics": [
+      "documentation",
+      "documentation-generator",
+      "documentation-site",
+      "documentation-template",
+      "documentation-website"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:anvilco/spectaql",
+    "name": "spectaql",
+    "owner": "anvilco",
+    "type": "github-repo",
+    "source_url": "https://github.com/anvilco/spectaql",
+    "metric": {
+      "stars": 1229
+    },
+    "description": "Autogenerate static GraphQL API documentation",
+    "topics": [
+      "api",
+      "documentation",
+      "documentation-generator",
+      "graphql",
+      "javascript",
+      "nodejs"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:pdoc3/pdoc",
+    "name": "pdoc",
+    "owner": "pdoc3",
+    "type": "github-repo",
+    "source_url": "https://github.com/pdoc3/pdoc",
+    "metric": {
+      "stars": 1181
+    },
+    "description": "🐍 ➡️ 📜  Auto-generate API docs for Python projects",
+    "topics": [
+      "api-documentation",
+      "docs",
+      "docs-generator",
+      "docstring",
+      "docstring-documentation",
+      "docstrings",
+      "documentation",
+      "documentation-dumper",
+      "documentation-generator",
+      "documentation-tool",
+      "generator",
+      "hacktoberfest",
+      "pdoc",
+      "python",
+      "python3"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:deanpeters/product-manager-prompts",
+    "name": "product-manager-prompts",
+    "owner": "deanpeters",
+    "type": "github-repo",
+    "source_url": "https://github.com/deanpeters/product-manager-prompts",
+    "metric": {
+      "stars": 1136
+    },
+    "description": "A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini",
+    "topics": [
+      "agile",
+      "chatgpt",
+      "documentation-generator",
+      "generative-ai",
+      "product-management",
+      "product-owner"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:AnswerDotAI/fastcore",
+    "name": "fastcore",
+    "owner": "AnswerDotAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/AnswerDotAI/fastcore",
+    "metric": {
+      "stars": 1106
+    },
+    "description": "Python supercharged for the fastai library",
+    "topics": [
+      "data-structures",
+      "developer-tools",
+      "dispatch",
+      "documentation-generator",
+      "fastai",
+      "functional-programming",
+      "languages",
+      "parallel-processing",
+      "python"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:hasura/gatsby-gitbook-starter",
+    "name": "gatsby-gitbook-starter",
+    "owner": "hasura",
+    "type": "github-repo",
+    "source_url": "https://github.com/hasura/gatsby-gitbook-starter",
+    "metric": {
+      "stars": 992
+    },
+    "description": "Generate GitBook style modern docs/tutorial websites using Gatsby + MDX",
+    "topics": [
+      "algolia",
+      "docs-generator",
+      "documentation-generator",
+      "gatsby",
+      "gatsby-mdx",
+      "gatsby-starter",
+      "gitbook",
+      "markdown",
+      "mdx",
+      "syntax-highlighting"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:JuliaDocs/Documenter.jl",
+    "name": "Documenter.jl",
+    "owner": "JuliaDocs",
+    "type": "github-repo",
+    "source_url": "https://github.com/JuliaDocs/Documenter.jl",
+    "metric": {
+      "stars": 918
+    },
+    "description": "A documentation generator for Julia.",
+    "topics": [
+      "documentation-generator",
+      "documentation-tool",
+      "julia"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:sourcegraph/doctree",
+    "name": "doctree",
+    "owner": "sourcegraph",
+    "type": "github-repo",
+    "source_url": "https://github.com/sourcegraph/doctree",
+    "metric": {
+      "stars": 878
+    },
+    "description": "First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.",
+    "topics": [
+      "documentation",
+      "documentation-generator",
+      "documentation-site",
+      "elm-lang",
+      "golang",
+      "tree-sitter"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:caixw/apidoc",
+    "name": "apidoc",
+    "owner": "caixw",
+    "type": "github-repo",
+    "source_url": "https://github.com/caixw/apidoc",
+    "metric": {
+      "stars": 836
+    },
+    "description": "RESTful API 文档生成工具，支持 Go、Java、Swift、JavaScript、Rust、PHP、Python、Typescript、Kotlin 和 Ruby 等大部分语言。",
+    "topics": [
+      "api",
+      "apidoc",
+      "document",
+      "documentation-generator",
+      "go",
+      "golang",
+      "rest",
+      "rest-api",
+      "rest-api-documentation",
+      "restful",
+      "restful-api",
+      "tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:dauxio/daux.io",
+    "name": "daux.io",
+    "owner": "dauxio",
+    "type": "github-repo",
+    "source_url": "https://github.com/dauxio/daux.io",
+    "metric": {
+      "stars": 829
+    },
+    "description": "Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.",
+    "topics": [
+      "documentation-generator",
+      "documentation-tool",
+      "markdown",
+      "markdown-to-html"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:dec0dOS/amazing-github-template",
+    "name": "amazing-github-template",
+    "owner": "dec0dOS",
+    "type": "github-repo",
+    "source_url": "https://github.com/dec0dOS/amazing-github-template",
+    "metric": {
+      "stars": 711
+    },
+    "description": "🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. ",
+    "topics": [
+      "bug-tracker",
+      "code-of-conduct",
+      "code-of-conduct-template",
+      "code-scanning",
+      "docs",
+      "docs-generator",
+      "documentation",
+      "documentation-generator",
+      "github",
+      "github-actions",
+      "issue",
+      "issues",
+      "labels",
+      "merge-request",
+      "pr",
+      "pull-requests",
+      "pull-requests-template",
+      "readme",
+      "template"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  },
+  {
+    "id": "github:colinwilson/lotusdocs",
+    "name": "lotusdocs",
+    "owner": "colinwilson",
+    "type": "github-repo",
+    "source_url": "https://github.com/colinwilson/lotusdocs",
+    "metric": {
+      "stars": 693
+    },
+    "description": "📖 A free, lightweight, modern documentation theme for Hugo",
+    "topics": [
+      "bootstrap5",
+      "documentation",
+      "documentation-generator",
+      "documentation-theme",
+      "hugo",
+      "hugo-docs-theme",
+      "hugo-documentation",
+      "hugo-site",
+      "hugo-theme",
+      "jamstack",
+      "lotus-docs",
+      "responsive",
+      "vercel"
+    ],
+    "license": "MIT",
+    "seed_topic": "documentation-generator"
+  }
+]

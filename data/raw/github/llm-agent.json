@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/microsoft/autogen",
     "metric": {
-      "stars": 61053
+      "stars": 61056
     },
     "description": "A programming framework for agentic AI",
     "topics": [
@@ -63,7 +63,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/agentscope-ai/agentscope",
     "metric": {
-      "stars": 31944
+      "stars": 31950
     },
     "description": "Build and run agents you can see, understand and trust.",
     "topics": [
@@ -125,7 +125,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/titanwings/distilly",
     "metric": {
-      "stars": 24867
+      "stars": 24869
     },
     "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
     "topics": [
@@ -178,7 +178,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/HKUDS/DeepCode",
     "metric": {
-      "stars": 16573
+      "stars": 16574
     },
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "topics": [
@@ -324,7 +324,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/strands-agents/harness-sdk",
     "metric": {
-      "stars": 7361
+      "stars": 7364
     },
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
     "topics": [
@@ -378,7 +378,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/Mai-with-u/MaiBot",
     "metric": {
-      "stars": 5989
+      "stars": 5990
     },
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.",
     "topics": [
@@ -402,7 +402,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/areal-project/AReaL",
     "metric": {
-      "stars": 5775
+      "stars": 5776
     },
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "topics": [
@@ -696,7 +696,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/yilewang/llm-for-zotero",
     "metric": {
-      "stars": 3069
+      "stars": 3071
     },
     "description": "An open-source research agent system for your Zotero library.",
     "topics": [

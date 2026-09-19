@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:microsoft/azure-skills@azure-compliance",
+    "name": "microsoft/azure-skills@azure-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
+    "metric": {
+      "installs": 588100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoft/azure-skills@azure-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:wshobson/agents@accessibility-compliance",
+    "name": "wshobson/agents@accessibility-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/accessibility-compliance",
+    "metric": {
+      "installs": 13300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@accessibility-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:wshobson/agents@pci-compliance",
+    "name": "wshobson/agents@pci-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/pci-compliance",
+    "metric": {
+      "installs": 9600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@pci-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@customs-trade-compliance",
+    "name": "affaan-m/ecc@customs-trade-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/customs-trade-compliance",
+    "metric": {
+      "installs": 8500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@customs-trade-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@healthcare-phi-compliance",
+    "name": "affaan-m/ecc@healthcare-phi-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/healthcare-phi-compliance",
+    "metric": {
+      "installs": 7800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@healthcare-phi-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@hipaa-compliance",
+    "name": "affaan-m/ecc@hipaa-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/hipaa-compliance",
+    "metric": {
+      "installs": 7300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@hipaa-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:trailofbits/skills@spec-to-code-compliance",
+    "name": "trailofbits/skills@spec-to-code-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/trailofbits/skills/spec-to-code-compliance",
+    "metric": {
+      "installs": 5100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add trailofbits/skills@spec-to-code-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@compliance-check",
+    "name": "anthropics/knowledge-work-plugins@compliance-check",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/compliance-check",
+    "metric": {
+      "installs": 3000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@compliance-check",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@compliance-tracking",
+    "name": "anthropics/knowledge-work-plugins@compliance-tracking",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/compliance-tracking",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@compliance-tracking",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:arize-ai/arize-skills@arize-compliance-audit",
+    "name": "arize-ai/arize-skills@arize-compliance-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/arize-ai/arize-skills/arize-compliance-audit",
+    "metric": {
+      "installs": 2300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add arize-ai/arize-skills@arize-compliance-audit",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:samber/cc-skills@snyk-agent-scan-compliance",
+    "name": "samber/cc-skills@snyk-agent-scan-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills/snyk-agent-scan-compliance",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills@snyk-agent-scan-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@agent-owasp-compliance",
+    "name": "github/awesome-copilot@agent-owasp-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/agent-owasp-compliance",
+    "metric": {
+      "installs": 1500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@agent-owasp-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:nexscope-ai/amazon-skills@amazon-product-compliance",
+    "name": "nexscope-ai/amazon-skills@amazon-product-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/amazon-skills/amazon-product-compliance",
+    "metric": {
+      "installs": 985
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/amazon-skills@amazon-product-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:nexscope-ai/ecommerce-skills@tiktok-shop-compliance",
+    "name": "nexscope-ai/ecommerce-skills@tiktok-shop-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance",
+    "metric": {
+      "installs": 853
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/ecommerce-skills@tiktok-shop-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:davila7/claude-code-templates@security-compliance",
+    "name": "davila7/claude-code-templates@security-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/davila7/claude-code-templates/security-compliance",
+    "metric": {
+      "installs": 847
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add davila7/claude-code-templates@security-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:nexscope-ai/ecommerce-skills@shopify-tax-compliance",
+    "name": "nexscope-ai/ecommerce-skills@shopify-tax-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/shopify-tax-compliance",
+    "metric": {
+      "installs": 811
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/ecommerce-skills@shopify-tax-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:anthropics/claude-for-legal@entity-compliance",
+    "name": "anthropics/claude-for-legal@entity-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/claude-for-legal/entity-compliance",
+    "metric": {
+      "installs": 560
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/claude-for-legal@entity-compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:datadog-labs/agent-skills@dd-audit-compliance-report",
+    "name": "datadog-labs/agent-skills@dd-audit-compliance-report",
+    "type": "skill",
+    "source_url": "https://skills.sh/datadog-labs/agent-skills/dd-audit-compliance-report",
+    "metric": {
+      "installs": 421
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add datadog-labs/agent-skills@dd-audit-compliance-report",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@compliance",
+    "name": "anthropics/knowledge-work-plugins@compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/compliance",
+    "metric": {
+      "installs": 216
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@compliance",
+    "seed_keyword": "compliance"
+  },
+  {
+    "id": "skillssh:nvidia/skillspector@jp-compliance-reporter",
+    "name": "nvidia/skillspector@jp-compliance-reporter",
+    "type": "skill",
+    "source_url": "https://skills.sh/nvidia/skillspector/jp-compliance-reporter",
+    "metric": {
+      "installs": 194
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nvidia/skillspector@jp-compliance-reporter",
+    "seed_keyword": "compliance"
+  }
+]

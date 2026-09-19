@@ -6,7 +6,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/AgriciDaniel/claude-seo",
     "metric": {
-      "stars": 17172
+      "stars": 17176
     },
     "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
     "topics": [
@@ -53,7 +53,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/mautic/mautic",
     "metric": {
-      "stars": 10529
+      "stars": 10531
     },
     "description": "Mautic: Open Source Marketing Automation Software.",
     "topics": [
@@ -80,7 +80,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/AgriciDaniel/claude-ads",
     "metric": {
-      "stars": 9401
+      "stars": 9402
     },
     "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.",
     "topics": [
@@ -124,7 +124,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/leaperone/MultiPost-Extension",
     "metric": {
-      "stars": 3496
+      "stars": 3498
     },
     "description": "A browser extension that helps users publish content to multiple social media platforms with one click.",
     "topics": [
@@ -145,7 +145,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/eracle/OpenOutreach",
     "metric": {
-      "stars": 3032
+      "stars": 3033
     },
     "description": "Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install.",
     "topics": [
@@ -316,7 +316,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp",
     "metric": {
-      "stars": 1974
+      "stars": 1977
     },
     "description": "Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remote MCP, OAuth login, no API keys. By Ryze AI.",
     "topics": [
@@ -484,7 +484,7 @@
     "type": "github-repo",
     "source_url": "https://github.com/ChatbotXIO/ChatbotX",
     "metric": {
-      "stars": 805
+      "stars": 806
     },
     "description": "Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Telegram, Zalo, Email, API, and Webchat 🤖",
     "topics": [

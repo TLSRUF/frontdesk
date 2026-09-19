@@ -2,6 +2,7 @@
 // 매칭 실패 항목은 unclassified.json으로 분리한다.
 import { readFileSync, readdirSync, writeFileSync, mkdirSync } from "node:fs";
 import { allCategories } from "../taxonomy.mjs";
+import { bestMatch } from "./lib/classify-core.mjs";
 
 const RAW_DIRS = ["data/raw/github", "data/raw/skillssh"];
 const CATEGORIES = allCategories();
@@ -23,25 +24,21 @@ function loadRaw() {
   return items;
 }
 
-function haystack(item) {
-  return [item.name, item.description, ...(item.topics || []), item.seed_topic, item.seed_keyword]
-    .filter(Boolean)
-    .join(" ")
-    .toLowerCase();
+// 검색 시드(seed_topic/seed_keyword)는 skills.sh의 퍼지/시맨틱 검색이 관련 없는 결과도 섞어
+// 반환하는 경우가 있어(예: "rag" 검색에 "azure-storage"가 걸림) 신뢰도가 낮다.
+// 그래서 1차는 name+description+topics(신뢰도 높음)만으로 매칭하고,
+// 실패했을 때만 2차로 seed까지 포함해 재시도한다(신뢰도 낮음, weak_match로 표시).
+function haystack(item, includeSeed) {
+  const parts = [item.name, item.description, ...(item.topics || [])];
+  if (includeSeed) parts.push(item.seed_topic, item.seed_keyword);
+  return parts.filter(Boolean).join(" ");
 }
 
 function classifyOne(item) {
-  const text = haystack(item);
-  let best = null;
-  let bestHits = 0;
-  for (const cat of CATEGORIES) {
-    const hits = cat.keywords.filter((kw) => text.includes(kw)).length;
-    if (hits > bestHits) {
-      bestHits = hits;
-      best = cat;
-    }
-  }
-  return bestHits > 0 ? best : null;
+  const strong = bestMatch(haystack(item, false), CATEGORIES);
+  if (strong) return { cat: strong, weak: false };
+  const weak = bestMatch(haystack(item, true), CATEGORIES);
+  return weak ? { cat: weak, weak: true } : null;
 }
 
 const raw = loadRaw();
@@ -63,8 +60,9 @@ for (const item of raw) {
 const catalog = [];
 const unclassified = [];
 
+let weakCount = 0;
 for (const item of dedup.values()) {
-  const cat = classifyOne(item);
+  const result = classifyOne(item);
   const entry = {
     id: item.id,
     name: item.name,
@@ -74,11 +72,16 @@ for (const item of dedup.values()) {
     description: item.description || "",
     license: item.license || null,
     install: item.install || (item.type === "github-repo" ? `git clone ${item.source_url}` : ""),
-    category: cat ? cat.id : null,
-    category_name: cat ? `${cat.dept} > ${cat.name}` : null
+    category: result ? result.cat.id : null,
+    category_name: result ? `${result.cat.dept} > ${result.cat.name}` : null,
+    weak_match: result ? result.weak : undefined
   };
-  if (cat) catalog.push(entry);
-  else unclassified.push(entry);
+  if (result) {
+    catalog.push(entry);
+    if (result.weak) weakCount++;
+  } else {
+    unclassified.push(entry);
+  }
 }
 
 // 부서/카테고리, 그다음 인기도(stars 또는 installs) 순 정렬
@@ -94,5 +97,5 @@ writeFileSync("data/catalog.json", JSON.stringify(catalog, null, 2));
 writeFileSync("data/unclassified.json", JSON.stringify(unclassified, null, 2));
 
 console.log(`[classify] 원본 ${raw.length}건 -> 중복제거 ${dedup.size}건`);
-console.log(`[classify] 분류됨 ${catalog.length}건 -> data/catalog.json`);
+console.log(`[classify] 분류됨 ${catalog.length}건 (약한 매칭 ${weakCount}건 포함) -> data/catalog.json`);
 console.log(`[classify] 미분류 ${unclassified.length}건 -> data/unclassified.json`);

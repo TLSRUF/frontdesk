@@ -1,0 +1,223 @@
+[
+  {
+    "id": "skillssh:googleworkspace/cli@persona-customer-support",
+    "name": "googleworkspace/cli@persona-customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/googleworkspace/cli/persona-customer-support",
+    "metric": {
+      "installs": 27800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add googleworkspace/cli@persona-customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@customer-escalation",
+    "name": "anthropics/knowledge-work-plugins@customer-escalation",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/customer-escalation",
+    "metric": {
+      "installs": 2600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@customer-escalation",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:daffy0208/ai-dev-standards@customer-support-builder",
+    "name": "daffy0208/ai-dev-standards@customer-support-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/daffy0208/ai-dev-standards/customer-support-builder",
+    "metric": {
+      "installs": 204
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add daffy0208/ai-dev-standards@customer-support-builder",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:mengto/skills@customer-support-verification",
+    "name": "mengto/skills@customer-support-verification",
+    "type": "skill",
+    "source_url": "https://skills.sh/mengto/skills/customer-support-verification",
+    "metric": {
+      "installs": 144
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mengto/skills@customer-support-verification",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:maddhruv/absolute@customer-support-ops",
+    "name": "maddhruv/absolute@customer-support-ops",
+    "type": "skill",
+    "source_url": "https://skills.sh/maddhruv/absolute/customer-support-ops",
+    "metric": {
+      "installs": 127
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add maddhruv/absolute@customer-support-ops",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:shipshitdev/skills@support-systems-architect",
+    "name": "shipshitdev/skills@support-systems-architect",
+    "type": "skill",
+    "source_url": "https://skills.sh/shipshitdev/skills/support-systems-architect",
+    "metric": {
+      "installs": 122
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shipshitdev/skills@support-systems-architect",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:twilio/ai@twilio-customer-support-architect",
+    "name": "twilio/ai@twilio-customer-support-architect",
+    "type": "skill",
+    "source_url": "https://skills.sh/twilio/ai/twilio-customer-support-architect",
+    "metric": {
+      "installs": 116
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add twilio/ai@twilio-customer-support-architect",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:finsilabs/awesome-ecommerce-skills@customer-support-integration",
+    "name": "finsilabs/awesome-ecommerce-skills@customer-support-integration",
+    "type": "skill",
+    "source_url": "https://skills.sh/finsilabs/awesome-ecommerce-skills/customer-support-integration",
+    "metric": {
+      "installs": 78
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add finsilabs/awesome-ecommerce-skills@customer-support-integration",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:rmyndharis/antigravity-skills@customer-support",
+    "name": "rmyndharis/antigravity-skills@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/rmyndharis/antigravity-skills/customer-support",
+    "metric": {
+      "installs": 75
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rmyndharis/antigravity-skills@customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:sylphxai/skills@customer-support-operations",
+    "name": "sylphxai/skills@customer-support-operations",
+    "type": "skill",
+    "source_url": "https://skills.sh/sylphxai/skills/customer-support-operations",
+    "metric": {
+      "installs": 66
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sylphxai/skills@customer-support-operations",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:tatat/agents-playground@customer-support",
+    "name": "tatat/agents-playground@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/tatat/agents-playground/customer-support",
+    "metric": {
+      "installs": 43
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add tatat/agents-playground@customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:whawkinsiv/solo-founder-skills@support",
+    "name": "whawkinsiv/solo-founder-skills@support",
+    "type": "skill",
+    "source_url": "https://skills.sh/whawkinsiv/solo-founder-skills/support",
+    "metric": {
+      "installs": 26
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add whawkinsiv/solo-founder-skills@support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:itsimonfredlingjack/codex-dev-plugin@customer-support",
+    "name": "itsimonfredlingjack/codex-dev-plugin@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/itsimonfredlingjack/codex-dev-plugin/customer-support",
+    "metric": {
+      "installs": 10
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add itsimonfredlingjack/codex-dev-plugin@customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:herdiansah/antigravity-skills-master@customer-support",
+    "name": "herdiansah/antigravity-skills-master@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/herdiansah/antigravity-skills-master/customer-support",
+    "metric": {
+      "installs": 7
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add herdiansah/antigravity-skills-master@customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:sidetoolco/org-charts@customer-support",
+    "name": "sidetoolco/org-charts@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/sidetoolco/org-charts/customer-support",
+    "metric": {
+      "installs": 7
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sidetoolco/org-charts@customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:notque/vexjoy-agent@customer-support",
+    "name": "notque/vexjoy-agent@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/notque/vexjoy-agent/customer-support",
+    "metric": {
+      "installs": 5
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add notque/vexjoy-agent@customer-support",
+    "seed_keyword": "customer support"
+  },
+  {
+    "id": "skillssh:superlowburn/skill-customer-support@customer-support",
+    "name": "superlowburn/skill-customer-support@customer-support",
+    "type": "skill",
+    "source_url": "https://skills.sh/superlowburn/skill-customer-support/customer-support",
+    "metric": {
+      "installs": 3
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add superlowburn/skill-customer-support@customer-support",
+    "seed_keyword": "customer support"
+  }
+]

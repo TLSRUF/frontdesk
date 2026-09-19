@@ -1,0 +1,860 @@
+[
+  {
+    "id": "github:Snailclimb/JavaGuide",
+    "name": "JavaGuide",
+    "owner": "Snailclimb",
+    "type": "github-repo",
+    "source_url": "https://github.com/Snailclimb/JavaGuide",
+    "metric": {
+      "stars": 158675
+    },
+    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "topics": [
+      "agent",
+      "ai",
+      "context-engineering",
+      "deepseek",
+      "interview",
+      "java",
+      "mcp",
+      "mysql",
+      "redis",
+      "redisson",
+      "skills",
+      "springai",
+      "system-design"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:infiniflow/ragflow",
+    "name": "ragflow",
+    "owner": "infiniflow",
+    "type": "github-repo",
+    "source_url": "https://github.com/infiniflow/ragflow",
+    "metric": {
+      "stars": 90969
+    },
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "topics": [
+      "agent-harness",
+      "agentic-ai",
+      "agentic-nagive",
+      "agentic-retrieval",
+      "agentic-search",
+      "ai",
+      "ai-agents",
+      "context-engine",
+      "context-engineering",
+      "context-management",
+      "harness-engineering",
+      "knowledge-compilation",
+      "rag",
+      "retrieval-augmented-generation",
+      "search-harness"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:headroomlabs-ai/headroom",
+    "name": "headroom",
+    "owner": "headroomlabs-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/headroomlabs-ai/headroom",
+    "metric": {
+      "stars": 72976
+    },
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:Fission-AI/OpenSpec",
+    "name": "OpenSpec",
+    "owner": "Fission-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/Fission-AI/OpenSpec",
+    "metric": {
+      "stars": 69421
+    },
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "topics": [
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdd",
+      "sdlc",
+      "spec",
+      "spec-driven-development",
+      "specification"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:shanraisshan/claude-code-best-practice",
+    "name": "claude-code-best-practice",
+    "owner": "shanraisshan",
+    "type": "github-repo",
+    "source_url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "metric": {
+      "stars": 66101
+    },
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-engineering",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "best-practices",
+      "boris",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-agents",
+      "claude-code-best-practices",
+      "claude-code-commands",
+      "claude-code-skills",
+      "context-engineering",
+      "pakistan",
+      "pakistani-developer",
+      "vibe-coding"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:gsd-build/get-shit-done",
+    "name": "get-shit-done",
+    "owner": "gsd-build",
+    "type": "github-repo",
+    "source_url": "https://github.com/gsd-build/get-shit-done",
+    "metric": {
+      "stars": 64500
+    },
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+    "topics": [
+      "claude-code",
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:bmad-code-org/BMAD-METHOD",
+    "name": "BMAD-METHOD",
+    "owner": "bmad-code-org",
+    "type": "github-repo",
+    "source_url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "metric": {
+      "stars": 53198
+    },
+    "description": "Breakthrough Method for Agile Ai Driven Development",
+    "topics": [
+      "agile",
+      "ai",
+      "context-engineering",
+      "sdlc",
+      "spec-driven-development"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:bojieli/ai-agent-book",
+    "name": "ai-agent-book",
+    "owner": "bojieli",
+    "type": "github-repo",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "metric": {
+      "stars": 48566
+    },
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agent",
+      "book",
+      "coding-agent",
+      "context-engineering",
+      "large-language-models",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "multimodal",
+      "rag",
+      "reinforcement-learning"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:VectifyAI/PageIndex",
+    "name": "PageIndex",
+    "owner": "VectifyAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/VectifyAI/PageIndex",
+    "metric": {
+      "stars": 35744
+    },
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:virgiliojr94/book-to-skill",
+    "name": "book-to-skill",
+    "owner": "virgiliojr94",
+    "type": "github-repo",
+    "source_url": "https://github.com/virgiliojr94/book-to-skill",
+    "metric": {
+      "stars": 31134
+    },
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "book-to-skill",
+      "context-engineering",
+      "document-processing",
+      "edtech",
+      "knowledge-base",
+      "knowledge-management",
+      "llm",
+      "pdf-to-markdown",
+      "rag",
+      "self-study",
+      "study-tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:topoteretes/cognee",
+    "name": "cognee",
+    "owner": "topoteretes",
+    "type": "github-repo",
+    "source_url": "https://github.com/topoteretes/cognee",
+    "metric": {
+      "stars": 30821
+    },
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database",
+      "graph-rag",
+      "help-wanted",
+      "knowledge",
+      "knowledge-graph",
+      "memory-management",
+      "open-source",
+      "vector-database"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:OthmanAdi/planning-with-files",
+    "name": "planning-with-files",
+    "owner": "OthmanAdi",
+    "type": "github-repo",
+    "source_url": "https://github.com/OthmanAdi/planning-with-files",
+    "metric": {
+      "stars": 26985
+    },
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+    "topics": [
+      "agent-skills",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "coding-agent",
+      "context-engineering",
+      "context-rot",
+      "cursor",
+      "github-copilot",
+      "hermes-plugin",
+      "hermes-skill",
+      "llm-agents",
+      "long-running-agents",
+      "manus",
+      "multi-agent-systems",
+      "planning",
+      "session-recovery"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:deepset-ai/haystack",
+    "name": "haystack",
+    "owner": "deepset-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/deepset-ai/haystack",
+    "metric": {
+      "stars": 26545
+    },
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "topics": [
+      "agent-framework",
+      "agentic-ai",
+      "agentic-rag",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "framework",
+      "genai",
+      "generative-ai",
+      "information-retrieval",
+      "large-language-models",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "orchestration",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:Canner/WrenAI",
+    "name": "WrenAI",
+    "owner": "Canner",
+    "type": "github-repo",
+    "source_url": "https://github.com/Canner/WrenAI",
+    "metric": {
+      "stars": 17686
+    },
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "topics": [
+      "ai-agents",
+      "bigquery",
+      "business-intelligence",
+      "charts",
+      "clickhouse",
+      "context-engineering",
+      "dashboard",
+      "databricks",
+      "duckdb",
+      "genbi",
+      "generative-ai",
+      "llm",
+      "mcp",
+      "postgresql",
+      "rag",
+      "semantic-layer",
+      "snowflake",
+      "sql",
+      "text-to-sql",
+      "text2sql"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:semantica-agi/semantica",
+    "name": "semantica",
+    "owner": "semantica-agi",
+    "type": "github-repo",
+    "source_url": "https://github.com/semantica-agi/semantica",
+    "metric": {
+      "stars": 13219
+    },
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-governance",
+      "ai-infrastructure",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "data-engineering",
+      "decision-intelligence",
+      "developer-tools",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "semantic-search"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:cocoindex-io/cocoindex",
+    "name": "cocoindex",
+    "owner": "cocoindex-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/cocoindex-io/cocoindex",
+    "metric": {
+      "stars": 11577
+    },
+    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+    "topics": [
+      "agentic-data-framework",
+      "ai",
+      "ai-agents",
+      "change-data-capture",
+      "codebase-intelligence",
+      "context-engineering",
+      "data-engineering",
+      "data-indexing",
+      "data-processing",
+      "etl",
+      "help-wanted",
+      "indexing",
+      "knowledge-graph",
+      "llm",
+      "long-horizon-agent",
+      "python",
+      "rag",
+      "real-time",
+      "rust",
+      "semantic-search"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:alibaba/spring-ai-alibaba",
+    "name": "spring-ai-alibaba",
+    "owner": "alibaba",
+    "type": "github-repo",
+    "source_url": "https://github.com/alibaba/spring-ai-alibaba",
+    "metric": {
+      "stars": 10881
+    },
+    "description": "Agentic AI Framework for Java Developers",
+    "topics": [
+      "agentic",
+      "artificial-intelligence",
+      "context-engineering",
+      "graph",
+      "java",
+      "multi-agent",
+      "reactagent",
+      "spring-ai",
+      "workflow"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:open-gsd/gsd-core",
+    "name": "gsd-core",
+    "owner": "open-gsd",
+    "type": "github-repo",
+    "source_url": "https://github.com/open-gsd/gsd-core",
+    "metric": {
+      "stars": 9603
+    },
+    "description": "Git. Ship. Done - Core",
+    "topics": [
+      "claude-code",
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:trailhq/Graft",
+    "name": "Graft",
+    "owner": "trailhq",
+    "type": "github-repo",
+    "source_url": "https://github.com/trailhq/Graft",
+    "metric": {
+      "stars": 8613
+    },
+    "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "code-graph",
+      "codex",
+      "context-engineering",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "open-source",
+      "openai",
+      "tree-sitter"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:gsd-build/gsd-2",
+    "name": "gsd-2",
+    "owner": "gsd-build",
+    "type": "github-repo",
+    "source_url": "https://github.com/gsd-build/gsd-2",
+    "metric": {
+      "stars": 7783
+    },
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+    "topics": [
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:plastic-labs/honcho",
+    "name": "honcho",
+    "owner": "plastic-labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/plastic-labs/honcho",
+    "metric": {
+      "stars": 7247
+    },
+    "description": " Memory library for building stateful agents",
+    "topics": [
+      "agent-memory",
+      "agentic-rag",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "context-engineering",
+      "continual-learning",
+      "dsh-plugin",
+      "llm",
+      "memory"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:volcengine/MineContext",
+    "name": "MineContext",
+    "owner": "volcengine",
+    "type": "github-repo",
+    "source_url": "https://github.com/volcengine/MineContext",
+    "metric": {
+      "stars": 5519
+    },
+    "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+    "topics": [
+      "agent",
+      "context-engineering",
+      "electron",
+      "embedding-models",
+      "javascript",
+      "memory",
+      "proactive-ai",
+      "python",
+      "python3",
+      "rag",
+      "react",
+      "typescript",
+      "vector-database",
+      "vision-language-model"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:ai-boost/awesome-harness-engineering",
+    "name": "awesome-harness-engineering",
+    "owner": "ai-boost",
+    "type": "github-repo",
+    "source_url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "metric": {
+      "stars": 4373
+    },
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "topics": [
+      "agent-harness",
+      "agent-memory",
+      "agent-orchestration",
+      "ai-agent-harness",
+      "ai-agents",
+      "awesome-list",
+      "context-engineering",
+      "harness-engineering",
+      "mcp"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:microsoft/apm",
+    "name": "apm",
+    "owner": "microsoft",
+    "type": "github-repo",
+    "source_url": "https://github.com/microsoft/apm",
+    "metric": {
+      "stars": 3844
+    },
+    "description": "Agent Package Manager",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex-cli",
+      "context-engineering",
+      "github-copilot",
+      "package-manager",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:yvgude/lean-ctx",
+    "name": "lean-ctx",
+    "owner": "yvgude",
+    "type": "github-repo",
+    "source_url": "https://github.com/yvgude/lean-ctx",
+    "metric": {
+      "stars": 3809
+    },
+    "description": "LeanCTX — Context Intelligence for AI systems.",
+    "topics": [
+      "agentic-coding",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "context-engineering",
+      "context-intelligence",
+      "context-layer",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "lean-context",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "reduce-token-costs",
+      "rust",
+      "token-optimization"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:memodb-io/Acontext",
+    "name": "Acontext",
+    "owner": "memodb-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/memodb-io/Acontext",
+    "metric": {
+      "stars": 3690
+    },
+    "description": "Agent Skills as a Memory Layer",
+    "topics": [
+      "agent",
+      "agent-development-kit",
+      "agent-observability",
+      "ai-agent",
+      "anthropic",
+      "context-data-platform",
+      "context-engineering",
+      "data-platform",
+      "llm",
+      "llm-observability",
+      "llmops",
+      "memory",
+      "openai",
+      "self-evolving",
+      "self-learning"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:foryourhealth111-pixel/Vibe-Skills",
+    "name": "Vibe-Skills",
+    "owner": "foryourhealth111-pixel",
+    "type": "github-repo",
+    "source_url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+    "metric": {
+      "stars": 3345
+    },
+    "description": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
+    "topics": [
+      "agent-framework",
+      "agent-skills",
+      "agentic-coding",
+      "ai-agents",
+      "ai-scientist",
+      "ai-skills",
+      "ai-workflow",
+      "automation",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "developer-tools",
+      "dsh-plugin",
+      "llm",
+      "multi-agent",
+      "prompt-engineering",
+      "skills",
+      "vibe-coding",
+      "vibecoding",
+      "workflow-automation"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:Meirtz/Awesome-Context-Engineering",
+    "name": "Awesome-Context-Engineering",
+    "owner": "Meirtz",
+    "type": "github-repo",
+    "source_url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+    "metric": {
+      "stars": 3309
+    },
+    "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agi",
+      "awesome-list",
+      "cognitive-science",
+      "context-engineering",
+      "llm",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:neomjs/neo",
+    "name": "neo",
+    "owner": "neomjs",
+    "type": "github-repo",
+    "source_url": "https://github.com/neomjs/neo",
+    "metric": {
+      "stars": 3279
+    },
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-agent",
+      "ai-memory",
+      "context-engineering",
+      "frontend",
+      "frontend-runtime",
+      "graph-rag",
+      "javascript",
+      "json",
+      "knowledge-graph",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "mcp-server",
+      "multi-agent-systems",
+      "rag",
+      "scene-graph",
+      "semantic-search",
+      "web-workers"
+    ],
+    "license": "MIT",
+    "seed_topic": "context-engineering"
+  },
+  {
+    "id": "github:wquguru/harness-books",
+    "name": "harness-books",
+    "owner": "wquguru",
+    "type": "github-repo",
+    "source_url": "https://github.com/wquguru/harness-books",
+    "metric": {
+      "stars": 3115
+    },
+    "description": "📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-engineering",
+      "claude-code",
+      "codex",
+      "context-engineering",
+      "developer-tools",
+      "llm",
+      "prompt-engineering"
+    ],
+    "license": null,
+    "seed_topic": "context-engineering"
+  }
+]

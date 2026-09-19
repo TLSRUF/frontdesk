@@ -1,0 +1,916 @@
+[
+  {
+    "id": "github:twentyhq/twenty",
+    "name": "twenty",
+    "owner": "twentyhq",
+    "type": "github-repo",
+    "source_url": "https://github.com/twentyhq/twenty",
+    "metric": {
+      "stars": 57019
+    },
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "topics": [
+      "crm",
+      "crm-system",
+      "customer",
+      "good-first-issue",
+      "graphql",
+      "hacktoberfest",
+      "javascript",
+      "marketing",
+      "monorepo",
+      "nestjs",
+      "open-source",
+      "postgresql",
+      "react",
+      "reactjs",
+      "sales",
+      "typescript",
+      "web"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:frappe/erpnext",
+    "name": "erpnext",
+    "owner": "frappe",
+    "type": "github-repo",
+    "source_url": "https://github.com/frappe/erpnext",
+    "metric": {
+      "stars": 39363
+    },
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "topics": [
+      "accounting",
+      "asset-management",
+      "crm",
+      "distribution",
+      "erp",
+      "erpnext",
+      "frappe",
+      "healthcare",
+      "hrms",
+      "manufacturing",
+      "point-of-sale",
+      "procurement",
+      "project-management",
+      "python",
+      "retail",
+      "support"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:hcengineering/platform",
+    "name": "platform",
+    "owner": "hcengineering",
+    "type": "github-repo",
+    "source_url": "https://github.com/hcengineering/platform",
+    "metric": {
+      "stars": 27714
+    },
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+    "topics": [
+      "applicant-tracking-system",
+      "chat-application",
+      "crm",
+      "crm-platform",
+      "hrms",
+      "human-resources",
+      "issue-management",
+      "issue-tracker",
+      "jira-alternative",
+      "project-management",
+      "qms",
+      "support",
+      "team-management",
+      "team-platform",
+      "wiki"
+    ],
+    "license": "EPL-2.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:monicahq/monica",
+    "name": "monica",
+    "owner": "monicahq",
+    "type": "github-repo",
+    "source_url": "https://github.com/monicahq/monica",
+    "metric": {
+      "stars": 25334
+    },
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "topics": [
+      "crm",
+      "family",
+      "friends",
+      "hacktoberfest",
+      "laravel",
+      "php",
+      "prm",
+      "social"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:nocobase/nocobase",
+    "name": "nocobase",
+    "owner": "nocobase",
+    "type": "github-repo",
+    "source_url": "https://github.com/nocobase/nocobase",
+    "metric": {
+      "stars": 24282
+    },
+    "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+    "topics": [
+      "admin-dashboard",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistant",
+      "ai-tools",
+      "crm",
+      "crud",
+      "dsh-plugin",
+      "erp",
+      "internal-tool",
+      "internal-tools",
+      "low-code",
+      "lowcode",
+      "no-code",
+      "nocode",
+      "project-management",
+      "salesforce",
+      "self-hosted",
+      "workflows"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:krayin/laravel-crm",
+    "name": "laravel-crm",
+    "owner": "krayin",
+    "type": "github-repo",
+    "source_url": "https://github.com/krayin/laravel-crm",
+    "metric": {
+      "stars": 23899
+    },
+    "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
+    "topics": [
+      "cloud",
+      "cloudhosting",
+      "crm",
+      "crm-multi-tenant-saas",
+      "crm-platform",
+      "hacktoberfest",
+      "laravel",
+      "laravel-application",
+      "laravel-crm",
+      "laravel-framework",
+      "laravel-package",
+      "opensource",
+      "opensource-crm",
+      "opensource-crm-framework",
+      "php",
+      "vue",
+      "vuejs"
+    ],
+    "license": "MIT",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:akaunting/akaunting",
+    "name": "akaunting",
+    "owner": "akaunting",
+    "type": "github-repo",
+    "source_url": "https://github.com/akaunting/akaunting",
+    "metric": {
+      "stars": 10127
+    },
+    "description": "Online Accounting Software",
+    "topics": [
+      "accounting",
+      "akaunting",
+      "balance",
+      "billing",
+      "bookkeeping",
+      "budget",
+      "crm",
+      "erp",
+      "expenses",
+      "finance",
+      "fintech",
+      "invoices",
+      "invoicing",
+      "laravel",
+      "laravel-application",
+      "money",
+      "payments",
+      "payroll",
+      "php"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:idurar/idurar-erp-crm",
+    "name": "idurar-erp-crm",
+    "owner": "idurar",
+    "type": "github-repo",
+    "source_url": "https://github.com/idurar/idurar-erp-crm",
+    "metric": {
+      "stars": 8818
+    },
+    "description": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+    "topics": [
+      "accounting",
+      "accounting-software",
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "e-commerce",
+      "ecommerce",
+      "erp",
+      "erp-application",
+      "erp-software",
+      "invoice",
+      "invoice-software",
+      "invoicing",
+      "invoicing-application",
+      "invoicing-software",
+      "mern-project",
+      "mern-stack",
+      "mongoose",
+      "open-source-crm",
+      "open-source-erp"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:ever-co/ever-gauzy",
+    "name": "ever-gauzy",
+    "owner": "ever-co",
+    "type": "github-repo",
+    "source_url": "https://github.com/ever-co/ever-gauzy",
+    "metric": {
+      "stars": 7749
+    },
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "topics": [
+      "accounting",
+      "billing",
+      "bookkeeping",
+      "crm",
+      "crm-platform",
+      "erp",
+      "expenses",
+      "hr",
+      "human-resources",
+      "invoices",
+      "invoicing",
+      "issue-tracker",
+      "payroll",
+      "productivity",
+      "project-management",
+      "salary",
+      "team-management",
+      "time-tracker",
+      "time-tracking",
+      "timetracking"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:Dolibarr/dolibarr",
+    "name": "dolibarr",
+    "owner": "Dolibarr",
+    "type": "github-repo",
+    "source_url": "https://github.com/Dolibarr/dolibarr",
+    "metric": {
+      "stars": 7630
+    },
+    "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+    "topics": [
+      "accounting",
+      "agenda",
+      "crm",
+      "erp",
+      "hacktoberfest",
+      "human-resource-managment",
+      "invoice",
+      "invoices",
+      "invoicing",
+      "mysql",
+      "orders",
+      "php",
+      "postgresql",
+      "proposal",
+      "purchase",
+      "quotations",
+      "sales",
+      "stock",
+      "stocks",
+      "suppliers"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:openblocks-dev/openblocks",
+    "name": "openblocks",
+    "owner": "openblocks-dev",
+    "type": "github-repo",
+    "source_url": "https://github.com/openblocks-dev/openblocks",
+    "metric": {
+      "stars": 6238
+    },
+    "description": "🔥 🔥 🔥 The Open Source Retool Alternative",
+    "topics": [
+      "admin-dashboard",
+      "app-builder",
+      "app-development",
+      "business-intelligence",
+      "clickhouse",
+      "crm",
+      "crud-application",
+      "dashboard",
+      "data-source",
+      "gui",
+      "internal-tools",
+      "low-code",
+      "low-code-framework",
+      "low-code-platform",
+      "mongodb",
+      "postgres",
+      "react",
+      "rest-api",
+      "ui-builder"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:SuiteCRM/SuiteCRM",
+    "name": "SuiteCRM",
+    "owner": "SuiteCRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/SuiteCRM/SuiteCRM",
+    "metric": {
+      "stars": 5752
+    },
+    "description": "SuiteCRM - Open source CRM for the world",
+    "topics": [
+      "accounts",
+      "agplv3",
+      "cases",
+      "contacts",
+      "contracts",
+      "crm",
+      "documents",
+      "leads",
+      "multi-currency",
+      "multi-language-support",
+      "opportunities",
+      "php",
+      "portal",
+      "quotes",
+      "reports",
+      "suitecrm",
+      "workflow"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:macro-inc/macro",
+    "name": "macro",
+    "owner": "macro-inc",
+    "type": "github-repo",
+    "source_url": "https://github.com/macro-inc/macro",
+    "metric": {
+      "stars": 4357
+    },
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "all-in-one",
+      "crm",
+      "crm-system",
+      "email",
+      "linear",
+      "mcp",
+      "messaging",
+      "notes",
+      "notion",
+      "office",
+      "rust",
+      "slack",
+      "slack-alternative",
+      "startup",
+      "startup-tools",
+      "typescript",
+      "workspace"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:Volmarg/personal-management-system",
+    "name": "personal-management-system",
+    "owner": "Volmarg",
+    "type": "github-repo",
+    "source_url": "https://github.com/Volmarg/personal-management-system",
+    "metric": {
+      "stars": 4160
+    },
+    "description": "Your web application for managing personal data.",
+    "topics": [
+      "content-management",
+      "crm",
+      "dashboard",
+      "dashboards",
+      "docker",
+      "finance-management",
+      "free",
+      "manager",
+      "mit",
+      "note-taking",
+      "open-source",
+      "password-manager",
+      "personal-finance",
+      "personal-management",
+      "php",
+      "privacy",
+      "productivity",
+      "self-hosted",
+      "symfony",
+      "todo-list"
+    ],
+    "license": "MIT",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:frappe/crm",
+    "name": "crm",
+    "owner": "frappe",
+    "type": "github-repo",
+    "source_url": "https://github.com/frappe/crm",
+    "metric": {
+      "stars": 3553
+    },
+    "description": "Fully featured, open source CRM",
+    "topics": [
+      "crm",
+      "crm-connections",
+      "crm-platform",
+      "crm-software",
+      "crm-solution",
+      "crm-system",
+      "customer",
+      "frappe",
+      "frappe-app",
+      "javascript",
+      "low-code",
+      "marketing",
+      "open-source",
+      "python",
+      "sales",
+      "vue",
+      "vuejs3",
+      "web",
+      "webapp"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:espocrm/espocrm",
+    "name": "espocrm",
+    "owner": "espocrm",
+    "type": "github-repo",
+    "source_url": "https://github.com/espocrm/espocrm",
+    "metric": {
+      "stars": 3371
+    },
+    "description": "EspoCRM – Open Source CRM Application",
+    "topics": [
+      "calendar",
+      "contacts",
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "customer-portal",
+      "customer-support",
+      "customizable",
+      "documents",
+      "email-marketing",
+      "kanban",
+      "leads",
+      "open-source",
+      "php",
+      "platform",
+      "sales-automation",
+      "single-page-application",
+      "support"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:melgarafael/DeskcommCRM",
+    "name": "DeskcommCRM",
+    "owner": "melgarafael",
+    "type": "github-repo",
+    "source_url": "https://github.com/melgarafael/DeskcommCRM",
+    "metric": {
+      "stars": 3229
+    },
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chatbot",
+      "crm",
+      "customer-support",
+      "ecommerce",
+      "lgpd",
+      "mcp",
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "open-source",
+      "rag",
+      "sales-automation",
+      "self-hosted",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "whatsapp-api"
+    ],
+    "license": "MIT",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:ONLYOFFICE/CommunityServer",
+    "name": "CommunityServer",
+    "owner": "ONLYOFFICE",
+    "type": "github-repo",
+    "source_url": "https://github.com/ONLYOFFICE/CommunityServer",
+    "metric": {
+      "stars": 3166
+    },
+    "description": "Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.",
+    "topics": [
+      "collaboration",
+      "crm",
+      "csharp",
+      "dms",
+      "document-management",
+      "file-sharing",
+      "onlyoffice",
+      "project-management",
+      "tsql"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:Peppermint-Lab/peppermint",
+    "name": "peppermint",
+    "owner": "Peppermint-Lab",
+    "type": "github-repo",
+    "source_url": "https://github.com/Peppermint-Lab/peppermint",
+    "metric": {
+      "stars": 3162
+    },
+    "description": "An open source issue management & help desk solution. A zendesk & jira alternative",
+    "topics": [
+      "crm",
+      "customer-relationship-management",
+      "docker",
+      "full-stack",
+      "helpdesk",
+      "issue-tracker",
+      "javascript",
+      "jira",
+      "knowledge-base",
+      "nextjs",
+      "nodejs",
+      "notebook",
+      "peppermint",
+      "prisma",
+      "react",
+      "self-hosted",
+      "ticket-management",
+      "ticketing-system",
+      "zendesk",
+      "zoho-crm"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:InvoicePlane/InvoicePlane",
+    "name": "InvoicePlane",
+    "owner": "InvoicePlane",
+    "type": "github-repo",
+    "source_url": "https://github.com/InvoicePlane/InvoicePlane",
+    "metric": {
+      "stars": 3142
+    },
+    "description": "A self-hosted open source application for managing your invoices, clients and payments.",
+    "topics": [
+      "billing",
+      "codeigniter",
+      "crm",
+      "invoiceplane",
+      "invoices",
+      "invoicing",
+      "open-source",
+      "php"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:1Panel-dev/CordysCRM",
+    "name": "CordysCRM",
+    "owner": "1Panel-dev",
+    "type": "github-repo",
+    "source_url": "https://github.com/1Panel-dev/CordysCRM",
+    "metric": {
+      "stars": 2726
+    },
+    "description": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
+    "topics": [
+      "ai-crm",
+      "cordys",
+      "crm",
+      "crm-skills",
+      "crm-system",
+      "dataease",
+      "harnee",
+      "harness",
+      "openclaw",
+      "salesforce"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:frappe/frappe_docker",
+    "name": "frappe_docker",
+    "owner": "frappe",
+    "type": "github-repo",
+    "source_url": "https://github.com/frappe/frappe_docker",
+    "metric": {
+      "stars": 2566
+    },
+    "description": "Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development",
+    "topics": [
+      "apps",
+      "business-software",
+      "containers",
+      "crm",
+      "docker",
+      "docker-compose",
+      "erp",
+      "erpnext",
+      "frappe",
+      "hrms",
+      "self-hosted"
+    ],
+    "license": "MIT",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:WuKongOpenSource/WukongCRM-11.0-JAVA",
+    "name": "WukongCRM-11.0-JAVA",
+    "owner": "WuKongOpenSource",
+    "type": "github-repo",
+    "source_url": "https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA",
+    "metric": {
+      "stars": 2446
+    },
+    "description": "悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统",
+    "topics": [
+      "crm",
+      "crm-system",
+      "wukongcrm"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:metasfresh/metasfresh",
+    "name": "metasfresh",
+    "owner": "metasfresh",
+    "type": "github-repo",
+    "source_url": "https://github.com/metasfresh/metasfresh",
+    "metric": {
+      "stars": 2429
+    },
+    "description": "We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.",
+    "topics": [
+      "accounting",
+      "business",
+      "crm",
+      "docker-image",
+      "erp",
+      "hacktoberfest",
+      "java",
+      "javascript",
+      "management",
+      "manufacturing",
+      "metasfresh",
+      "postgresql",
+      "react",
+      "spring-boot"
+    ],
+    "license": null,
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:Django-CRM/Django-CRM",
+    "name": "Django-CRM",
+    "owner": "Django-CRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/Django-CRM/Django-CRM",
+    "metric": {
+      "stars": 2423
+    },
+    "description": "Open Source CRM for Startups and enterprises. Django + SvelteKit · Self-hosted · Multi-tenant · Free forever",
+    "topics": [
+      "cpq",
+      "crm",
+      "crm-software",
+      "django",
+      "django-crm",
+      "django-rest-framework",
+      "flutter",
+      "helpdesk",
+      "invoice-management",
+      "invoicing",
+      "lead-management",
+      "multitenancy",
+      "open-source",
+      "python",
+      "saas",
+      "salesforce-alternative",
+      "self-hosted",
+      "svelte",
+      "sveltekit",
+      "task-manager"
+    ],
+    "license": "MIT",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:ArnasDon/wacrm",
+    "name": "wacrm",
+    "owner": "ArnasDon",
+    "type": "github-repo",
+    "source_url": "https://github.com/ArnasDon/wacrm",
+    "metric": {
+      "stars": 2357
+    },
+    "description": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
+    "topics": [
+      "crm",
+      "nextjs",
+      "no-code",
+      "sales-pipeline",
+      "self-hosted",
+      "shared-inbox",
+      "supabase",
+      "typescript",
+      "whatsapp",
+      "whatsapp-business-api"
+    ],
+    "license": "MIT",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:Bottelet/DaybydayCRM",
+    "name": "DaybydayCRM",
+    "owner": "Bottelet",
+    "type": "github-repo",
+    "source_url": "https://github.com/Bottelet/DaybydayCRM",
+    "metric": {
+      "stars": 2328
+    },
+    "description": "DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.",
+    "topics": [
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "daybyday",
+      "daybydaycrm",
+      "hacktoberfest",
+      "hacktoberfest2020",
+      "laravel",
+      "managaement",
+      "task-manager",
+      "tracking"
+    ],
+    "license": null,
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:FJ-OMS/oms-erp",
+    "name": "oms-erp",
+    "owner": "FJ-OMS",
+    "type": "github-repo",
+    "source_url": "https://github.com/FJ-OMS/oms-erp",
+    "metric": {
+      "stars": 1926
+    },
+    "description": "一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。",
+    "topics": [
+      "crm",
+      "erp",
+      "java",
+      "k8s",
+      "nacos",
+      "omni-channel",
+      "oms",
+      "springcloud",
+      "tms",
+      "wms"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:avo-hq/avo",
+    "name": "avo",
+    "owner": "avo-hq",
+    "type": "github-repo",
+    "source_url": "https://github.com/avo-hq/avo",
+    "metric": {
+      "stars": 1801
+    },
+    "description": "The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails",
+    "topics": [
+      "admin",
+      "admin-dashboard",
+      "admin-panel",
+      "cms-framework",
+      "content-management-system",
+      "crm",
+      "crm-platform",
+      "crud",
+      "fast",
+      "hacktoberfest",
+      "maintainable",
+      "open-source",
+      "rails",
+      "ruby",
+      "ruby-on-rails",
+      "ui-builder"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  },
+  {
+    "id": "github:YetiForceCompany/YetiForceCRM",
+    "name": "YetiForceCRM",
+    "owner": "YetiForceCompany",
+    "type": "github-repo",
+    "source_url": "https://github.com/YetiForceCompany/YetiForceCRM",
+    "metric": {
+      "stars": 1791
+    },
+    "description": "We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce",
+    "topics": [
+      "accounts",
+      "contacts",
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "erp",
+      "leads",
+      "mulit-lang",
+      "open-source",
+      "open-source-crm",
+      "open-source-project",
+      "opportunities",
+      "php",
+      "php7",
+      "quotes",
+      "web-application",
+      "workflow",
+      "yetiforce"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "crm"
+  }
+]

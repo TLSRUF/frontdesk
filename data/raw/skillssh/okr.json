@@ -1,0 +1,236 @@
+[
+  {
+    "id": "skillssh:larksuite/cli@lark-okr",
+    "name": "larksuite/cli@lark-okr",
+    "type": "skill",
+    "source_url": "https://skills.sh/larksuite/cli/lark-okr",
+    "metric": {
+      "installs": 378900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add larksuite/cli@lark-okr",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:phuryn/pm-skills@brainstorm-okrs",
+    "name": "phuryn/pm-skills@brainstorm-okrs",
+    "type": "skill",
+    "source_url": "https://skills.sh/phuryn/pm-skills/brainstorm-okrs",
+    "metric": {
+      "installs": 2600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add phuryn/pm-skills@brainstorm-okrs",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@setting-okrs-goals",
+    "name": "refoundai/lenny-skills@setting-okrs-goals",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/setting-okrs-goals",
+    "metric": {
+      "installs": 2000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@setting-okrs-goals",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:product-on-purpose/pm-skills@foundation-okr-writer",
+    "name": "product-on-purpose/pm-skills@foundation-okr-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/product-on-purpose/pm-skills/foundation-okr-writer",
+    "metric": {
+      "installs": 644
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add product-on-purpose/pm-skills@foundation-okr-writer",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:product-on-purpose/pm-skills@measure-okr-grader",
+    "name": "product-on-purpose/pm-skills@measure-okr-grader",
+    "type": "skill",
+    "source_url": "https://skills.sh/product-on-purpose/pm-skills/measure-okr-grader",
+    "metric": {
+      "installs": 599
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add product-on-purpose/pm-skills@measure-okr-grader",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@goal-setting-okrs",
+    "name": "refoundai/lenny-skills@goal-setting-okrs",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/goal-setting-okrs",
+    "metric": {
+      "installs": 320
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@goal-setting-okrs",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:nexu-io/open-design@team-okrs",
+    "name": "nexu-io/open-design@team-okrs",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexu-io/open-design/team-okrs",
+    "metric": {
+      "installs": 237
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexu-io/open-design@team-okrs",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:rampstackco/claude-skills@okr-design",
+    "name": "rampstackco/claude-skills@okr-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/rampstackco/claude-skills/okr-design",
+    "metric": {
+      "installs": 210
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rampstackco/claude-skills@okr-design",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:onewave-ai/claude-skills@okr-generator",
+    "name": "onewave-ai/claude-skills@okr-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/onewave-ai/claude-skills/okr-generator",
+    "metric": {
+      "installs": 206
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add onewave-ai/claude-skills@okr-generator",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:riba2534/feishu-cli@feishu-cli-okr",
+    "name": "riba2534/feishu-cli@feishu-cli-okr",
+    "type": "skill",
+    "source_url": "https://skills.sh/riba2534/feishu-cli/feishu-cli-okr",
+    "metric": {
+      "installs": 169
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add riba2534/feishu-cli@feishu-cli-okr",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:yonatangross/orchestkit@okr-design",
+    "name": "yonatangross/orchestkit@okr-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/yonatangross/orchestkit/okr-design",
+    "metric": {
+      "installs": 118
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add yonatangross/orchestkit@okr-design",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:borghei/claude-skills@brainstorm-okrs",
+    "name": "borghei/claude-skills@brainstorm-okrs",
+    "type": "skill",
+    "source_url": "https://skills.sh/borghei/claude-skills/brainstorm-okrs",
+    "metric": {
+      "installs": 106
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add borghei/claude-skills@brainstorm-okrs",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:oldwinter/skills@setting-okrs-and-goals",
+    "name": "oldwinter/skills@setting-okrs-and-goals",
+    "type": "skill",
+    "source_url": "https://skills.sh/oldwinter/skills/setting-okrs-and-goals",
+    "metric": {
+      "installs": 57
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add oldwinter/skills@setting-okrs-and-goals",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:mohitagw15856/pm-claude-skills@okr-builder",
+    "name": "mohitagw15856/pm-claude-skills@okr-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/mohitagw15856/pm-claude-skills/okr-builder",
+    "metric": {
+      "installs": 53
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mohitagw15856/pm-claude-skills@okr-builder",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@okra",
+    "name": "membranedev/application-skills@okra",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/okra",
+    "metric": {
+      "installs": 51
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add membranedev/application-skills@okra",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:wdavidturner/product-skills@okrs",
+    "name": "wdavidturner/product-skills@okrs",
+    "type": "skill",
+    "source_url": "https://skills.sh/wdavidturner/product-skills/okrs",
+    "metric": {
+      "installs": 49
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wdavidturner/product-skills@okrs",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:asgard-ai-platform/skills@ops-okr-planning",
+    "name": "asgard-ai-platform/skills@ops-okr-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/asgard-ai-platform/skills/ops-okr-planning",
+    "metric": {
+      "installs": 39
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add asgard-ai-platform/skills@ops-okr-planning",
+    "seed_keyword": "okr"
+  },
+  {
+    "id": "skillssh:lagz0ne/okra@reverse-tornado-okr",
+    "name": "lagz0ne/okra@reverse-tornado-okr",
+    "type": "skill",
+    "source_url": "https://skills.sh/lagz0ne/okra/reverse-tornado-okr",
+    "metric": {
+      "installs": 36
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add lagz0ne/okra@reverse-tornado-okr",
+    "seed_keyword": "okr"
+  }
+]

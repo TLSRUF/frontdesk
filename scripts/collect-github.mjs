@@ -25,7 +25,16 @@ const SEEDS = [
   "terraform",
   "devops-automation",
   "marketing-automation",
-  "llmops"
+  "llmops",
+  "product-management",
+  "sales-automation",
+  "crm",
+  "customer-support",
+  "documentation-generator",
+  "agent-memory",
+  "context-engineering",
+  "hiring",
+  "compliance"
 ];
 
 function ghSearch(topic) {

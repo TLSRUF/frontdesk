@@ -1,0 +1,857 @@
+[
+  {
+    "id": "github:chatwoot/chatwoot",
+    "name": "chatwoot",
+    "owner": "chatwoot",
+    "type": "github-repo",
+    "source_url": "https://github.com/chatwoot/chatwoot",
+    "metric": {
+      "stars": 36949
+    },
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "topics": [
+      "actioncable",
+      "chat-widget",
+      "conversation",
+      "customer-support",
+      "dashboard",
+      "design",
+      "docker",
+      "docker-image",
+      "heroku",
+      "intercom",
+      "javascript",
+      "livechat",
+      "opensource",
+      "rails",
+      "ruby",
+      "sass",
+      "vuejs",
+      "whatsapp",
+      "zendesk"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:uvdesk/community-skeleton",
+    "name": "community-skeleton",
+    "owner": "uvdesk",
+    "type": "github-repo",
+    "source_url": "https://github.com/uvdesk/community-skeleton",
+    "metric": {
+      "stars": 19594
+    },
+    "description": "UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",
+    "topics": [
+      "agent-privilege",
+      "backbonejs",
+      "customer-support",
+      "docker-runtime",
+      "ecommerce-apps",
+      "ecommerce-apps-integration",
+      "freshdesk-alternative",
+      "knowledgebase",
+      "mailboxes",
+      "opensource",
+      "osticket-alternative",
+      "support-tickets",
+      "symfony4",
+      "ticketing-system",
+      "uvdesk",
+      "uvdesk-community",
+      "workflows",
+      "zendesk-alternative"
+    ],
+    "license": "OSL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:papercups-io/papercups",
+    "name": "papercups",
+    "owner": "papercups-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/papercups-io/papercups",
+    "metric": {
+      "stars": 6109
+    },
+    "description": "Open-source live customer chat",
+    "topics": [
+      "chat-widget",
+      "customer-support",
+      "docker",
+      "drift",
+      "elixir",
+      "elixir-phoenix",
+      "frontend",
+      "gdpr-compliant",
+      "help-desk",
+      "heroku",
+      "intercom",
+      "javascript",
+      "livechat",
+      "mattermost",
+      "phoenix",
+      "phoenix-framework",
+      "react",
+      "slack",
+      "typescript",
+      "zendesk"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:zammad/zammad",
+    "name": "zammad",
+    "owner": "zammad",
+    "type": "github-repo",
+    "source_url": "https://github.com/zammad/zammad",
+    "metric": {
+      "stars": 5925
+    },
+    "description": "Zammad is a web based open source helpdesk/customer support system.",
+    "topics": [
+      "coffeescript",
+      "customer-care",
+      "customer-support",
+      "graphql",
+      "helpdesk",
+      "javascript",
+      "rails",
+      "ruby",
+      "support",
+      "ticketing",
+      "typescript",
+      "vite",
+      "vuejs",
+      "zammad"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:freescout-help-desk/freescout",
+    "name": "freescout",
+    "owner": "freescout-help-desk",
+    "type": "github-repo",
+    "source_url": "https://github.com/freescout-help-desk/freescout",
+    "metric": {
+      "stars": 4542
+    },
+    "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
+    "topics": [
+      "customer-support",
+      "help-desk",
+      "helpdesk",
+      "helpdesk-ticketing",
+      "helpscout",
+      "laravel",
+      "osticket-alternative",
+      "php",
+      "shared-mailboxes",
+      "support",
+      "ticketing",
+      "ticketing-system",
+      "zendesk",
+      "zendesk-alternative"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:frappe/helpdesk",
+    "name": "helpdesk",
+    "owner": "frappe",
+    "type": "github-repo",
+    "source_url": "https://github.com/frappe/helpdesk",
+    "metric": {
+      "stars": 3384
+    },
+    "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+    "topics": [
+      "customer-support",
+      "foss",
+      "frappe",
+      "helpdesk",
+      "helpscout",
+      "issue-tracker",
+      "javascript",
+      "python",
+      "ticketing",
+      "ticketing-system",
+      "typescript",
+      "vue3",
+      "zendesk"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:espocrm/espocrm",
+    "name": "espocrm",
+    "owner": "espocrm",
+    "type": "github-repo",
+    "source_url": "https://github.com/espocrm/espocrm",
+    "metric": {
+      "stars": 3371
+    },
+    "description": "EspoCRM – Open Source CRM Application",
+    "topics": [
+      "calendar",
+      "contacts",
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "customer-portal",
+      "customer-support",
+      "customizable",
+      "documents",
+      "email-marketing",
+      "kanban",
+      "leads",
+      "open-source",
+      "php",
+      "platform",
+      "sales-automation",
+      "single-page-application",
+      "support"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:melgarafael/DeskcommCRM",
+    "name": "DeskcommCRM",
+    "owner": "melgarafael",
+    "type": "github-repo",
+    "source_url": "https://github.com/melgarafael/DeskcommCRM",
+    "metric": {
+      "stars": 3229
+    },
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "chatbot",
+      "crm",
+      "customer-support",
+      "ecommerce",
+      "lgpd",
+      "mcp",
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "open-source",
+      "rag",
+      "sales-automation",
+      "self-hosted",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "whatsapp-api"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:abhinavxd/libredesk",
+    "name": "libredesk",
+    "owner": "abhinavxd",
+    "type": "github-repo",
+    "source_url": "https://github.com/abhinavxd/libredesk",
+    "metric": {
+      "stars": 2942
+    },
+    "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot.",
+    "topics": [
+      "ai-agent",
+      "chat-widget",
+      "customer-service",
+      "customer-success",
+      "customer-support",
+      "customer-support-automation",
+      "golang",
+      "helpcenter",
+      "helpdesk",
+      "intercom",
+      "knowledge-base",
+      "livechat",
+      "omnichannel",
+      "self-hosted",
+      "support",
+      "ticketing-system",
+      "vue",
+      "zendesk"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:cskefu/cskefu",
+    "name": "cskefu",
+    "owner": "cskefu",
+    "type": "github-repo",
+    "source_url": "https://github.com/cskefu/cskefu",
+    "metric": {
+      "stars": 2901
+    },
+    "description": "🌲 春松客服，开源客服系统",
+    "topics": [
+      "chatbot",
+      "contact-center",
+      "customer-support",
+      "java",
+      "multi-channel",
+      "omni-channel",
+      "osgi",
+      "springboot"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:taoshihan1991/goflylivechat",
+    "name": "goflylivechat",
+    "owner": "taoshihan1991",
+    "type": "github-repo",
+    "source_url": "https://github.com/taoshihan1991/goflylivechat",
+    "metric": {
+      "stars": 2587
+    },
+    "description": "开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang",
+    "topics": [
+      "chat",
+      "chatbot",
+      "customer-service",
+      "customer-support",
+      "golang",
+      "livechat",
+      "private-cloud",
+      "self-hosted",
+      "web-chat"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:mattmezza/vue-beautiful-chat",
+    "name": "vue-beautiful-chat",
+    "owner": "mattmezza",
+    "type": "github-repo",
+    "source_url": "https://github.com/mattmezza/vue-beautiful-chat",
+    "metric": {
+      "stars": 1560
+    },
+    "description": "A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.",
+    "topics": [
+      "chat",
+      "colors",
+      "customer-support",
+      "frontend",
+      "marketing",
+      "message",
+      "support",
+      "vue",
+      "vuejs"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:obsei/obsei",
+    "name": "obsei",
+    "owner": "obsei",
+    "type": "github-repo",
+    "source_url": "https://github.com/obsei/obsei",
+    "metric": {
+      "stars": 1427
+    },
+    "description": "Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .",
+    "topics": [
+      "anonymization",
+      "artificial-intelligence",
+      "business-process-automation",
+      "customer-engagement",
+      "customer-support",
+      "issue-tracking-system",
+      "low-code",
+      "lowcode",
+      "natural-language-processing",
+      "nlp",
+      "process-automation",
+      "python",
+      "sentiment-analysis",
+      "social-listening",
+      "social-network-analysis",
+      "text-analysis",
+      "text-analytics",
+      "text-classification",
+      "workflow",
+      "workflow-automation"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:faveosuite/faveo-helpdesk",
+    "name": "faveo-helpdesk",
+    "owner": "faveosuite",
+    "type": "github-repo",
+    "source_url": "https://github.com/faveosuite/faveo-helpdesk",
+    "metric": {
+      "stars": 1254
+    },
+    "description": "Faveo Open source ticketing system build on Laravel framework",
+    "topics": [
+      "customer-support",
+      "helpdesk",
+      "helpdesk-ticketing",
+      "ticketing-system"
+    ],
+    "license": "OSL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:bestpractical/rt",
+    "name": "rt",
+    "owner": "bestpractical",
+    "type": "github-repo",
+    "source_url": "https://github.com/bestpractical/rt",
+    "metric": {
+      "stars": 1156
+    },
+    "description": "Request Tracker, an enterprise-grade issue tracking system",
+    "topics": [
+      "asset-management",
+      "bug-tracker",
+      "customer-support",
+      "helpdesk",
+      "helpdesk-ticketing",
+      "issue-management",
+      "issue-tracker",
+      "issue-tracking-system",
+      "perl",
+      "project-management",
+      "support",
+      "support-tools",
+      "ticket-management",
+      "ticketing-system",
+      "workflow"
+    ],
+    "license": "GPL-2.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:chatwoot/chatwoot-mobile-app",
+    "name": "chatwoot-mobile-app",
+    "owner": "chatwoot",
+    "type": "github-repo",
+    "source_url": "https://github.com/chatwoot/chatwoot-mobile-app",
+    "metric": {
+      "stars": 1044
+    },
+    "description": "Mobile app for Chatwoot - React Native",
+    "topics": [
+      "android",
+      "chatwoot",
+      "conversations",
+      "customer-support",
+      "ios",
+      "react-native"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:opensupports/opensupports",
+    "name": "opensupports",
+    "owner": "opensupports",
+    "type": "github-repo",
+    "source_url": "https://github.com/opensupports/opensupports",
+    "metric": {
+      "stars": 1038
+    },
+    "description": "OpenSupports is a simple and beautiful open source ticket system",
+    "topics": [
+      "api",
+      "customer-care",
+      "customer-support",
+      "helpdesk",
+      "javascript",
+      "mysql",
+      "opensupports",
+      "php",
+      "saas",
+      "support",
+      "ticketing",
+      "ticketing-system",
+      "webapp"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:miroslavpejic85/call-me",
+    "name": "call-me",
+    "owner": "miroslavpejic85",
+    "type": "github-repo",
+    "source_url": "https://github.com/miroslavpejic85/call-me",
+    "metric": {
+      "stars": 764
+    },
+    "description": "📞 Open-source, self-hosted WebRTC click-to-call solution for websites. Add a video Call-Me button and let visitors instantly connect with your team through browser-based video communication. Ideal for customer support, sales, consultations, and remote assistance.",
+    "topics": [
+      "click-to-call",
+      "customer-communication",
+      "customer-support",
+      "javascipt",
+      "live-chat",
+      "live-streaming",
+      "mirotalk",
+      "open-source",
+      "peer-to-peer",
+      "real-time-communication",
+      "self-hosted",
+      "video-call",
+      "video-chat",
+      "video-communication",
+      "video-conferencing",
+      "video-widget",
+      "web-app",
+      "web-development",
+      "webrtc-call",
+      "website-integration"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:tgoai/tgo",
+    "name": "tgo",
+    "owner": "tgoai",
+    "type": "github-repo",
+    "source_url": "https://github.com/tgoai/tgo",
+    "metric": {
+      "stars": 615
+    },
+    "description": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "chatbot",
+      "customer-service",
+      "customer-support",
+      "llm",
+      "rag"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:znuny/Znuny",
+    "name": "Znuny",
+    "owner": "znuny",
+    "type": "github-repo",
+    "source_url": "https://github.com/znuny/Znuny",
+    "metric": {
+      "stars": 595
+    },
+    "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
+    "topics": [
+      "customer-care",
+      "customer-support",
+      "helpdesk",
+      "itsm",
+      "javascript",
+      "otrs",
+      "perl",
+      "service-management",
+      "support",
+      "ticketing",
+      "ticketing-system",
+      "znuny"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:chaitin/KoalaQA",
+    "name": "KoalaQA",
+    "owner": "chaitin",
+    "type": "github-repo",
+    "source_url": "https://github.com/chaitin/KoalaQA",
+    "metric": {
+      "stars": 553
+    },
+    "description": "KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标。",
+    "topics": [
+      "ai",
+      "community",
+      "customer-support",
+      "faq",
+      "forum",
+      "knowledgebase",
+      "question-answering",
+      "rag",
+      "support"
+    ],
+    "license": null,
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:Bytedesk/bytedesk",
+    "name": "bytedesk",
+    "owner": "Bytedesk",
+    "type": "github-repo",
+    "source_url": "https://github.com/Bytedesk/bytedesk",
+    "metric": {
+      "stars": 488
+    },
+    "description": "Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra",
+    "topics": [
+      "ada",
+      "ai",
+      "chat-widget",
+      "chatbot",
+      "customer-support",
+      "decagon",
+      "helpdesk",
+      "hubspot",
+      "intercom",
+      "livechat",
+      "omnichannel",
+      "rag",
+      "sierra",
+      "slack",
+      "support",
+      "team",
+      "ticket-system",
+      "whatsapp",
+      "zendesk"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:coderflexx/laravel-ticket",
+    "name": "laravel-ticket",
+    "owner": "coderflexx",
+    "type": "github-repo",
+    "source_url": "https://github.com/coderflexx/laravel-ticket",
+    "metric": {
+      "stars": 440
+    },
+    "description": "A full-featured support ticket system for Laravel with Eloquent models and a clean API",
+    "topics": [
+      "customer-support",
+      "eloquent",
+      "helpdesk",
+      "laravel",
+      "laravel-package",
+      "php",
+      "support-ticket",
+      "ticketing-system",
+      "tickets"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:blakmatrix/node-zendesk",
+    "name": "node-zendesk",
+    "owner": "blakmatrix",
+    "type": "github-repo",
+    "source_url": "https://github.com/blakmatrix/node-zendesk",
+    "metric": {
+      "stars": 375
+    },
+    "description": "A trusted Zendesk API client library for Node.js and the browser, lovingly maintained for over 10 years.",
+    "topics": [
+      "api",
+      "api-client",
+      "browser-library",
+      "buddha",
+      "customer-service",
+      "customer-support",
+      "javascript",
+      "knowledge-base",
+      "node-zendesk",
+      "promises",
+      "support",
+      "supportdesk",
+      "wrapper",
+      "zendesk",
+      "zendesk-api",
+      "zendesk-apps"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:kaymen99/langgraph-email-automation",
+    "name": "langgraph-email-automation",
+    "owner": "kaymen99",
+    "type": "github-repo",
+    "source_url": "https://github.com/kaymen99/langgraph-email-automation",
+    "metric": {
+      "stars": 274
+    },
+    "description": "Multi AI agents for customer support email automation built with Langchain & Langgraph",
+    "topics": [
+      "ai-agents",
+      "ai-automation",
+      "ai-customer-service",
+      "ai-customer-support",
+      "customer-support",
+      "customer-support-automation",
+      "email-automation",
+      "gmail-api",
+      "langchain",
+      "langgraph",
+      "llama3",
+      "rag",
+      "rag-agents",
+      "rag-application"
+    ],
+    "license": null,
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:huabeitech/agent-desk",
+    "name": "agent-desk",
+    "owner": "huabeitech",
+    "type": "github-repo",
+    "source_url": "https://github.com/huabeitech/agent-desk",
+    "metric": {
+      "stars": 246
+    },
+    "description": "Open-source AI customer support system. AI-first support, human-ready operations.",
+    "topics": [
+      "ai-agent",
+      "chatbot",
+      "customer-service",
+      "customer-support",
+      "customer-support-ai",
+      "golang",
+      "helpdesk",
+      "knowledge-base",
+      "live-chat",
+      "rag"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:hossainchisty/FreshGerium-ERP-Platform",
+    "name": "FreshGerium-ERP-Platform",
+    "owner": "hossainchisty",
+    "type": "github-repo",
+    "source_url": "https://github.com/hossainchisty/FreshGerium-ERP-Platform",
+    "metric": {
+      "stars": 189
+    },
+    "description": "FreshGerium is a cutting-edge SaaS-based solution tailored for SMEs, designed to be your all-in-one platform for seamless business management.🎯🔥",
+    "topics": [
+      "automation",
+      "business-analytics",
+      "bussiness-service",
+      "bussiness-solution",
+      "customer-support",
+      "erp-application",
+      "erp-software",
+      "sme-application"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:mirza-rizvi/ResolveHQ",
+    "name": "ResolveHQ",
+    "owner": "mirza-rizvi",
+    "type": "github-repo",
+    "source_url": "https://github.com/mirza-rizvi/ResolveHQ",
+    "metric": {
+      "stars": 183
+    },
+    "description": "Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist.",
+    "topics": [
+      "cloudflare",
+      "cloudflare-d1",
+      "cloudflare-queues",
+      "cloudflare-r2",
+      "cloudflare-workers",
+      "customer-support",
+      "drizzle-orm",
+      "email",
+      "email-routing",
+      "helpdesk",
+      "hono",
+      "react",
+      "self-hosted",
+      "shared-inbox",
+      "support-ticket",
+      "typescript",
+      "workers-ai"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:haoyiyin/basjoo",
+    "name": "basjoo",
+    "owner": "haoyiyin",
+    "type": "github-repo",
+    "source_url": "https://github.com/haoyiyin/basjoo",
+    "metric": {
+      "stars": 158
+    },
+    "description": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector.",
+    "topics": [
+      "ai",
+      "chatbot",
+      "customer-support",
+      "embeddable-widget",
+      "fastapi",
+      "llm-agent",
+      "nextjs",
+      "open-source",
+      "pgvector",
+      "rag",
+      "sse-streaming"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  },
+  {
+    "id": "github:classiebit/addchat-laravel",
+    "name": "addchat-laravel",
+    "owner": "classiebit",
+    "type": "github-repo",
+    "source_url": "https://github.com/classiebit/addchat-laravel",
+    "metric": {
+      "stars": 139
+    },
+    "description": "AddChat Laravel is a Laravel chat package. Live chat widget for Laravel that also includes multi-user chat, group permissions, customer support chat & more.",
+    "topics": [
+      "addchat-laravel",
+      "addchat-lite",
+      "chat",
+      "chat-widget",
+      "chatapp",
+      "chatbot",
+      "css-flexbox",
+      "customer-support",
+      "helpdesk",
+      "laravel",
+      "laravel-chat-package",
+      "laravel-chat-widget",
+      "laravel-website",
+      "live-chat",
+      "relatime"
+    ],
+    "license": "MIT",
+    "seed_topic": "customer-support"
+  }
+]

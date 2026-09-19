@@ -8,7 +8,7 @@
   <img src="skills/frontdesk/assets/explainer-hero.jpg" alt="frontdesk building-directory hero" width="49%">
   <img src="skills/frontdesk/assets/explainer-router-demo.jpg" alt="frontdesk routing ladder demo, live results" width="49%">
 </p>
-<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">인터랙티브 버전 열어보기</a> — 실제 요청 예시를 눌러보면 진짜 라우팅 결과가 뜬다. (비공개 링크라 공유 설정을 바꿔야 남들도 열 수 있음)</sub></p>
+<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">인터랙티브 버전 열어보기</a> — 실제 요청 예시를 눌러보면 진짜 라우팅 결과가 뜬다.</sub></p>
 
 ## 이 프로젝트는 스킬로도 설치할 수 있다
 

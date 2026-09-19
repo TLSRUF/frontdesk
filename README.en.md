@@ -8,7 +8,7 @@ A front desk for AI dev requests: instead of paging a heavy general-purpose agen
   <img src="skills/frontdesk/assets/explainer-hero.jpg" alt="frontdesk building-directory hero" width="49%">
   <img src="skills/frontdesk/assets/explainer-router-demo.jpg" alt="frontdesk routing ladder demo, live results" width="49%">
 </p>
-<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">Open the interactive version</a> — click an example request and see the real routing result. (Private link — needs sharing turned on before others can open it.)</sub></p>
+<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">Open the interactive version</a> — click an example request and see the real routing result.</sub></p>
 
 ## This project is itself an installable Skill
 

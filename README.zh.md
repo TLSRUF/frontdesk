@@ -8,7 +8,7 @@ AI 开发请求的"前台" — 收到请求时不会立刻调用笨重的通用�
   <img src="skills/frontdesk/assets/explainer-hero.jpg" alt="frontdesk building-directory hero" width="49%">
   <img src="skills/frontdesk/assets/explainer-router-demo.jpg" alt="frontdesk routing ladder demo, live results" width="49%">
 </p>
-<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">打开交互版本</a> —— 点击示例请求即可看到真实的路由结果。(私密链接,需要开启分享后其他人才能打开。)</sub></p>
+<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">打开交互版本</a> —— 点击示例请求即可看到真实的路由结果。</sub></p>
 
 ## 这个项目本身也是一个可安装的 Skill
 

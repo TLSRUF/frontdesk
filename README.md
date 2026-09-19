@@ -21,6 +21,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — 분류 체계 정의 (부서/세부분야/키워드 힌트)
 - **`skills/frontdesk/data/catalog.json`** — 분류된 최종 데이터 (기계가 읽는 원본)
 - **`skills/frontdesk/data/unclassified.json`** — 자동 분류 실패 항목 (수동 검토용, 9건)
+- **`skills/frontdesk/data/manual-overrides.json`** — 키워드 매칭이 놓친 항목을 사람이 직접 분류한 예외 목록 (14건, 자동 매칭보다 우선 적용)
 - **`skills/frontdesk/scripts/route.mjs`** — 판단 사다리 라우터 (`npm run route -- "작업 설명"`, `--install` 붙이면 승인 후 그 자리에서 바로 설치까지)
 
 ## 스타터팩 & 파이프라인

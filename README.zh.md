@@ -21,6 +21,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** —— 分类体系定义(部门/细分领域/关键词提示)
 - **`skills/frontdesk/data/catalog.json`** —— 分类后的最终数据(机器可读的原始数据)
 - **`skills/frontdesk/data/unclassified.json`** —— 自动分类失败的条目(供人工复核,共 9 条)
+- **`skills/frontdesk/data/manual-overrides.json`** —— 关键词匹配漏掉的条目,由人工分类的例外列表(14 条,优先于自动匹配应用)
 - **`skills/frontdesk/scripts/route.mjs`** —— 判断阶梯路由器(`npm run route -- "任务描述"`;加上 `--install` 可在获得确认后当场安装最佳候选)
 
 ## 启动包(Starter Pack)与流水线(Pipeline)

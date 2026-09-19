@@ -8,6 +8,7 @@
 import { readFileSync } from "node:fs";
 import { departments, allCategories } from "../taxonomy.mjs";
 import { matchingCategories } from "./lib/classify-core.mjs";
+import { rankedCandidates } from "./lib/ranking.mjs";
 
 const STAGES = [
   { id: 1, name: "아이디어/전략", depts: ["1"], seed: "market research idea validation business model pricing strategy" },
@@ -25,10 +26,7 @@ const ALL_CATEGORIES = allCategories();
 const deptName = new Map(departments.map((d) => [d.id, d.name]));
 
 function topItems(categoryId, n = 3) {
-  return catalog
-    .filter((it) => it.category === categoryId && !it.weak_match)
-    .sort((a, b) => (b.metric?.stars ?? b.metric?.installs ?? 0) - (a.metric?.stars ?? a.metric?.installs ?? 0))
-    .slice(0, n);
+  return rankedCandidates(catalog, categoryId, { n });
 }
 
 function runStage(stage, projectDescription) {

@@ -25,7 +25,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 스타터팩 & 파이프라인
 
-- **스타터팩** — "이거 하나만 설치하면 부서별로 제일 나은 스킬이 다 갖춰지길 원한다"는 목표에 대한 답. `npm run starter-pack`으로 13개 부서 중 신뢰도 높게 분류된 항목의 설치 수 1위를 뽑고(현재 12개), `node scripts/install-starter-pack.mjs --yes`로 한 번에 설치한다. **주의: 이건 "가장 성능이 뛰어난" 스킬이 아니라 "가장 많이 설치된" 스킬이다** — 성능을 측정할 방법이 아직 없어서 인기도를 대리 지표로 쓴다.
+- **스타터팩** — "이거 하나만 설치하면 부서별로 제일 나은 스킬이 다 갖춰지길 원한다"는 목표에 대한 답. `npm run starter-pack`으로 13개 부서 중 신뢰도 높게 분류되고, 방치되지 않은(archived·라이선스·fork로 계산한 `health_score` 통과) 항목의 설치 수 1위를 뽑고(현재 12개), `node scripts/install-starter-pack.mjs --yes`로 한 번에 설치한다. **주의: 이건 "가장 성능이 뛰어난" 스킬이 아니라 "방치되지 않은 것 중 가장 많이 설치된" 스킬이다** — 실제 성능을 측정할 방법이 아직 없다 (Reddit 언급 수도 검토했지만 ponytail조차 검색으로 신호가 안 잡혀서 포기했다).
 - **파이프라인** — 아이디어 → 프로덕트 정의 → 디자인 → 개발 → 품질/보안 → 마케팅/세일즈 → 배포 → 운영, 8단계로 기존 카탈로그/라우터를 재사용해 단계별 추천을 준다: `node scripts/pipeline.mjs "프로젝트 설명"`. 배포·운영 단계는 실제 서비스에 영향을 줄 수 있어 **단계마다 사람이 확인하고 넘어가는 걸 전제**로 설계했다 (전 구간 자동 실행 아님).
 
 자세한 설계 배경과 한계는 [`ARCHITECTURE.md`](ARCHITECTURE.md)의 "스타터팩"·"파이프라인"·"목표 대비 현황" 절 참고.
@@ -67,6 +67,7 @@ npm run collect:skillssh  # `npx skills search`로 skills.sh 스킬 수집 (data
 npm run classify          # taxonomy.mjs 키워드로 자동 분류 → data/catalog.json (매번 raw에서 재생성됨)
 npm run enrich            # 인기 상위 skills.sh 항목의 SKILL.md에서 실제 설명을 가져와 채움
 npm run build:catalog     # CATALOG.md 생성
+npm run repo-health       # 저장소 건강도(health_score) 계산 → catalog.json에 병합 (신규분만 조회, 캐시됨)
 npm run starter-pack      # 부서별 대표 스킬 선정 → data/starter-pack.json
 npm run install-starter-pack -- --yes   # 스타터팩 실제 설치
 npm run pipeline -- "프로젝트 설명"       # 8단계 파이프라인 로드맵

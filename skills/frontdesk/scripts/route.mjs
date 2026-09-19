@@ -6,6 +6,7 @@
 import { readFileSync, existsSync, writeFileSync } from "node:fs";
 import { allCategories } from "../taxonomy.mjs";
 import { matchingCategories, normalize } from "./lib/classify-core.mjs";
+import { rankedCandidates } from "./lib/ranking.mjs";
 
 const CACHE_PATH = "data/route-cache.json";
 const CATEGORIES = allCategories();
@@ -21,10 +22,7 @@ function saveCache(cache) {
 }
 
 function topItems(categoryId, n = 3) {
-  return catalog
-    .filter((it) => it.category === categoryId)
-    .sort((a, b) => (b.metric?.stars ?? b.metric?.installs ?? 0) - (a.metric?.stars ?? a.metric?.installs ?? 0))
-    .slice(0, n);
+  return rankedCandidates(catalog, categoryId, { n });
 }
 
 function route(task) {

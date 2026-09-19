@@ -4,6 +4,12 @@
 
 요청이 들어오면 무거운 범용 에이전트부터 부르지 않고, 13개 부서(전략/기획부터 개발·디자인·마케팅까지) 중 어디로 보낼지 먼저 판단하는 프런트데스크. 아이디어 검증부터 수익모델, 마케팅, 디자인, 개발까지 소프트웨어 회사의 모든 기능을 한 번에 처리하는 통합 AI 툴을 만들기 위한 1단계로, GitHub과 [skills.sh](https://skills.sh)에서 AI 개발자용 에이전트/스킬을 수집해 실제 개발 회사 조직도처럼 세분화된 분야별로 분류한 카탈로그다.
 
+<p align="center">
+  <img src="skills/frontdesk/assets/explainer-hero.jpg" alt="frontdesk building-directory hero" width="49%">
+  <img src="skills/frontdesk/assets/explainer-router-demo.jpg" alt="frontdesk routing ladder demo, live results" width="49%">
+</p>
+<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">인터랙티브 버전 열어보기</a> — 실제 요청 예시를 눌러보면 진짜 라우팅 결과가 뜬다. (비공개 링크라 공유 설정을 바꿔야 남들도 열 수 있음)</sub></p>
+
 ## 이 프로젝트는 스킬로도 설치할 수 있다
 
 `skills/frontdesk/`는 [Agent Skills 스펙](https://skills.sh)을 따르는 자기완결적 스킬 패키지다 — [ponytail](https://github.com/DietrichGebert/ponytail)을 설치해서 쓰듯이, 다른 사람도 이걸 자기 프로젝트에 설치해서 쓸 수 있다:

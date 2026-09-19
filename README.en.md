@@ -4,6 +4,12 @@
 
 A front desk for AI dev requests: instead of paging a heavy general-purpose agent for every task, it first decides which of 13 departments (from strategy/ideation to engineering, design, and marketing) the request belongs to. This is step one toward a unified AI tool that handles everything a software company does — from validating an idea to revenue model, marketing, design, and engineering. It's a catalog of AI developer agents/skills collected from GitHub and [skills.sh](https://skills.sh), classified as finely as a real company's org chart.
 
+<p align="center">
+  <img src="skills/frontdesk/assets/explainer-hero.jpg" alt="frontdesk building-directory hero" width="49%">
+  <img src="skills/frontdesk/assets/explainer-router-demo.jpg" alt="frontdesk routing ladder demo, live results" width="49%">
+</p>
+<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">Open the interactive version</a> — click an example request and see the real routing result. (Private link — needs sharing turned on before others can open it.)</sub></p>
+
 ## This project is itself an installable Skill
 
 `skills/frontdesk/` is a self-contained skill package following the [Agent Skills spec](https://skills.sh) — install it the same way you'd install [ponytail](https://github.com/DietrichGebert/ponytail):

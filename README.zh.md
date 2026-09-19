@@ -4,6 +4,12 @@
 
 AI 开发请求的"前台" — 收到请求时不会立刻调用笨重的通用智能体,而是先判断这属于 13 个部门(从战略/创意验证到工程、设计、市场营销)中的哪一个。这是打造一个能一次性处理软件公司全部职能(从创意验证到收入模式、市场营销、设计、开发)的统一 AI 工具的第一步。它是从 GitHub 和 [skills.sh](https://skills.sh) 收集的 AI 开发者智能体/技能目录,按真实公司组织架构的粒度进行了细致分类。
 
+<p align="center">
+  <img src="skills/frontdesk/assets/explainer-hero.jpg" alt="frontdesk building-directory hero" width="49%">
+  <img src="skills/frontdesk/assets/explainer-router-demo.jpg" alt="frontdesk routing ladder demo, live results" width="49%">
+</p>
+<p align="center"><sub>👉 <a href="https://claude.ai/artifact/R3E1tXFd7eoDEwQZdk6bYC">打开交互版本</a> —— 点击示例请求即可看到真实的路由结果。(私密链接,需要开启分享后其他人才能打开。)</sub></p>
+
 ## 这个项目本身也是一个可安装的 Skill
 
 `skills/frontdesk/` 是一个遵循 [Agent Skills 规范](https://skills.sh) 的自包含技能包 —— 安装方式和安装 [ponytail](https://github.com/DietrichGebert/ponytail) 一样:

@@ -1,6 +1,6 @@
 # AI 개발 에이전트/스킬 카탈로그
 
-GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 분류한 카탈로그입니다. 총 1311건.
+GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 분류한 카탈로그입니다. 총 1325건.
 
 자동 생성 파일입니다 — 직접 수정하지 말고 `npm run all`로 재생성하세요.
 
@@ -288,7 +288,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[jezweb/claude-skills@accessibility](https://skills.sh/jezweb/claude-skills/accessibility)** (⬇ 512 installs) — _설명 없음_
 - **[webflow/webflow-skills@accessibility-audit](https://skills.sh/webflow/webflow-skills/accessibility-audit)** (⬇ 495 installs) — _설명 없음_
 
-## 4. 엔지니어링-프론트엔드 (94건)
+## 4. 엔지니어링-프론트엔드 (95건)
 
 ### 4.1 웹 프론트엔드
 
@@ -318,6 +318,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[clerk/skills@clerk-react-router-patterns](https://skills.sh/clerk/skills/clerk-react-router-patterns)** (⬇ 13,600 installs) — React Router v7/v8 patterns with Clerk — rootAuthLoader, getAuth in loaders,
 - **[core](https://github.com/stenciljs/core)** (⭐ 13126) — A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-agnostic codebase.
 - **[hyperui](https://github.com/markmead/hyperui)** (⭐ 12236) — Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+- **[flowy](https://github.com/alyssaxuu/flowy)** (⭐ 12131) — The minimal javascript library to create flowcharts ✨
 - **[bisheng](https://github.com/dataelement/bisheng)** (⭐ 11979) — BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
 - **[vuejs-ai/skills@vue-testing-best-practices](https://skills.sh/vuejs-ai/skills/vue-testing-best-practices)** (⬇ 11,800 installs) — _설명 없음_
 - **[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)** (⭐ 10881) — Agentic AI Framework for Java Developers
@@ -1168,7 +1169,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[notque/vexjoy-agent@customer-support](https://skills.sh/notque/vexjoy-agent/customer-support)** (⬇ 5 installs) — _설명 없음_
 - **[superlowburn/skill-customer-support@customer-support](https://skills.sh/superlowburn/skill-customer-support/customer-support)** (⬇ 3 installs) — _설명 없음_
 
-## 11. 운영/거버넌스 (189건)
+## 11. 운영/거버넌스 (191건)
 
 ### 11.1 프로젝트 관리
 
@@ -1199,7 +1200,9 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 ### 11.2 문서화
 
+- **[archify](https://github.com/tt-a1i/archify)** (⭐ 66931) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - **[context7](https://github.com/upstash/context7)** (⭐ 62184) — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** (⭐ 41202) — Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - **[samber/cc-skills-golang@golang-documentation](https://skills.sh/samber/cc-skills-golang/golang-documentation)** (⬇ 38,800 installs) — Comprehensive documentation guide for Golang projects, covering godoc comments, README, CONTRIBUTING, CHANGELOG, Go Playground, Example tests, API docs, and llms.txt. Use when writing or reviewing doc comments, documenta
 - **[addyosmani/agent-skills@documentation-and-adrs](https://skills.sh/addyosmani/agent-skills/documentation-and-adrs)** (⬇ 37,900 installs) — Records decisions and documentation. Use when you need to document an architecture decision (ADR) or the reasoning behind a design choice, when changing public APIs, shipping features, or when you need to record context 
 - **[github/awesome-copilot@documentation-writer](https://skills.sh/github/awesome-copilot/documentation-writer)** (⬇ 26,600 installs) — Diátaxis Documentation Expert. An expert technical writer specializing in creating high-quality software documentation, guided by the principles and structure of the Diátaxis technical documentation authoring framework.
@@ -1371,7 +1374,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[davila7/claude-code-templates@job-description-analyzer](https://skills.sh/davila7/claude-code-templates/job-description-analyzer)** (⬇ 13 installs) — _설명 없음_
 - **[inbharatai/claude-skills@job-description](https://skills.sh/inbharatai/claude-skills/job-description)** (⬇ 11 installs) — _설명 없음_
 
-## 12. 메타/효율화 레이어 (59건)
+## 12. 메타/효율화 레이어 (61건)
 
 ### 12.1 토큰 절약/프롬프트 압축
 
@@ -1412,6 +1415,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[rohitg00/agentmemory@write-agentmemory-skill](https://skills.sh/rohitg00/agentmemory/write-agentmemory-skill)** (⬇ 9,200 installs) ⚠ — _설명 없음_
 - **[honcho](https://github.com/plastic-labs/honcho)** (⭐ 7247) —  Memory library for building stateful agents
 - **[muratcankoylan/agent-skills-for-context-engineering@context-engineering-collection](https://skills.sh/muratcankoylan/agent-skills-for-context-engineering/context-engineering-collection)** (⬇ 3,900 installs) — _설명 없음_
+- **[arscontexta](https://github.com/agenticnotetaking/arscontexta)** (⭐ 3487) — Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.
 - **[letta-code](https://github.com/letta-ai/letta-code)** (⭐ 3377) — Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - **[neo](https://github.com/neomjs/neo)** (⭐ 3279) — Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.
 - **[agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)** (⭐ 2574) — 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai 
@@ -1441,17 +1445,21 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 ### 12.4 멀티에이전트 조율 프레임워크
 
 - **[gateway](https://github.com/Portkey-AI/gateway)** (⭐ 13034) — A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+- **[rig](https://github.com/0xPlaygrounds/rig)** (⭐ 8669) — ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - **[company-research-agent](https://github.com/guy-hartstein/company-research-agent)** (⭐ 2283) — An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on the backend for inference.
 - **[swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit)** (⭐ 850) — DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.
 
-## 13. AI 에이전트 생태계/메타 도구 (43건)
+## 13. AI 에이전트 생태계/메타 도구 (52건)
 
 ### 13.1 큐레이션 목록/스킬 레지스트리
 
+- **[skills](https://github.com/anthropics/skills)** (⭐ 177059) — Public repository for Agent Skills
+- **[agent-skills](https://github.com/addyosmani/agent-skills)** (⭐ 96493) — Production-grade engineering skills for AI coding agents.
 - **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** (⭐ 75302) — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - **[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** (⭐ 54286) — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - **[awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** (⭐ 52656) — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - **[awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** (⭐ 34581) — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+- **[baoyu-skills](https://github.com/JimLiu/baoyu-skills)** (⭐ 26002) — _설명 없음_
 - **[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)** (⭐ 5939) — An awesome & curated list of best LLMOps tools for developers
 - **[awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding)** (⭐ 5265) — A curated list of vibe coding references, collaborating with AI to write code.
 - **[awesome-product-management](https://github.com/dend/awesome-product-management)** (⭐ 2368) — 🚀 A curated list of awesome resources for product/program managers to learn and grow.
@@ -1464,6 +1472,9 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 ### 13.2 범용 코딩 에이전트/하네스
 
+- **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** (⭐ 52441) — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+- **[harness](https://github.com/revfactory/harness)** (⭐ 9024) — A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+- **[ORG2](https://github.com/org2AI/ORG2)** (⭐ 2631) — System of record for how agents build software: Built-in rust harness & 20+ CLIs.
 - **[headcount](https://github.com/cbrock84/headcount)** (⭐ 1626) — An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.
 - **[vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** (⭐ 1132) — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team, & workflow on autopilot loops with 0 need for human gate. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack
 - **[building-a-coding-agent-from-scratch-course](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course)** (⭐ 432) — From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase
@@ -1474,6 +1485,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 ### 13.4 IDE 규칙/컨벤션
 
+- **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** (⭐ 48176) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[agent-rules-books](https://github.com/ciembor/agent-rules-books)** (⭐ 2824) — AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
 - **[cursor-rules](https://github.com/flyeric0212/cursor-rules)** (⭐ 1886) — 整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。
 - **[andrej-karpathy-skills-cursor-vscode](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode)** (⭐ 271) — Andrej Karpathy skills for your Cursor or VS Code editor
@@ -1486,6 +1498,8 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 ### 13.5 세션/워크플로 유틸리티
 
+- **[cc-switch](https://github.com/farion1231/cc-switch)** (⭐ 133592) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+- **[atlas](https://github.com/pacifio/atlas)** (⭐ 4722) — Source control for agents. Use multiple coding agents, track their changes and query them in one place
 - **[cli-continues](https://github.com/yigitkonur/cli-continues)** (⭐ 1520) — resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - **[agent-deck](https://github.com/asheshgoplani/agent-deck)** (⭐ 921) — Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 

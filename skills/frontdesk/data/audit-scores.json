@@ -7705,8 +7705,25 @@
     "fetched_at": "2026-09-19T12:11:59.583Z"
   },
   "xu-xiang/everything-claude-code-zh": {
-    "error": "HTTP 429",
-    "fetched_at": "2026-09-19T12:12:15.047Z"
+    "data": {
+      "database-migrations": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-03-13T00:38:36.898Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-03-13T00:39:37.144Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-03-13T00:38:40.439653+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-19T12:40:45.685Z"
   },
   "dauquangthanh/hanoi-rainbow": {
     "data": {
@@ -9902,8 +9919,72 @@
     "fetched_at": "2026-09-19T12:13:00.923Z"
   },
   "guia-matthieu/clawfu-skills": {
-    "error": "HTTP 429",
-    "fetched_at": "2026-09-19T12:13:16.387Z"
+    "data": {
+      "conversion-copywriting": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-15T20:25:45.640Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-15T20:27:31.716Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-15T20:25:28.617421+00:00"
+        },
+        "zeroleaks": {
+          "risk": "medium",
+          "score": 69,
+          "analyzedAt": "2026-04-16T02:06:49.669Z"
+        }
+      },
+      "crm-hygiene": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-15T20:26:45.209Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-15T20:30:13.424Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-15T20:25:47.913256+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T02:06:56.129Z"
+        }
+      },
+      "context-engineering": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-15T20:25:44.719Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-15T20:30:15.403Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-15T20:25:45.452102+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T02:06:55.300Z"
+        }
+      }
+    },
+    "fetched_at": "2026-09-19T12:40:46.641Z"
   },
   "vivy-yi/xiaohongshu-skills": {
     "data": {
@@ -11461,8 +11542,24 @@
     "fetched_at": "2026-09-19T12:14:03.597Z"
   },
   "prorise-cool/claude-code-multi-agent": {
-    "error": "HTTP 429",
-    "fetched_at": "2026-09-19T12:14:19.123Z"
+    "data": {
+      "project-management-specialist": {
+        "ath": {
+          "risk": "medium",
+          "analyzedAt": "2026-02-17T18:06:39.958Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-02-15T21:20:03.234Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-02-15T21:34:35.490237+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-19T12:40:47.286Z"
   },
   "dmend3z/tribo-skills": {
     "data": {

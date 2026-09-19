@@ -9720,5 +9720,125 @@
     "stargazers_count": 90,
     "health_score": 85,
     "fetched_at": "2026-09-19T07:33:50.991Z"
+  },
+  "alyssaxuu/flowy": {
+    "pushed_at": "2024-07-13T17:01:28Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 1041,
+    "open_issues_count": 59,
+    "stargazers_count": 12131,
+    "health_score": 50,
+    "fetched_at": "2026-09-19T12:40:39.354Z"
+  },
+  "tt-a1i/archify": {
+    "pushed_at": "2026-09-19T02:07:44Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 4483,
+    "open_issues_count": 138,
+    "stargazers_count": 67118,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:39.873Z"
+  },
+  "cathrynlavery/diagram-design": {
+    "pushed_at": "2026-09-18T17:34:50Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 2637,
+    "open_issues_count": 31,
+    "stargazers_count": 41258,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:40.373Z"
+  },
+  "agenticnotetaking/arscontexta": {
+    "pushed_at": "2026-02-24T23:54:21Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 226,
+    "open_issues_count": 35,
+    "stargazers_count": 3488,
+    "health_score": 67.5,
+    "fetched_at": "2026-09-19T12:40:40.907Z"
+  },
+  "0xPlaygrounds/rig": {
+    "pushed_at": "2026-09-18T09:49:50Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 971,
+    "open_issues_count": 102,
+    "stargazers_count": 8673,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:41.491Z"
+  },
+  "JimLiu/baoyu-skills": {
+    "pushed_at": "2026-09-10T15:13:43Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 2871,
+    "open_issues_count": 17,
+    "stargazers_count": 26006,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:41.980Z"
+  },
+  "router-for-me/CLIProxyAPI": {
+    "pushed_at": "2026-09-19T08:37:36Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 7920,
+    "open_issues_count": 640,
+    "stargazers_count": 52482,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:42.517Z"
+  },
+  "revfactory/harness": {
+    "pushed_at": "2026-07-24T23:35:08Z",
+    "archived": false,
+    "license": "Apache-2.0",
+    "forks_count": 1279,
+    "open_issues_count": 21,
+    "stargazers_count": 9027,
+    "health_score": 90,
+    "fetched_at": "2026-09-19T12:40:43.014Z"
+  },
+  "org2AI/ORG2": {
+    "pushed_at": "2026-09-19T12:31:37Z",
+    "archived": false,
+    "license": "AGPL-3.0",
+    "forks_count": 124,
+    "open_issues_count": 80,
+    "stargazers_count": 2630,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:43.584Z"
+  },
+  "ayghri/i-have-adhd": {
+    "pushed_at": "2026-09-16T15:30:26Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 2816,
+    "open_issues_count": 75,
+    "stargazers_count": 48428,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:44.081Z"
+  },
+  "farion1231/cc-switch": {
+    "pushed_at": "2026-09-17T18:35:01Z",
+    "archived": false,
+    "license": "MIT",
+    "forks_count": 9216,
+    "open_issues_count": 2780,
+    "stargazers_count": 133638,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:44.607Z"
+  },
+  "pacifio/atlas": {
+    "pushed_at": "2026-09-19T09:37:01Z",
+    "archived": false,
+    "license": "Apache-2.0",
+    "forks_count": 281,
+    "open_issues_count": 25,
+    "stargazers_count": 4723,
+    "health_score": 100,
+    "fetched_at": "2026-09-19T12:40:45.086Z"
   }
 }

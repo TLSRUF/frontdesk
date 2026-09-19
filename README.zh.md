@@ -16,11 +16,11 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 产出物
 
-- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** —— 按 13 个部门 / 约 57 个细分领域分类的 1,311 条智能体/技能列表(面向人类阅读的最终成果)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** —— 按 13 个部门 / 约 57 个细分领域分类的 1,325 条智能体/技能列表(面向人类阅读的最终成果)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** —— 基于这个目录构建统一编排器的设计方向,以及基于规则的路由器原型说明(把 [ponytail](https://github.com/DietrichGebert/ponytail) 的低 token 判断阶梯应用到"选择智能体"而非"写代码"上)
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** —— 分类体系定义(部门/细分领域/关键词提示)
 - **`skills/frontdesk/data/catalog.json`** —— 分类后的最终数据(机器可读的原始数据)
-- **`skills/frontdesk/data/unclassified.json`** —— 自动分类失败的条目(供人工复核,共 23 条)
+- **`skills/frontdesk/data/unclassified.json`** —— 自动分类失败的条目(供人工复核,共 9 条)
 - **`skills/frontdesk/scripts/route.mjs`** —— 判断阶梯路由器(`npm run route -- "任务描述"`;加上 `--install` 可在获得确认后当场安装最佳候选)
 
 ## 启动包(Starter Pack)与流水线(Pipeline)

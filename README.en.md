@@ -16,11 +16,11 @@ Once installed, Claude will check "is there already a skill for this?" before do
 
 ## What's here
 
-- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 1,311 agents/skills classified into 13 departments / ~57 sub-categories (the human-readable end product)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 1,325 agents/skills classified into 13 departments / ~57 sub-categories (the human-readable end product)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** — the design direction for a unified orchestrator built on this catalog, and the rule-based router prototype (applying [ponytail](https://github.com/DietrichGebert/ponytail)'s low-token decision ladder to "agent selection" instead of "writing code")
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — the classification scheme (departments/sub-categories/keyword hints)
 - **`skills/frontdesk/data/catalog.json`** — the final classified data (machine-readable source of truth)
-- **`skills/frontdesk/data/unclassified.json`** — items that failed auto-classification (for manual review, 23 entries)
+- **`skills/frontdesk/data/unclassified.json`** — items that failed auto-classification (for manual review, 9 entries)
 - **`skills/frontdesk/scripts/route.mjs`** — the decision-ladder router (`npm run route -- "task description"`; add `--install` to actually install the top candidate once approved)
 
 ## Starter pack & pipeline

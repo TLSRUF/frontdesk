@@ -1,6 +1,6 @@
 # 통합 AI 개발 툴 — 아키텍처 비전 (Phase 1~8 설계 문서)
 
-이 문서는 [`skills/frontdesk/CATALOG.md`](skills/frontdesk/CATALOG.md)에 정리된 1,311개의 에이전트/스킬 데이터를 기반으로, "아이디어 → 수익모델 → 마케팅 → 디자인 → 개발"을 한 번에 처리하는 통합 AI 툴을 어떻게 만들지에 대한 설계 방향을 정리한다. Phase 2에서 판단 사다리의 규칙 기반 프로토타입(`skills/frontdesk/scripts/route.mjs`)까지 구현했고, Phase 3에서 이 전체를 [Agent Skills 스펙](https://skills.sh)에 맞춰 `skills/frontdesk/`로 패키징해 다른 프로젝트에 `npx skills add`로 설치 가능하게 만들었다. Phase 4에서 "부서별 대표 스킬 자동 설치(스타터팩)"와 "아이디어→배포/운영 8단계 파이프라인"을 추가했고, Phase 5에서 저장소 건강도 필터를, Phase 6에서 라우터에 `--install`(요청별 즉시 설치)을, Phase 7에서 보안 감사 점수(audit_score) 필터를, Phase 8에서 스타터팩 픽에 대한 LLM 채점을 추가했다 — 아래 각 섹션 참고.
+이 문서는 [`skills/frontdesk/CATALOG.md`](skills/frontdesk/CATALOG.md)에 정리된 1,325개의 에이전트/스킬 데이터를 기반으로, "아이디어 → 수익모델 → 마케팅 → 디자인 → 개발"을 한 번에 처리하는 통합 AI 툴을 어떻게 만들지에 대한 설계 방향을 정리한다. Phase 2에서 판단 사다리의 규칙 기반 프로토타입(`skills/frontdesk/scripts/route.mjs`)까지 구현했고, Phase 3에서 이 전체를 [Agent Skills 스펙](https://skills.sh)에 맞춰 `skills/frontdesk/`로 패키징해 다른 프로젝트에 `npx skills add`로 설치 가능하게 만들었다. Phase 4에서 "부서별 대표 스킬 자동 설치(스타터팩)"와 "아이디어→배포/운영 8단계 파이프라인"을 추가했고, Phase 5에서 저장소 건강도 필터를, Phase 6에서 라우터에 `--install`(요청별 즉시 설치)을, Phase 7에서 보안 감사 점수(audit_score) 필터를, Phase 8에서 스타터팩 픽에 대한 LLM 채점을 추가했다 — 아래 각 섹션 참고.
 
 **Phase 4를 시작하게 된 계기**: "카탈로그+라우터"만으로는 원래 목표("이거 하나만 쓰면 상황에 맞는 최고의 스킬을 저절로 가져온다")에 못 미쳤다. 라우터는 *추천*만 했지 *설치*는 안 했고, 여러 단계를 잇는 파이프라인도 없었다. 이 문서 하단 "목표 대비 현황"에 그 간극을 정직하게 남겨둔다.
 
@@ -150,7 +150,7 @@ health_score와 audit_score는 둘 다 "걸러내는" 용도지 "이게 좋다"�
 
 **이 채점으로 실제 스타터팩 선정 로직을 바꾸지는 않았다** — 이번 범위는 "이미 뽑힌 픽을 채점해서 한계를 확인"하는 것이었지 "재선정"이 아니었다. 부서당 후보 1개만 봐서는 "이게 그 부서에서 제일 나은가"는 판단할 수 없고 "이게 괜찮은가"만 판단할 수 있다 — 재선정까지 하려면 부서당 상위 3~5개를 전부 채점해서 비교해야 공정하다(다음 후보로 남겨둠).
 
-**이 방법의 한계**: 1,311건 전체에 적용하기엔 비용이 크다(각 항목의 SKILL.md를 실제로 읽어야 함). 스타터팩처럼 범위가 좁을 때만 현실적이다. 또한 이건 한 세션에서 한 번 수행한 정성 평가이지, 재현 가능한 정량적 벤치마크가 아니다(BENCHMARK.md의 정량 벤치마크와는 성격이 다르다).
+**이 방법의 한계**: 1,325건 전체에 적용하기엔 비용이 크다(각 항목의 SKILL.md를 실제로 읽어야 함). 스타터팩처럼 범위가 좁을 때만 현실적이다. 또한 이건 한 세션에서 한 번 수행한 정성 평가이지, 재현 가능한 정량적 벤치마크가 아니다(BENCHMARK.md의 정량 벤치마크와는 성격이 다르다).
 
 ## 목표 대비 현황 (정직하게)
 
@@ -185,11 +185,11 @@ skills.sh (skills CLI) ─┘                                      │          
 
 ## 다음에 할 수 있는 일
 
-1. **LLM 기반 분류로 전환**: 키워드 매칭의 한계(다국어, 다의어)를 넘으려면 규칙 매칭 실패 시에만 LLM 호출로 넘어가는 하이브리드 구조가 필요
+1. ~~LLM 기반 분류로 전환~~ **검토 완료, 현재 방식 유지로 결정**: `route.mjs` 자체에 API 호출을 넣는 "진짜" 하이브리드도 고려했지만, Claude Code 안에서 쓸 땐 이미 Claude가 곁에 있어서 스크립트가 별도로 LLM을 또 부르는 게 이 프로젝트의 "불필요하게 무거운 걸 부르지 마라"는 철학과 어긋난다. 대신 SKILL.md가 "4단계(매칭 실패) 시 Claude가 직접 taxonomy.mjs를 훑어보라"고 지시해 **추가 비용 없이** 같은 효과를 낸다. Claude 없이 순수 CLI로만 쓰는 경우(CI 등)를 위한 진짜 API 통합은 필요해지면 재검토
 2. ~~품질 필터링~~ ✅ **완료 (Phase 5)**: `scripts/repo-health.mjs`가 라이선스·최근 커밋·archived 여부·fork 수로 `health_score`를 계산해 방치된 저장소를 걸러냄 (위 "저장소 건강도" 섹션)
 3. **설명 보강 확대**: 현재 인기 상위 80개만 보강됨 — 나머지 skills.sh 항목(600여 건)도 우선순위를 낮춰 점진적으로 보강
-4. **커버리지 확장**: 현재 27개 GitHub 시드 + 36개 skills.sh 키워드로 1,311건 확보 — 여전히 얇은 부서가 있다면 시드 추가
-5. **남은 미분류 23건 재검토**: 대부분 이름만으로는 분야를 알 수 없는 범용 도구(harness, terminal utility 등) — 새 카테고리보다는 그냥 수동 태깅이 나을 수 있음
+4. **커버리지 확장**: 현재 27개 GitHub 시드 + 36개 skills.sh 키워드로 1,325건 확보 — 여전히 얇은 부서가 있다면 시드 추가
+5. ~~남은 미분류 23건 재검토~~ ✅ **완료 (Phase 9)**: 23건을 직접 읽고 14건은 `data/manual-overrides.json`(키워드 매칭이 놓친 항목을 사람이 직접 분류하는, `classify.mjs`가 자동 매칭보다 우선 적용하는 예외 목록)으로 분류했다(archify/diagram-design → 11.2 문서화, atlas/cc-switch → 13.5 세션 유틸리티, ORG2/harness/CLIProxyAPI → 13.2 에이전트 하네스, i-have-adhd → 13.4 IDE 컨벤션, arscontexta → 12.3 메모리, rig → 12.4 멀티에이전트 프레임워크, flowy → 4.1 프론트엔드, skills/agent-skills/baoyu-skills → 13.1 큐레이션 목록). 남은 9건(Open-ClaudeCode, embeddedskills, terminal-browser, engram, python-for-devops, webhook, n8n-data-manager, wsbalancer, llm-action)은 임베디드 개발·연구 아카이브·학습 플랫폼·순수 인프라 유틸리티 등 이 taxonomy의 13개 부서 어디에도 깔끔하게 안 맞아 의도적으로 미분류로 남겼다. 카탈로그 1,325건 분류, 새 카테고리를 늘리는 대신 예외 목록으로 처리하는 패턴을 마련해뒀다.
 6. ~~실제 설치 검증~~ ✅ **완료**: `npx skills add TLSRUF/frontdesk@frontdesk`와 `npx skills add https://github.com/TLSRUF/frontdesk` 둘 다 실제로 설치되는 것을 확인함(별도 빈 디렉터리에서 실제 실행). Claude Code가 description만으로 알아서 트리거하는지는 아직 실전 세션에서 검증 안 함 — 이건 여전히 남은 항목.
 7. ~~skills.sh 등재~~ **조사 완료, 별도 등재 절차 없음**: `vercel-labs/skills`(skills.sh 공식 CLI) 저장소를 확인한 결과 PR/심사 큐 같은 제출 절차는 없다. 공개 GitHub 저장소에 `SKILL.md`만 있으면 누구든 `npx skills add`로 즉시 설치 가능하고, 웹사이트 리더보드는 실제 설치 텔레메트리 기반으로 보인다(문서로 100% 확정하지는 못함). 즉 "심사받아 등재"가 아니라 "실제로 쓰이면 자연히 리더보드에 노출"되는 구조로 추정됨.
 8. ~~스타터팩을 "그때그때 동적 설치"로 발전~~ ✅ **완료 (Phase 6)**: `route.mjs`에 `--install` 플래그를 추가했다. 기본 실행(플래그 없이)은 여전히 추천만 하고, 사용자가 승인한 뒤 **같은 명령에 `--install`만 붙여 재실행**하면 캐시된 결과를 그대로 써서(재매칭 없이) `type: "skill"` 후보를 `npx skills add`로 그 자리에서 설치한다. `type: "github-repo"` 후보는 Agent Skills 스펙을 따른다는 보장이 없어 자동 설치하지 않고 `git clone` 안내만 한다(실제로 "terraform infra and seo copywriting" 같은 혼합 질의로 3단계 경로까지 검증함 — hashicorp/terraform은 clone 안내로, skills.sh 항목 2개는 실제 설치로 정확히 갈렸다).

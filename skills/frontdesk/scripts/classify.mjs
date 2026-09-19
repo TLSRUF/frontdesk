@@ -1,11 +1,18 @@
 // data/raw/** 의 모든 항목을 읽어 taxonomy.mjs 키워드에 매칭시켜 category를 부여한다.
 // 매칭 실패 항목은 unclassified.json으로 분리한다.
-import { readFileSync, readdirSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, existsSync, readdirSync, writeFileSync, mkdirSync } from "node:fs";
 import { allCategories } from "../taxonomy.mjs";
 import { bestMatch } from "./lib/classify-core.mjs";
 
 const RAW_DIRS = ["data/raw/github", "data/raw/skillssh"];
 const CATEGORIES = allCategories();
+const CATEGORY_BY_ID = new Map(CATEGORIES.map((c) => [c.id, c]));
+
+// 키워드 매칭이 놓친 항목을 사람이 직접 읽고 분류한 예외 목록. 여기 있으면 자동 매칭보다 우선한다.
+const OVERRIDES_PATH = "data/manual-overrides.json";
+const manualOverrides = existsSync(OVERRIDES_PATH)
+  ? JSON.parse(readFileSync(OVERRIDES_PATH, "utf8")).overrides
+  : {};
 
 function loadRaw() {
   const items = [];
@@ -48,6 +55,10 @@ function haystack(item, includeSeed) {
 }
 
 function classifyOne(item) {
+  if (manualOverrides[item.id]) {
+    const cat = CATEGORY_BY_ID.get(manualOverrides[item.id]);
+    if (cat) return { cat, weak: false, manual: true };
+  }
   const strong = bestMatch(haystack(item, false), CATEGORIES);
   if (strong) return { cat: strong, weak: false };
   const weak = bestMatch(haystack(item, true), CATEGORIES);
@@ -87,7 +98,8 @@ for (const item of dedup.values()) {
     install: item.install || (item.type === "github-repo" ? `git clone ${item.source_url}` : ""),
     category: result ? result.cat.id : null,
     category_name: result ? `${result.cat.dept} > ${result.cat.name}` : null,
-    weak_match: result ? result.weak : undefined
+    weak_match: result ? result.weak : undefined,
+    manual_override: result?.manual ? true : undefined
   };
   if (result) {
     catalog.push(entry);

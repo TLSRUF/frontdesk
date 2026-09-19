@@ -1,0 +1,19 @@
+{
+  "note": "classify.mjs의 키워드 매칭이 놓친 항목을 사람이 직접 검토해서 분류한 목록. 실제 내용(설명)을 읽고 판단했다. 여기 없는 미분류 항목은 정말 이 taxonomy의 13개 부서 어디에도 깔끔하게 안 맞는다고 판단해 의도적으로 남겨둔 것이다 (예: 임베디드 개발, 터미널 브라우저, 학습 플랫폼, 순수 인프라 유틸리티).",
+  "overrides": {
+    "github:anthropics/skills": "13.1",
+    "github:addyosmani/agent-skills": "13.1",
+    "github:JimLiu/baoyu-skills": "13.1",
+    "github:tt-a1i/archify": "11.2",
+    "github:cathrynlavery/diagram-design": "11.2",
+    "github:pacifio/atlas": "13.5",
+    "github:org2AI/ORG2": "13.2",
+    "github:ayghri/i-have-adhd": "13.4",
+    "github:revfactory/harness": "13.2",
+    "github:agenticnotetaking/arscontexta": "12.3",
+    "github:farion1231/cc-switch": "13.5",
+    "github:router-for-me/CLIProxyAPI": "13.2",
+    "github:0xPlaygrounds/rig": "12.4",
+    "github:alyssaxuu/flowy": "4.1"
+  }
+}

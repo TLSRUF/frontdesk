@@ -1,103 +1,5 @@
 [
   {
-    "id": "github:anthropics/skills",
-    "name": "skills",
-    "type": "github-repo",
-    "source_url": "https://github.com/anthropics/skills",
-    "metric": {
-      "stars": 177059
-    },
-    "description": "Public repository for Agent Skills",
-    "license": null,
-    "install": "git clone https://github.com/anthropics/skills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:addyosmani/agent-skills",
-    "name": "agent-skills",
-    "type": "github-repo",
-    "source_url": "https://github.com/addyosmani/agent-skills",
-    "metric": {
-      "stars": 96493
-    },
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "license": "MIT",
-    "install": "git clone https://github.com/addyosmani/agent-skills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:tt-a1i/archify",
-    "name": "archify",
-    "type": "github-repo",
-    "source_url": "https://github.com/tt-a1i/archify",
-    "metric": {
-      "stars": 66931
-    },
-    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-    "license": "MIT",
-    "install": "git clone https://github.com/tt-a1i/archify",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:cathrynlavery/diagram-design",
-    "name": "diagram-design",
-    "type": "github-repo",
-    "source_url": "https://github.com/cathrynlavery/diagram-design",
-    "metric": {
-      "stars": 41202
-    },
-    "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "license": "MIT",
-    "install": "git clone https://github.com/cathrynlavery/diagram-design",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:JimLiu/baoyu-skills",
-    "name": "baoyu-skills",
-    "type": "github-repo",
-    "source_url": "https://github.com/JimLiu/baoyu-skills",
-    "metric": {
-      "stars": 26002
-    },
-    "description": "",
-    "license": "MIT",
-    "install": "git clone https://github.com/JimLiu/baoyu-skills",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:pacifio/atlas",
-    "name": "atlas",
-    "type": "github-repo",
-    "source_url": "https://github.com/pacifio/atlas",
-    "metric": {
-      "stars": 4722
-    },
-    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/pacifio/atlas",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:org2AI/ORG2",
-    "name": "ORG2",
-    "type": "github-repo",
-    "source_url": "https://github.com/org2AI/ORG2",
-    "metric": {
-      "stars": 2631
-    },
-    "description": "System of record for how agents build software: Built-in rust harness & 20+ CLIs.",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/org2AI/ORG2",
-    "category": null,
-    "category_name": null
-  },
-  {
     "id": "github:LING71671/Open-ClaudeCode",
     "name": "Open-ClaudeCode",
     "type": "github-repo",
@@ -126,48 +28,6 @@
     "category_name": null
   },
   {
-    "id": "github:ayghri/i-have-adhd",
-    "name": "i-have-adhd",
-    "type": "github-repo",
-    "source_url": "https://github.com/ayghri/i-have-adhd",
-    "metric": {
-      "stars": 48176
-    },
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "license": "MIT",
-    "install": "git clone https://github.com/ayghri/i-have-adhd",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:revfactory/harness",
-    "name": "harness",
-    "type": "github-repo",
-    "source_url": "https://github.com/revfactory/harness",
-    "metric": {
-      "stars": 9024
-    },
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/revfactory/harness",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:agenticnotetaking/arscontexta",
-    "name": "arscontexta",
-    "type": "github-repo",
-    "source_url": "https://github.com/agenticnotetaking/arscontexta",
-    "metric": {
-      "stars": 3487
-    },
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
-    "license": "MIT",
-    "install": "git clone https://github.com/agenticnotetaking/arscontexta",
-    "category": null,
-    "category_name": null
-  },
-  {
     "id": "github:zenbu-labs/terminal-browser",
     "name": "terminal-browser",
     "type": "github-repo",
@@ -192,34 +52,6 @@
     "description": "Evidence-based learning engine — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
     "license": "MIT",
     "install": "git clone https://github.com/nagisanzenin/engram",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:farion1231/cc-switch",
-    "name": "cc-switch",
-    "type": "github-repo",
-    "source_url": "https://github.com/farion1231/cc-switch",
-    "metric": {
-      "stars": 133592
-    },
-    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-    "license": "MIT",
-    "install": "git clone https://github.com/farion1231/cc-switch",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:router-for-me/CLIProxyAPI",
-    "name": "CLIProxyAPI",
-    "type": "github-repo",
-    "source_url": "https://github.com/router-for-me/CLIProxyAPI",
-    "metric": {
-      "stars": 52441
-    },
-    "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-    "license": "MIT",
-    "install": "git clone https://github.com/router-for-me/CLIProxyAPI",
     "category": null,
     "category_name": null
   },
@@ -290,34 +122,6 @@
     "description": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
     "license": "Apache-2.0",
     "install": "git clone https://github.com/liguodongiot/llm-action",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:0xPlaygrounds/rig",
-    "name": "rig",
-    "type": "github-repo",
-    "source_url": "https://github.com/0xPlaygrounds/rig",
-    "metric": {
-      "stars": 8669
-    },
-    "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-    "license": "MIT",
-    "install": "git clone https://github.com/0xPlaygrounds/rig",
-    "category": null,
-    "category_name": null
-  },
-  {
-    "id": "github:alyssaxuu/flowy",
-    "name": "flowy",
-    "type": "github-repo",
-    "source_url": "https://github.com/alyssaxuu/flowy",
-    "metric": {
-      "stars": 12131
-    },
-    "description": "The minimal javascript library to create flowcharts ✨",
-    "license": "MIT",
-    "install": "git clone https://github.com/alyssaxuu/flowy",
     "category": null,
     "category_name": null
   }

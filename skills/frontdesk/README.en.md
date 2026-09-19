@@ -28,7 +28,7 @@ node scripts/route.mjs "recommend a testing automation tool"
 
 - `SKILL.md` — the actual skill definition Claude (or another agent) reads
 - `taxonomy.mjs` — the 13-department classification scheme
-- `data/catalog.json` — the classified catalog data (1,311 entries)
+- `data/catalog.json` — the classified catalog data (1,325 entries)
 - `scripts/` — the collect (`collect-*.mjs`) → classify (`classify.mjs`) → enrich (`enrich-descriptions.mjs`) → document (`build-catalog-md.mjs`) → route (`route.mjs`) → benchmark (`benchmark.mjs`) → starter pack (`pick-best-of-breed.mjs`, `install-starter-pack.mjs`) → pipeline (`pipeline.mjs`) pipeline
 - `CATALOG.md` — the full human-readable catalog listing
 - `BENCHMARK.md` — classification accuracy/false-positive benchmark and a scale comparison against similar projects

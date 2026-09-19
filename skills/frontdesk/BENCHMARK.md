@@ -61,7 +61,7 @@ node scripts/benchmark.mjs
 
 | 프로젝트 | 스킬/항목 수 | 부서 수 | 메커니즘 | stars |
 |---|---:|---:|---|---:|
-| **frontdesk** | 1,311 | 13 | 외부(GitHub+skills.sh) 스킬을 수집해 부서별로 분류하고 규칙 기반으로 라우팅 | - |
+| **frontdesk** | 1,325 | 13 | 외부(GitHub+skills.sh) 스킬을 수집해 부서별로 분류하고 규칙 기반으로 라우팅 | - |
 | [headcount](https://github.com/cbrock84/headcount) | 125+ | 15+ | 자체 제작 스킬로 구성된 "회사 조직" 시뮬레이션 | 1,626 |
 | [skene-cookbook](https://github.com/SkeneTechnologies/skene-cookbook) | 700+ | 비공개 | 스킬 모음, 분류/라우팅 로직 비공개 | 53 |
 

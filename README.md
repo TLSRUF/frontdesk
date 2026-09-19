@@ -16,11 +16,11 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 결과물
 
-- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 13개 부서 / ~57개 세부분야로 분류된 1,311건의 에이전트/스킬 목록 (사람이 읽는 최종 산출물)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 13개 부서 / ~57개 세부분야로 분류된 1,325건의 에이전트/스킬 목록 (사람이 읽는 최종 산출물)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** — 이 카탈로그를 기반으로 통합 오케스트레이터를 어떻게 만들지에 대한 설계 방향, 그리고 규칙 기반 라우터 프로토타입 설명 ([ponytail](https://github.com/DietrichGebert/ponytail)의 저토큰 판단 사다리를 "에이전트 선택"에 적용)
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — 분류 체계 정의 (부서/세부분야/키워드 힌트)
 - **`skills/frontdesk/data/catalog.json`** — 분류된 최종 데이터 (기계가 읽는 원본)
-- **`skills/frontdesk/data/unclassified.json`** — 자동 분류 실패 항목 (수동 검토용, 23건)
+- **`skills/frontdesk/data/unclassified.json`** — 자동 분류 실패 항목 (수동 검토용, 9건)
 - **`skills/frontdesk/scripts/route.mjs`** — 판단 사다리 라우터 (`npm run route -- "작업 설명"`, `--install` 붙이면 승인 후 그 자리에서 바로 설치까지)
 
 ## 스타터팩 & 파이프라인

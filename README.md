@@ -2,16 +2,28 @@
 
 요청이 들어오면 무거운 범용 에이전트부터 부르지 않고, 13개 부서(전략/기획부터 개발·디자인·마케팅까지) 중 어디로 보낼지 먼저 판단하는 프런트데스크. 아이디어 검증부터 수익모델, 마케팅, 디자인, 개발까지 소프트웨어 회사의 모든 기능을 한 번에 처리하는 통합 AI 툴을 만들기 위한 1단계로, GitHub과 [skills.sh](https://skills.sh)에서 AI 개발자용 에이전트/스킬을 수집해 실제 개발 회사 조직도처럼 세분화된 분야별로 분류한 카탈로그다.
 
+## 이 프로젝트는 스킬로도 설치할 수 있다
+
+`skills/frontdesk/`는 [Agent Skills 스펙](https://skills.sh)을 따르는 자기완결적 스킬 패키지다 — [ponytail](https://github.com/DietrichGebert/ponytail)을 설치해서 쓰듯이, 다른 사람도 이걸 자기 프로젝트에 설치해서 쓸 수 있다:
+
+```bash
+npx skills add TLSRUF/frontdesk@frontdesk
+```
+
+설치하면 Claude가 어떤 작업을 받았을 때 "이미 존재하는 스킬로 되는 일인가?"를 먼저 확인하게 된다. 스킬 자체의 사용법은 [`skills/frontdesk/SKILL.md`](skills/frontdesk/SKILL.md), 사람이 읽는 소개는 [`skills/frontdesk/README.md`](skills/frontdesk/README.md)에 있다.
+
 ## 결과물
 
-- **[CATALOG.md](CATALOG.md)** — 13개 부서 / ~57개 세부분야로 분류된 1,311건의 에이전트/스킬 목록 (사람이 읽는 최종 산출물)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 13개 부서 / ~57개 세부분야로 분류된 1,311건의 에이전트/스킬 목록 (사람이 읽는 최종 산출물)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** — 이 카탈로그를 기반으로 통합 오케스트레이터를 어떻게 만들지에 대한 설계 방향, 그리고 규칙 기반 라우터 프로토타입 설명 ([ponytail](https://github.com/DietrichGebert/ponytail)의 저토큰 판단 사다리를 "에이전트 선택"에 적용)
-- **[taxonomy.mjs](taxonomy.mjs)** — 분류 체계 정의 (부서/세부분야/키워드 힌트)
-- **`data/catalog.json`** — 분류된 최종 데이터 (기계가 읽는 원본)
-- **`data/unclassified.json`** — 자동 분류 실패 항목 (수동 검토용, 23건)
-- **`scripts/route.mjs`** — 판단 사다리 라우터 프로토타입 (`npm run route -- "작업 설명"`)
+- **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — 분류 체계 정의 (부서/세부분야/키워드 힌트)
+- **`skills/frontdesk/data/catalog.json`** — 분류된 최종 데이터 (기계가 읽는 원본)
+- **`skills/frontdesk/data/unclassified.json`** — 자동 분류 실패 항목 (수동 검토용, 23건)
+- **`skills/frontdesk/scripts/route.mjs`** — 판단 사다리 라우터 프로토타입 (`npm run route -- "작업 설명"`)
 
-## 다시 실행하기
+## 다시 실행하기 (카탈로그 최신화)
+
+`skills/frontdesk/` 안에서:
 
 ```bash
 npm run all   # collect:github → collect:skillssh → classify → enrich → build:catalog
@@ -25,7 +37,7 @@ npm run collect:skillssh  # `npx skills search`로 skills.sh 스킬 수집 (data
 npm run classify          # taxonomy.mjs 키워드로 자동 분류 → data/catalog.json (매번 raw에서 재생성됨)
 npm run enrich            # 인기 상위 skills.sh 항목의 SKILL.md에서 실제 설명을 가져와 채움
 npm run build:catalog     # CATALOG.md 생성
-npm run route -- "우리 서비스 가격 정책을 어떻게 잡아야 할까?"   # 라우터 데모
+npm run route -- "recommend a testing automation tool"   # 라우터 데모
 ```
 
 `classify`는 항상 raw 데이터에서 카탈로그를 통째로 재생성하므로 `enrich`보다 먼저 실행해야 한다(순서를 바꾸면 보강한 설명이 사라진다). `npm run all`은 이 순서를 이미 보장한다.
@@ -37,7 +49,11 @@ npm run route -- "우리 서비스 가격 정책을 어떻게 잡아야 할까?"
 - **GitHub**: 27개 시드 토픽(`agent-skills`, `ai-agents`, `mcp-server`, `rag`, `terraform`, `product-management`, `sales-automation` 등)으로 검색, stars 30개 이상
 - **skills.sh**: 36개 키워드(부서별 대표 키워드)로 검색
 
-전체가 아니라 13개 부서를 고르게 대표하는 표본이다. 시드를 `scripts/collect-*.mjs`에 추가하면 확장된다.
+전체가 아니라 13개 부서를 고르게 대표하는 표본이다. 시드를 `skills/frontdesk/scripts/collect-*.mjs`에 추가하면 확장된다.
+
+## 왜 스킬 폴더 안에 스크립트/데이터를 전부 넣었는가
+
+`npx skills add`나 Claude Code 플러그인 설치는 **`skills/<name>/` 폴더 하나만** 복사해간다 (vercel-labs/agent-skills, anthropics/skills 등 실제 저장소로 확인함). 그래서 라우터가 참조하는 `taxonomy.mjs`, `data/catalog.json`, `scripts/*.mjs`가 전부 그 폴더 안에 있어야, 설치받은 사람이 저장소 루트 없이도 스킬만으로 완결되게 동작한다. 저장소 루트에는 사람을 위한 설계 문서(`README.md`, `ARCHITECTURE.md`, `LICENSE`)만 남겼다.
 
 ## 왜 Playwright 대신 gh CLI / skills CLI인가
 

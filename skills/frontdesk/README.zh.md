@@ -33,5 +33,6 @@ node scripts/route.mjs "recommend a testing automation tool"
 - `CATALOG.md` —— 面向人类阅读的完整目录列表
 - `BENCHMARK.md` —— 分类准确率/误判率基准测试,以及与同类项目的规模对比
 - `data/starter-pack.json` —— 各部门代表技能列表(用 `npm run starter-pack` 重新生成)
+- `data/starter-pack-llm-judge.json` —— 对这 12 个候选实际阅读 SKILL.md 内容后的评分结果(包含一个"安装量第一并非最佳选择"的真实案例)
 
 用 `npm run all` 更新目录,用 `npm run benchmark` 运行基准测试,用 `node scripts/install-starter-pack.mjs --yes` 安装启动包,用 `node scripts/pipeline.mjs "项目描述"` 运行流水线(详见仓库根目录 README)。

@@ -33,5 +33,6 @@ node scripts/route.mjs "recommend a testing automation tool"
 - `CATALOG.md` — 사람이 읽는 카탈로그 전체 목록
 - `BENCHMARK.md` — 분류 정확도/오탐률 벤치마크와 비슷한 프로젝트와의 규모 비교
 - `data/starter-pack.json` — 부서별 대표 스킬 목록 (`npm run starter-pack`으로 재생성)
+- `data/starter-pack-llm-judge.json` — 그 12개 픽을 실제 SKILL.md 내용 기준으로 채점한 결과 (installs 1위가 항상 최선은 아니라는 사례 포함)
 
 카탈로그를 최신화하려면 `npm run all`, 벤치마크는 `npm run benchmark`, 스타터팩 설치는 `node scripts/install-starter-pack.mjs --yes`, 파이프라인은 `node scripts/pipeline.mjs "프로젝트 설명"` (저장소 루트 README 참고).

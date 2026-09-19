@@ -33,5 +33,6 @@ node scripts/route.mjs "recommend a testing automation tool"
 - `CATALOG.md` — the full human-readable catalog listing
 - `BENCHMARK.md` — classification accuracy/false-positive benchmark and a scale comparison against similar projects
 - `data/starter-pack.json` — the per-department top-pick list (regenerate with `npm run starter-pack`)
+- `data/starter-pack-llm-judge.json` — those 12 picks judged by reading their actual SKILL.md content (includes a real case where the most-installed pick wasn't the best one)
 
 Refresh the catalog with `npm run all`, run the benchmark with `npm run benchmark`, install the starter pack with `node scripts/install-starter-pack.mjs --yes`, run the pipeline with `node scripts/pipeline.mjs "project description"` (see the repo root README).

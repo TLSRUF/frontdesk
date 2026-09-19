@@ -1,0 +1,831 @@
+[
+  {
+    "id": "github:anthropics/skills",
+    "name": "skills",
+    "owner": "anthropics",
+    "type": "github-repo",
+    "source_url": "https://github.com/anthropics/skills",
+    "metric": {
+      "stars": 177051
+    },
+    "description": "Public repository for Agent Skills",
+    "topics": [
+      "agent-skills"
+    ],
+    "license": null,
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:DietrichGebert/ponytail",
+    "name": "ponytail",
+    "owner": "DietrichGebert",
+    "type": "github-repo",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "metric": {
+      "stars": 142048
+    },
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:nexu-io/open-design",
+    "name": "open-design",
+    "owner": "nexu-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/nexu-io/open-design",
+    "metric": {
+      "stars": 96964
+    },
+    "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+    "topics": [
+      "agent-skills",
+      "ai-design",
+      "byok",
+      "claude-code-for-design",
+      "claude-design",
+      "codex-design",
+      "coding-agents",
+      "cursor-design",
+      "deepseek",
+      "deepseek-harness",
+      "design-systems",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "figma-alternative",
+      "hermes-agent",
+      "local-first",
+      "prototyping",
+      "ui-generator",
+      "vibe-coding"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:addyosmani/agent-skills",
+    "name": "agent-skills",
+    "owner": "addyosmani",
+    "type": "github-repo",
+    "source_url": "https://github.com/addyosmani/agent-skills",
+    "metric": {
+      "stars": 96430
+    },
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:ComposioHQ/awesome-claude-skills",
+    "name": "awesome-claude-skills",
+    "owner": "ComposioHQ",
+    "type": "github-repo",
+    "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "metric": {
+      "stars": 75299
+    },
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "mcp",
+      "openai-codex",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation"
+    ],
+    "license": null,
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:tt-a1i/archify",
+    "name": "archify",
+    "owner": "tt-a1i",
+    "type": "github-repo",
+    "source_url": "https://github.com/tt-a1i/archify",
+    "metric": {
+      "stars": 66854
+    },
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "topics": [
+      "agent-skills",
+      "architecture-as-code",
+      "architecture-diagram",
+      "claude-skill",
+      "code-visualization",
+      "codex",
+      "coding-agents",
+      "data-flow-diagram",
+      "deepseek-harness",
+      "developer-tools",
+      "diagram-as-code",
+      "diagrams",
+      "diagrams-as-code",
+      "dsh-plugin",
+      "mermaid-alternative",
+      "opencode",
+      "sequence-diagram",
+      "software-architecture",
+      "system-design",
+      "text-to-diagram"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:hesreallyhim/awesome-claude-code",
+    "name": "awesome-claude-code",
+    "owner": "hesreallyhim",
+    "type": "github-repo",
+    "source_url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "metric": {
+      "stars": 54282
+    },
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "topics": [
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-claude-code",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant",
+      "coding-assistants",
+      "llm"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:VoltAgent/awesome-openclaw-skills",
+    "name": "awesome-openclaw-skills",
+    "owner": "VoltAgent",
+    "type": "github-repo",
+    "source_url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "metric": {
+      "stars": 52655
+    },
+    "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+    "topics": [
+      "agent-skills",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "clawd",
+      "clawdbot",
+      "clawdbot-skill",
+      "clawdhub",
+      "moltbot",
+      "moltbot-skills",
+      "openclaw",
+      "openclaw-skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:CherryHQ/cherry-studio",
+    "name": "cherry-studio",
+    "owner": "CherryHQ",
+    "type": "github-repo",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "metric": {
+      "stars": 51976
+    },
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "hermes-agent",
+      "open-code-review",
+      "skills",
+      "vibe-coding"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:blader/humanizer",
+    "name": "humanizer",
+    "owner": "blader",
+    "type": "github-repo",
+    "source_url": "https://github.com/blader/humanizer",
+    "metric": {
+      "stars": 49958
+    },
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:sickn33/agentic-awesome-skills",
+    "name": "agentic-awesome-skills",
+    "owner": "sickn33",
+    "type": "github-repo",
+    "source_url": "https://github.com/sickn33/agentic-awesome-skills",
+    "metric": {
+      "stars": 46573
+    },
+    "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+    "topics": [
+      "agent-skills",
+      "agentic-skills",
+      "ai-agent-skills",
+      "ai-agents",
+      "ai-coding",
+      "ai-workflows",
+      "antigravity",
+      "antigravity-skills",
+      "claude-code",
+      "claude-code-skills",
+      "codex-cli",
+      "codex-skills",
+      "cursor",
+      "cursor-skills",
+      "developer-tools",
+      "gemini-cli",
+      "gemini-skills",
+      "kiro",
+      "mcp",
+      "skill-library"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:K-Dense-AI/scientific-agent-skills",
+    "name": "scientific-agent-skills",
+    "owner": "K-Dense-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "metric": {
+      "stars": 45521
+    },
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:reactive-resume/reactive-resume",
+    "name": "reactive-resume",
+    "owner": "reactive-resume",
+    "type": "github-repo",
+    "source_url": "https://github.com/reactive-resume/reactive-resume",
+    "metric": {
+      "stars": 43169
+    },
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "dsh-plugin",
+      "hacktoberfest",
+      "javascript",
+      "mcp-server",
+      "react",
+      "resume-builder",
+      "self-hosted",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:cathrynlavery/diagram-design",
+    "name": "diagram-design",
+    "owner": "cathrynlavery",
+    "type": "github-repo",
+    "source_url": "https://github.com/cathrynlavery/diagram-design",
+    "metric": {
+      "stars": 41173
+    },
+    "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:wshobson/agents",
+    "name": "agents",
+    "owner": "wshobson",
+    "type": "github-repo",
+    "source_url": "https://github.com/wshobson/agents",
+    "metric": {
+      "stars": 39783
+    },
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "anthropic",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-marketplace",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "cursor-rules",
+      "github-copilot",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "pi-coding-agent",
+      "subagents"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:github/awesome-copilot",
+    "name": "awesome-copilot",
+    "owner": "github",
+    "type": "github-repo",
+    "source_url": "https://github.com/github/awesome-copilot",
+    "metric": {
+      "stars": 39149
+    },
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "ai",
+      "awesome",
+      "custom-agents",
+      "github-copilot",
+      "hacktoberfest",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:alibaba/open-code-review",
+    "name": "open-code-review",
+    "owner": "alibaba",
+    "type": "github-repo",
+    "source_url": "https://github.com/alibaba/open-code-review",
+    "metric": {
+      "stars": 36724
+    },
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:VoltAgent/awesome-agent-skills",
+    "name": "awesome-agent-skills",
+    "owner": "VoltAgent",
+    "type": "github-repo",
+    "source_url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "metric": {
+      "stars": 34578
+    },
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex-skills",
+      "cursor-skills",
+      "gemini-skills",
+      "opencode-skills",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:virgiliojr94/book-to-skill",
+    "name": "book-to-skill",
+    "owner": "virgiliojr94",
+    "type": "github-repo",
+    "source_url": "https://github.com/virgiliojr94/book-to-skill",
+    "metric": {
+      "stars": 31125
+    },
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "book-to-skill",
+      "context-engineering",
+      "document-processing",
+      "edtech",
+      "knowledge-base",
+      "knowledge-management",
+      "llm",
+      "pdf-to-markdown",
+      "rag",
+      "self-study",
+      "study-tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:googleworkspace/cli",
+    "name": "cli",
+    "owner": "googleworkspace",
+    "type": "github-repo",
+    "source_url": "https://github.com/googleworkspace/cli",
+    "metric": {
+      "stars": 31054
+    },
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "automation",
+      "cli",
+      "discovery-api",
+      "gemini-cli-extension",
+      "google-admin",
+      "google-api",
+      "google-calendar",
+      "google-chat",
+      "google-docs",
+      "google-drive",
+      "google-sheets",
+      "google-workspace",
+      "oauth2",
+      "rust"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:topoteretes/cognee",
+    "name": "cognee",
+    "owner": "topoteretes",
+    "type": "github-repo",
+    "source_url": "https://github.com/topoteretes/cognee",
+    "metric": {
+      "stars": 30819
+    },
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database",
+      "graph-rag",
+      "help-wanted",
+      "knowledge",
+      "knowledge-graph",
+      "memory-management",
+      "open-source",
+      "vector-database"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:OthmanAdi/planning-with-files",
+    "name": "planning-with-files",
+    "owner": "OthmanAdi",
+    "type": "github-repo",
+    "source_url": "https://github.com/OthmanAdi/planning-with-files",
+    "metric": {
+      "stars": 26985
+    },
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+    "topics": [
+      "agent-skills",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "coding-agent",
+      "context-engineering",
+      "context-rot",
+      "cursor",
+      "github-copilot",
+      "hermes-plugin",
+      "hermes-skill",
+      "llm-agents",
+      "long-running-agents",
+      "manus",
+      "multi-agent-systems",
+      "planning",
+      "session-recovery"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:phuryn/pm-skills",
+    "name": "pm-skills",
+    "owner": "phuryn",
+    "type": "github-repo",
+    "source_url": "https://github.com/phuryn/pm-skills",
+    "metric": {
+      "stars": 26436
+    },
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "topics": [
+      "agent-skill-repository",
+      "agent-skills",
+      "agentic-skills",
+      "claude-code-marketplace",
+      "claude-code-plugins",
+      "claude-cowork-plugin",
+      "product-management"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:alirezarezvani/claude-skills",
+    "name": "claude-skills",
+    "owner": "alirezarezvani",
+    "type": "github-repo",
+    "source_url": "https://github.com/alirezarezvani/claude-skills",
+    "metric": {
+      "stars": 26127
+    },
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "agentic-ai",
+      "ai-coding-agent",
+      "anthropic-claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-code-skills",
+      "claude-skills",
+      "codex-skills",
+      "coding-agent-plugins",
+      "cursor-skills",
+      "developer-tools",
+      "gemini-cli-skills",
+      "openai-codex",
+      "openclaw",
+      "openclaw-plugins",
+      "openclaw-skills",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:JimLiu/baoyu-skills",
+    "name": "baoyu-skills",
+    "owner": "JimLiu",
+    "type": "github-repo",
+    "source_url": "https://github.com/JimLiu/baoyu-skills",
+    "metric": {
+      "stars": 26002
+    },
+    "description": "",
+    "topics": [
+      "agent-skills",
+      "claude-skills",
+      "codex-skills",
+      "openclaw-skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:agentskills/agentskills",
+    "name": "agentskills",
+    "owner": "agentskills",
+    "type": "github-repo",
+    "source_url": "https://github.com/agentskills/agentskills",
+    "metric": {
+      "stars": 25504
+    },
+    "description": "Specification and documentation for Agent Skills",
+    "topics": [
+      "agent-skills"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:titanwings/distilly",
+    "name": "distilly",
+    "owner": "titanwings",
+    "type": "github-repo",
+    "source_url": "https://github.com/titanwings/distilly",
+    "metric": {
+      "stars": 24867
+    },
+    "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "ai-persona",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "deepseek-harness",
+      "digital-human",
+      "dsh-plugin",
+      "hermes-agent",
+      "knowledge-distillation",
+      "llm-agent",
+      "meta-skill",
+      "openclaw",
+      "opencode"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:pascalorg/editor",
+    "name": "editor",
+    "owner": "pascalorg",
+    "type": "github-repo",
+    "source_url": "https://github.com/pascalorg/editor",
+    "metric": {
+      "stars": 24105
+    },
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "topics": [
+      "3d",
+      "agent-skills",
+      "ai-agents",
+      "architecture",
+      "bim",
+      "cad",
+      "editor",
+      "floorplan",
+      "gemini-cli-extension",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nextjs",
+      "parametric-design",
+      "react-three-fiber",
+      "threejs",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:KKKKhazix/khazix-skills",
+    "name": "khazix-skills",
+    "owner": "KKKKhazix",
+    "type": "github-repo",
+    "source_url": "https://github.com/KKKKhazix/khazix-skills",
+    "metric": {
+      "stars": 20794
+    },
+    "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "llm",
+      "skills",
+      "vibe-coding"
+    ],
+    "license": "MIT",
+    "seed_topic": "agent-skills"
+  },
+  {
+    "id": "github:NVIDIA/SkillSpector",
+    "name": "SkillSpector",
+    "owner": "NVIDIA",
+    "type": "github-repo",
+    "source_url": "https://github.com/NVIDIA/SkillSpector",
+    "metric": {
+      "stars": 17777
+    },
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+    "topics": [
+      "agent-security",
+      "agent-skills",
+      "agentic-ai",
+      "ai-security",
+      "claude-code",
+      "mcp",
+      "prompt-injection",
+      "security-scanner",
+      "security-tools",
+      "security-workflow",
+      "supply-chain-security"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "agent-skills"
+  }
+]

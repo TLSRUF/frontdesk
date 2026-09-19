@@ -1,0 +1,236 @@
+[
+  {
+    "id": "skillssh:googleworkspace/cli@persona-project-manager",
+    "name": "googleworkspace/cli@persona-project-manager",
+    "type": "skill",
+    "source_url": "https://skills.sh/googleworkspace/cli/persona-project-manager",
+    "metric": {
+      "installs": 29400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add googleworkspace/cli@persona-project-manager",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@cloud-manage-project",
+    "name": "elastic/agent-skills@cloud-manage-project",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/cloud-manage-project",
+    "metric": {
+      "installs": 2800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@cloud-manage-project",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:ruvnet/ruflo@github-project-management",
+    "name": "ruvnet/ruflo@github-project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/ruvnet/ruflo/github-project-management",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ruvnet/ruflo@github-project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:404kidwiz/claude-supercode-skills@project-manager",
+    "name": "404kidwiz/claude-supercode-skills@project-manager",
+    "type": "skill",
+    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/project-manager",
+    "metric": {
+      "installs": 988
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add 404kidwiz/claude-supercode-skills@project-manager",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:aaaaqwq/agi-super-team@project-management",
+    "name": "aaaaqwq/agi-super-team@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaaaqwq/agi-super-team/project-management",
+    "metric": {
+      "installs": 473
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaaaqwq/agi-super-team@project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:jezweb/claude-skills@project-session-management",
+    "name": "jezweb/claude-skills@project-session-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/jezweb/claude-skills/project-session-management",
+    "metric": {
+      "installs": 385
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jezweb/claude-skills@project-session-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:miles990/claude-software-skills@project-management",
+    "name": "miles990/claude-software-skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/miles990/claude-software-skills/project-management",
+    "metric": {
+      "installs": 382
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add miles990/claude-software-skills@project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:curiositech/some_claude_skills@project-management-guru-adhd",
+    "name": "curiositech/some_claude_skills@project-management-guru-adhd",
+    "type": "skill",
+    "source_url": "https://skills.sh/curiositech/some_claude_skills/project-management-guru-adhd",
+    "metric": {
+      "installs": 235
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add curiositech/some_claude_skills@project-management-guru-adhd",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:laurigates/claude-plugins@uv-project-management",
+    "name": "laurigates/claude-plugins@uv-project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/laurigates/claude-plugins/uv-project-management",
+    "metric": {
+      "installs": 165
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add laurigates/claude-plugins@uv-project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:vivy-yi/xiaohongshu-skills@project-management",
+    "name": "vivy-yi/xiaohongshu-skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/vivy-yi/xiaohongshu-skills/project-management",
+    "metric": {
+      "installs": 156
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vivy-yi/xiaohongshu-skills@project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
+    "name": "datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management",
+    "metric": {
+      "installs": 98
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:proffesor-for-testing/agentic-qe@qe-github-project-management",
+    "name": "proffesor-for-testing/agentic-qe@qe-github-project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/proffesor-for-testing/agentic-qe/qe-github-project-management",
+    "metric": {
+      "installs": 73
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add proffesor-for-testing/agentic-qe@qe-github-project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:zenobi-us/dotfiles@projectmanagement",
+    "name": "zenobi-us/dotfiles@projectmanagement",
+    "type": "skill",
+    "source_url": "https://skills.sh/zenobi-us/dotfiles/projectmanagement",
+    "metric": {
+      "installs": 64
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zenobi-us/dotfiles@projectmanagement",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:jk-0001/skills@project-management",
+    "name": "jk-0001/skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/jk-0001/skills/project-management",
+    "metric": {
+      "installs": 46
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jk-0001/skills@project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:seb1n/awesome-ai-agent-skills@project-management",
+    "name": "seb1n/awesome-ai-agent-skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/seb1n/awesome-ai-agent-skills/project-management",
+    "metric": {
+      "installs": 39
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add seb1n/awesome-ai-agent-skills@project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:prorise-cool/claude-code-multi-agent@project-management-specialist",
+    "name": "prorise-cool/claude-code-multi-agent@project-management-specialist",
+    "type": "skill",
+    "source_url": "https://skills.sh/prorise-cool/claude-code-multi-agent/project-management-specialist",
+    "metric": {
+      "installs": 38
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add prorise-cool/claude-code-multi-agent@project-management-specialist",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:dmend3z/tribo-skills@project-management",
+    "name": "dmend3z/tribo-skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/dmend3z/tribo-skills/project-management",
+    "metric": {
+      "installs": 18
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dmend3z/tribo-skills@project-management",
+    "seed_keyword": "project management"
+  },
+  {
+    "id": "skillssh:peterbamuhigire/proposal-skills@project-management",
+    "name": "peterbamuhigire/proposal-skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/peterbamuhigire/proposal-skills/project-management",
+    "metric": {
+      "installs": 8
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add peterbamuhigire/proposal-skills@project-management",
+    "seed_keyword": "project management"
+  }
+]

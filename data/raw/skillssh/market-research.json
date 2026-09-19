@@ -1,0 +1,223 @@
+[
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@customer-research",
+    "name": "coreyhaines31/marketingskills@customer-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/customer-research",
+    "metric": {
+      "installs": 95900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@customer-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:firecrawl/firecrawl-workflows@firecrawl-market-research",
+    "name": "firecrawl/firecrawl-workflows@firecrawl-market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-market-research",
+    "metric": {
+      "installs": 32200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add firecrawl/firecrawl-workflows@firecrawl-market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@market-research",
+    "name": "affaan-m/ecc@market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/market-research",
+    "metric": {
+      "installs": 10600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:emblemcompany/agent-skills@emblem-market-research",
+    "name": "emblemcompany/agent-skills@emblem-market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/emblemcompany/agent-skills/emblem-market-research",
+    "metric": {
+      "installs": 8900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add emblemcompany/agent-skills@emblem-market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@prediction-market-oracle-research",
+    "name": "affaan-m/ecc@prediction-market-oracle-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/prediction-market-oracle-research",
+    "metric": {
+      "installs": 4400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@prediction-market-oracle-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:apify/agent-skills@apify-market-research",
+    "name": "apify/agent-skills@apify-market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/apify/agent-skills/apify-market-research",
+    "metric": {
+      "installs": 3400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add apify/agent-skills@apify-market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:davila7/claude-code-templates@market-research-reports",
+    "name": "davila7/claude-code-templates@market-research-reports",
+    "type": "skill",
+    "source_url": "https://skills.sh/davila7/claude-code-templates/market-research-reports",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add davila7/claude-code-templates@market-research-reports",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:k-dense-ai/scientific-agent-skills@market-research-reports",
+    "name": "k-dense-ai/scientific-agent-skills@market-research-reports",
+    "type": "skill",
+    "source_url": "https://skills.sh/k-dense-ai/scientific-agent-skills/market-research-reports",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add k-dense-ai/scientific-agent-skills@market-research-reports",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@keyword-research",
+    "name": "aaron-he-zhu/aaron-marketing-skills@keyword-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/keyword-research",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/aaron-marketing-skills@keyword-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:kostja94/marketing-skills@keyword-research",
+    "name": "kostja94/marketing-skills@keyword-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/kostja94/marketing-skills/keyword-research",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kostja94/marketing-skills@keyword-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:kostja94/marketing-skills@research-sources",
+    "name": "kostja94/marketing-skills@research-sources",
+    "type": "skill",
+    "source_url": "https://skills.sh/kostja94/marketing-skills/research-sources",
+    "metric": {
+      "installs": 969
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kostja94/marketing-skills@research-sources",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:manojbajaj95/claude-gtm-plugin@market-research-analysis",
+    "name": "manojbajaj95/claude-gtm-plugin@market-research-analysis",
+    "type": "skill",
+    "source_url": "https://skills.sh/manojbajaj95/claude-gtm-plugin/market-research-analysis",
+    "metric": {
+      "installs": 845
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add manojbajaj95/claude-gtm-plugin@market-research-analysis",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:404kidwiz/claude-supercode-skills@market-researcher",
+    "name": "404kidwiz/claude-supercode-skills@market-researcher",
+    "type": "skill",
+    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/market-researcher",
+    "metric": {
+      "installs": 392
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add 404kidwiz/claude-supercode-skills@market-researcher",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:linkfox-ai/linkfox-skills@linkfox-sellersprite-market-research",
+    "name": "linkfox-ai/linkfox-skills@linkfox-sellersprite-market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/linkfox-ai/linkfox-skills/linkfox-sellersprite-market-research",
+    "metric": {
+      "installs": 388
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add linkfox-ai/linkfox-skills@linkfox-sellersprite-market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:bmad-code-org/bmad-method@bmad-market-research",
+    "name": "bmad-code-org/bmad-method@bmad-market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-market-research",
+    "metric": {
+      "installs": 342
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bmad-code-org/bmad-method@bmad-market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@market-research",
+    "name": "alirezarezvani/claude-skills@market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/market-research",
+    "metric": {
+      "installs": 204
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@market-research",
+    "seed_keyword": "market research"
+  },
+  {
+    "id": "skillssh:shawnpang/startup-founder-skills@market-research",
+    "name": "shawnpang/startup-founder-skills@market-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/shawnpang/startup-founder-skills/market-research",
+    "metric": {
+      "installs": 186
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shawnpang/startup-founder-skills@market-research",
+    "seed_keyword": "market research"
+  }
+]

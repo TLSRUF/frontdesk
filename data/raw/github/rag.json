@@ -1,0 +1,869 @@
+[
+  {
+    "id": "github:open-webui/open-webui",
+    "name": "open-webui",
+    "owner": "open-webui",
+    "type": "github-repo",
+    "source_url": "https://github.com/open-webui/open-webui",
+    "metric": {
+      "stars": 152505
+    },
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:langchain-ai/langchain",
+    "name": "langchain",
+    "owner": "langchain-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "metric": {
+      "stars": 146618
+    },
+    "description": "The agent engineering platform.",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:Shubhamsaboo/awesome-llm-apps",
+    "name": "awesome-llm-apps",
+    "owner": "Shubhamsaboo",
+    "type": "github-repo",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "metric": {
+      "stars": 138851
+    },
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:Graphify-Labs/graphify",
+    "name": "graphify",
+    "owner": "Graphify-Labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/Graphify-Labs/graphify",
+    "metric": {
+      "stars": 119396
+    },
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-search",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "graphrag",
+      "knowledge-graph",
+      "leiden",
+      "llm",
+      "mcp",
+      "openclaw",
+      "rag",
+      "skills",
+      "tree-sitter"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:thedotmack/claude-mem",
+    "name": "claude-mem",
+    "owner": "thedotmack",
+    "type": "github-repo",
+    "source_url": "https://github.com/thedotmack/claude-mem",
+    "metric": {
+      "stars": 94211
+    },
+    "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:infiniflow/ragflow",
+    "name": "ragflow",
+    "owner": "infiniflow",
+    "type": "github-repo",
+    "source_url": "https://github.com/infiniflow/ragflow",
+    "metric": {
+      "stars": 90964
+    },
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "topics": [
+      "agent-harness",
+      "agentic-ai",
+      "agentic-nagive",
+      "agentic-retrieval",
+      "agentic-search",
+      "ai",
+      "ai-agents",
+      "context-engine",
+      "context-engineering",
+      "context-management",
+      "harness-engineering",
+      "knowledge-compilation",
+      "rag",
+      "retrieval-augmented-generation",
+      "search-harness"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:PaddlePaddle/PaddleOCR",
+    "name": "PaddleOCR",
+    "owner": "PaddlePaddle",
+    "type": "github-repo",
+    "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "metric": {
+      "stars": 89796
+    },
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "topics": [
+      "ai4science",
+      "chineseocr",
+      "document-parsing",
+      "document-translation",
+      "kie",
+      "ocr",
+      "paddleocr-vl",
+      "pdf-extractor-rag",
+      "pdf-parser",
+      "pdf2markdown",
+      "pp-ocr",
+      "pp-structure",
+      "rag"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:datawhalechina/hello-agents",
+    "name": "hello-agents",
+    "owner": "datawhalechina",
+    "type": "github-repo",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "metric": {
+      "stars": 79798
+    },
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:dair-ai/Prompt-Engineering-Guide",
+    "name": "Prompt-Engineering-Guide",
+    "owner": "dair-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "metric": {
+      "stars": 78454
+    },
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "topics": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "chatgpt",
+      "deep-learning",
+      "generative-ai",
+      "language-model",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:headroomlabs-ai/headroom",
+    "name": "headroom",
+    "owner": "headroomlabs-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/headroomlabs-ai/headroom",
+    "metric": {
+      "stars": 72965
+    },
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:Mintplex-Labs/anything-llm",
+    "name": "anything-llm",
+    "owner": "Mintplex-Labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/Mintplex-Labs/anything-llm",
+    "metric": {
+      "stars": 66195
+    },
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+    "topics": [
+      "agent-computer",
+      "agent-harness",
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "computer-use",
+      "hermes-agent",
+      "llm",
+      "local-ai",
+      "localai",
+      "multimodal",
+      "rag",
+      "self-hosted-ai",
+      "vector-database"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:mem0ai/mem0",
+    "name": "mem0",
+    "owner": "mem0ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/mem0ai/mem0",
+    "metric": {
+      "stars": 65609
+    },
+    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+    "topics": [
+      "agentic-memory",
+      "agentic-memory-system",
+      "agents",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:pathwaycom/llm-app",
+    "name": "llm-app",
+    "owner": "pathwaycom",
+    "type": "github-repo",
+    "source_url": "https://github.com/pathwaycom/llm-app",
+    "metric": {
+      "stars": 58917
+    },
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "topics": [
+      "chatbot",
+      "hugging-face",
+      "llm",
+      "llm-local",
+      "llm-prompting",
+      "llm-security",
+      "llmops",
+      "machine-learning",
+      "open-ai",
+      "pathway",
+      "rag",
+      "real-time",
+      "retrieval-augmented-generation",
+      "vector-database",
+      "vector-index"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:FlowiseAI/Flowise",
+    "name": "Flowise",
+    "owner": "FlowiseAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/FlowiseAI/Flowise",
+    "metric": {
+      "stars": 55468
+    },
+    "description": "Build AI Agents, Visually",
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "javascript",
+      "langchain",
+      "large-language-models",
+      "low-code",
+      "multiagent-systems",
+      "no-code",
+      "openai",
+      "rag",
+      "react",
+      "typescript",
+      "workflow-automation"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:run-llama/llama_index",
+    "name": "llama_index",
+    "owner": "run-llama",
+    "type": "github-repo",
+    "source_url": "https://github.com/run-llama/llama_index",
+    "metric": {
+      "stars": 52219
+    },
+    "description": "LlamaIndex is the document processing platform for AI",
+    "topics": [
+      "agents",
+      "application",
+      "data",
+      "fine-tuning",
+      "framework",
+      "llamaindex",
+      "llm",
+      "multi-agents",
+      "rag",
+      "vector-database"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:bojieli/ai-agent-book",
+    "name": "ai-agent-book",
+    "owner": "bojieli",
+    "type": "github-repo",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "metric": {
+      "stars": 48546
+    },
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agent",
+      "book",
+      "coding-agent",
+      "context-engineering",
+      "large-language-models",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "multimodal",
+      "rag",
+      "reinforcement-learning"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:jeecgboot/JeecgBoot",
+    "name": "JeecgBoot",
+    "owner": "jeecgboot",
+    "type": "github-repo",
+    "source_url": "https://github.com/jeecgboot/JeecgBoot",
+    "metric": {
+      "stars": 47892
+    },
+    "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+    "topics": [
+      "activiti",
+      "agent",
+      "ai",
+      "antd",
+      "claude-code",
+      "cli",
+      "codegenerator",
+      "codex",
+      "flowable",
+      "langchain4j",
+      "llm",
+      "low-code",
+      "mcp",
+      "mybatis-plus",
+      "rag",
+      "skills",
+      "spring-ai",
+      "springboot",
+      "springcloud",
+      "vue3"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:milvus-io/milvus",
+    "name": "milvus",
+    "owner": "milvus-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/milvus-io/milvus",
+    "metric": {
+      "stars": 46156
+    },
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:langchain-ai/langgraph",
+    "name": "langgraph",
+    "owner": "langchain-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "metric": {
+      "stars": 41909
+    },
+    "description": "Build resilient agents.",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:HKUDS/DeepTutor",
+    "name": "DeepTutor",
+    "owner": "HKUDS",
+    "type": "github-repo",
+    "source_url": "https://github.com/HKUDS/DeepTutor",
+    "metric": {
+      "stars": 39961
+    },
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawdbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:HKUDS/LightRAG",
+    "name": "LightRAG",
+    "owner": "HKUDS",
+    "type": "github-repo",
+    "source_url": "https://github.com/HKUDS/LightRAG",
+    "metric": {
+      "stars": 39756
+    },
+    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "topics": [
+      "docling",
+      "genai",
+      "gpt",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "mineru",
+      "rag",
+      "ragas",
+      "retrieval-augmented-generation"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:The-Vibe-Company/quivr",
+    "name": "quivr",
+    "owner": "The-Vibe-Company",
+    "type": "github-repo",
+    "source_url": "https://github.com/The-Vibe-Company/quivr",
+    "metric": {
+      "stars": 39535
+    },
+    "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:chatchat-space/Langchain-Chatchat",
+    "name": "Langchain-Chatchat",
+    "owner": "chatchat-space",
+    "type": "github-repo",
+    "source_url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "metric": {
+      "stars": 38644
+    },
+    "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:patchy631/ai-engineering-hub",
+    "name": "ai-engineering-hub",
+    "owner": "patchy631",
+    "type": "github-repo",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "metric": {
+      "stars": 37746
+    },
+    "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "topics": [
+      "agents",
+      "ai",
+      "llms",
+      "machine-learning",
+      "mcp",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:khoj-ai/khoj",
+    "name": "khoj",
+    "owner": "khoj-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "metric": {
+      "stars": 37406
+    },
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:ItzCrazyKns/Vane",
+    "name": "Vane",
+    "owner": "ItzCrazyKns",
+    "type": "github-repo",
+    "source_url": "https://github.com/ItzCrazyKns/Vane",
+    "metric": {
+      "stars": 36875
+    },
+    "description": "Vane is an AI-powered answering engine.",
+    "topics": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine",
+      "searxng",
+      "searxng-copilot",
+      "self-hosted-ai",
+      "vane"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:microsoft/graphrag",
+    "name": "graphrag",
+    "owner": "microsoft",
+    "type": "github-repo",
+    "source_url": "https://github.com/microsoft/graphrag",
+    "metric": {
+      "stars": 36028
+    },
+    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "topics": [
+      "gpt",
+      "gpt-4",
+      "gpt4",
+      "graphrag",
+      "llm",
+      "llms",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:VectifyAI/PageIndex",
+    "name": "PageIndex",
+    "owner": "VectifyAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/VectifyAI/PageIndex",
+    "metric": {
+      "stars": 35741
+    },
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ],
+    "license": "MIT",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:datawhalechina/happy-llm",
+    "name": "happy-llm",
+    "owner": "datawhalechina",
+    "type": "github-repo",
+    "source_url": "https://github.com/datawhalechina/happy-llm",
+    "metric": {
+      "stars": 33899
+    },
+    "description": "📚 从零开始构建大模型",
+    "topics": [
+      "agent",
+      "llm",
+      "rag"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "rag"
+  },
+  {
+    "id": "github:onyx-dot-app/onyx",
+    "name": "onyx",
+    "owner": "onyx-dot-app",
+    "type": "github-repo",
+    "source_url": "https://github.com/onyx-dot-app/onyx",
+    "metric": {
+      "stars": 32162
+    },
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "topics": [
+      "ai",
+      "ai-chat",
+      "chatgpt",
+      "chatui",
+      "enterprise-search",
+      "gen-ai",
+      "information-retrieval",
+      "llm",
+      "llm-ui",
+      "nextjs",
+      "python",
+      "rag",
+      "self-hosted",
+      "vector-search"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "rag"
+  }
+]

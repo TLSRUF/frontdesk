@@ -1,0 +1,881 @@
+[
+  {
+    "id": "github:f/prompts.chat",
+    "name": "prompts.chat",
+    "owner": "f",
+    "type": "github-repo",
+    "source_url": "https://github.com/f/prompts.chat",
+    "metric": {
+      "stars": 170696
+    },
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt",
+      "chatgpt-prompts",
+      "claude",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "open-source",
+      "openai",
+      "prompt-engineering",
+      "prompts",
+      "prompts-chat",
+      "typescript"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:DietrichGebert/ponytail",
+    "name": "ponytail",
+    "owner": "DietrichGebert",
+    "type": "github-repo",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "metric": {
+      "stars": 142048
+    },
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:microsoft/generative-ai-for-beginners",
+    "name": "generative-ai-for-beginners",
+    "owner": "microsoft",
+    "type": "github-repo",
+    "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "metric": {
+      "stars": 120036
+    },
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "topics": [
+      "ai",
+      "azure",
+      "chatgpt",
+      "dall-e",
+      "generative-ai",
+      "generativeai",
+      "gpt",
+      "language-model",
+      "llms",
+      "microsoft-for-beginners",
+      "openai",
+      "prompt-engineering",
+      "semantic-search",
+      "transformers"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:JuliusBrussee/caveman",
+    "name": "caveman",
+    "owner": "JuliusBrussee",
+    "type": "github-repo",
+    "source_url": "https://github.com/JuliusBrussee/caveman",
+    "metric": {
+      "stars": 106608
+    },
+    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:dair-ai/Prompt-Engineering-Guide",
+    "name": "Prompt-Engineering-Guide",
+    "owner": "dair-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "metric": {
+      "stars": 78454
+    },
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "topics": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "chatgpt",
+      "deep-learning",
+      "generative-ai",
+      "language-model",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:headroomlabs-ai/headroom",
+    "name": "headroom",
+    "owner": "headroomlabs-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/headroomlabs-ai/headroom",
+    "metric": {
+      "stars": 72965
+    },
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:asgeirtj/system_prompts_leaks",
+    "name": "system_prompts_leaks",
+    "owner": "asgeirtj",
+    "type": "github-repo",
+    "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "metric": {
+      "stars": 67475
+    },
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-prompts",
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "generative-ai",
+      "google",
+      "grok",
+      "llm",
+      "openai",
+      "prompt",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:elder-plinius/CL4R1T4S",
+    "name": "CL4R1T4S",
+    "owner": "elder-plinius",
+    "type": "github-repo",
+    "source_url": "https://github.com/elder-plinius/CL4R1T4S",
+    "metric": {
+      "stars": 50027
+    },
+    "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
+    "topics": [
+      "agents",
+      "ai",
+      "chatgpt",
+      "gemini",
+      "google",
+      "grok",
+      "hacking",
+      "leak",
+      "leaked",
+      "openai",
+      "prompt",
+      "prompt-engineering",
+      "prompts",
+      "red-team",
+      "red-teaming",
+      "system",
+      "system-info",
+      "system-prompts",
+      "tools",
+      "transparency"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:blader/humanizer",
+    "name": "humanizer",
+    "owner": "blader",
+    "type": "github-repo",
+    "source_url": "https://github.com/blader/humanizer",
+    "metric": {
+      "stars": 49958
+    },
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:Imbad0202/academic-research-skills",
+    "name": "academic-research-skills",
+    "owner": "Imbad0202",
+    "type": "github-repo",
+    "source_url": "https://github.com/Imbad0202/academic-research-skills",
+    "metric": {
+      "stars": 48657
+    },
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "topics": [
+      "academic-pipeline",
+      "academic-writing",
+      "ai-research",
+      "claude",
+      "claude-code",
+      "literature-review",
+      "peer-review",
+      "prompt-engineering"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:github/awesome-copilot",
+    "name": "awesome-copilot",
+    "owner": "github",
+    "type": "github-repo",
+    "source_url": "https://github.com/github/awesome-copilot",
+    "metric": {
+      "stars": 39149
+    },
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "topics": [
+      "agent-skills",
+      "agents",
+      "ai",
+      "awesome",
+      "custom-agents",
+      "github-copilot",
+      "hacktoberfest",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:linshenkx/prompt-optimizer",
+    "name": "prompt-optimizer",
+    "owner": "linshenkx",
+    "type": "github-repo",
+    "source_url": "https://github.com/linshenkx/prompt-optimizer",
+    "metric": {
+      "stars": 35030
+    },
+    "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+    "topics": [
+      "ai-prompts",
+      "ai-tools",
+      "llm",
+      "prompt",
+      "prompt-engineering",
+      "prompt-optimization",
+      "prompt-optimizer",
+      "prompt-testing",
+      "prompt-toolkit",
+      "prompt-tuning"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:langfuse/langfuse",
+    "name": "langfuse",
+    "owner": "langfuse",
+    "type": "github-repo",
+    "source_url": "https://github.com/langfuse/langfuse",
+    "metric": {
+      "stars": 34787
+    },
+    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "topics": [
+      "analytics",
+      "autogen",
+      "evaluation",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "monitoring",
+      "observability",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering",
+      "prompt-management",
+      "self-hosted",
+      "ycombinator"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:freestylefly/awesome-gpt-image-2",
+    "name": "awesome-gpt-image-2",
+    "owner": "freestylefly",
+    "type": "github-repo",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "metric": {
+      "stars": 32696
+    },
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "topics": [
+      "agents",
+      "ai-image-generation",
+      "chatgpt",
+      "dsh-plugin",
+      "gpt-image-2",
+      "image-prompts",
+      "prompt-as-code",
+      "prompt-engineering",
+      "skills",
+      "workflow-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:mlflow/mlflow",
+    "name": "mlflow",
+    "owner": "mlflow",
+    "type": "github-repo",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "metric": {
+      "stars": 28028
+    },
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+    "topics": [
+      "agentops",
+      "agents",
+      "ai",
+      "ai-governance",
+      "apache-spark",
+      "evaluation",
+      "langchain",
+      "llm-evaluation",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "mlflow",
+      "mlops",
+      "model-management",
+      "observability",
+      "open-source",
+      "openai",
+      "prompt-engineering"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:humanlayer/12-factor-agents",
+    "name": "12-factor-agents",
+    "owner": "humanlayer",
+    "type": "github-repo",
+    "source_url": "https://github.com/humanlayer/12-factor-agents",
+    "metric": {
+      "stars": 26283
+    },
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "topics": [
+      "12-factor",
+      "12-factor-agents",
+      "agents",
+      "ai",
+      "context-window",
+      "framework",
+      "llms",
+      "memory",
+      "orchestration",
+      "prompt-engineering",
+      "rag"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:alirezarezvani/claude-skills",
+    "name": "claude-skills",
+    "owner": "alirezarezvani",
+    "type": "github-repo",
+    "source_url": "https://github.com/alirezarezvani/claude-skills",
+    "metric": {
+      "stars": 26127
+    },
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+    "topics": [
+      "agent-plugins",
+      "agent-skills",
+      "agentic-ai",
+      "ai-coding-agent",
+      "anthropic-claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-code-skills",
+      "claude-skills",
+      "codex-skills",
+      "coding-agent-plugins",
+      "cursor-skills",
+      "developer-tools",
+      "gemini-cli-skills",
+      "openai-codex",
+      "openclaw",
+      "openclaw-plugins",
+      "openclaw-skills",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:promptfoo/promptfoo",
+    "name": "promptfoo",
+    "owner": "promptfoo",
+    "type": "github-repo",
+    "source_url": "https://github.com/promptfoo/promptfoo",
+    "metric": {
+      "stars": 25270
+    },
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+    "topics": [
+      "ci",
+      "ci-cd",
+      "cicd",
+      "evaluation",
+      "evaluation-framework",
+      "llm",
+      "llm-eval",
+      "llm-evaluation",
+      "llm-evaluation-framework",
+      "llmops",
+      "pentesting",
+      "prompt-engineering",
+      "prompt-testing",
+      "prompts",
+      "rag",
+      "red-teaming",
+      "testing",
+      "vulnerability-scanners"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:comet-ml/opik",
+    "name": "opik",
+    "owner": "comet-ml",
+    "type": "github-repo",
+    "source_url": "https://github.com/comet-ml/opik",
+    "metric": {
+      "stars": 22126
+    },
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+    "topics": [
+      "evaluation",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "langchain",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:AI4Finance-Foundation/FinGPT",
+    "name": "FinGPT",
+    "owner": "AI4Finance-Foundation",
+    "type": "github-repo",
+    "source_url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "metric": {
+      "stars": 21263
+    },
+    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+    "topics": [
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "fintech",
+      "large-language-models",
+      "machine-learning",
+      "nlp",
+      "prompt-engineering",
+      "pytorch",
+      "reinforcement-learning",
+      "robo-advisor",
+      "sentiment-analysis",
+      "technical-analysis"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:jnMetaCode/agency-agents-zh",
+    "name": "agency-agents-zh",
+    "owner": "jnMetaCode",
+    "type": "github-repo",
+    "source_url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "metric": {
+      "stars": 20784
+    },
+    "description": "🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+    "topics": [
+      "agency-orchestrator",
+      "agent-definitions",
+      "ai-agents",
+      "ai-roles",
+      "chinese",
+      "claude",
+      "claude-code",
+      "copilot-agent",
+      "cursor-rules",
+      "deepseek",
+      "hermes-agent",
+      "llm",
+      "multi-agent",
+      "no-code",
+      "prompt-engineering",
+      "qwen",
+      "system-prompt",
+      "workbuddy",
+      "workflow"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "name": "awesome-gpt-image-2-API-and-Prompts",
+    "owner": "EvoLinkAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "metric": {
+      "stars": 17210
+    },
+    "description": "GPT-Image-2 API and Prompts",
+    "topics": [
+      "ai-art",
+      "api",
+      "awesome-list",
+      "awesome-lists",
+      "chatgpt",
+      "creative-tools",
+      "generative-ai",
+      "gpt-image-2",
+      "gpt-image-2-api",
+      "gpt-image-2-prompts",
+      "gptimage2",
+      "image-generation",
+      "image-models",
+      "image-prompt",
+      "image-to-image",
+      "openai",
+      "prompt-collection",
+      "prompt-engineering",
+      "text-to-image",
+      "visual-ai"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:tradecatlabs/vibe-coding-cn",
+    "name": "vibe-coding-cn",
+    "owner": "tradecatlabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/tradecatlabs/vibe-coding-cn",
+    "metric": {
+      "stars": 16289
+    },
+    "description": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-programming",
+      "chinese",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "glue-coding",
+      "prompt-engineering",
+      "prompts",
+      "skills",
+      "tutorial",
+      "vibe-coding",
+      "workflow"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:dottxt-ai/outlines",
+    "name": "outlines",
+    "owner": "dottxt-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/dottxt-ai/outlines",
+    "metric": {
+      "stars": 15832
+    },
+    "description": "Structured Outputs",
+    "topics": [
+      "cfg",
+      "generative-ai",
+      "json",
+      "llms",
+      "prompt-engineering",
+      "regex",
+      "structured-generation",
+      "symbolic-ai"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "name": "awesome-nano-banana-pro-prompts",
+    "owner": "YouMind-OpenLab",
+    "type": "github-repo",
+    "source_url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "metric": {
+      "stars": 13442
+    },
+    "description": "🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+    "topics": [
+      "ai-image-generation",
+      "ai-prompts",
+      "awesome",
+      "awesome-list",
+      "gemini",
+      "gemini-ai",
+      "google-gemini",
+      "image-generation",
+      "multilingual",
+      "nano-banana",
+      "nano-banana-2",
+      "nano-banana-pro",
+      "nanobanana",
+      "nanobanana-pro",
+      "prompt-engineering",
+      "prompts"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:nidhinjs/prompt-master",
+    "name": "prompt-master",
+    "owner": "nidhinjs",
+    "type": "github-repo",
+    "source_url": "https://github.com/nidhinjs/prompt-master",
+    "metric": {
+      "stars": 13348
+    },
+    "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+    "topics": [
+      "claude-ai",
+      "claude-skills",
+      "llm",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:langgptai/LangGPT",
+    "name": "LangGPT",
+    "owner": "langgptai",
+    "type": "github-repo",
+    "source_url": "https://github.com/langgptai/LangGPT",
+    "metric": {
+      "stars": 12532
+    },
+    "description": "LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured & meta-prompt design 10,000+ ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树",
+    "topics": [
+      "chatgpt",
+      "claude",
+      "deeplearning",
+      "doubao",
+      "framework",
+      "gemini",
+      "gpt-4",
+      "gpt3-prompts",
+      "langgpt",
+      "meta-prompting",
+      "prompt",
+      "prompt-engineering",
+      "qwen",
+      "structured-prompts"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:EmbraceAGI/awesome-chatgpt-zh",
+    "name": "awesome-chatgpt-zh",
+    "owner": "EmbraceAGI",
+    "type": "github-repo",
+    "source_url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
+    "metric": {
+      "stars": 11705
+    },
+    "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+    "topics": [
+      "agi",
+      "ai",
+      "awesome",
+      "awesome-list",
+      "chat-gpt",
+      "chatglm",
+      "chatgpt",
+      "chatgpt3",
+      "chatgpt35-turbo",
+      "claude",
+      "deeplearning",
+      "gpt",
+      "gpt-4",
+      "langchain",
+      "openai",
+      "openai-chatgpt",
+      "prompt",
+      "prompt-engineering",
+      "tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:Arize-ai/phoenix",
+    "name": "phoenix",
+    "owner": "Arize-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/Arize-ai/phoenix",
+    "metric": {
+      "stars": 11538
+    },
+    "description": "AI Observability & Evaluation",
+    "topics": [
+      "agents",
+      "ai-monitoring",
+      "ai-observability",
+      "aiengineering",
+      "anthropic",
+      "datasets",
+      "evals",
+      "langchain",
+      "llamaindex",
+      "llm-eval",
+      "llm-evaluation",
+      "llmops",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "smolagents"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "prompt-engineering"
+  },
+  {
+    "id": "github:cobusgreyling/loop-engineering",
+    "name": "loop-engineering",
+    "owner": "cobusgreyling",
+    "type": "github-repo",
+    "source_url": "https://github.com/cobusgreyling/loop-engineering",
+    "metric": {
+      "stars": 11253
+    },
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "devops-automation",
+      "devtools",
+      "github-actions",
+      "grok",
+      "llm",
+      "loop-engineering",
+      "mcp",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "prompt-engineering"
+  }
+]

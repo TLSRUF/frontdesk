@@ -1,0 +1,236 @@
+[
+  {
+    "id": "skillssh:clerk/skills@clerk-billing",
+    "name": "clerk/skills@clerk-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/clerk/skills/clerk-billing",
+    "metric": {
+      "installs": 14700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add clerk/skills@clerk-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:harperaa/secure-claude-skills@payment-security-clerk-billing-stripe",
+    "name": "harperaa/secure-claude-skills@payment-security-clerk-billing-stripe",
+    "type": "skill",
+    "source_url": "https://skills.sh/harperaa/secure-claude-skills/payment-security-clerk-billing-stripe",
+    "metric": {
+      "installs": 179
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add harperaa/secure-claude-skills@payment-security-clerk-billing-stripe",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:finsilabs/awesome-ecommerce-skills@subscription-billing",
+    "name": "finsilabs/awesome-ecommerce-skills@subscription-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/finsilabs/awesome-ecommerce-skills/subscription-billing",
+    "metric": {
+      "installs": 153
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add finsilabs/awesome-ecommerce-skills@subscription-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@stripe-corporate-card",
+    "name": "membranedev/application-skills@stripe-corporate-card",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/stripe-corporate-card",
+    "metric": {
+      "installs": 140
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add membranedev/application-skills@stripe-corporate-card",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:ssheleg/sheleg-dev@stripe-billing",
+    "name": "ssheleg/sheleg-dev@stripe-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/ssheleg/sheleg-dev/stripe-billing",
+    "metric": {
+      "installs": 125
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ssheleg/sheleg-dev@stripe-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:borghei/claude-skills@stripe-integration-expert",
+    "name": "borghei/claude-skills@stripe-integration-expert",
+    "type": "skill",
+    "source_url": "https://skills.sh/borghei/claude-skills/stripe-integration-expert",
+    "metric": {
+      "installs": 116
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add borghei/claude-skills@stripe-integration-expert",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:heyvhuang/ship-faster@stripe",
+    "name": "heyvhuang/ship-faster@stripe",
+    "type": "skill",
+    "source_url": "https://skills.sh/heyvhuang/ship-faster/stripe",
+    "metric": {
+      "installs": 57
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add heyvhuang/ship-faster@stripe",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:fusengine/agents@laravel-billing",
+    "name": "fusengine/agents@laravel-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/fusengine/agents/laravel-billing",
+    "metric": {
+      "installs": 53
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add fusengine/agents@laravel-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:whawkinsiv/solo-founder-skills@payments",
+    "name": "whawkinsiv/solo-founder-skills@payments",
+    "type": "skill",
+    "source_url": "https://skills.sh/whawkinsiv/solo-founder-skills/payments",
+    "metric": {
+      "installs": 38
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add whawkinsiv/solo-founder-skills@payments",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:fandhe-ai/agent-reference-skills@stripe",
+    "name": "fandhe-ai/agent-reference-skills@stripe",
+    "type": "skill",
+    "source_url": "https://skills.sh/fandhe-ai/agent-reference-skills/stripe",
+    "metric": {
+      "installs": 36
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add fandhe-ai/agent-reference-skills@stripe",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:geelark/geelark-cli@geelark-billing",
+    "name": "geelark/geelark-cli@geelark-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/geelark/geelark-cli/geelark-billing",
+    "metric": {
+      "installs": 35
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add geelark/geelark-cli@geelark-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:metronome-industries/ai@stripe-to-metronome-migration",
+    "name": "metronome-industries/ai@stripe-to-metronome-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/metronome-industries/ai/stripe-to-metronome-migration",
+    "metric": {
+      "installs": 26
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add metronome-industries/ai@stripe-to-metronome-migration",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:danzam98/claude-skills-toolkit@saas-billing-patterns-for-stripe-and-paypal",
+    "name": "danzam98/claude-skills-toolkit@saas-billing-patterns-for-stripe-and-paypal",
+    "type": "skill",
+    "source_url": "https://skills.sh/danzam98/claude-skills-toolkit/saas-billing-patterns-for-stripe-and-paypal",
+    "metric": {
+      "installs": 15
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add danzam98/claude-skills-toolkit@saas-billing-patterns-for-stripe-and-paypal",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:nirholas/xactions@billing-management",
+    "name": "nirholas/xactions@billing-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/nirholas/xactions/billing-management",
+    "metric": {
+      "installs": 10
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nirholas/xactions@billing-management",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:clownnvd/claude-code-skills@stripe",
+    "name": "clownnvd/claude-code-skills@stripe",
+    "type": "skill",
+    "source_url": "https://skills.sh/clownnvd/claude-code-skills/stripe",
+    "metric": {
+      "installs": 8
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add clownnvd/claude-code-skills@stripe",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:terminalskills/skills@stripe-billing",
+    "name": "terminalskills/skills@stripe-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/terminalskills/skills/stripe-billing",
+    "metric": {
+      "installs": 5
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add terminalskills/skills@stripe-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:zef-computers/drivers@stripe-billing",
+    "name": "zef-computers/drivers@stripe-billing",
+    "type": "skill",
+    "source_url": "https://skills.sh/zef-computers/drivers/stripe-billing",
+    "metric": {
+      "installs": 5
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zef-computers/drivers@stripe-billing",
+    "seed_keyword": "billing stripe"
+  },
+  {
+    "id": "skillssh:andrewsrigom/agent-skills@stripe-webhook-first-billing-state",
+    "name": "andrewsrigom/agent-skills@stripe-webhook-first-billing-state",
+    "type": "skill",
+    "source_url": "https://skills.sh/andrewsrigom/agent-skills/stripe-webhook-first-billing-state",
+    "metric": {
+      "installs": 3
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add andrewsrigom/agent-skills@stripe-webhook-first-billing-state",
+    "seed_keyword": "billing stripe"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "ai-dev-catalog",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub/skills.sh에서 수집한 AI 개발자용 에이전트/스킬을 실제 개발사 조직도처럼 세분화해 분류한 카탈로그",
+  "scripts": {
+    "collect:github": "node scripts/collect-github.mjs",
+    "collect:skillssh": "node scripts/collect-skillssh.mjs",
+    "classify": "node scripts/classify.mjs",
+    "build:catalog": "node scripts/build-catalog-md.mjs",
+    "all": "npm run collect:github && npm run collect:skillssh && npm run classify && npm run build:catalog"
+  }
+}

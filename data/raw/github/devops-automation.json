@@ -1,0 +1,394 @@
+[
+  {
+    "id": "github:encoredev/encore",
+    "name": "encore",
+    "owner": "encoredev",
+    "type": "github-repo",
+    "source_url": "https://github.com/encoredev/encore",
+    "metric": {
+      "stars": 12365
+    },
+    "description": "The infrastructure platform for the intelligence era",
+    "topics": [
+      "aws",
+      "backend",
+      "cloud",
+      "cloud-native",
+      "database",
+      "devops",
+      "devops-automation",
+      "distributed-systems",
+      "encore",
+      "gcp",
+      "go",
+      "golang",
+      "infrastructure-as-code",
+      "infrastructure-automation",
+      "microservices",
+      "serverless",
+      "typescript"
+    ],
+    "license": "MPL-2.0",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:cobusgreyling/loop-engineering",
+    "name": "loop-engineering",
+    "owner": "cobusgreyling",
+    "type": "github-repo",
+    "source_url": "https://github.com/cobusgreyling/loop-engineering",
+    "metric": {
+      "stars": 11253
+    },
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "devops-automation",
+      "devtools",
+      "github-actions",
+      "grok",
+      "llm",
+      "loop-engineering",
+      "mcp",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:techiescamp/python-for-devops",
+    "name": "python-for-devops",
+    "owner": "techiescamp",
+    "type": "github-repo",
+    "source_url": "https://github.com/techiescamp/python-for-devops",
+    "metric": {
+      "stars": 560
+    },
+    "description": "Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.",
+    "topics": [
+      "boto3",
+      "devops",
+      "devops-automation",
+      "devops-scripts",
+      "python",
+      "python-for-devops",
+      "python-scripts",
+      "python3",
+      "scripting"
+    ],
+    "license": null,
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:besimple-oss/broccoli",
+    "name": "broccoli",
+    "owner": "besimple-oss",
+    "type": "github-repo",
+    "source_url": "https://github.com/besimple-oss/broccoli",
+    "metric": {
+      "stars": 286
+    },
+    "description": "Broccoli turns Linear tickets into shipped PRs — powered by Claude and Codex, running on your own Google Cloud or Blaxel containers.",
+    "topics": [
+      "ai-agents",
+      "ai-coding-assistant",
+      "anthropic",
+      "autonomous-agents",
+      "blaxel",
+      "claude",
+      "claude-code",
+      "code-review",
+      "codex",
+      "devops-automation",
+      "github-bot",
+      "google-cloud-run",
+      "linear",
+      "openai-codex",
+      "pull-request"
+    ],
+    "license": "MIT",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:project-vera/vera",
+    "name": "vera",
+    "owner": "project-vera",
+    "type": "github-repo",
+    "source_url": "https://github.com/project-vera/vera",
+    "metric": {
+      "stars": 252
+    },
+    "description": "High-fidelity, anycloud emulators running in your laptop. For DevOps programming, testing, and simulation.",
+    "topics": [
+      "aws",
+      "cloud",
+      "cloud-automation",
+      "code-generation",
+      "devops",
+      "devops-automation",
+      "emulator",
+      "gcp",
+      "gym-environment",
+      "python",
+      "simulators",
+      "testing"
+    ],
+    "license": null,
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:soulteary/webhook",
+    "name": "webhook",
+    "owner": "soulteary",
+    "type": "github-repo",
+    "source_url": "https://github.com/soulteary/webhook",
+    "metric": {
+      "stars": 141
+    },
+    "description": "Hardened and observable webhook-to-command runner for self-hosted, edge, and private networks. Compatible with adnanh/webhook configs. / 稳定靠谱的网络钩子，快速连接各种系统。",
+    "topics": [
+      "devops-automation",
+      "docker-webhook",
+      "docker-webhook-listener",
+      "edge-computing",
+      "self-hosted",
+      "time-saver",
+      "webhook",
+      "webhook-api",
+      "webhook-server",
+      "webhook-to-command",
+      "webhooks"
+    ],
+    "license": "MIT",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:skyflo-ai/skyflo",
+    "name": "skyflo",
+    "owner": "skyflo-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/skyflo-ai/skyflo",
+    "metric": {
+      "stars": 120
+    },
+    "description": "Self-Hosted AI Agent for Kubernetes & DevOps. Approval-Gated. Deterministic Control Loop.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "cloud-native",
+      "devops",
+      "devops-automation",
+      "jenkins",
+      "kubernetes",
+      "self-hosted",
+      "sre"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:stacktape/stacktape",
+    "name": "stacktape",
+    "owner": "stacktape",
+    "type": "github-repo",
+    "source_url": "https://github.com/stacktape/stacktape",
+    "metric": {
+      "stars": 81
+    },
+    "description": "97% of AWS capabilities, 3% complexity",
+    "topics": [
+      "aws",
+      "aws-cloudformation",
+      "cloud",
+      "cloud-infrastructure",
+      "cloud-native",
+      "containers",
+      "devops-automation",
+      "serverless"
+    ],
+    "license": null,
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:makifbaysal/tasktrooper",
+    "name": "tasktrooper",
+    "owner": "makifbaysal",
+    "type": "github-repo",
+    "source_url": "https://github.com/makifbaysal/tasktrooper",
+    "metric": {
+      "stars": 59
+    },
+    "description": "Local-first agent platform: board + role agents + Claude Code runs, all on your own Mac",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "devops-automation",
+      "electron",
+      "golang",
+      "issue-tracker",
+      "kanban",
+      "llm-agents",
+      "local-first",
+      "macos",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "software-factory"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:Automations-Project/n8n-data-manager",
+    "name": "n8n-data-manager",
+    "owner": "Automations-Project",
+    "type": "github-repo",
+    "source_url": "https://github.com/Automations-Project/n8n-data-manager",
+    "metric": {
+      "stars": 59
+    },
+    "description": "A robust shell script for automated backup and restore of n8n workflows, credentials, and environment variables to GitHub. Supports interactive and non-interactive modes, Alpine and Ubuntu containers, and includes comprehensive error handling.",
+    "topics": [
+      "alpine-compatible",
+      "bash-automation",
+      "data-management",
+      "devops-automation",
+      "docker-backup",
+      "github-backup",
+      "n8n-automation",
+      "n8n-backup",
+      "n8n-restore",
+      "self-hosted-backup",
+      "shell-script",
+      "workflow-backup",
+      "workflow-management"
+    ],
+    "license": null,
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:Fractera/Agentic-Engineering-Infrastructure",
+    "name": "Agentic-Engineering-Infrastructure",
+    "owner": "Fractera",
+    "type": "github-repo",
+    "source_url": "https://github.com/Fractera/Agentic-Engineering-Infrastructure",
+    "metric": {
+      "stars": 59
+    },
+    "description": "Deploys your OS, databases, and SSL on your VPS in just 10 minutes. Orchestrates a team of AI agents for coding, marketing, and sales. The built-in optimizer saves up to 90% on token costs, letting you build and manage your online business directly through chat. Fully open-source.",
+    "topics": [
+      "agent-engineering",
+      "b2b-automation",
+      "claude-code",
+      "devops-automation",
+      "edge-ai",
+      "hermes-agent",
+      "lightrag",
+      "local-rag",
+      "mcp-server",
+      "multi-agent-system",
+      "nextjs-aircraft-carrier",
+      "open-source",
+      "private-vps",
+      "self-hosted",
+      "token-efficiency"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:rjmurillo/ai-agents",
+    "name": "ai-agents",
+    "owner": "rjmurillo",
+    "type": "github-repo",
+    "source_url": "https://github.com/rjmurillo/ai-agents",
+    "metric": {
+      "stars": 45
+    },
+    "description": "Multi-agent system for software development",
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-assistant",
+      "anthropic-claude",
+      "automation",
+      "ci-cd",
+      "claude-code",
+      "code-generation",
+      "code-review",
+      "developer-tools",
+      "devops-automation",
+      "github-copilot",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "vscode-extension"
+    ],
+    "license": "MIT",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:saghosh8/AI-For-DevOps",
+    "name": "AI-For-DevOps",
+    "owner": "saghosh8",
+    "type": "github-repo",
+    "source_url": "https://github.com/saghosh8/AI-For-DevOps",
+    "metric": {
+      "stars": 34
+    },
+    "description": "A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and AI-powered DevOps projects.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-devops",
+      "artificial-intelligence",
+      "cicd",
+      "devops",
+      "devops-automation",
+      "generative-ai",
+      "github-actions",
+      "kubernetes",
+      "llm",
+      "llmops",
+      "mcp",
+      "prompt-engineering",
+      "python",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "license": "MIT",
+    "seed_topic": "devops-automation"
+  },
+  {
+    "id": "github:apundir/wsbalancer",
+    "name": "wsbalancer",
+    "owner": "apundir",
+    "type": "github-repo",
+    "source_url": "https://github.com/apundir/wsbalancer",
+    "metric": {
+      "stars": 32
+    },
+    "description": "Websocket balancer is a stateful reverse proxy for websockets with non disruptive transparent switching from one backend to another in event of a failure.",
+    "topics": [
+      "devops-automation",
+      "failover",
+      "ocpp",
+      "websocket-balancer"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "devops-automation"
+  }
+]

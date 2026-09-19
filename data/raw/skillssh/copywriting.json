@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@copywriting",
+    "name": "coreyhaines31/marketingskills@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/copywriting",
+    "metric": {
+      "installs": 203400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:kostja94/marketing-skills@copywriting",
+    "name": "kostja94/marketing-skills@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/kostja94/marketing-skills/copywriting",
+    "metric": {
+      "installs": 3700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kostja94/marketing-skills@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:samber/cc-skills@copywriting-hooks",
+    "name": "samber/cc-skills@copywriting-hooks",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills/copywriting-hooks",
+    "metric": {
+      "installs": 3000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills@copywriting-hooks",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:nexu-io/open-design@copywriting",
+    "name": "nexu-io/open-design@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexu-io/open-design/copywriting",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexu-io/open-design@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:samber/cc-skills@copywriting-tone-of-voice-creator",
+    "name": "samber/cc-skills@copywriting-tone-of-voice-creator",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills/copywriting-tone-of-voice-creator",
+    "metric": {
+      "installs": 2500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills@copywriting-tone-of-voice-creator",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:samber/cc-skills@copywriting-cta",
+    "name": "samber/cc-skills@copywriting-cta",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills/copywriting-cta",
+    "metric": {
+      "installs": 2300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills@copywriting-cta",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:samber/cc-skills@copywriting-prose-creator",
+    "name": "samber/cc-skills@copywriting-prose-creator",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills/copywriting-prose-creator",
+    "metric": {
+      "installs": 2300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills@copywriting-prose-creator",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:miqdadbadjuber/anti-slop@antislop-copywriting",
+    "name": "miqdadbadjuber/anti-slop@antislop-copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/miqdadbadjuber/anti-slop/antislop-copywriting",
+    "metric": {
+      "installs": 2000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add miqdadbadjuber/anti-slop@antislop-copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@copywriting",
+    "name": "sickn33/agentic-awesome-skills@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/copywriting",
+    "metric": {
+      "installs": 1500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:guia-matthieu/clawfu-skills@conversion-copywriting",
+    "name": "guia-matthieu/clawfu-skills@conversion-copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/conversion-copywriting",
+    "metric": {
+      "installs": 644
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add guia-matthieu/clawfu-skills@conversion-copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:vivy-yi/xiaohongshu-skills@copywriting-skills",
+    "name": "vivy-yi/xiaohongshu-skills@copywriting-skills",
+    "type": "skill",
+    "source_url": "https://skills.sh/vivy-yi/xiaohongshu-skills/copywriting-skills",
+    "metric": {
+      "installs": 551
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vivy-yi/xiaohongshu-skills@copywriting-skills",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:openclaudia/openclaudia-skills@copywriting",
+    "name": "openclaudia/openclaudia-skills@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/openclaudia/openclaudia-skills/copywriting",
+    "metric": {
+      "installs": 496
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add openclaudia/openclaudia-skills@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:mblode/agent-skills@copywriting",
+    "name": "mblode/agent-skills@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/mblode/agent-skills/copywriting",
+    "metric": {
+      "installs": 490
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mblode/agent-skills@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:yashaiguy-dev/sales-page-copywriting-skill@sales-page-copywriting",
+    "name": "yashaiguy-dev/sales-page-copywriting-skill@sales-page-copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/yashaiguy-dev/sales-page-copywriting-skill/sales-page-copywriting",
+    "metric": {
+      "installs": 481
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add yashaiguy-dev/sales-page-copywriting-skill@sales-page-copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:boraoztunc/skills@ogilvy-copywriting",
+    "name": "boraoztunc/skills@ogilvy-copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/boraoztunc/skills/ogilvy-copywriting",
+    "metric": {
+      "installs": 419
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add boraoztunc/skills@ogilvy-copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:louisblythe/sales-skills@copywriting",
+    "name": "louisblythe/sales-skills@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/louisblythe/sales-skills/copywriting",
+    "metric": {
+      "installs": 374
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add louisblythe/sales-skills@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:ronantakizawa/japanese-copywriting@japanese-copywriting",
+    "name": "ronantakizawa/japanese-copywriting@japanese-copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/ronantakizawa/japanese-copywriting/japanese-copywriting",
+    "metric": {
+      "installs": 306
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ronantakizawa/japanese-copywriting@japanese-copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:cyrwheelninja/copywriting-skill@copywriting",
+    "name": "cyrwheelninja/copywriting-skill@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/cyrwheelninja/copywriting-skill/copywriting",
+    "metric": {
+      "installs": 196
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cyrwheelninja/copywriting-skill@copywriting",
+    "seed_keyword": "copywriting"
+  },
+  {
+    "id": "skillssh:supabase/supabase@copywriting",
+    "name": "supabase/supabase@copywriting",
+    "type": "skill",
+    "source_url": "https://skills.sh/supabase/supabase/copywriting",
+    "metric": {
+      "installs": 67
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add supabase/supabase@copywriting",
+    "seed_keyword": "copywriting"
+  }
+]

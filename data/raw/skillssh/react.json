@@ -1,0 +1,223 @@
+[
+  {
+    "id": "skillssh:vercel-labs/agent-skills@vercel-react-best-practices",
+    "name": "vercel-labs/agent-skills@vercel-react-best-practices",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+    "metric": {
+      "installs": 725700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/agent-skills@vercel-react-best-practices",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/agent-skills@vercel-react-native-skills",
+    "name": "vercel-labs/agent-skills@vercel-react-native-skills",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills",
+    "metric": {
+      "installs": 215100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/agent-skills@vercel-react-native-skills",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/agent-skills@vercel-react-view-transitions",
+    "name": "vercel-labs/agent-skills@vercel-react-view-transitions",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-view-transitions",
+    "metric": {
+      "installs": 125300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/agent-skills@vercel-react-view-transitions",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:greensock/gsap-skills@gsap-react",
+    "name": "greensock/gsap-skills@gsap-react",
+    "type": "skill",
+    "source_url": "https://skills.sh/greensock/gsap-skills/gsap-react",
+    "metric": {
+      "installs": 50900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add greensock/gsap-skills@gsap-react",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:callstackincubator/agent-skills@react-native-best-practices",
+    "name": "callstackincubator/agent-skills@react-native-best-practices",
+    "type": "skill",
+    "source_url": "https://skills.sh/callstackincubator/agent-skills/react-native-best-practices",
+    "metric": {
+      "installs": 26200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add callstackincubator/agent-skills@react-native-best-practices",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:clerk/skills@clerk-react-patterns",
+    "name": "clerk/skills@clerk-react-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/clerk/skills/clerk-react-patterns",
+    "metric": {
+      "installs": 17000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add clerk/skills@clerk-react-patterns",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:millionco/react-doctor@react-doctor",
+    "name": "millionco/react-doctor@react-doctor",
+    "type": "skill",
+    "source_url": "https://skills.sh/millionco/react-doctor/react-doctor",
+    "metric": {
+      "installs": 14600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add millionco/react-doctor@react-doctor",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:clerk/skills@clerk-react-router-patterns",
+    "name": "clerk/skills@clerk-react-router-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/clerk/skills/clerk-react-router-patterns",
+    "metric": {
+      "installs": 13600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add clerk/skills@clerk-react-router-patterns",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@react",
+    "name": "vercel-labs/json-render@react",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/react",
+    "metric": {
+      "installs": 10700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/json-render@react",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:callstackincubator/agent-skills@upgrading-react-native",
+    "name": "callstackincubator/agent-skills@upgrading-react-native",
+    "type": "skill",
+    "source_url": "https://skills.sh/callstackincubator/agent-skills/upgrading-react-native",
+    "metric": {
+      "installs": 10400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add callstackincubator/agent-skills@upgrading-react-native",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:resend/react-email@react-email",
+    "name": "resend/react-email@react-email",
+    "type": "skill",
+    "source_url": "https://skills.sh/resend/react-email/react-email",
+    "metric": {
+      "installs": 8500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add resend/react-email@react-email",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:rivet-dev/skills@rivetkit-client-react",
+    "name": "rivet-dev/skills@rivetkit-client-react",
+    "type": "skill",
+    "source_url": "https://skills.sh/rivet-dev/skills/rivetkit-client-react",
+    "metric": {
+      "installs": 7500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rivet-dev/skills@rivetkit-client-react",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@react-native",
+    "name": "vercel-labs/json-render@react-native",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/react-native",
+    "metric": {
+      "installs": 2600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/json-render@react-native",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@react-pdf",
+    "name": "vercel-labs/json-render@react-pdf",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/react-pdf",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/json-render@react-pdf",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@react-three-fiber",
+    "name": "vercel-labs/json-render@react-three-fiber",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/react-three-fiber",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/json-render@react-three-fiber",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@react-email",
+    "name": "vercel-labs/json-render@react-email",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/react-email",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/json-render@react-email",
+    "seed_keyword": "react"
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@json-render-react",
+    "name": "vercel-labs/json-render@json-render-react",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/json-render-react",
+    "metric": {
+      "installs": 412
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vercel-labs/json-render@json-render-react",
+    "seed_keyword": "react"
+  }
+]

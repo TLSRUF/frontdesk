@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:microsoft/azure-skills@azure-storage",
+    "name": "microsoft/azure-skills@azure-storage",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoft/azure-skills/azure-storage",
+    "metric": {
+      "installs": 588500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoft/azure-skills@azure-storage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:mattpocock/skills@writing-fragments",
+    "name": "mattpocock/skills@writing-fragments",
+    "type": "skill",
+    "source_url": "https://skills.sh/mattpocock/skills/writing-fragments",
+    "metric": {
+      "installs": 359200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mattpocock/skills@writing-fragments",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:caffeinelabs/skills@extension-object-storage",
+    "name": "caffeinelabs/skills@extension-object-storage",
+    "type": "skill",
+    "source_url": "https://skills.sh/caffeinelabs/skills/extension-object-storage",
+    "metric": {
+      "installs": 21000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add caffeinelabs/skills@extension-object-storage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:dart-lang/skills@dart-collect-coverage",
+    "name": "dart-lang/skills@dart-collect-coverage",
+    "type": "skill",
+    "source_url": "https://skills.sh/dart-lang/skills/dart-collect-coverage",
+    "metric": {
+      "installs": 15300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dart-lang/skills@dart-collect-coverage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:langchain-ai/langchain-skills@langchain-rag",
+    "name": "langchain-ai/langchain-skills@langchain-rag",
+    "type": "skill",
+    "source_url": "https://skills.sh/langchain-ai/langchain-skills/langchain-rag",
+    "metric": {
+      "installs": 15200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add langchain-ai/langchain-skills@langchain-rag",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:wshobson/agents@rag-implementation",
+    "name": "wshobson/agents@rag-implementation",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/rag-implementation",
+    "metric": {
+      "installs": 12700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@rag-implementation",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@pytest-coverage",
+    "name": "github/awesome-copilot@pytest-coverage",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/pytest-coverage",
+    "metric": {
+      "installs": 12700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@pytest-coverage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-storage-query",
+    "metric": {
+      "installs": 8900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:neondatabase/agent-skills@neon-object-storage",
+    "name": "neondatabase/agent-skills@neon-object-storage",
+    "type": "skill",
+    "source_url": "https://skills.sh/neondatabase/agent-skills/neon-object-storage",
+    "metric": {
+      "installs": 8200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neondatabase/agent-skills@neon-object-storage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:getcargohq/cargo-skills@cargo-storage",
+    "name": "getcargohq/cargo-skills@cargo-storage",
+    "type": "skill",
+    "source_url": "https://skills.sh/getcargohq/cargo-skills/cargo-storage",
+    "metric": {
+      "installs": 7200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add getcargohq/cargo-skills@cargo-storage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:google/skills@agent-platform-rag-engine-management",
+    "name": "google/skills@agent-platform-rag-engine-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/google/skills/agent-platform-rag-engine-management",
+    "metric": {
+      "installs": 6800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add google/skills@agent-platform-rag-engine-management",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:latent-spaces/brag@brag",
+    "name": "latent-spaces/brag@brag",
+    "type": "skill",
+    "source_url": "https://skills.sh/latent-spaces/brag/brag",
+    "metric": {
+      "installs": 4300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add latent-spaces/brag@brag",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:giuseppe-trisciuoglio/developer-kit@rag",
+    "name": "giuseppe-trisciuoglio/developer-kit@rag",
+    "type": "skill",
+    "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/rag",
+    "metric": {
+      "installs": 3100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add giuseppe-trisciuoglio/developer-kit@rag",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:nvidia/skills@rag-blueprint",
+    "name": "nvidia/skills@rag-blueprint",
+    "type": "skill",
+    "source_url": "https://skills.sh/nvidia/skills/rag-blueprint",
+    "metric": {
+      "installs": 3000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nvidia/skills@rag-blueprint",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:pytorch/pytorch@pyrefly-type-coverage",
+    "name": "pytorch/pytorch@pyrefly-type-coverage",
+    "type": "skill",
+    "source_url": "https://skills.sh/pytorch/pytorch/pyrefly-type-coverage",
+    "metric": {
+      "installs": 2900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pytorch/pytorch@pyrefly-type-coverage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:nvidia/skills@rag-eval",
+    "name": "nvidia/skills@rag-eval",
+    "type": "skill",
+    "source_url": "https://skills.sh/nvidia/skills/rag-eval",
+    "metric": {
+      "installs": 2200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nvidia/skills@rag-eval",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:nvidia/skills@rag-perf",
+    "name": "nvidia/skills@rag-perf",
+    "type": "skill",
+    "source_url": "https://skills.sh/nvidia/skills/rag-perf",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nvidia/skills@rag-perf",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:nvidia/skills@vss-manage-video-io-storage",
+    "name": "nvidia/skills@vss-manage-video-io-storage",
+    "type": "skill",
+    "source_url": "https://skills.sh/nvidia/skills/vss-manage-video-io-storage",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nvidia/skills@vss-manage-video-io-storage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:anthropics/financial-services@initiating-coverage",
+    "name": "anthropics/financial-services@initiating-coverage",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/financial-services/initiating-coverage",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/financial-services@initiating-coverage",
+    "seed_keyword": "rag"
+  },
+  {
+    "id": "skillssh:aws/agent-toolkit-for-aws@aws-storage",
+    "name": "aws/agent-toolkit-for-aws@aws-storage",
+    "type": "skill",
+    "source_url": "https://skills.sh/aws/agent-toolkit-for-aws/aws-storage",
+    "metric": {
+      "installs": 1500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aws/agent-toolkit-for-aws@aws-storage",
+    "seed_keyword": "rag"
+  }
+]

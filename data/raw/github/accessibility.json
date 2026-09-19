@@ -1,0 +1,805 @@
+[
+  {
+    "id": "github:gkd-kit/gkd",
+    "name": "gkd",
+    "owner": "gkd-kit",
+    "type": "github-repo",
+    "source_url": "https://github.com/gkd-kit/gkd",
+    "metric": {
+      "stars": 41978
+    },
+    "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+    "topics": [
+      "accessibility",
+      "android",
+      "auto",
+      "click",
+      "compose",
+      "jetpack-compose",
+      "kotlin",
+      "kotlin-js",
+      "kotlin-multiplatform",
+      "webassembly"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:cjpais/Handy",
+    "name": "Handy",
+    "owner": "cjpais",
+    "type": "github-repo",
+    "source_url": "https://github.com/cjpais/Handy",
+    "metric": {
+      "stars": 31854
+    },
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "topics": [
+      "accessibility",
+      "cross-platform",
+      "speech-to-text",
+      "tauri-v2"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:AllThingsSmitty/css-protips",
+    "name": "css-protips",
+    "owner": "AllThingsSmitty",
+    "type": "github-repo",
+    "source_url": "https://github.com/AllThingsSmitty/css-protips",
+    "metric": {
+      "stars": 30285
+    },
+    "description": "A collection of tips to help take your CSS skills pro. 🕹 ",
+    "topics": [
+      "accessibility",
+      "awesome-list",
+      "best-practices",
+      "cheatsheet",
+      "css",
+      "css-tips",
+      "css-tricks",
+      "css3",
+      "flexbox",
+      "frontend",
+      "web-development"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:opendataloader-project/opendataloader-pdf",
+    "name": "opendataloader-pdf",
+    "owner": "opendataloader-project",
+    "type": "github-repo",
+    "source_url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "metric": {
+      "stars": 29313
+    },
+    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "ai",
+      "bounding-box",
+      "document-parsing",
+      "eaa",
+      "html",
+      "json",
+      "markdown",
+      "ocr",
+      "ocr-recognition",
+      "pdf",
+      "pdf-accessibility",
+      "pdf-converter",
+      "pdf-extraction",
+      "pdf-parser",
+      "pdf-ua",
+      "rag",
+      "tables",
+      "tagged-pdf"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:tailwindlabs/headlessui",
+    "name": "headlessui",
+    "owner": "tailwindlabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/tailwindlabs/headlessui",
+    "metric": {
+      "stars": 28745
+    },
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "components",
+      "headless-ui",
+      "headlessui",
+      "react",
+      "tailwindcss",
+      "vue"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:darkreader/darkreader",
+    "name": "darkreader",
+    "owner": "darkreader",
+    "type": "github-repo",
+    "source_url": "https://github.com/darkreader/darkreader",
+    "metric": {
+      "stars": 22377
+    },
+    "description": "Dark Reader Chrome and Firefox extension",
+    "topics": [
+      "accessibility",
+      "chrome-extension",
+      "dark-mode",
+      "dark-theme",
+      "darkmode",
+      "eye-care",
+      "firefox-addon",
+      "night-mode",
+      "nightmode"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:radix-ui/primitives",
+    "name": "primitives",
+    "owner": "radix-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/radix-ui/primitives",
+    "metric": {
+      "stars": 19291
+    },
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+    "topics": [
+      "accessibility",
+      "colors",
+      "component-library",
+      "design-systems",
+      "radix-ui",
+      "react",
+      "ui",
+      "ui-components",
+      "ui-kit"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:adobe/react-spectrum",
+    "name": "react-spectrum",
+    "owner": "adobe",
+    "type": "github-repo",
+    "source_url": "https://github.com/adobe/react-spectrum",
+    "metric": {
+      "stars": 15878
+    },
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "topics": [
+      "accessibility",
+      "design-systems",
+      "react",
+      "react-components",
+      "ui-components",
+      "wai-aria"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:bootstrap-vue/bootstrap-vue",
+    "name": "bootstrap-vue",
+    "owner": "bootstrap-vue",
+    "type": "github-repo",
+    "source_url": "https://github.com/bootstrap-vue/bootstrap-vue",
+    "metric": {
+      "stars": 14423
+    },
+    "description": "MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "accessible",
+      "bootstrap",
+      "bootstrapvue",
+      "component-library",
+      "components",
+      "icons",
+      "nuxt",
+      "nuxtjs",
+      "vue",
+      "wai-aria"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:markmead/hyperui",
+    "name": "hyperui",
+    "owner": "markmead",
+    "type": "github-repo",
+    "source_url": "https://github.com/markmead/hyperui",
+    "metric": {
+      "stars": 12235
+    },
+    "description": "Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀",
+    "topics": [
+      "accessibility",
+      "components",
+      "css",
+      "design-system",
+      "frontend",
+      "html",
+      "tailwind",
+      "tailwindcss",
+      "tailwindui",
+      "templates",
+      "ui"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:screetsec/TheFatRat",
+    "name": "TheFatRat",
+    "owner": "screetsec",
+    "type": "github-repo",
+    "source_url": "https://github.com/screetsec/TheFatRat",
+    "metric": {
+      "stars": 11489
+    },
+    "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .",
+    "topics": [
+      "accessibility",
+      "antivirus",
+      "autorun",
+      "backdoor",
+      "bypass",
+      "bypass-av",
+      "bypassantivirus",
+      "dracos",
+      "hacking",
+      "kali-linux",
+      "linux",
+      "malware",
+      "metasploit-framework",
+      "msfvenom",
+      "rat",
+      "remote",
+      "remote-access",
+      "thefatrat",
+      "tool",
+      "trojan"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:mui/base-ui",
+    "name": "base-ui",
+    "owner": "mui",
+    "type": "github-repo",
+    "source_url": "https://github.com/mui/base-ui",
+    "metric": {
+      "stars": 10942
+    },
+    "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+    "topics": [
+      "accessibility",
+      "base-ui",
+      "components",
+      "design-system",
+      "react",
+      "react-components",
+      "ui",
+      "wai-aria"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:mathjax/MathJax",
+    "name": "MathJax",
+    "owner": "mathjax",
+    "type": "github-repo",
+    "source_url": "https://github.com/mathjax/MathJax",
+    "metric": {
+      "stars": 10915
+    },
+    "description": "Beautiful and accessible math in all browsers",
+    "topics": [
+      "accessibility",
+      "asciimath-notation",
+      "css",
+      "html",
+      "javascript",
+      "latex",
+      "mathematics",
+      "mathjax",
+      "mathml",
+      "svg",
+      "typography"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:webstudio-is/webstudio",
+    "name": "webstudio",
+    "owner": "webstudio-is",
+    "type": "github-repo",
+    "source_url": "https://github.com/webstudio-is/webstudio",
+    "metric": {
+      "stars": 8964
+    },
+    "description": "Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.",
+    "topics": [
+      "accessibility",
+      "alternative",
+      "cloudflare",
+      "cloudflare-workers",
+      "design",
+      "free",
+      "frontend",
+      "open-source",
+      "radix-ui",
+      "react",
+      "remix",
+      "web-development",
+      "webflow",
+      "website-builder",
+      "website-development",
+      "websites",
+      "webstudio"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:radix-ui/themes",
+    "name": "themes",
+    "owner": "radix-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/radix-ui/themes",
+    "metric": {
+      "stars": 8712
+    },
+    "description": "Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.",
+    "topics": [
+      "accessibility",
+      "colors",
+      "component-library",
+      "design-systems",
+      "radix-ui",
+      "react",
+      "theme-development",
+      "themes",
+      "ui",
+      "ui-components",
+      "ui-kit"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:ariakit/ariakit",
+    "name": "ariakit",
+    "owner": "ariakit",
+    "type": "github-repo",
+    "source_url": "https://github.com/ariakit/ariakit",
+    "metric": {
+      "stars": 8620
+    },
+    "description": "Toolkit with accessible components, styles, and examples for your next web app",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "accessible",
+      "aria",
+      "ariakit",
+      "components",
+      "css",
+      "react",
+      "reactjs",
+      "tailwindcss",
+      "wai-aria"
+    ],
+    "license": null,
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:chinchang/hint.css",
+    "name": "hint.css",
+    "owner": "chinchang",
+    "type": "github-repo",
+    "source_url": "https://github.com/chinchang/hint.css",
+    "metric": {
+      "stars": 8431
+    },
+    "description": "A CSS only tooltip library for your lovely websites.",
+    "topics": [
+      "accessibility",
+      "bem",
+      "css",
+      "purecss",
+      "simple-api",
+      "tooltip",
+      "tooltip-library"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:andreasbm/web-skills",
+    "name": "web-skills",
+    "owner": "andreasbm",
+    "type": "github-repo",
+    "source_url": "https://github.com/andreasbm/web-skills",
+    "metric": {
+      "stars": 7613
+    },
+    "description": "A visual overview of useful skills to learn as a web developer",
+    "topics": [
+      "accessibility",
+      "algorithms",
+      "architecture",
+      "backend",
+      "build-tools",
+      "css",
+      "design",
+      "frameworks",
+      "html",
+      "javascript",
+      "pwa",
+      "testing",
+      "web-components"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:dequelabs/axe-core",
+    "name": "axe-core",
+    "owner": "dequelabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/dequelabs/axe-core",
+    "metric": {
+      "stars": 7531
+    },
+    "description": "Accessibility engine for automated Web UI testing",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "axe"
+    ],
+    "license": "MPL-2.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:unovue/reka-ui",
+    "name": "reka-ui",
+    "owner": "unovue",
+    "type": "github-repo",
+    "source_url": "https://github.com/unovue/reka-ui",
+    "metric": {
+      "stars": 6816
+    },
+    "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+    "topics": [
+      "accessibility",
+      "accessible",
+      "component-library",
+      "design-system",
+      "headless",
+      "nuxt",
+      "primitives",
+      "radix-ui",
+      "reka-ui",
+      "ui",
+      "ui-components",
+      "ui-kit",
+      "vue",
+      "vue-component-library",
+      "vue-components",
+      "vue-radix"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:vmware-archive/clarity",
+    "name": "clarity",
+    "owner": "vmware-archive",
+    "type": "github-repo",
+    "source_url": "https://github.com/vmware-archive/clarity",
+    "metric": {
+      "stars": 6392
+    },
+    "description": "Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.",
+    "topics": [
+      "accessibility",
+      "accessible-components",
+      "accessible-design",
+      "angular",
+      "angular-components",
+      "clarity",
+      "component-library",
+      "components",
+      "css",
+      "design-system",
+      "lit-elements",
+      "typescript",
+      "ui",
+      "ux",
+      "web",
+      "web-components",
+      "web-components-library"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:skeletonlabs/skeleton",
+    "name": "skeleton",
+    "owner": "skeletonlabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/skeletonlabs/skeleton",
+    "metric": {
+      "stars": 6060
+    },
+    "description": "Skeleton is an adaptive design system powered by Tailwind CSS.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "astro",
+      "components",
+      "components-library",
+      "design",
+      "design-system",
+      "nextjs",
+      "react",
+      "svelte",
+      "sveltekit",
+      "tailwindcss",
+      "user-interface",
+      "vite"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:leongersen/noUiSlider",
+    "name": "noUiSlider",
+    "owner": "leongersen",
+    "type": "github-repo",
+    "source_url": "https://github.com/leongersen/noUiSlider",
+    "metric": {
+      "stars": 5805
+    },
+    "description": "noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies.",
+    "topics": [
+      "accessibility",
+      "component",
+      "form",
+      "input",
+      "keyboard-support",
+      "multi-touch",
+      "range-slider",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:zfdang/Android-Touch-Helper",
+    "name": "Android-Touch-Helper",
+    "owner": "zfdang",
+    "type": "github-repo",
+    "source_url": "https://github.com/zfdang/Android-Touch-Helper",
+    "metric": {
+      "stars": 5312
+    },
+    "description": "AdSkip — an Android assistant for automatically skipping app launch ads",
+    "topics": [
+      "accessibility",
+      "activity",
+      "ad",
+      "android",
+      "auto",
+      "click",
+      "screen",
+      "skip",
+      "splash",
+      "start",
+      "startup"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:gluestack/gluestack-ui",
+    "name": "gluestack-ui",
+    "owner": "gluestack",
+    "type": "github-repo",
+    "source_url": "https://github.com/gluestack/gluestack-ui",
+    "metric": {
+      "stars": 5309
+    },
+    "description": "React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))",
+    "topics": [
+      "accessibility",
+      "component-library",
+      "customizable-components",
+      "design-system",
+      "react",
+      "react-native",
+      "styled-components",
+      "ui",
+      "ui-components",
+      "universal-components"
+    ],
+    "license": null,
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:chakra-ui/zag",
+    "name": "zag",
+    "owner": "chakra-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/chakra-ui/zag",
+    "metric": {
+      "stars": 5212
+    },
+    "description": "Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "agnostic",
+      "component",
+      "design-systems",
+      "headless",
+      "headlessui",
+      "library",
+      "primitives",
+      "react",
+      "solid",
+      "state-machines",
+      "svelte",
+      "sveltejs",
+      "ui",
+      "ui-components",
+      "ui-kit",
+      "universal",
+      "vue",
+      "xstate"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:satnaing/astro-paper",
+    "name": "astro-paper",
+    "owner": "satnaing",
+    "type": "github-repo",
+    "source_url": "https://github.com/satnaing/astro-paper",
+    "metric": {
+      "stars": 5058
+    },
+    "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "astro",
+      "astro-theme",
+      "astro-themes",
+      "blog",
+      "jamstack",
+      "markdown",
+      "ssg",
+      "static-site",
+      "static-site-generator",
+      "tailwindcss",
+      "template",
+      "theme",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:YauhenKavalchuk/interview-questions",
+    "name": "interview-questions",
+    "owner": "YauhenKavalchuk",
+    "type": "github-repo",
+    "source_url": "https://github.com/YauhenKavalchuk/interview-questions",
+    "metric": {
+      "stars": 4542
+    },
+    "description": "Популярные HTML / CSS / JavaScript / ECMAScript / TypeScript / React / Vue / Angular / Node вопросы на интервью и ответы на них (https://tinyurl.com/wxysrpsy)",
+    "topics": [
+      "accessibility",
+      "angular",
+      "css",
+      "ecmascript",
+      "html",
+      "interview",
+      "interview-preparation",
+      "interview-questions",
+      "javascript",
+      "js",
+      "nodejs",
+      "react",
+      "redux",
+      "security",
+      "typescript",
+      "vue"
+    ],
+    "license": null,
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:pa11y/pa11y",
+    "name": "pa11y",
+    "owner": "pa11y",
+    "type": "github-repo",
+    "source_url": "https://github.com/pa11y/pa11y",
+    "metric": {
+      "stars": 4533
+    },
+    "description": "Pa11y is your automated accessibility testing pal",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "accessibility-testing",
+      "automated-testing",
+      "axe",
+      "html-codesniffer",
+      "javascript",
+      "pa11y",
+      "testing"
+    ],
+    "license": "LGPL-3.0",
+    "seed_topic": "accessibility"
+  },
+  {
+    "id": "github:OptiKey/OptiKey",
+    "name": "OptiKey",
+    "owner": "OptiKey",
+    "type": "github-repo",
+    "source_url": "https://github.com/OptiKey/OptiKey",
+    "metric": {
+      "stars": 4418
+    },
+    "description": "OptiKey - Full computer control and speech with your eyes",
+    "topics": [
+      "aac",
+      "accessibility",
+      "accessible",
+      "als",
+      "assistive-technology",
+      "c-sharp",
+      "communication",
+      "disabilities",
+      "disabilty",
+      "eye-tracker",
+      "eye-tracking",
+      "eyes",
+      "eyetracking",
+      "mnd",
+      "optikey",
+      "screen-keyboard"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "accessibility"
+  }
+]

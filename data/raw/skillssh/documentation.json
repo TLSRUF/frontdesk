@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:samber/cc-skills-golang@golang-documentation",
+    "name": "samber/cc-skills-golang@golang-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-documentation",
+    "metric": {
+      "installs": 38800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills-golang@golang-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:addyosmani/agent-skills@documentation-and-adrs",
+    "name": "addyosmani/agent-skills@documentation-and-adrs",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/agent-skills/documentation-and-adrs",
+    "metric": {
+      "installs": 37900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/agent-skills@documentation-and-adrs",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@documentation-writer",
+    "name": "github/awesome-copilot@documentation-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/documentation-writer",
+    "metric": {
+      "installs": 26600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@documentation-writer",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@documentation",
+    "name": "anthropics/knowledge-work-plugins@documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/documentation",
+    "metric": {
+      "installs": 9600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@create-oo-component-documentation",
+    "name": "github/awesome-copilot@create-oo-component-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/create-oo-component-documentation",
+    "metric": {
+      "installs": 7000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@create-oo-component-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@update-oo-component-documentation",
+    "name": "github/awesome-copilot@update-oo-component-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/update-oo-component-documentation",
+    "metric": {
+      "installs": 7000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@update-oo-component-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:trkbt10/indexion-skills@indexion-documentation",
+    "name": "trkbt10/indexion-skills@indexion-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/trkbt10/indexion-skills/indexion-documentation",
+    "metric": {
+      "installs": 5000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add trkbt10/indexion-skills@indexion-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:giuseppe-trisciuoglio/developer-kit@spring-boot-openapi-documentation",
+    "name": "giuseppe-trisciuoglio/developer-kit@spring-boot-openapi-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/spring-boot-openapi-documentation",
+    "metric": {
+      "installs": 3300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add giuseppe-trisciuoglio/developer-kit@spring-boot-openapi-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:openai/skills@notion-research-documentation",
+    "name": "openai/skills@notion-research-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/openai/skills/notion-research-documentation",
+    "metric": {
+      "installs": 3100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add openai/skills@notion-research-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:dart-lang/skills@dart-write-documentation",
+    "name": "dart-lang/skills@dart-write-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/dart-lang/skills/dart-write-documentation",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dart-lang/skills@dart-write-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@api-documentation-generator",
+    "name": "sickn33/agentic-awesome-skills@api-documentation-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/api-documentation-generator",
+    "metric": {
+      "installs": 2200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@api-documentation-generator",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@oo-component-documentation",
+    "name": "github/awesome-copilot@oo-component-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/oo-component-documentation",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@oo-component-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:geoffjay/claude-plugins@documentation-update",
+    "name": "geoffjay/claude-plugins@documentation-update",
+    "type": "skill",
+    "source_url": "https://skills.sh/geoffjay/claude-plugins/documentation-update",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add geoffjay/claude-plugins@documentation-update",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:bytedance/deer-flow@code-documentation",
+    "name": "bytedance/deer-flow@code-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/bytedance/deer-flow/code-documentation",
+    "metric": {
+      "installs": 1700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bytedance/deer-flow@code-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:owl-listener/designer-skills@documentation-template",
+    "name": "owl-listener/designer-skills@documentation-template",
+    "type": "skill",
+    "source_url": "https://skills.sh/owl-listener/designer-skills/documentation-template",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add owl-listener/designer-skills@documentation-template",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:mcollina/skills@documentation",
+    "name": "mcollina/skills@documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/mcollina/skills/documentation",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mcollina/skills@documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:callicrate/skills@make-documentation",
+    "name": "callicrate/skills@make-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/callicrate/skills/make-documentation",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add callicrate/skills@make-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:upstash/context7@documentation-lookup",
+    "name": "upstash/context7@documentation-lookup",
+    "type": "skill",
+    "source_url": "https://skills.sh/upstash/context7/documentation-lookup",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add upstash/context7@documentation-lookup",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@markdown-documentation",
+    "name": "aj-geddes/useful-ai-prompts@markdown-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/markdown-documentation",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@markdown-documentation",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:makenotion/claude-code-notion-plugin@notion-research-documentation",
+    "name": "makenotion/claude-code-notion-plugin@notion-research-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/makenotion/claude-code-notion-plugin/notion-research-documentation",
+    "metric": {
+      "installs": 316
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add makenotion/claude-code-notion-plugin@notion-research-documentation",
+    "seed_keyword": "documentation"
+  }
+]

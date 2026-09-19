@@ -1,0 +1,905 @@
+[
+  {
+    "id": "github:BerriAI/litellm",
+    "name": "litellm",
+    "owner": "BerriAI",
+    "type": "github-repo",
+    "source_url": "https://github.com/BerriAI/litellm",
+    "metric": {
+      "stars": 59114
+    },
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "rust",
+      "rust-ai",
+      "vertex-ai"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:pathwaycom/llm-app",
+    "name": "llm-app",
+    "owner": "pathwaycom",
+    "type": "github-repo",
+    "source_url": "https://github.com/pathwaycom/llm-app",
+    "metric": {
+      "stars": 58917
+    },
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+    "topics": [
+      "chatbot",
+      "hugging-face",
+      "llm",
+      "llm-local",
+      "llm-prompting",
+      "llm-security",
+      "llmops",
+      "machine-learning",
+      "open-ai",
+      "pathway",
+      "rag",
+      "real-time",
+      "retrieval-augmented-generation",
+      "vector-database",
+      "vector-index"
+    ],
+    "license": "MIT",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:langfuse/langfuse",
+    "name": "langfuse",
+    "owner": "langfuse",
+    "type": "github-repo",
+    "source_url": "https://github.com/langfuse/langfuse",
+    "metric": {
+      "stars": 34787
+    },
+    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "topics": [
+      "analytics",
+      "autogen",
+      "evaluation",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "monitoring",
+      "observability",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering",
+      "prompt-management",
+      "self-hosted",
+      "ycombinator"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:ComposioHQ/composio",
+    "name": "composio",
+    "owner": "ComposioHQ",
+    "type": "github-repo",
+    "source_url": "https://github.com/ComposioHQ/composio",
+    "metric": {
+      "stars": 30237
+    },
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagents",
+      "developer-tools",
+      "function-calling",
+      "gpt-4",
+      "javascript",
+      "js",
+      "llm",
+      "llmops",
+      "mcp",
+      "python",
+      "remote-mcp-server",
+      "sse",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:mlflow/mlflow",
+    "name": "mlflow",
+    "owner": "mlflow",
+    "type": "github-repo",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "metric": {
+      "stars": 28028
+    },
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+    "topics": [
+      "agentops",
+      "agents",
+      "ai",
+      "ai-governance",
+      "apache-spark",
+      "evaluation",
+      "langchain",
+      "llm-evaluation",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "mlflow",
+      "mlops",
+      "model-management",
+      "observability",
+      "open-source",
+      "openai",
+      "prompt-engineering"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:promptfoo/promptfoo",
+    "name": "promptfoo",
+    "owner": "promptfoo",
+    "type": "github-repo",
+    "source_url": "https://github.com/promptfoo/promptfoo",
+    "metric": {
+      "stars": 25270
+    },
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+    "topics": [
+      "ci",
+      "ci-cd",
+      "cicd",
+      "evaluation",
+      "evaluation-framework",
+      "llm",
+      "llm-eval",
+      "llm-evaluation",
+      "llm-evaluation-framework",
+      "llmops",
+      "pentesting",
+      "prompt-engineering",
+      "prompt-testing",
+      "prompts",
+      "rag",
+      "red-teaming",
+      "testing",
+      "vulnerability-scanners"
+    ],
+    "license": "MIT",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:liguodongiot/llm-action",
+    "name": "llm-action",
+    "owner": "liguodongiot",
+    "type": "github-repo",
+    "source_url": "https://github.com/liguodongiot/llm-action",
+    "metric": {
+      "stars": 25072
+    },
+    "description": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
+    "topics": [
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "llm-training",
+      "llmops"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:comet-ml/opik",
+    "name": "opik",
+    "owner": "comet-ml",
+    "type": "github-repo",
+    "source_url": "https://github.com/comet-ml/opik",
+    "metric": {
+      "stars": 22126
+    },
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+    "topics": [
+      "evaluation",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "langchain",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:jina-ai/serve",
+    "name": "serve",
+    "owner": "jina-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/jina-ai/serve",
+    "metric": {
+      "stars": 21860
+    },
+    "description": "☁️ Build multimodal AI applications with cloud-native stack",
+    "topics": [
+      "cloud-native",
+      "cncf",
+      "deep-learning",
+      "docker",
+      "fastapi",
+      "framework",
+      "generative-ai",
+      "grpc",
+      "jaeger",
+      "kubernetes",
+      "llmops",
+      "machine-learning",
+      "microservice",
+      "mlops",
+      "multimodal",
+      "neural-search",
+      "opentelemetry",
+      "orchestration",
+      "pipeline",
+      "prometheus"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:TransformerOptimus/SuperAGI",
+    "name": "SuperAGI",
+    "owner": "TransformerOptimus",
+    "type": "github-repo",
+    "source_url": "https://github.com/TransformerOptimus/SuperAGI",
+    "metric": {
+      "stars": 17685
+    },
+    "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "topics": [
+      "agents",
+      "agi",
+      "ai",
+      "artificial-general-intelligence",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "gpt-4",
+      "hacktoberfest",
+      "llm",
+      "llmops",
+      "nextjs",
+      "openai",
+      "pinecone",
+      "python",
+      "superagi"
+    ],
+    "license": "MIT",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:raga-ai-hub/RagaAI-Catalyst",
+    "name": "RagaAI-Catalyst",
+    "owner": "raga-ai-hub",
+    "type": "github-repo",
+    "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "metric": {
+      "stars": 16162
+    },
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+    "topics": [
+      "agentic-ai",
+      "agentic-ai-development",
+      "agentneo",
+      "agents",
+      "ai-agent-monitoring",
+      "ai-application-debugging",
+      "ai-evaluation-tools",
+      "ai-performance-optimization",
+      "ai-tool-interaction-monitoring",
+      "llm-testing",
+      "llm-tracing",
+      "llmops"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:vibrantlabsai/ragas",
+    "name": "ragas",
+    "owner": "vibrantlabsai",
+    "type": "github-repo",
+    "source_url": "https://github.com/vibrantlabsai/ragas",
+    "metric": {
+      "stars": 15767
+    },
+    "description": "Supercharge Your LLM Application Evaluations 🚀",
+    "topics": [
+      "evaluation",
+      "llm",
+      "llmops"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:Portkey-AI/gateway",
+    "name": "gateway",
+    "owner": "Portkey-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/Portkey-AI/gateway",
+    "metric": {
+      "stars": 13034
+    },
+    "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+    "topics": [
+      "ai-gateway",
+      "gateway",
+      "generative-ai",
+      "hacktoberfest",
+      "langchain",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "llms",
+      "mcp",
+      "mcp-client",
+      "mcp-gateway",
+      "mcp-servers",
+      "model-router",
+      "openai"
+    ],
+    "license": "MIT",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:bentoml/OpenLLM",
+    "name": "OpenLLM",
+    "owner": "bentoml",
+    "type": "github-repo",
+    "source_url": "https://github.com/bentoml/OpenLLM",
+    "metric": {
+      "stars": 12539
+    },
+    "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+    "topics": [
+      "bentoml",
+      "fine-tuning",
+      "llama",
+      "llama2",
+      "llama3-1",
+      "llama3-2",
+      "llama3-2-vision",
+      "llm",
+      "llm-inference",
+      "llm-ops",
+      "llm-serving",
+      "llmops",
+      "mistral",
+      "mlops",
+      "model-inference",
+      "open-source-llm",
+      "openllm",
+      "vicuna"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:dataelement/bisheng",
+    "name": "bisheng",
+    "owner": "dataelement",
+    "type": "github-repo",
+    "source_url": "https://github.com/dataelement/bisheng",
+    "metric": {
+      "stars": 11978
+    },
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+    "topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "enterprise",
+      "finetune",
+      "genai",
+      "gpt",
+      "langchian",
+      "llama",
+      "llm",
+      "llmdevops",
+      "llmops",
+      "ocr",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "react",
+      "sft",
+      "workflow"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:tensorzero/tensorzero",
+    "name": "tensorzero",
+    "owner": "tensorzero",
+    "type": "github-repo",
+    "source_url": "https://github.com/tensorzero/tensorzero",
+    "metric": {
+      "stars": 11720
+    },
+    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+    "topics": [
+      "ai",
+      "ai-engineering",
+      "anthropic",
+      "artificial-intelligence",
+      "deep-learning",
+      "genai",
+      "generative-ai",
+      "gpt",
+      "large-language-models",
+      "llama",
+      "llm",
+      "llmops",
+      "llms",
+      "machine-learning",
+      "ml",
+      "ml-engineering",
+      "mlops",
+      "openai",
+      "python",
+      "rust"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:Arize-ai/phoenix",
+    "name": "phoenix",
+    "owner": "Arize-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/Arize-ai/phoenix",
+    "metric": {
+      "stars": 11538
+    },
+    "description": "AI Observability & Evaluation",
+    "topics": [
+      "agents",
+      "ai-monitoring",
+      "ai-observability",
+      "aiengineering",
+      "anthropic",
+      "datasets",
+      "evals",
+      "langchain",
+      "llamaindex",
+      "llm-eval",
+      "llm-evaluation",
+      "llmops",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "smolagents"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:Netflix/metaflow",
+    "name": "metaflow",
+    "owner": "Netflix",
+    "type": "github-repo",
+    "source_url": "https://github.com/Netflix/metaflow",
+    "metric": {
+      "stars": 10274
+    },
+    "description": "Build, Manage and Deploy AI/ML Systems",
+    "topics": [
+      "agents",
+      "ai",
+      "aws",
+      "azure",
+      "cost-optimization",
+      "datascience",
+      "distributed-training",
+      "gcp",
+      "generative-ai",
+      "high-performance-computing",
+      "kubernetes",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "ml-infrastructure",
+      "ml-platform",
+      "mlops",
+      "model-management",
+      "python"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:bentoml/BentoML",
+    "name": "BentoML",
+    "owner": "bentoml",
+    "type": "github-repo",
+    "source_url": "https://github.com/bentoml/BentoML",
+    "metric": {
+      "stars": 8853
+    },
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+    "topics": [
+      "ai-inference",
+      "deep-learning",
+      "generative-ai",
+      "inference-platform",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "llmops",
+      "machine-learning",
+      "ml-engineering",
+      "mlops",
+      "model-inference-service",
+      "model-serving",
+      "multimodal",
+      "python"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:0xPlaygrounds/rig",
+    "name": "rig",
+    "owner": "0xPlaygrounds",
+    "type": "github-repo",
+    "source_url": "https://github.com/0xPlaygrounds/rig",
+    "metric": {
+      "stars": 8668
+    },
+    "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+    "topics": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "generative-ai",
+      "large-language-model",
+      "llm",
+      "llmops",
+      "rust",
+      "scalable-ai"
+    ],
+    "license": "MIT",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:maximhq/bifrost",
+    "name": "bifrost",
+    "owner": "maximhq",
+    "type": "github-repo",
+    "source_url": "https://github.com/maximhq/bifrost",
+    "metric": {
+      "stars": 8164
+    },
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+    "topics": [
+      "ai-gateway",
+      "gateway",
+      "gateway-services",
+      "generative-ai",
+      "guardrails",
+      "llm",
+      "llm-cost",
+      "llm-gateway",
+      "llm-observability",
+      "llmops",
+      "load-balancing",
+      "mcp-client",
+      "mcp-gateway",
+      "mcp-server",
+      "model-router",
+      "token-management"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:evidentlyai/evidently",
+    "name": "evidently",
+    "owner": "evidentlyai",
+    "type": "github-repo",
+    "source_url": "https://github.com/evidentlyai/evidently",
+    "metric": {
+      "stars": 7926
+    },
+    "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+    "topics": [
+      "data-drift",
+      "data-quality",
+      "data-science",
+      "data-validation",
+      "generative-ai",
+      "hacktoberfest",
+      "html-report",
+      "jupyter-notebook",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "mlops",
+      "model-monitoring",
+      "pandas-dataframe"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:traceloop/openllmetry",
+    "name": "openllmetry",
+    "owner": "traceloop",
+    "type": "github-repo",
+    "source_url": "https://github.com/traceloop/openllmetry",
+    "metric": {
+      "stars": 7441
+    },
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "topics": [
+      "artifical-intelligence",
+      "datascience",
+      "generative-ai",
+      "good-first-issue",
+      "good-first-issues",
+      "help-wanted",
+      "llm",
+      "llmops",
+      "metrics",
+      "ml",
+      "model-monitoring",
+      "monitoring",
+      "observability",
+      "open-source",
+      "open-telemetry",
+      "opentelemetry",
+      "opentelemetry-python",
+      "python"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:katanemo/plano",
+    "name": "plano",
+    "owner": "katanemo",
+    "type": "github-repo",
+    "source_url": "https://github.com/katanemo/plano",
+    "metric": {
+      "stars": 7054
+    },
+    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.",
+    "topics": [
+      "ai-gateway",
+      "ai-gateway-support",
+      "envoy",
+      "envoyproxy",
+      "gateway",
+      "generative-ai",
+      "llm-gateway",
+      "llm-inference",
+      "llm-proxy",
+      "llm-routing",
+      "llmops",
+      "llms",
+      "openai",
+      "prompt",
+      "proxy",
+      "proxy-server",
+      "routing"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:clearml/clearml",
+    "name": "clearml",
+    "owner": "clearml",
+    "type": "github-repo",
+    "source_url": "https://github.com/clearml/clearml",
+    "metric": {
+      "stars": 6877
+    },
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",
+    "topics": [
+      "ai",
+      "clearml",
+      "control",
+      "deep-learning",
+      "deeplearning",
+      "devops",
+      "experiment",
+      "experiment-manager",
+      "k8s",
+      "llmops",
+      "machine-learning",
+      "machinelearning",
+      "mlops",
+      "version",
+      "version-control"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:MakazhanAlpamys/Soup",
+    "name": "Soup",
+    "owner": "MakazhanAlpamys",
+    "type": "github-repo",
+    "source_url": "https://github.com/MakazhanAlpamys/Soup",
+    "metric": {
+      "stars": 6816
+    },
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "topics": [
+      "cli",
+      "consumer-gpu",
+      "dpo",
+      "fine-tuning",
+      "gguf",
+      "huggingface",
+      "llm",
+      "llmops",
+      "local-ai",
+      "local-llm",
+      "lora",
+      "low-vram",
+      "machine-learning",
+      "ollama",
+      "peft",
+      "python",
+      "pytorch",
+      "qlora",
+      "sft",
+      "transformers"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:GoogleCloudPlatform/agent-starter-pack",
+    "name": "agent-starter-pack",
+    "owner": "GoogleCloudPlatform",
+    "type": "github-repo",
+    "source_url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+    "metric": {
+      "stars": 6557
+    },
+    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+    "topics": [
+      "agents",
+      "gcp",
+      "gemini",
+      "genai-agents",
+      "generative-ai",
+      "llmops",
+      "mlops",
+      "observability"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:Helicone/helicone",
+    "name": "helicone",
+    "owner": "Helicone",
+    "type": "github-repo",
+    "source_url": "https://github.com/Helicone/helicone",
+    "metric": {
+      "stars": 6164
+    },
+    "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+    "topics": [
+      "agent-monitoring",
+      "analytics",
+      "evaluation",
+      "gpt",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-cost",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "monitoring",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering",
+      "prompt-management",
+      "ycombinator"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:tensorchord/Awesome-LLMOps",
+    "name": "Awesome-LLMOps",
+    "owner": "tensorchord",
+    "type": "github-repo",
+    "source_url": "https://github.com/tensorchord/Awesome-LLMOps",
+    "metric": {
+      "stars": 5939
+    },
+    "description": "An awesome & curated list of best LLMOps tools for developers",
+    "topics": [
+      "ai-development-tools",
+      "awesome-list",
+      "llmops",
+      "mlops"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "llmops"
+  },
+  {
+    "id": "github:Giskard-AI/giskard-oss",
+    "name": "giskard-oss",
+    "owner": "Giskard-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/Giskard-AI/giskard-oss",
+    "metric": {
+      "stars": 5825
+    },
+    "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+    "topics": [
+      "agent-evaluation",
+      "ai-red-team",
+      "ai-security",
+      "ai-testing",
+      "fairness-ai",
+      "llm",
+      "llm-eval",
+      "llm-evaluation",
+      "llm-security",
+      "llmops",
+      "ml-testing",
+      "ml-validation",
+      "mlops",
+      "rag-evaluation",
+      "red-team-tools",
+      "responsible-ai",
+      "trustworthy-ai"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llmops"
+  }
+]

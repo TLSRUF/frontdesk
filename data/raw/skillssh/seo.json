@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@seo-audit",
+    "name": "coreyhaines31/marketingskills@seo-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
+    "metric": {
+      "installs": 209900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@seo-audit",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@programmatic-seo",
+    "name": "coreyhaines31/marketingskills@programmatic-seo",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/programmatic-seo",
+    "metric": {
+      "installs": 133500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@programmatic-seo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@ai-seo",
+    "name": "coreyhaines31/marketingskills@ai-seo",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/ai-seo",
+    "metric": {
+      "installs": 127400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@ai-seo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:useosint/skills@is-this-photo-real",
+    "name": "useosint/skills@is-this-photo-real",
+    "type": "skill",
+    "source_url": "https://skills.sh/useosint/skills/is-this-photo-real",
+    "metric": {
+      "installs": 58200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add useosint/skills@is-this-photo-real",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:useosint/skills@investigate-without-getting-made",
+    "name": "useosint/skills@investigate-without-getting-made",
+    "type": "skill",
+    "source_url": "https://skills.sh/useosint/skills/investigate-without-getting-made",
+    "metric": {
+      "installs": 58100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add useosint/skills@investigate-without-getting-made",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:useosint/skills@what-leaked-about-you",
+    "name": "useosint/skills@what-leaked-about-you",
+    "type": "skill",
+    "source_url": "https://skills.sh/useosint/skills/what-leaked-about-you",
+    "metric": {
+      "installs": 57700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add useosint/skills@what-leaked-about-you",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:useosint/skills@find-the-original-image",
+    "name": "useosint/skills@find-the-original-image",
+    "type": "skill",
+    "source_url": "https://skills.sh/useosint/skills/find-the-original-image",
+    "metric": {
+      "installs": 56400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add useosint/skills@find-the-original-image",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:resciencelab/opc-skills@seo-geo",
+    "name": "resciencelab/opc-skills@seo-geo",
+    "type": "skill",
+    "source_url": "https://skills.sh/resciencelab/opc-skills/seo-geo",
+    "metric": {
+      "installs": 47900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add resciencelab/opc-skills@seo-geo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:addyosmani/web-quality-skills@seo",
+    "name": "addyosmani/web-quality-skills@seo",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/web-quality-skills/seo",
+    "metric": {
+      "installs": 46200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/web-quality-skills@seo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:firecrawl/firecrawl-workflows@firecrawl-seo-audit",
+    "name": "firecrawl/firecrawl-workflows@firecrawl-seo-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/firecrawl/firecrawl-workflows/firecrawl-seo-audit",
+    "metric": {
+      "installs": 31800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add firecrawl/firecrawl-workflows@firecrawl-seo-audit",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@seo",
+    "name": "affaan-m/ecc@seo",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/seo",
+    "metric": {
+      "installs": 8200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@seo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/seo-geo-claude-skills@seo-content-writer",
+    "name": "aaron-he-zhu/seo-geo-claude-skills@seo-content-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/seo-content-writer",
+    "metric": {
+      "installs": 7600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/seo-geo-claude-skills@seo-content-writer",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:agricidaniel/claude-seo@seo",
+    "name": "agricidaniel/claude-seo@seo",
+    "type": "skill",
+    "source_url": "https://skills.sh/agricidaniel/claude-seo/seo",
+    "metric": {
+      "installs": 7200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add agricidaniel/claude-seo@seo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:agricidaniel/claude-seo@seo-audit",
+    "name": "agricidaniel/claude-seo@seo-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/agricidaniel/claude-seo/seo-audit",
+    "metric": {
+      "installs": 6500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add agricidaniel/claude-seo@seo-audit",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:sanity-io/agent-toolkit@seo-aeo-best-practices",
+    "name": "sanity-io/agent-toolkit@seo-aeo-best-practices",
+    "type": "skill",
+    "source_url": "https://skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices",
+    "metric": {
+      "installs": 6400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sanity-io/agent-toolkit@seo-aeo-best-practices",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:agricidaniel/claude-seo@seo-content",
+    "name": "agricidaniel/claude-seo@seo-content",
+    "type": "skill",
+    "source_url": "https://skills.sh/agricidaniel/claude-seo/seo-content",
+    "metric": {
+      "installs": 6200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add agricidaniel/claude-seo@seo-content",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:getpaseo/paseo@paseo",
+    "name": "getpaseo/paseo@paseo",
+    "type": "skill",
+    "source_url": "https://skills.sh/getpaseo/paseo/paseo",
+    "metric": {
+      "installs": 4000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add getpaseo/paseo@paseo",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:getpaseo/paseo@paseo-handoff",
+    "name": "getpaseo/paseo@paseo-handoff",
+    "type": "skill",
+    "source_url": "https://skills.sh/getpaseo/paseo/paseo-handoff",
+    "metric": {
+      "installs": 3800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add getpaseo/paseo@paseo-handoff",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:getpaseo/paseo@paseo-committee",
+    "name": "getpaseo/paseo@paseo-committee",
+    "type": "skill",
+    "source_url": "https://skills.sh/getpaseo/paseo/paseo-committee",
+    "metric": {
+      "installs": 3700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add getpaseo/paseo@paseo-committee",
+    "seed_keyword": "seo"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@seo-audit",
+    "name": "anthropics/knowledge-work-plugins@seo-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/seo-audit",
+    "metric": {
+      "installs": 3400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@seo-audit",
+    "seed_keyword": "seo"
+  }
+]

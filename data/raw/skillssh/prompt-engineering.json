@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:wshobson/agents@prompt-engineering-patterns",
+    "name": "wshobson/agents@prompt-engineering-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
+    "metric": {
+      "installs": 21600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@prompt-engineering-patterns",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@ai-prompt-engineering-safety-review",
+    "name": "github/awesome-copilot@ai-prompt-engineering-safety-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/ai-prompt-engineering-safety-review",
+    "metric": {
+      "installs": 10300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@ai-prompt-engineering-safety-review",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:giuseppe-trisciuoglio/developer-kit@prompt-engineering",
+    "name": "giuseppe-trisciuoglio/developer-kit@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/prompt-engineering",
+    "metric": {
+      "installs": 3300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add giuseppe-trisciuoglio/developer-kit@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:reason-machines/trending-skills@agency-agents-ai-specialists",
+    "name": "reason-machines/trending-skills@agency-agents-ai-specialists",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/trending-skills/agency-agents-ai-specialists",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add reason-machines/trending-skills@agency-agents-ai-specialists",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@prompt-engineering",
+    "name": "sickn33/agentic-awesome-skills@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/prompt-engineering",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@prompt-engineering",
+    "name": "neolabhq/context-engineering-kit@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/prompt-engineering",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:neolabhq/context-engineering-kit@test-prompt",
+    "name": "neolabhq/context-engineering-kit@test-prompt",
+    "type": "skill",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/test-prompt",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add neolabhq/context-engineering-kit@test-prompt",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:davila7/claude-code-templates@prompt-engineering",
+    "name": "davila7/claude-code-templates@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/davila7/claude-code-templates/prompt-engineering",
+    "metric": {
+      "installs": 605
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add davila7/claude-code-templates@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:spencerpauly/awesome-cursor-skills@prompt-engineering",
+    "name": "spencerpauly/awesome-cursor-skills@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/spencerpauly/awesome-cursor-skills/prompt-engineering",
+    "metric": {
+      "installs": 356
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add spencerpauly/awesome-cursor-skills@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:justinperea/midjourney-cc-skill@midjourney-prompt-engineering",
+    "name": "justinperea/midjourney-cc-skill@midjourney-prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/justinperea/midjourney-cc-skill/midjourney-prompt-engineering",
+    "metric": {
+      "installs": 310
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add justinperea/midjourney-cc-skill@midjourney-prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:martinholovsky/claude-skills-generator@prompt-engineering",
+    "name": "martinholovsky/claude-skills-generator@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/martinholovsky/claude-skills-generator/prompt-engineering",
+    "metric": {
+      "installs": 222
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add martinholovsky/claude-skills-generator@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:vasilyu1983/ai-agents-public@ai-prompt-engineering",
+    "name": "vasilyu1983/ai-agents-public@ai-prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/vasilyu1983/ai-agents-public/ai-prompt-engineering",
+    "metric": {
+      "installs": 213
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vasilyu1983/ai-agents-public@ai-prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:tomstools11/prompt-engineering-expert@prompt-engineering-expert",
+    "name": "tomstools11/prompt-engineering-expert@prompt-engineering-expert",
+    "type": "skill",
+    "source_url": "https://skills.sh/tomstools11/prompt-engineering-expert/prompt-engineering-expert",
+    "metric": {
+      "installs": 199
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add tomstools11/prompt-engineering-expert@prompt-engineering-expert",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:rohitg00/awesome-claude-code-toolkit@prompt-engineering",
+    "name": "rohitg00/awesome-claude-code-toolkit@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/rohitg00/awesome-claude-code-toolkit/prompt-engineering",
+    "metric": {
+      "installs": 185
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rohitg00/awesome-claude-code-toolkit@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:maddhruv/absolute@prompt-engineering",
+    "name": "maddhruv/absolute@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/maddhruv/absolute/prompt-engineering",
+    "metric": {
+      "installs": 147
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add maddhruv/absolute@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:codealive-ai/ai-driven-development@prompt-engineering",
+    "name": "codealive-ai/ai-driven-development@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/codealive-ai/ai-driven-development/prompt-engineering",
+    "metric": {
+      "installs": 128
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add codealive-ai/ai-driven-development@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:oakoss/agent-skills@prompt-engineering",
+    "name": "oakoss/agent-skills@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/oakoss/agent-skills/prompt-engineering",
+    "metric": {
+      "installs": 100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add oakoss/agent-skills@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:codealive-ai/prompt-engineering-skill@prompt-engineering",
+    "name": "codealive-ai/prompt-engineering-skill@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/codealive-ai/prompt-engineering-skill/prompt-engineering",
+    "metric": {
+      "installs": 91
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add codealive-ai/prompt-engineering-skill@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  },
+  {
+    "id": "skillssh:shipshitdev/skills@prompt-engineering",
+    "name": "shipshitdev/skills@prompt-engineering",
+    "type": "skill",
+    "source_url": "https://skills.sh/shipshitdev/skills/prompt-engineering",
+    "metric": {
+      "installs": 89
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shipshitdev/skills@prompt-engineering",
+    "seed_keyword": "prompt engineering"
+  }
+]

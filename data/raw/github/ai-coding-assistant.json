@@ -1,0 +1,912 @@
+[
+  {
+    "id": "github:filipecalegario/awesome-vibe-coding",
+    "name": "awesome-vibe-coding",
+    "owner": "filipecalegario",
+    "type": "github-repo",
+    "source_url": "https://github.com/filipecalegario/awesome-vibe-coding",
+    "metric": {
+      "stars": 5265
+    },
+    "description": "A curated list of vibe coding references, collaborating with AI to write code.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "awesome",
+      "awesome-list",
+      "cursor",
+      "lovable",
+      "vibe-coding"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:chaitin/MonkeyCode",
+    "name": "MonkeyCode",
+    "owner": "chaitin",
+    "type": "github-repo",
+    "source_url": "https://github.com/chaitin/MonkeyCode",
+    "metric": {
+      "stars": 4729
+    },
+    "description": "AI coding platform for teams",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "ai-coding-assistant",
+      "aicoding",
+      "claude",
+      "codex",
+      "coding",
+      "cursor",
+      "opencode",
+      "vibe-coding"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:pacifio/atlas",
+    "name": "atlas",
+    "owner": "pacifio",
+    "type": "github-repo",
+    "source_url": "https://github.com/pacifio/atlas",
+    "metric": {
+      "stars": 4721
+    },
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "topics": [
+      "ai",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "git",
+      "gitops",
+      "kilo-code",
+      "mcp",
+      "mcp-client",
+      "opencode",
+      "opencode-ai",
+      "opencode-skills",
+      "self-hosted",
+      "skills"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:org2AI/ORG2",
+    "name": "ORG2",
+    "owner": "org2AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/org2AI/ORG2",
+    "metric": {
+      "stars": 2631
+    },
+    "description": "System of record for how agents build software: Built-in rust harness & 20+ CLIs.",
+    "topics": [
+      "ai-coding-assistant",
+      "coding-agents",
+      "ide",
+      "local-first",
+      "reliability-engineering",
+      "rust",
+      "self-hosted",
+      "tuari"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:itayinbarr/little-coder",
+    "name": "little-coder",
+    "owner": "itayinbarr",
+    "type": "github-repo",
+    "source_url": "https://github.com/itayinbarr/little-coder",
+    "metric": {
+      "stars": 2605
+    },
+    "description": "A harness optimized to smaller LLMs",
+    "topics": [
+      "ai-coding-assistant",
+      "aider-polygot",
+      "benchmark",
+      "code-generation",
+      "coding-agent",
+      "coding-agents",
+      "local-llm",
+      "ollama",
+      "qwen",
+      "small-language-models",
+      "terminal-bench",
+      "tool-use"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:ai-for-developers/awesome-ai-coding-tools",
+    "name": "awesome-ai-coding-tools",
+    "owner": "ai-for-developers",
+    "type": "github-repo",
+    "source_url": "https://github.com/ai-for-developers/awesome-ai-coding-tools",
+    "metric": {
+      "stars": 2081
+    },
+    "description": "A curated list of AI-powered coding tools",
+    "topics": [
+      "ai-code-generation",
+      "ai-code-generator",
+      "ai-coding",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "ai-developer",
+      "ai-developer-tools",
+      "ai-development",
+      "ai-development-tools",
+      "ai-devtools",
+      "ai-ide",
+      "ai-security",
+      "ai-tools",
+      "awesome",
+      "awesome-ai",
+      "awesome-list",
+      "cursor",
+      "cursor-ai",
+      "vibe-coding",
+      "workflow"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:nimbalyst/nimbalyst",
+    "name": "nimbalyst",
+    "owner": "nimbalyst",
+    "type": "github-repo",
+    "source_url": "https://github.com/nimbalyst/nimbalyst",
+    "metric": {
+      "stars": 1740
+    },
+    "description": "Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android.",
+    "topics": [
+      "agentic-ai",
+      "agentic-ide",
+      "ai-agents",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "electron",
+      "ide",
+      "kanban",
+      "markdown-editor",
+      "mcp",
+      "multi-agent-systems",
+      "opencode",
+      "worktree-manager",
+      "wysiwyg-editor"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:yigitkonur/cli-continues",
+    "name": "cli-continues",
+    "owner": "yigitkonur",
+    "type": "github-repo",
+    "source_url": "https://github.com/yigitkonur/cli-continues",
+    "metric": {
+      "stars": 1519
+    },
+    "description": "resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor",
+    "topics": [
+      "ai-coding-assistant",
+      "claude-code",
+      "cli",
+      "context-transfer",
+      "cursor",
+      "gemini-cli",
+      "github-copilot",
+      "session-management"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:awslabs/cli-agent-orchestrator",
+    "name": "cli-agent-orchestrator",
+    "owner": "awslabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/awslabs/cli-agent-orchestrator",
+    "metric": {
+      "stars": 1315
+    },
+    "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding-assistant",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "copilot-cli",
+      "cursor-cli",
+      "developer-tools",
+      "hermes",
+      "kimi-cli",
+      "kiro",
+      "mcp",
+      "model-context-protocol",
+      "multi-agent-systems",
+      "opencode",
+      "orchestration",
+      "python",
+      "tmux"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:withkynam/vibecode-pro-max-kit",
+    "name": "vibecode-pro-max-kit",
+    "owner": "withkynam",
+    "type": "github-repo",
+    "source_url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "metric": {
+      "stars": 1132
+    },
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team, & workflow on autopilot loops with 0 need for human gate. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-development",
+      "ai-workflow",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli-tools",
+      "code-quality",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "llm",
+      "openai",
+      "prompt-engineering",
+      "typescript",
+      "vibe-coding",
+      "vibecoding"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:zhu1090093659/spec_driven_develop",
+    "name": "spec_driven_develop",
+    "owner": "zhu1090093659",
+    "type": "github-repo",
+    "source_url": "https://github.com/zhu1090093659/spec_driven_develop",
+    "metric": {
+      "stars": 977
+    },
+    "description": "Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.",
+    "topics": [
+      "ai-agent",
+      "ai-assisted-development",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "cursor",
+      "dev-workflow",
+      "developer-tools",
+      "engineering-cybernetics",
+      "github-issues",
+      "llm",
+      "markdown",
+      "project-planning",
+      "prompt-engineering",
+      "skills",
+      "software-architecture",
+      "software-engineering",
+      "spec-driven-development",
+      "structured-thinking",
+      "task-decomposition"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:LING71671/Open-ClaudeCode",
+    "name": "Open-ClaudeCode",
+    "owner": "LING71671",
+    "type": "github-repo",
+    "source_url": "https://github.com/LING71671/Open-ClaudeCode",
+    "metric": {
+      "stars": 954
+    },
+    "description": "Research archive of Claude Code source and runtime artifacts reconstructed from published npm source maps.",
+    "topics": [
+      "ai-coding-assistant",
+      "anthropic",
+      "claude-code",
+      "developer-tools",
+      "research",
+      "reverse-engineering",
+      "source-maps",
+      "typescript"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:asheshgoplani/agent-deck",
+    "name": "agent-deck",
+    "owner": "asheshgoplani",
+    "type": "github-repo",
+    "source_url": "https://github.com/asheshgoplani/agent-deck",
+    "metric": {
+      "stars": 920
+    },
+    "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-coding-assistant",
+      "aider",
+      "bubble-tea",
+      "claude-code",
+      "cli",
+      "codex",
+      "developer-tools",
+      "discord",
+      "gemini-cli",
+      "golang",
+      "mcp",
+      "productivity",
+      "session-manager",
+      "terminal",
+      "tmux",
+      "tui"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:Natfii/UnrealClaude",
+    "name": "UnrealClaude",
+    "owner": "Natfii",
+    "type": "github-repo",
+    "source_url": "https://github.com/Natfii/UnrealClaude",
+    "metric": {
+      "stars": 906
+    },
+    "description": "Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.",
+    "topics": [
+      "ai",
+      "ai-coding-assistant",
+      "ai-game-development",
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cpp",
+      "editor-plugin",
+      "game-development",
+      "gamedev",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "ue5",
+      "unreal-engine",
+      "unreal-engine-5",
+      "unreal-engine-plugin"
+    ],
+    "license": null,
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:swapperfinance/swapper-toolkit",
+    "name": "swapper-toolkit",
+    "owner": "swapperfinance",
+    "type": "github-repo",
+    "source_url": "https://github.com/swapperfinance/swapper-toolkit",
+    "metric": {
+      "stars": 850
+    },
+    "description": "DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.",
+    "topics": [
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-coding-assistant",
+      "autogpt",
+      "autonomous-agents",
+      "blockchain",
+      "claude-code",
+      "copilot",
+      "crewai",
+      "crypto",
+      "cursor",
+      "defi",
+      "dex",
+      "langchain",
+      "openclaw",
+      "token-swap",
+      "trading",
+      "wallet",
+      "web3",
+      "windsurf"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:23blocks-OS/ai-maestro",
+    "name": "ai-maestro",
+    "owner": "23blocks-OS",
+    "type": "github-repo",
+    "source_url": "https://github.com/23blocks-OS/ai-maestro",
+    "metric": {
+      "stars": 789
+    },
+    "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations",
+    "topics": [
+      "agent-communication",
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-memory",
+      "ai-orchestration",
+      "ai-workforce",
+      "autonomous-agents",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-code-skills",
+      "clawdbot",
+      "code-graph",
+      "developer-tools",
+      "multi-agent-systems",
+      "openclaw",
+      "pair-programming",
+      "plugin-builder",
+      "tmux"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:zhinkgit/embeddedskills",
+    "name": "embeddedskills",
+    "owner": "zhinkgit",
+    "type": "github-repo",
+    "source_url": "https://github.com/zhinkgit/embeddedskills",
+    "metric": {
+      "stars": 686
+    },
+    "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
+    "topics": [
+      "ai-coding-assistant",
+      "automation",
+      "can-bus",
+      "can-fd",
+      "debugging",
+      "devtools",
+      "embedded",
+      "embedded-development",
+      "firmware",
+      "gcc",
+      "gdb",
+      "hardware-verification",
+      "jlink",
+      "keil",
+      "openocd",
+      "serial",
+      "skill-protocol",
+      "toolchain",
+      "workflow"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:ningbainb/deepseek-harness-desktop",
+    "name": "deepseek-harness-desktop",
+    "owner": "ningbainb",
+    "type": "github-repo",
+    "source_url": "https://github.com/ningbainb/deepseek-harness-desktop",
+    "metric": {
+      "stars": 621
+    },
+    "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
+    "topics": [
+      "ai-agent",
+      "ai-coding-assistant",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "desktop-app",
+      "dsh",
+      "dsh-plugin",
+      "electron",
+      "electron-app",
+      "gui",
+      "open-source",
+      "plugin-system",
+      "plugins",
+      "remote-access",
+      "skills",
+      "ssh-client",
+      "windows",
+      "windows-desktop"
+    ],
+    "license": "BSD-3-Clause",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:f/agentlytics",
+    "name": "agentlytics",
+    "owner": "f",
+    "type": "github-repo",
+    "source_url": "https://github.com/f/agentlytics",
+    "metric": {
+      "stars": 580
+    },
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code",
+    "topics": [
+      "agentlytics",
+      "ai-coding-assistant",
+      "analytics",
+      "claude-code",
+      "cursor",
+      "dashboard",
+      "local-first",
+      "macos",
+      "nodejs",
+      "opencode",
+      "react",
+      "sqlite",
+      "vscode-copilot",
+      "windsurf",
+      "zed"
+    ],
+    "license": null,
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:oliver-kriska/claude-elixir-phoenix",
+    "name": "claude-elixir-phoenix",
+    "owner": "oliver-kriska",
+    "type": "github-repo",
+    "source_url": "https://github.com/oliver-kriska/claude-elixir-phoenix",
+    "metric": {
+      "stars": 555
+    },
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge.",
+    "topics": [
+      "ai-agents",
+      "ai-coding-assistant",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skills",
+      "code-review",
+      "developer-tools",
+      "ecto",
+      "elixir",
+      "elixir-lang",
+      "elixir-phoenix",
+      "liveview",
+      "oban",
+      "phoenix",
+      "phoenix-framework",
+      "tidewave",
+      "vibe-coding"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:Hainrixz/the-architect",
+    "name": "the-architect",
+    "owner": "Hainrixz",
+    "type": "github-repo",
+    "source_url": "https://github.com/Hainrixz/the-architect",
+    "metric": {
+      "stars": 505
+    },
+    "description": "A Claude Code plugin that interviews you, designs the whole architecture, and writes a self-contained blueprint another Claude Code instance builds from with zero context — EARS acceptance criteria and a runnable verify command on every build step. 14 project shapes, greenfield and brownfield. EN/ES.",
+    "topics": [
+      "agentic-coding",
+      "ai-agent",
+      "ai-coding-assistant",
+      "anthropic",
+      "automation",
+      "blueprint",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "developer-tools",
+      "meta-agent",
+      "saas",
+      "software-architecture",
+      "spec-driven-development",
+      "technical-specification"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:zhikunqingtao/zhikuncode",
+    "name": "zhikuncode",
+    "owner": "zhikunqingtao",
+    "type": "github-repo",
+    "source_url": "https://github.com/zhikunqingtao/zhikuncode",
+    "metric": {
+      "stars": 495
+    },
+    "description": "Codex/Claude Code/Cursor的开源增强版，专注一句话实现复杂长程任务（教育、编程、办公、生活、娱乐、游戏）。部署在你自己的服务器上，团队用浏览器打开就能编程——包括手机。CLI & Web UI 双入口，Multi-Agent 协作，原生直连千问/DeepSeek 等国产大模型。技能/插件/跨会话记忆，8 层安全沙箱，数据不离开你的机器。Docker 一键部署，MIT 开源，零锁定。",
+    "topics": [
+      "ai-coding-assistant",
+      "chinese-llm",
+      "docker",
+      "llm",
+      "multi-agent",
+      "open-source",
+      "self-hosted",
+      "web-ui"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:clawplays/ospec",
+    "name": "ospec",
+    "owner": "clawplays",
+    "type": "github-repo",
+    "source_url": "https://github.com/clawplays/ospec",
+    "metric": {
+      "stars": 488
+    },
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop — plan, act, verify — with durable specs and evidence in your repo. Works with Claude Code, Codex, Gemini, OpenCode, and plain CLI.",
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "ai",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-workflow",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "loop-engineering",
+      "mcp",
+      "model-context-protocol",
+      "prompt-engineering",
+      "sdd",
+      "spec-driven-development"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:ZYKJShadow/Async",
+    "name": "Async",
+    "owner": "ZYKJShadow",
+    "type": "github-repo",
+    "source_url": "https://github.com/ZYKJShadow/Async",
+    "metric": {
+      "stars": 479
+    },
+    "description": "IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.",
+    "topics": [
+      "ai-coding-assistant",
+      "ai-development-tools",
+      "code-editor",
+      "cursor-alternative",
+      "electron",
+      "llm",
+      "reactjs",
+      "typescript"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:razzant/claudexor",
+    "name": "claudexor",
+    "owner": "razzant",
+    "type": "github-repo",
+    "source_url": "https://github.com/razzant/claudexor",
+    "metric": {
+      "stars": 471
+    },
+    "description": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding",
+      "ai-coding-assistant",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "codex-cli",
+      "coding-agent",
+      "cursor-agent",
+      "cursor-ai",
+      "developer-tools",
+      "local-first",
+      "macos",
+      "mcp",
+      "mcp-server",
+      "multi-account",
+      "multi-agent",
+      "opencode"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:mixpeek/amux",
+    "name": "amux",
+    "owner": "mixpeek",
+    "type": "github-repo",
+    "source_url": "https://github.com/mixpeek/amux",
+    "metric": {
+      "stars": 461
+    },
+    "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding-assistant",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "control-plane",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "orchestration",
+      "rust",
+      "self-healing",
+      "self-hosted",
+      "tmux"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:Nayjest/Gito",
+    "name": "Gito",
+    "owner": "Nayjest",
+    "type": "github-repo",
+    "source_url": "https://github.com/Nayjest/Gito",
+    "metric": {
+      "stars": 433
+    },
+    "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
+    "topics": [
+      "ai",
+      "ai-code-analysis",
+      "ai-code-review",
+      "ai-code-reviewer",
+      "ai-coding",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "code-analysis",
+      "code-audit",
+      "code-quality",
+      "code-review",
+      "codereview",
+      "developer-tools",
+      "github",
+      "github-actions",
+      "github-copilot",
+      "llm",
+      "python",
+      "software-engineering",
+      "static-analysis"
+    ],
+    "license": "MIT",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "name": "building-a-coding-agent-from-scratch-course",
+    "owner": "decodingai-magazine",
+    "type": "github-repo",
+    "source_url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "metric": {
+      "stars": 432
+    },
+    "description": "From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "ai-coding-assistant",
+      "course",
+      "curated-list",
+      "programming-examples"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:mlhher/late-cli",
+    "name": "late-cli",
+    "owner": "mlhher",
+    "type": "github-repo",
+    "source_url": "https://github.com/mlhher/late-cli",
+    "metric": {
+      "stars": 430
+    },
+    "description": "High-performance AI agent for long-horizon tasks. Built on empirical research. 200k+ tokens of work inside a 64k context window.",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "ai-coding-assistant",
+      "ai-skills",
+      "autonomous-agents",
+      "claude-code",
+      "coding-agent",
+      "deepseek",
+      "glm",
+      "harness",
+      "kimi",
+      "llm",
+      "llm-orchestration",
+      "local-ai",
+      "local-llm",
+      "long-horizon",
+      "long-horizon-agents",
+      "mcp",
+      "qwen"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "ai-coding-assistant"
+  },
+  {
+    "id": "github:JohnCrickett/ai-assisted-engineering",
+    "name": "ai-assisted-engineering",
+    "owner": "JohnCrickett",
+    "type": "github-repo",
+    "source_url": "https://github.com/JohnCrickett/ai-assisted-engineering",
+    "metric": {
+      "stars": 427
+    },
+    "description": "A Guide To AI-Assisted Software Engineering",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-coding-agent",
+      "ai-coding-agents",
+      "ai-coding-assistant",
+      "ai-coding-guidelines",
+      "ai-coding-skills",
+      "ai-coding-tools"
+    ],
+    "license": null,
+    "seed_topic": "ai-coding-assistant"
+  }
+]

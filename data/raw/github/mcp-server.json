@@ -1,0 +1,865 @@
+[
+  {
+    "id": "github:n8n-io/n8n",
+    "name": "n8n",
+    "owner": "n8n-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/n8n-io/n8n",
+    "metric": {
+      "stars": 205293
+    },
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "topics": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:google-gemini/gemini-cli",
+    "name": "gemini-cli",
+    "owner": "google-gemini",
+    "type": "github-repo",
+    "source_url": "https://github.com/google-gemini/gemini-cli",
+    "metric": {
+      "stars": 107072
+    },
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "gemini",
+      "gemini-api",
+      "mcp-client",
+      "mcp-server"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:koala73/worldmonitor",
+    "name": "worldmonitor",
+    "owner": "koala73",
+    "type": "github-repo",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "metric": {
+      "stars": 86939
+    },
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "topics": [
+      "agent",
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "mcp",
+      "mcp-server",
+      "monitoring",
+      "news",
+      "opensource",
+      "osint",
+      "palantir",
+      "situation"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:D4Vinci/Scrapling",
+    "name": "Scrapling",
+    "owner": "D4Vinci",
+    "type": "github-repo",
+    "source_url": "https://github.com/D4Vinci/Scrapling",
+    "metric": {
+      "stars": 82189
+    },
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ",
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "license": "BSD-3-Clause",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:ruvnet/ruflo",
+    "name": "ruflo",
+    "owner": "ruvnet",
+    "type": "github-repo",
+    "source_url": "https://github.com/ruvnet/ruflo",
+    "metric": {
+      "stars": 72805
+    },
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai-agents",
+      "ai-assistant",
+      "ai-skills",
+      "autonomous-agents",
+      "claude-code",
+      "codex",
+      "dsh-plugin",
+      "harness",
+      "mcp-server",
+      "multi-agent",
+      "multi-agent-systems",
+      "npm",
+      "skills",
+      "swarm",
+      "swarm-intelligence",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:sansan0/TrendRadar",
+    "name": "TrendRadar",
+    "owner": "sansan0",
+    "type": "github-repo",
+    "source_url": "https://github.com/sansan0/TrendRadar",
+    "metric": {
+      "stars": 62394
+    },
+    "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:upstash/context7",
+    "name": "context7",
+    "owner": "upstash",
+    "type": "github-repo",
+    "source_url": "https://github.com/upstash/context7",
+    "metric": {
+      "stars": 62178
+    },
+    "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "topics": [
+      "llm",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:ChromeDevTools/chrome-devtools-mcp",
+    "name": "chrome-devtools-mcp",
+    "owner": "ChromeDevTools",
+    "type": "github-repo",
+    "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "metric": {
+      "stars": 52283
+    },
+    "description": "Chrome DevTools for coding agents",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:DeusData/codebase-memory-mcp",
+    "name": "codebase-memory-mcp",
+    "owner": "DeusData",
+    "type": "github-repo",
+    "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+    "metric": {
+      "stars": 43773
+    },
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "topics": [
+      "aider",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-intelligence",
+      "codex",
+      "cursor",
+      "cypher",
+      "developer-tools",
+      "gemini-cli",
+      "graph-visualization",
+      "kilocode",
+      "knowledge-graph",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "opencode",
+      "sqlite",
+      "tree-sitter",
+      "windsurf"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:reactive-resume/reactive-resume",
+    "name": "reactive-resume",
+    "owner": "reactive-resume",
+    "type": "github-repo",
+    "source_url": "https://github.com/reactive-resume/reactive-resume",
+    "metric": {
+      "stars": 43169
+    },
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "dsh-plugin",
+      "hacktoberfest",
+      "javascript",
+      "mcp-server",
+      "react",
+      "resume-builder",
+      "self-hosted",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:bytedance/UI-TARS-desktop",
+    "name": "UI-TARS-desktop",
+    "owner": "bytedance",
+    "type": "github-repo",
+    "source_url": "https://github.com/bytedance/UI-TARS-desktop",
+    "metric": {
+      "stars": 39045
+    },
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "topics": [
+      "agent",
+      "agent-tars",
+      "browser-use",
+      "computer-use",
+      "cowork",
+      "gui-agent",
+      "gui-operator",
+      "mcp",
+      "mcp-server",
+      "multimodal",
+      "tars",
+      "ui-tars",
+      "vision",
+      "vlm"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:github/github-mcp-server",
+    "name": "github-mcp-server",
+    "owner": "github",
+    "type": "github-repo",
+    "source_url": "https://github.com/github/github-mcp-server",
+    "metric": {
+      "stars": 33043
+    },
+    "description": "GitHub's official MCP Server",
+    "topics": [
+      "github",
+      "mcp",
+      "mcp-server"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:oraios/serena",
+    "name": "serena",
+    "owner": "oraios",
+    "type": "github-repo",
+    "source_url": "https://github.com/oraios/serena",
+    "metric": {
+      "stars": 29586
+    },
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server",
+      "programming",
+      "vibe-coding"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:assafelovic/gpt-researcher",
+    "name": "gpt-researcher",
+    "owner": "assafelovic",
+    "type": "github-repo",
+    "source_url": "https://github.com/assafelovic/gpt-researcher",
+    "metric": {
+      "stars": 29517
+    },
+    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "topics": [
+      "agent",
+      "ai",
+      "automation",
+      "deepresearch",
+      "llms",
+      "mcp",
+      "mcp-server",
+      "python",
+      "research",
+      "search",
+      "webscraping"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:activepieces/activepieces",
+    "name": "activepieces",
+    "owner": "activepieces",
+    "type": "github-repo",
+    "source_url": "https://github.com/activepieces/activepieces",
+    "metric": {
+      "stars": 24544
+    },
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "topics": [
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-framework",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "mcps",
+      "n8n-alternative",
+      "no-code-automation",
+      "workflow",
+      "workflow-automation",
+      "workflows"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:modelcontextprotocol/python-sdk",
+    "name": "python-sdk",
+    "owner": "modelcontextprotocol",
+    "type": "github-repo",
+    "source_url": "https://github.com/modelcontextprotocol/python-sdk",
+    "metric": {
+      "stars": 24335
+    },
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "topics": [
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "python"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:pascalorg/editor",
+    "name": "editor",
+    "owner": "pascalorg",
+    "type": "github-repo",
+    "source_url": "https://github.com/pascalorg/editor",
+    "metric": {
+      "stars": 24105
+    },
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "topics": [
+      "3d",
+      "agent-skills",
+      "ai-agents",
+      "architecture",
+      "bim",
+      "cad",
+      "editor",
+      "floorplan",
+      "gemini-cli-extension",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nextjs",
+      "parametric-design",
+      "react-three-fiber",
+      "threejs",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:mksglu/context-mode",
+    "name": "context-mode",
+    "owner": "mksglu",
+    "type": "github-repo",
+    "source_url": "https://github.com/mksglu/context-mode",
+    "metric": {
+      "stars": 23546
+    },
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+    "topics": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:czlonkowski/n8n-mcp",
+    "name": "n8n-mcp",
+    "owner": "czlonkowski",
+    "type": "github-repo",
+    "source_url": "https://github.com/czlonkowski/n8n-mcp",
+    "metric": {
+      "stars": 22942
+    },
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "workflows"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:1Panel-dev/MaxKB",
+    "name": "MaxKB",
+    "owner": "1Panel-dev",
+    "type": "github-repo",
+    "source_url": "https://github.com/1Panel-dev/MaxKB",
+    "metric": {
+      "stars": 22838
+    },
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "chatbot",
+      "deepseek-r1",
+      "knowledgebase",
+      "langchain",
+      "llama3",
+      "llm",
+      "maxkb",
+      "mcp-server",
+      "ollama",
+      "pgvector",
+      "qwen3",
+      "rag"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:modelscope/FunASR",
+    "name": "FunASR",
+    "owner": "modelscope",
+    "type": "github-repo",
+    "source_url": "https://github.com/modelscope/FunASR",
+    "metric": {
+      "stars": 20417
+    },
+    "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
+    "topics": [
+      "asr",
+      "audio",
+      "chinese",
+      "emotion-recognition",
+      "funasr",
+      "mcp-server",
+      "multilingual-asr",
+      "openai-compatible-api",
+      "paraformer",
+      "punctuation",
+      "pytorch",
+      "real-time-asr",
+      "speaker-diarization",
+      "speech-recognition",
+      "speech-to-text",
+      "streaming-asr",
+      "transcription",
+      "vllm",
+      "voice-activity-detection",
+      "whisper-alternative"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:Evil0ctal/Douyin_TikTok_Download_API",
+    "name": "Douyin_TikTok_Download_API",
+    "owner": "Evil0ctal",
+    "type": "github-repo",
+    "source_url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "metric": {
+      "stars": 20183
+    },
+    "description": "🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。",
+    "topics": [
+      "asyncio",
+      "crawler",
+      "data-collection",
+      "douyin",
+      "douyin-api",
+      "downloader",
+      "fastapi",
+      "mcp-server",
+      "model-context-protocol",
+      "openapi",
+      "rest-api",
+      "scraper",
+      "social-media",
+      "spider",
+      "tiktok",
+      "tiktok-api",
+      "tiktok-downloader",
+      "tiktok-scraper",
+      "video-downloader",
+      "web-scraping"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:nukeop/nuclear",
+    "name": "nuclear",
+    "owner": "nukeop",
+    "type": "github-repo",
+    "source_url": "https://github.com/nukeop/nuclear",
+    "metric": {
+      "stars": 18475
+    },
+    "description": "Streaming music player that finds free music for you",
+    "topics": [
+      "agent",
+      "ai",
+      "desktop-app",
+      "linux",
+      "mac",
+      "mcp",
+      "mcp-server",
+      "music",
+      "music-player",
+      "react",
+      "rust",
+      "spotify",
+      "streaming",
+      "tauri",
+      "typescript",
+      "windows"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:microsoft/mcp-for-beginners",
+    "name": "mcp-for-beginners",
+    "owner": "microsoft",
+    "type": "github-repo",
+    "source_url": "https://github.com/microsoft/mcp-for-beginners",
+    "metric": {
+      "stars": 17246
+    },
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "topics": [
+      "csharp",
+      "java",
+      "javascript",
+      "javascript-applications",
+      "mcp",
+      "mcp-client",
+      "mcp-security",
+      "mcp-server",
+      "model",
+      "model-context-protocol",
+      "modelcontextprotocol",
+      "python",
+      "rust",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:triggerdotdev/trigger.dev",
+    "name": "trigger.dev",
+    "owner": "triggerdotdev",
+    "type": "github-repo",
+    "source_url": "https://github.com/triggerdotdev/trigger.dev",
+    "metric": {
+      "stars": 16338
+    },
+    "description": "Trigger.dev – build and deploy durable AI agents and workflows",
+    "topics": [
+      "ai",
+      "ai-agent-framework",
+      "ai-agents",
+      "automation",
+      "background-jobs",
+      "mcp",
+      "mcp-server",
+      "nextjs",
+      "orchestration",
+      "scheduler",
+      "serverless",
+      "workflow-automation",
+      "workflows"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:wanshuiyin/Auto-claude-code-research-in-sleep",
+    "name": "Auto-claude-code-research-in-sleep",
+    "owner": "wanshuiyin",
+    "type": "github-repo",
+    "source_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "metric": {
+      "stars": 16328
+    },
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "topics": [
+      "ai-research",
+      "ai-tools",
+      "aris",
+      "autonomous-agent",
+      "claude",
+      "claude-code",
+      "claude-code-skills",
+      "codex",
+      "deep-learning",
+      "gpt",
+      "idea-generation",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "ml-research",
+      "openai",
+      "paper-review",
+      "paper-writing",
+      "research-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:budtmo/docker-android",
+    "name": "docker-android",
+    "owner": "budtmo",
+    "type": "github-repo",
+    "source_url": "https://github.com/budtmo/docker-android",
+    "metric": {
+      "stars": 15866
+    },
+    "description": "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent",
+    "topics": [
+      "ai-agent",
+      "android",
+      "android-emulator",
+      "aws",
+      "azure",
+      "cloud",
+      "docker",
+      "docker-android",
+      "emulator",
+      "gcp",
+      "genymotion",
+      "jenkins",
+      "kubernetes",
+      "mcp",
+      "mcp-server",
+      "mobile-app",
+      "mobile-web",
+      "novnc",
+      "selenium"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:xpzouying/xiaohongshu-mcp",
+    "name": "xiaohongshu-mcp",
+    "owner": "xpzouying",
+    "type": "github-repo",
+    "source_url": "https://github.com/xpzouying/xiaohongshu-mcp",
+    "metric": {
+      "stars": 15861
+    },
+    "description": "MCP for xiaohongshu.com",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "xiaohongshu-mcp"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:open-metadata/OpenMetadata",
+    "name": "OpenMetadata",
+    "owner": "open-metadata",
+    "type": "github-repo",
+    "source_url": "https://github.com/open-metadata/OpenMetadata",
+    "metric": {
+      "stars": 15255
+    },
+    "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+    "topics": [
+      "context",
+      "context-layer",
+      "data-catalog",
+      "data-collaboration",
+      "data-contracts",
+      "data-discovery",
+      "data-governance",
+      "data-lineage",
+      "data-observability",
+      "data-profiling",
+      "data-quality",
+      "datadiscovery",
+      "dataquality",
+      "mcp",
+      "mcp-server",
+      "metadata",
+      "metadata-management",
+      "ontologies",
+      "ontologies-api",
+      "semantics"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "mcp-server"
+  },
+  {
+    "id": "github:yusufkaraaslan/Skill_Seekers",
+    "name": "Skill_Seekers",
+    "owner": "yusufkaraaslan",
+    "type": "github-repo",
+    "source_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "metric": {
+      "stars": 15002
+    },
+    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "topics": [
+      "ai-tools",
+      "ast-parser",
+      "automation",
+      "claude-ai",
+      "claude-skills",
+      "code-analysis",
+      "conflict-detection",
+      "documentation",
+      "documentation-generator",
+      "github",
+      "github-scraper",
+      "mcp",
+      "mcp-server",
+      "multi-source",
+      "ocr",
+      "pdf",
+      "python",
+      "web-scraping"
+    ],
+    "license": "MIT",
+    "seed_topic": "mcp-server"
+  }
+]

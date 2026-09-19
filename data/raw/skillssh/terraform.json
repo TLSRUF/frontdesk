@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:wshobson/agents@terraform-module-library",
+    "name": "wshobson/agents@terraform-module-library",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/terraform-module-library",
+    "metric": {
+      "installs": 14400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@terraform-module-library",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:hashicorp/agent-skills@terraform-style-guide",
+    "name": "hashicorp/agent-skills@terraform-style-guide",
+    "type": "skill",
+    "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-style-guide",
+    "metric": {
+      "installs": 11100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add hashicorp/agent-skills@terraform-style-guide",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@terraform-azurerm-set-diff-analyzer",
+    "name": "github/awesome-copilot@terraform-azurerm-set-diff-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/terraform-azurerm-set-diff-analyzer",
+    "metric": {
+      "installs": 8900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@terraform-azurerm-set-diff-analyzer",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-generator",
+    "metric": {
+      "installs": 8900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-installer",
+    "metric": {
+      "installs": 8900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:hashicorp/agent-skills@terraform-test",
+    "name": "hashicorp/agent-skills@terraform-test",
+    "type": "skill",
+    "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-test",
+    "metric": {
+      "installs": 7800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add hashicorp/agent-skills@terraform-test",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:antonbabenko/terraform-skill@terraform-skill",
+    "name": "antonbabenko/terraform-skill@terraform-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/antonbabenko/terraform-skill/terraform-skill",
+    "metric": {
+      "installs": 6200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add antonbabenko/terraform-skill@terraform-skill",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:hashicorp/agent-skills@terraform-stacks",
+    "name": "hashicorp/agent-skills@terraform-stacks",
+    "type": "skill",
+    "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-stacks",
+    "metric": {
+      "installs": 5200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add hashicorp/agent-skills@terraform-stacks",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:jeffallan/claude-skills@terraform-engineer",
+    "name": "jeffallan/claude-skills@terraform-engineer",
+    "type": "skill",
+    "source_url": "https://skills.sh/jeffallan/claude-skills/terraform-engineer",
+    "metric": {
+      "installs": 4800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jeffallan/claude-skills@terraform-engineer",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:hashicorp/agent-skills@terraform-search-import",
+    "name": "hashicorp/agent-skills@terraform-search-import",
+    "type": "skill",
+    "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-search-import",
+    "metric": {
+      "installs": 4400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add hashicorp/agent-skills@terraform-search-import",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:hashicorp/agent-skills@new-terraform-provider",
+    "name": "hashicorp/agent-skills@new-terraform-provider",
+    "type": "skill",
+    "source_url": "https://skills.sh/hashicorp/agent-skills/new-terraform-provider",
+    "metric": {
+      "installs": 3500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add hashicorp/agent-skills@new-terraform-provider",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:hashicorp/agent-skills@terraform-policy",
+    "name": "hashicorp/agent-skills@terraform-policy",
+    "type": "skill",
+    "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-policy",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add hashicorp/agent-skills@terraform-policy",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:pulumi/agent-skills@pulumi-terraform-to-pulumi",
+    "name": "pulumi/agent-skills@pulumi-terraform-to-pulumi",
+    "type": "skill",
+    "source_url": "https://skills.sh/pulumi/agent-skills/pulumi-terraform-to-pulumi",
+    "metric": {
+      "installs": 910
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pulumi/agent-skills@pulumi-terraform-to-pulumi",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@terraform-infrastructure",
+    "name": "aj-geddes/useful-ai-prompts@terraform-infrastructure",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/terraform-infrastructure",
+    "metric": {
+      "installs": 776
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@terraform-infrastructure",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:eraserlabs/eraser-io@terraform-diagrams",
+    "name": "eraserlabs/eraser-io@terraform-diagrams",
+    "type": "skill",
+    "source_url": "https://skills.sh/eraserlabs/eraser-io/terraform-diagrams",
+    "metric": {
+      "installs": 704
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add eraserlabs/eraser-io@terraform-diagrams",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:mindrally/skills@terraform",
+    "name": "mindrally/skills@terraform",
+    "type": "skill",
+    "source_url": "https://skills.sh/mindrally/skills/terraform",
+    "metric": {
+      "installs": 665
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mindrally/skills@terraform",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:daymade/claude-code-skills@terraform-skill",
+    "name": "daymade/claude-code-skills@terraform-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/daymade/claude-code-skills/terraform-skill",
+    "metric": {
+      "installs": 618
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add daymade/claude-code-skills@terraform-skill",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@terraform-patterns",
+    "name": "alirezarezvani/claude-skills@terraform-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/terraform-patterns",
+    "metric": {
+      "installs": 614
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@terraform-patterns",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:bobmatnyc/claude-mpm-skills@terraform",
+    "name": "bobmatnyc/claude-mpm-skills@terraform",
+    "type": "skill",
+    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/terraform",
+    "metric": {
+      "installs": 291
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bobmatnyc/claude-mpm-skills@terraform",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:nvidia/skillspector@terraform-deployer",
+    "name": "nvidia/skillspector@terraform-deployer",
+    "type": "skill",
+    "source_url": "https://skills.sh/nvidia/skillspector/terraform-deployer",
+    "metric": {
+      "installs": 196
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nvidia/skillspector@terraform-deployer",
+    "seed_keyword": "terraform"
+  }
+]

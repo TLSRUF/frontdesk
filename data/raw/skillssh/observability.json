@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:google/agents-cli@google-agents-cli-observability",
+    "name": "google/agents-cli@google-agents-cli-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
+    "metric": {
+      "installs": 264800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add google/agents-cli@google-agents-cli-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:microsoft/azure-skills@azure-observability",
+    "name": "microsoft/azure-skills@azure-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoft/azure-skills/azure-observability",
+    "metric": {
+      "installs": 98300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoft/azure-skills@azure-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:samber/cc-skills-golang@golang-observability",
+    "name": "samber/cc-skills-golang@golang-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-observability",
+    "metric": {
+      "installs": 38300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills-golang@golang-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:addyosmani/agent-skills@observability-and-instrumentation",
+    "name": "addyosmani/agent-skills@observability-and-instrumentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/agent-skills/observability-and-instrumentation",
+    "metric": {
+      "installs": 30000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/agent-skills@observability-and-instrumentation",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:wshobson/agents@python-observability",
+    "name": "wshobson/agents@python-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/python-observability",
+    "metric": {
+      "installs": 10400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@python-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:google/skills@google-cloud-networking-observability",
+    "name": "google/skills@google-cloud-networking-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/google/skills/google-cloud-networking-observability",
+    "metric": {
+      "installs": 9800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add google/skills@google-cloud-networking-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:wshobson/agents@service-mesh-observability",
+    "name": "wshobson/agents@service-mesh-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/service-mesh-observability",
+    "metric": {
+      "installs": 9400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@service-mesh-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:aws/agent-toolkit-for-aws@aws-observability",
+    "name": "aws/agent-toolkit-for-aws@aws-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/aws/agent-toolkit-for-aws/aws-observability",
+    "metric": {
+      "installs": 7800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aws/agent-toolkit-for-aws@aws-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:google/skills@gke-observability",
+    "name": "google/skills@gke-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/google/skills/gke-observability",
+    "metric": {
+      "installs": 4800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add google/skills@gke-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:getcargohq/cargo-skills@cargo-observability",
+    "name": "getcargohq/cargo-skills@cargo-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/getcargohq/cargo-skills/cargo-observability",
+    "metric": {
+      "installs": 3500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add getcargohq/cargo-skills@cargo-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:grafana/skills@app-observability",
+    "name": "grafana/skills@app-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/grafana/skills/app-observability",
+    "metric": {
+      "installs": 3400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add grafana/skills@app-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:assistant-ui/skills@observability",
+    "name": "assistant-ui/skills@observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/assistant-ui/skills/observability",
+    "metric": {
+      "installs": 3300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add assistant-ui/skills@observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:grafana/skills@database-observability",
+    "name": "grafana/skills@database-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/grafana/skills/database-observability",
+    "metric": {
+      "installs": 3300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add grafana/skills@database-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@observability-llm-obs",
+    "name": "elastic/agent-skills@observability-llm-obs",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/observability-llm-obs",
+    "metric": {
+      "installs": 3200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@observability-llm-obs",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@observability-logs-search",
+    "name": "elastic/agent-skills@observability-logs-search",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/observability-logs-search",
+    "metric": {
+      "installs": 3200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@observability-logs-search",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@observability-service-health",
+    "name": "elastic/agent-skills@observability-service-health",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/observability-service-health",
+    "metric": {
+      "installs": 2900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@observability-service-health",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@observability-manage-slos",
+    "name": "elastic/agent-skills@observability-manage-slos",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/observability-manage-slos",
+    "metric": {
+      "installs": 2800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@observability-manage-slos",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@observability-edot-python-instrument",
+    "name": "elastic/agent-skills@observability-edot-python-instrument",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/observability-edot-python-instrument",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@observability-edot-python-instrument",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:elastic/agent-skills@observability-edot-java-instrument",
+    "name": "elastic/agent-skills@observability-edot-java-instrument",
+    "type": "skill",
+    "source_url": "https://skills.sh/elastic/agent-skills/observability-edot-java-instrument",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add elastic/agent-skills@observability-edot-java-instrument",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:redis/agent-skills@redis-observability",
+    "name": "redis/agent-skills@redis-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/redis/agent-skills/redis-observability",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add redis/agent-skills@redis-observability",
+    "seed_keyword": "observability"
+  }
+]

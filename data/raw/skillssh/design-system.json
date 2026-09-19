@@ -1,0 +1,236 @@
+[
+  {
+    "id": "skillssh:arvindrk/extract-design-system@extract-design-system",
+    "name": "arvindrk/extract-design-system@extract-design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/arvindrk/extract-design-system/extract-design-system",
+    "metric": {
+      "installs": 129200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add arvindrk/extract-design-system@extract-design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:wshobson/agents@tailwind-design-system",
+    "name": "wshobson/agents@tailwind-design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/tailwind-design-system",
+    "metric": {
+      "installs": 64600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@tailwind-design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:nextlevelbuilder/ui-ux-pro-max-skill@design-system",
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill@design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/design-system",
+    "metric": {
+      "installs": 29700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nextlevelbuilder/ui-ux-pro-max-skill@design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:wshobson/agents@design-system-patterns",
+    "name": "wshobson/agents@design-system-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/design-system-patterns",
+    "metric": {
+      "installs": 14400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@design-system-patterns",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@design-system",
+    "name": "affaan-m/ecc@design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/design-system",
+    "metric": {
+      "installs": 8600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:expo/skills@expo-design-system",
+    "name": "expo/skills@expo-design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/expo/skills/expo-design-system",
+    "metric": {
+      "installs": 8000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add expo/skills@expo-design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:forcedotcom/sf-skills@design-systems-slds-apply",
+    "name": "forcedotcom/sf-skills@design-systems-slds-apply",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/design-systems-slds-apply",
+    "metric": {
+      "installs": 5500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add forcedotcom/sf-skills@design-systems-slds-apply",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:forcedotcom/sf-skills@design-systems-slds-validate",
+    "name": "forcedotcom/sf-skills@design-systems-slds-validate",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/design-systems-slds-validate",
+    "metric": {
+      "installs": 5500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add forcedotcom/sf-skills@design-systems-slds-validate",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:forcedotcom/sf-skills@design-systems-slds2-migrate",
+    "name": "forcedotcom/sf-skills@design-systems-slds2-migrate",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/design-systems-slds2-migrate",
+    "metric": {
+      "installs": 5300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add forcedotcom/sf-skills@design-systems-slds2-migrate",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:wondelai/skills@system-design",
+    "name": "wondelai/skills@system-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/wondelai/skills/system-design",
+    "metric": {
+      "installs": 5100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wondelai/skills@system-design",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:giuseppe-trisciuoglio/developer-kit@tailwind-design-system",
+    "name": "giuseppe-trisciuoglio/developer-kit@tailwind-design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/tailwind-design-system",
+    "metric": {
+      "installs": 3800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add giuseppe-trisciuoglio/developer-kit@tailwind-design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@design-system",
+    "name": "anthropics/knowledge-work-plugins@design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/design-system",
+    "metric": {
+      "installs": 3700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@design-systems",
+    "name": "refoundai/lenny-skills@design-systems",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/design-systems",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@design-systems",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:buildgreatproducts/builder-os@design-system",
+    "name": "buildgreatproducts/builder-os@design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/buildgreatproducts/builder-os/design-system",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add buildgreatproducts/builder-os@design-system",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:figma/mcp-server-guide@figma-create-design-system-rules",
+    "name": "figma/mcp-server-guide@figma-create-design-system-rules",
+    "type": "skill",
+    "source_url": "https://skills.sh/figma/mcp-server-guide/figma-create-design-system-rules",
+    "metric": {
+      "installs": 1700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add figma/mcp-server-guide@figma-create-design-system-rules",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:owl-listener/designer-skills@design-system-adoption",
+    "name": "owl-listener/designer-skills@design-system-adoption",
+    "type": "skill",
+    "source_url": "https://skills.sh/owl-listener/designer-skills/design-system-adoption",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add owl-listener/designer-skills@design-system-adoption",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:figma/mcp-server-guide@create-design-system-rules",
+    "name": "figma/mcp-server-guide@create-design-system-rules",
+    "type": "skill",
+    "source_url": "https://skills.sh/figma/mcp-server-guide/create-design-system-rules",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add figma/mcp-server-guide@create-design-system-rules",
+    "seed_keyword": "design system"
+  },
+  {
+    "id": "skillssh:jezweb/claude-skills@design-system",
+    "name": "jezweb/claude-skills@design-system",
+    "type": "skill",
+    "source_url": "https://skills.sh/jezweb/claude-skills/design-system",
+    "metric": {
+      "installs": 1000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jezweb/claude-skills@design-system",
+    "seed_keyword": "design system"
+  }
+]

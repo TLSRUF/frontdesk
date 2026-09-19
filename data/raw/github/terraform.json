@@ -1,0 +1,831 @@
+[
+  {
+    "id": "github:bregman-arie/devops-exercises",
+    "name": "devops-exercises",
+    "owner": "bregman-arie",
+    "type": "github-repo",
+    "source_url": "https://github.com/bregman-arie/devops-exercises",
+    "metric": {
+      "stars": 84520
+    },
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "topics": [
+      "ansible",
+      "aws",
+      "azure",
+      "coding",
+      "containers",
+      "devops",
+      "docker",
+      "git",
+      "interview",
+      "interview-questions",
+      "kubernetes",
+      "linux",
+      "openstack",
+      "production-engineer",
+      "prometheus",
+      "python",
+      "sql",
+      "sre",
+      "terraform"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:hashicorp/terraform",
+    "name": "terraform",
+    "owner": "hashicorp",
+    "type": "github-repo",
+    "source_url": "https://github.com/hashicorp/terraform",
+    "metric": {
+      "stars": 49685
+    },
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "topics": [
+      "cloud",
+      "cloud-management",
+      "graph",
+      "infrastructure-as-code",
+      "terraform"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:MichaelCade/90DaysOfDevOps",
+    "name": "90DaysOfDevOps",
+    "owner": "MichaelCade",
+    "type": "github-repo",
+    "source_url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "metric": {
+      "stars": 29759
+    },
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+    "topics": [
+      "ansible",
+      "backup",
+      "containers",
+      "devops",
+      "iac",
+      "kubernetes",
+      "networking",
+      "terraform"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:GoogleCloudPlatform/microservices-demo",
+    "name": "microservices-demo",
+    "owner": "GoogleCloudPlatform",
+    "type": "github-repo",
+    "source_url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "metric": {
+      "stars": 20954
+    },
+    "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "topics": [
+      "gcp",
+      "gke",
+      "google-cloud",
+      "grpc",
+      "istio",
+      "kubernetes",
+      "kustomize",
+      "sample-application",
+      "samples",
+      "skaffold",
+      "terraform"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:mikefarah/yq",
+    "name": "yq",
+    "owner": "mikefarah",
+    "type": "github-repo",
+    "source_url": "https://github.com/mikefarah/yq",
+    "metric": {
+      "stars": 15974
+    },
+    "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor",
+    "topics": [
+      "bash",
+      "cli",
+      "csv",
+      "devops-tools",
+      "golang",
+      "hcl",
+      "json",
+      "portable",
+      "properties",
+      "splat",
+      "terraform",
+      "toml",
+      "xml",
+      "yaml",
+      "yaml-processor"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:coder/coder",
+    "name": "coder",
+    "owner": "coder",
+    "type": "github-repo",
+    "source_url": "https://github.com/coder/coder",
+    "metric": {
+      "stars": 15310
+    },
+    "description": "Secure environments for developers and their agents",
+    "topics": [
+      "agents",
+      "dev-tools",
+      "development-environment",
+      "go",
+      "golang",
+      "ide",
+      "jetbrains",
+      "remote-development",
+      "terraform",
+      "vscode"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:GoogleCloudPlatform/terraformer",
+    "name": "terraformer",
+    "owner": "GoogleCloudPlatform",
+    "type": "github-repo",
+    "source_url": "https://github.com/GoogleCloudPlatform/terraformer",
+    "metric": {
+      "stars": 14551
+    },
+    "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "topics": [
+      "aws",
+      "cloud",
+      "gcp",
+      "golang",
+      "google-cloud",
+      "hcl",
+      "infrastructure-as-code",
+      "kubernetes",
+      "terraform",
+      "terraform-configurations"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:semaphoreui/semaphore",
+    "name": "semaphore",
+    "owner": "semaphoreui",
+    "type": "github-repo",
+    "source_url": "https://github.com/semaphoreui/semaphore",
+    "metric": {
+      "stars": 14155
+    },
+    "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+    "topics": [
+      "ansible",
+      "awx",
+      "ci",
+      "cicd",
+      "devops",
+      "docker",
+      "docker-ui",
+      "go",
+      "golang",
+      "jenkins",
+      "opentofu",
+      "pulumi",
+      "terraform",
+      "terraform-ui",
+      "terragrunt"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:infracost/infracost",
+    "name": "infracost",
+    "owner": "infracost",
+    "type": "github-repo",
+    "source_url": "https://github.com/infracost/infracost",
+    "metric": {
+      "stars": 12523
+    },
+    "description": "Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!",
+    "topics": [
+      "aws",
+      "azure",
+      "cdk",
+      "cloud",
+      "cloud-cost-estimates",
+      "cloud-formation",
+      "cost-estimation",
+      "cost-management",
+      "cost-optimization",
+      "devops",
+      "finops",
+      "gcp",
+      "google",
+      "infrastructure-as-code",
+      "monthly-costs",
+      "terraform",
+      "terraform-cost-estimation"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:hashicorp/terraform-provider-aws",
+    "name": "terraform-provider-aws",
+    "owner": "hashicorp",
+    "type": "github-repo",
+    "source_url": "https://github.com/hashicorp/terraform-provider-aws",
+    "metric": {
+      "stars": 11092
+    },
+    "description": "The AWS Provider enables Terraform to manage AWS resources.",
+    "topics": [
+      "aws",
+      "terraform",
+      "terraform-provider"
+    ],
+    "license": "MPL-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:gruntwork-io/terragrunt",
+    "name": "terragrunt",
+    "owner": "gruntwork-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/gruntwork-io/terragrunt",
+    "metric": {
+      "stars": 9840
+    },
+    "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "topics": [
+      "aws",
+      "cli",
+      "developer-tools",
+      "devops",
+      "opentofu",
+      "terraform"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:khuedoan/homelab",
+    "name": "homelab",
+    "owner": "khuedoan",
+    "type": "github-repo",
+    "source_url": "https://github.com/khuedoan/homelab",
+    "metric": {
+      "stars": 9612
+    },
+    "description": "Fully automated homelab from empty disk to running services with a single command.",
+    "topics": [
+      "ansible",
+      "argocd",
+      "devops",
+      "docker",
+      "fedora",
+      "gitops",
+      "helm",
+      "home-operations",
+      "homelab",
+      "k3s",
+      "k8s-at-home",
+      "kubernetes",
+      "netboot",
+      "pxe",
+      "self-hosting",
+      "terraform"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:Agents365-ai/drawio-skill",
+    "name": "drawio-skill",
+    "owner": "Agents365-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/Agents365-ai/drawio-skill",
+    "metric": {
+      "stars": 9457
+    },
+    "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
+    "topics": [
+      "agent-skills",
+      "architecture",
+      "architecture-diagram",
+      "asyncapi",
+      "bpmn",
+      "c4-model",
+      "claude-code",
+      "diagram",
+      "diagrams-as-code",
+      "drawio",
+      "flowchart",
+      "github-actions",
+      "graphql",
+      "image-to-diagram",
+      "kubernetes",
+      "mcp-server",
+      "protobuf",
+      "sysml",
+      "terraform",
+      "uml"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:runatlantis/atlantis",
+    "name": "atlantis",
+    "owner": "runatlantis",
+    "type": "github-repo",
+    "source_url": "https://github.com/runatlantis/atlantis",
+    "metric": {
+      "stars": 9295
+    },
+    "description": "Terraform Pull Request Automation",
+    "topics": [
+      "atlantis",
+      "automation",
+      "devops",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "sre",
+      "tacos",
+      "terraform"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:openstatusHQ/openstatus",
+    "name": "openstatus",
+    "owner": "openstatusHQ",
+    "type": "github-repo",
+    "source_url": "https://github.com/openstatusHQ/openstatus",
+    "metric": {
+      "stars": 9128
+    },
+    "description": "🫖 Status page with uptime monitoring & API monitoring as code   🫖",
+    "topics": [
+      "alerting",
+      "incident-management",
+      "mcp",
+      "mcp-server",
+      "monitoring",
+      "monitoring-as-code",
+      "observability",
+      "on-call",
+      "open-source",
+      "sre",
+      "status-page",
+      "statuspage",
+      "synthetic-monitoring",
+      "terraform",
+      "tinybird",
+      "turso",
+      "uptime",
+      "uptime-checker",
+      "uptime-monitor"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:bridgecrewio/checkov",
+    "name": "checkov",
+    "owner": "bridgecrewio",
+    "type": "github-repo",
+    "source_url": "https://github.com/bridgecrewio/checkov",
+    "metric": {
+      "stars": 9015
+    },
+    "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+    "topics": [
+      "aws",
+      "aws-security",
+      "azure",
+      "cloudformation",
+      "compliance",
+      "devops",
+      "gcp",
+      "hacktoberfest",
+      "infrastructure-as-code",
+      "kubernetes",
+      "scans",
+      "static-analysis",
+      "terraform"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:HariSekhon/DevOps-Bash-tools",
+    "name": "DevOps-Bash-tools",
+    "owner": "HariSekhon",
+    "type": "github-repo",
+    "source_url": "https://github.com/HariSekhon/DevOps-Bash-tools",
+    "metric": {
+      "stars": 8411
+    },
+    "description": "1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+    "topics": [
+      "api",
+      "aws",
+      "bash",
+      "ci",
+      "cloudera",
+      "devops",
+      "docker",
+      "gcp",
+      "git",
+      "github",
+      "hacktoberfest",
+      "hadoop",
+      "jenkins",
+      "kafka",
+      "kubernetes",
+      "linux",
+      "mysql",
+      "perl",
+      "postgresql",
+      "terraform"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:Orange-Cyberdefense/GOAD",
+    "name": "GOAD",
+    "owner": "Orange-Cyberdefense",
+    "type": "github-repo",
+    "source_url": "https://github.com/Orange-Cyberdefense/GOAD",
+    "metric": {
+      "stars": 8331
+    },
+    "description": "game of active directory",
+    "topics": [
+      "active-directory",
+      "ansible",
+      "infrastructure-as-code",
+      "pentest",
+      "terraform",
+      "vagrant"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:ChristianLempa/boilerplates",
+    "name": "boilerplates",
+    "owner": "ChristianLempa",
+    "type": "github-repo",
+    "source_url": "https://github.com/ChristianLempa/boilerplates",
+    "metric": {
+      "stars": 7969
+    },
+    "description": "Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.",
+    "topics": [
+      "ansible",
+      "bash",
+      "docker",
+      "docker-compose",
+      "docker-swarm",
+      "kubernetes",
+      "packer",
+      "python",
+      "terraform"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:turbot/steampipe",
+    "name": "steampipe",
+    "owner": "turbot",
+    "type": "github-repo",
+    "source_url": "https://github.com/turbot/steampipe",
+    "metric": {
+      "stars": 7956
+    },
+    "description": "Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",
+    "topics": [
+      "aws",
+      "azure",
+      "cis",
+      "cloud",
+      "cnapp",
+      "cspm",
+      "devops",
+      "devsecops",
+      "etl",
+      "gcp",
+      "golang",
+      "hacktoberfest",
+      "kubernetes",
+      "postgresql",
+      "postgresql-fdw",
+      "security",
+      "sqlite",
+      "steampipe",
+      "terraform",
+      "zero-etl"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:gruntwork-io/terratest",
+    "name": "terratest",
+    "owner": "gruntwork-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/gruntwork-io/terratest",
+    "metric": {
+      "stars": 7944
+    },
+    "description": " Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+    "topics": [
+      "aws",
+      "devops",
+      "docker",
+      "golang",
+      "packer",
+      "terraform",
+      "testing",
+      "testing-library"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:aquasecurity/tfsec",
+    "name": "tfsec",
+    "owner": "aquasecurity",
+    "type": "github-repo",
+    "source_url": "https://github.com/aquasecurity/tfsec",
+    "metric": {
+      "stars": 7038
+    },
+    "description": "Tfsec is now part of Trivy",
+    "topics": [
+      "aws",
+      "azure",
+      "ci",
+      "compliance",
+      "devops",
+      "devsecops",
+      "digitalocean",
+      "go",
+      "google-cloud-platform",
+      "hacktoberfest",
+      "infrastructure-as-code",
+      "linter",
+      "misconfiguration",
+      "scanner",
+      "security",
+      "static-analysis",
+      "terraform",
+      "terraform-security",
+      "vulnerability-scanners"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:fullstackhero/dotnet-starter-kit",
+    "name": "dotnet-starter-kit",
+    "owner": "fullstackhero",
+    "type": "github-repo",
+    "source_url": "https://github.com/fullstackhero/dotnet-starter-kit",
+    "metric": {
+      "stars": 6787
+    },
+    "description": "Production Grade Cloud-Ready .NET 10 Starter Kit (Web API + React Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+    "topics": [
+      "aws",
+      "blazor",
+      "boilerplate",
+      "clean-architechture",
+      "clean-architecture",
+      "codewithmukesh",
+      "docker",
+      "dotnet",
+      "dotnet8",
+      "fullstackhero",
+      "modular-monolith",
+      "multitenancy",
+      "starter-kit",
+      "template",
+      "terraform",
+      "vertical-slice-architecture",
+      "webapi"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:shuaibiyy/awesome-tf",
+    "name": "awesome-tf",
+    "owner": "shuaibiyy",
+    "type": "github-repo",
+    "source_url": "https://github.com/shuaibiyy/awesome-tf",
+    "metric": {
+      "stars": 6593
+    },
+    "description": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "devops",
+      "hashicorp-terraform",
+      "infrastructure-as-code",
+      "opentofu",
+      "terraform",
+      "terraform-modules"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:ThreeDotsLabs/wild-workouts-go-ddd-example",
+    "name": "wild-workouts-go-ddd-example",
+    "owner": "ThreeDotsLabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example",
+    "metric": {
+      "stars": 6457
+    },
+    "description": "Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",
+    "topics": [
+      "clean-architecture",
+      "cqrs",
+      "ddd",
+      "firebase",
+      "firestore",
+      "gcp",
+      "go",
+      "golang",
+      "google-cloud",
+      "hexagonal-architecture",
+      "refactoring",
+      "serverless",
+      "terraform"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:cloud-custodian/cloud-custodian",
+    "name": "cloud-custodian",
+    "owner": "cloud-custodian",
+    "type": "github-repo",
+    "source_url": "https://github.com/cloud-custodian/cloud-custodian",
+    "metric": {
+      "stars": 6066
+    },
+    "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "topics": [
+      "aws",
+      "azure",
+      "cloud",
+      "cloud-computing",
+      "compliance",
+      "finops",
+      "gcp",
+      "kubernetes",
+      "management",
+      "oci",
+      "rules-engine",
+      "serverless",
+      "tencent-cloud",
+      "terraform"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:terraform-linters/tflint",
+    "name": "tflint",
+    "owner": "terraform-linters",
+    "type": "github-repo",
+    "source_url": "https://github.com/terraform-linters/tflint",
+    "metric": {
+      "stars": 5817
+    },
+    "description": "A Pluggable Terraform Linter",
+    "topics": [
+      "terraform",
+      "tflint"
+    ],
+    "license": "MPL-2.0",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:dependabot/dependabot-core",
+    "name": "dependabot-core",
+    "owner": "dependabot",
+    "type": "github-repo",
+    "source_url": "https://github.com/dependabot/dependabot-core",
+    "metric": {
+      "stars": 5776
+    },
+    "description": "🤖 Dependabot's core logic for creating update PRs.",
+    "topics": [
+      "dependencies",
+      "docker",
+      "dotnet",
+      "elixir",
+      "elm",
+      "go",
+      "java",
+      "javascript",
+      "php",
+      "pnpm",
+      "python",
+      "ruby",
+      "rubygems",
+      "rust",
+      "terraform"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:hobby-kube/guide",
+    "name": "guide",
+    "owner": "hobby-kube",
+    "type": "github-repo",
+    "source_url": "https://github.com/hobby-kube/guide",
+    "metric": {
+      "stars": 5658
+    },
+    "description": " Kubernetes clusters for the hobbyist.",
+    "topics": [
+      "automation",
+      "cluster",
+      "cost-effective",
+      "devops",
+      "digitalocean",
+      "guide",
+      "hetzner-cloud",
+      "kubernetes",
+      "scaleway",
+      "security",
+      "setup",
+      "small-scale",
+      "terraform"
+    ],
+    "license": "MIT",
+    "seed_topic": "terraform"
+  },
+  {
+    "id": "github:NotHarshhaa/DevOps-Projects",
+    "name": "DevOps-Projects",
+    "owner": "NotHarshhaa",
+    "type": "github-repo",
+    "source_url": "https://github.com/NotHarshhaa/DevOps-Projects",
+    "metric": {
+      "stars": 5226
+    },
+    "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+    "topics": [
+      "aws",
+      "beginner-friendly",
+      "devops",
+      "devops-learning",
+      "devops-poc",
+      "devops-project",
+      "devops-realtime",
+      "devops-tools",
+      "docker",
+      "hands-on-learning",
+      "jenkins",
+      "kubernetes",
+      "learning",
+      "linux",
+      "practical-devops",
+      "projects-list",
+      "realtime-devops-projects",
+      "realtimeprojects",
+      "terraform"
+    ],
+    "license": null,
+    "seed_topic": "terraform"
+  }
+]

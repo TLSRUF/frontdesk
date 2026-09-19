@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:addyosmani/agent-skills@api-and-interface-design",
+    "name": "addyosmani/agent-skills@api-and-interface-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/agent-skills/api-and-interface-design",
+    "metric": {
+      "installs": 36400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/agent-skills@api-and-interface-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:wshobson/agents@api-design-principles",
+    "name": "wshobson/agents@api-design-principles",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/api-design-principles",
+    "metric": {
+      "installs": 28400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@api-design-principles",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:jeffallan/claude-skills@api-designer",
+    "name": "jeffallan/claude-skills@api-designer",
+    "type": "skill",
+    "source_url": "https://skills.sh/jeffallan/claude-skills/api-designer",
+    "metric": {
+      "installs": 5700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jeffallan/claude-skills@api-designer",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:samuraigpt/generative-media-skills@muapi-ui-design",
+    "name": "samuraigpt/generative-media-skills@muapi-ui-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/samuraigpt/generative-media-skills/muapi-ui-design",
+    "metric": {
+      "installs": 2600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samuraigpt/generative-media-skills@muapi-ui-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:dpearson2699/swift-ios-skills@swift-api-design-guidelines",
+    "name": "dpearson2699/swift-ios-skills@swift-api-design-guidelines",
+    "type": "skill",
+    "source_url": "https://skills.sh/dpearson2699/swift-ios-skills/swift-api-design-guidelines",
+    "metric": {
+      "installs": 2400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dpearson2699/swift-ios-skills@swift-api-design-guidelines",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@rest-api-design",
+    "name": "aj-geddes/useful-ai-prompts@rest-api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/rest-api-design",
+    "metric": {
+      "installs": 2000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@rest-api-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:erikote04/swift-api-design-guidelines-agent-skill@swift-api-design-guidelines-skill",
+    "name": "erikote04/swift-api-design-guidelines-agent-skill@swift-api-design-guidelines-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/erikote04/swift-api-design-guidelines-agent-skill/swift-api-design-guidelines-skill",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add erikote04/swift-api-design-guidelines-agent-skill@swift-api-design-guidelines-skill",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@api-design-principles",
+    "name": "sickn33/agentic-awesome-skills@api-design-principles",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/api-design-principles",
+    "metric": {
+      "installs": 1000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@api-design-principles",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@api-design-reviewer",
+    "name": "alirezarezvani/claude-skills@api-design-reviewer",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/api-design-reviewer",
+    "metric": {
+      "installs": 752
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@api-design-reviewer",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:asyrafhussin/agent-skills@api-design-patterns",
+    "name": "asyrafhussin/agent-skills@api-design-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/asyrafhussin/agent-skills/api-design-patterns",
+    "metric": {
+      "installs": 752
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add asyrafhussin/agent-skills@api-design-patterns",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:zhaono1/agent-playbook@api-designer",
+    "name": "zhaono1/agent-playbook@api-designer",
+    "type": "skill",
+    "source_url": "https://skills.sh/zhaono1/agent-playbook/api-designer",
+    "metric": {
+      "installs": 662
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zhaono1/agent-playbook@api-designer",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:samuraigpt/generative-media-skills@muapi-design-guide",
+    "name": "samuraigpt/generative-media-skills@muapi-design-guide",
+    "type": "skill",
+    "source_url": "https://skills.sh/samuraigpt/generative-media-skills/muapi-design-guide",
+    "metric": {
+      "installs": 647
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samuraigpt/generative-media-skills@muapi-design-guide",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:aaronontheweb/dotnet-skills@api-design",
+    "name": "aaronontheweb/dotnet-skills@api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaronontheweb/dotnet-skills/api-design",
+    "metric": {
+      "installs": 602
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaronontheweb/dotnet-skills@api-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:secondsky/claude-skills@rest-api-design",
+    "name": "secondsky/claude-skills@rest-api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/secondsky/claude-skills/rest-api-design",
+    "metric": {
+      "installs": 542
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add secondsky/claude-skills@rest-api-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:bobmatnyc/claude-mpm-skills@api-design-patterns",
+    "name": "bobmatnyc/claude-mpm-skills@api-design-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/api-design-patterns",
+    "metric": {
+      "installs": 530
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bobmatnyc/claude-mpm-skills@api-design-patterns",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:chrisbanes/skills@kotlin-api-design",
+    "name": "chrisbanes/skills@kotlin-api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/chrisbanes/skills/kotlin-api-design",
+    "metric": {
+      "installs": 519
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add chrisbanes/skills@kotlin-api-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:manutej/luxor-claude-marketplace@rest-api-design-patterns",
+    "name": "manutej/luxor-claude-marketplace@rest-api-design-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/manutej/luxor-claude-marketplace/rest-api-design-patterns",
+    "metric": {
+      "installs": 493
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add manutej/luxor-claude-marketplace@rest-api-design-patterns",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:margelo/react-native-skills@api-design",
+    "name": "margelo/react-native-skills@api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/margelo/react-native-skills/api-design",
+    "metric": {
+      "installs": 430
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add margelo/react-native-skills@api-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:akillness/jeo-skills@api-design",
+    "name": "akillness/jeo-skills@api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/akillness/jeo-skills/api-design",
+    "metric": {
+      "installs": 360
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add akillness/jeo-skills@api-design",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:proyecto26/system-design-skills@api-design",
+    "name": "proyecto26/system-design-skills@api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/proyecto26/system-design-skills/api-design",
+    "metric": {
+      "installs": 224
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add proyecto26/system-design-skills@api-design",
+    "seed_keyword": "api design"
+  }
+]

@@ -1,0 +1,846 @@
+[
+  {
+    "id": "github:DietrichGebert/ponytail",
+    "name": "ponytail",
+    "owner": "DietrichGebert",
+    "type": "github-repo",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "metric": {
+      "stars": 142048
+    },
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:thedotmack/claude-mem",
+    "name": "claude-mem",
+    "owner": "thedotmack",
+    "type": "github-repo",
+    "source_url": "https://github.com/thedotmack/claude-mem",
+    "metric": {
+      "stars": 94211
+    },
+    "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:ayghri/i-have-adhd",
+    "name": "i-have-adhd",
+    "owner": "ayghri",
+    "type": "github-repo",
+    "source_url": "https://github.com/ayghri/i-have-adhd",
+    "metric": {
+      "stars": 48078
+    },
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:wshobson/agents",
+    "name": "agents",
+    "owner": "wshobson",
+    "type": "github-repo",
+    "source_url": "https://github.com/wshobson/agents",
+    "metric": {
+      "stars": 39783
+    },
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "anthropic",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-marketplace",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "cursor-rules",
+      "github-copilot",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "pi-coding-agent",
+      "subagents"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:feder-cr/AIHawk",
+    "name": "AIHawk",
+    "owner": "feder-cr",
+    "type": "github-repo",
+    "source_url": "https://github.com/feder-cr/AIHawk",
+    "metric": {
+      "stars": 31593
+    },
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-automation",
+      "autonomous-agents",
+      "browser",
+      "browser-agent",
+      "claude-code-plugin",
+      "computer-use",
+      "gemini-cli-extension",
+      "job-hunting",
+      "job-search",
+      "lead-generation",
+      "llm-agent",
+      "market-research",
+      "price-monitoring",
+      "productivity",
+      "task-automation",
+      "web-agent",
+      "web-automation",
+      "web-research"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:kyegomez/OpenMythos",
+    "name": "OpenMythos",
+    "owner": "kyegomez",
+    "type": "github-repo",
+    "source_url": "https://github.com/kyegomez/OpenMythos",
+    "metric": {
+      "stars": 14902
+    },
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "topics": [
+      "ai",
+      "anthropic",
+      "attention",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-mythos",
+      "claude-sonnet",
+      "deepmind",
+      "gpt-5",
+      "gpt-7",
+      "jax",
+      "looped-transformers",
+      "ml",
+      "pytorch",
+      "sonnet",
+      "torch"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:revfactory/harness",
+    "name": "harness",
+    "owner": "revfactory",
+    "type": "github-repo",
+    "source_url": "https://github.com/revfactory/harness",
+    "metric": {
+      "stars": 9023
+    },
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:tigerless-labs/autoharness",
+    "name": "autoharness",
+    "owner": "tigerless-labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/tigerless-labs/autoharness",
+    "metric": {
+      "stars": 4368
+    },
+    "description": "Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark.",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "llm-agents",
+      "python"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:Manavarya09/design-extract",
+    "name": "design-extract",
+    "owner": "Manavarya09",
+    "type": "github-repo",
+    "source_url": "https://github.com/Manavarya09/design-extract",
+    "metric": {
+      "stars": 4117
+    },
+    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+    "topics": [
+      "accessibility",
+      "agent-skill",
+      "ai",
+      "chrome-extension",
+      "claude-code-plugin",
+      "cli",
+      "css",
+      "cursor",
+      "design-system",
+      "design-to-code",
+      "design-tokens",
+      "dtcg",
+      "figma",
+      "mcp-server",
+      "npx",
+      "playwright",
+      "shadcn-ui",
+      "skills-sh",
+      "tailwind",
+      "web-scraping"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:nyldn/claude-octopus",
+    "name": "claude-octopus",
+    "owner": "nyldn",
+    "type": "github-repo",
+    "source_url": "https://github.com/nyldn/claude-octopus",
+    "metric": {
+      "stars": 4088
+    },
+    "description": "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.",
+    "topics": [
+      "ai-agents",
+      "ai-orchestration",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "copilot",
+      "developer-tools",
+      "double-diamond",
+      "gemini",
+      "multi-ai",
+      "multi-llm",
+      "ollama"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:nowork-studio/notfair-plugin",
+    "name": "notfair-plugin",
+    "owner": "nowork-studio",
+    "type": "github-repo",
+    "source_url": "https://github.com/nowork-studio/notfair-plugin",
+    "metric": {
+      "stars": 3822
+    },
+    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+    "topics": [
+      "agents",
+      "claude-code-plugin",
+      "claude-skills",
+      "gemini-cli-extension",
+      "geo",
+      "googleads",
+      "googleadsmcp",
+      "mcp",
+      "metaads",
+      "seo"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:agenticnotetaking/arscontexta",
+    "name": "arscontexta",
+    "owner": "agenticnotetaking",
+    "type": "github-repo",
+    "source_url": "https://github.com/agenticnotetaking/arscontexta",
+    "metric": {
+      "stars": 3487
+    },
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "knowledge-base",
+      "knowledge-management",
+      "markdown",
+      "second-brain"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:zenbu-labs/terminal-browser",
+    "name": "terminal-browser",
+    "owner": "zenbu-labs",
+    "type": "github-repo",
+    "source_url": "https://github.com/zenbu-labs/terminal-browser",
+    "metric": {
+      "stars": 3108
+    },
+    "description": "A browser inside your terminal",
+    "topics": [
+      "browser",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "cli",
+      "codex",
+      "herdr-plugin",
+      "rust",
+      "terminal",
+      "web"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:rohitg00/pro-workflow",
+    "name": "pro-workflow",
+    "owner": "rohitg00",
+    "type": "github-repo",
+    "source_url": "https://github.com/rohitg00/pro-workflow",
+    "metric": {
+      "stars": 2874
+    },
+    "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding",
+      "ai-workflow",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "context-engineering",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "hooks",
+      "productivity",
+      "self-correction",
+      "workflow",
+      "worktrees"
+    ],
+    "license": null,
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:zilliztech/memsearch",
+    "name": "memsearch",
+    "owner": "zilliztech",
+    "type": "github-repo",
+    "source_url": "https://github.com/zilliztech/memsearch",
+    "metric": {
+      "stars": 2623
+    },
+    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "embeddings",
+      "hybrid-search",
+      "long-term-memory",
+      "memory",
+      "milvus",
+      "openclaw",
+      "opencode",
+      "rag",
+      "semantic-search",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:nateherkai/scroll-craft",
+    "name": "scroll-craft",
+    "owner": "nateherkai",
+    "type": "github-repo",
+    "source_url": "https://github.com/nateherkai/scroll-craft",
+    "metric": {
+      "stars": 2576
+    },
+    "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
+    "topics": [
+      "accessibility",
+      "agent-skills",
+      "ai-web-design",
+      "anthropic",
+      "claude-code",
+      "claude-code-plugin",
+      "creative-coding",
+      "design-system",
+      "frontend",
+      "interaction-design",
+      "landing-page",
+      "scroll-animation",
+      "scrollytelling",
+      "typography",
+      "web-design"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:wondelai/skills",
+    "name": "skills",
+    "owner": "wondelai",
+    "type": "github-repo",
+    "source_url": "https://github.com/wondelai/skills",
+    "metric": {
+      "stars": 2209
+    },
+    "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
+    "topics": [
+      "agent-skills",
+      "ai-skills",
+      "business",
+      "claude-code",
+      "claude-code-marketplace",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-plugins",
+      "claude-skills",
+      "code-quality",
+      "frameworks",
+      "marketing",
+      "product-strategy",
+      "skill-md",
+      "skillsmp",
+      "ux"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:composio-community/awesome-claude-plugins",
+    "name": "awesome-claude-plugins",
+    "owner": "composio-community",
+    "type": "github-repo",
+    "source_url": "https://github.com/composio-community/awesome-claude-plugins",
+    "metric": {
+      "stars": 1970
+    },
+    "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
+    "topics": [
+      "anthropic",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugin-marketplace",
+      "claude-code-plugins",
+      "claude-code-plugins-marketplace",
+      "claude-cowork",
+      "claude-desktop",
+      "claude-plugins",
+      "claude-skills",
+      "plugins"
+    ],
+    "license": null,
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:timescale/pg-aiguide",
+    "name": "pg-aiguide",
+    "owner": "timescale",
+    "type": "github-repo",
+    "source_url": "https://github.com/timescale/pg-aiguide",
+    "metric": {
+      "stars": 1848
+    },
+    "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-plugins-marketplace",
+      "claude-marketplace",
+      "claude-plugin",
+      "claude-skills",
+      "docs",
+      "documentation",
+      "mcp",
+      "mcp-server",
+      "postgres",
+      "postgresql",
+      "skills"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:cbrock84/headcount",
+    "name": "headcount",
+    "owner": "cbrock84",
+    "type": "github-repo",
+    "source_url": "https://github.com/cbrock84/headcount",
+    "metric": {
+      "stars": 1625
+    },
+    "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+    "topics": [
+      "agent-marketplace",
+      "chatgpt-plugin",
+      "chatgpt-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp",
+      "organization"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:activeloopai/hivemind",
+    "name": "hivemind",
+    "owner": "activeloopai",
+    "type": "github-repo",
+    "source_url": "https://github.com/activeloopai/hivemind",
+    "metric": {
+      "stars": 1617
+    },
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "embeddings",
+      "long-term-memory",
+      "memory-engine",
+      "openclaw",
+      "openclaw-skills",
+      "postgres",
+      "rag"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:kenryu42/cc-safety-net",
+    "name": "cc-safety-net",
+    "owner": "kenryu42",
+    "type": "github-repo",
+    "source_url": "https://github.com/kenryu42/cc-safety-net",
+    "metric": {
+      "stars": 1549
+    },
+    "description": "A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot CLI, Grok Build, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.",
+    "topics": [
+      "ai-agents",
+      "ai-safety",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cli",
+      "codex",
+      "codex-cli",
+      "coding-agent",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "guardrails",
+      "hermes-agent",
+      "hooks",
+      "openclaw",
+      "opencode",
+      "pi-extension",
+      "security"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:hyhmrright/brooks-lint",
+    "name": "brooks-lint",
+    "owner": "hyhmrright",
+    "type": "github-repo",
+    "source_url": "https://github.com/hyhmrright/brooks-lint",
+    "metric": {
+      "stars": 1484
+    },
+    "description": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
+    "topics": [
+      "agent-skills",
+      "ai-code-review",
+      "architecture-review",
+      "auto-fix",
+      "claude-code",
+      "claude-code-plugin",
+      "clean-architecture",
+      "code-health",
+      "code-quality",
+      "code-review",
+      "code-smells",
+      "codex-cli-plugin",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh-plugin",
+      "gemini-cli-extension",
+      "refactoring",
+      "static-analysis",
+      "tech-debt",
+      "test-quality"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:nagisanzenin/engram",
+    "name": "engram",
+    "owner": "nagisanzenin",
+    "type": "github-repo",
+    "source_url": "https://github.com/nagisanzenin/engram",
+    "metric": {
+      "stars": 1422
+    },
+    "description": "Evidence-based learning engine — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "education",
+      "fsrs",
+      "learning",
+      "learning-science",
+      "spaced-repetition"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:quemsah/awesome-claude-plugins",
+    "name": "awesome-claude-plugins",
+    "owner": "quemsah",
+    "type": "github-repo",
+    "source_url": "https://github.com/quemsah/awesome-claude-plugins",
+    "metric": {
+      "stars": 1318
+    },
+    "description": "Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows",
+    "topics": [
+      "awesome-list",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "claude-code-plugins-marketplace"
+    ],
+    "license": null,
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:jordanrendric/claude-video-vision",
+    "name": "claude-video-vision",
+    "owner": "jordanrendric",
+    "type": "github-repo",
+    "source_url": "https://github.com/jordanrendric/claude-video-vision",
+    "metric": {
+      "stars": 1314
+    },
+    "description": "Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "ffmpeg",
+      "gemini",
+      "mcp",
+      "mcp-server",
+      "multimodal",
+      "video-analysis",
+      "whisper"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:snflkd/fluent-korean",
+    "name": "fluent-korean",
+    "owner": "snflkd",
+    "type": "github-repo",
+    "source_url": "https://github.com/snflkd/fluent-korean",
+    "metric": {
+      "stars": 1308
+    },
+    "description": "Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean",
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "korean",
+      "korean-language",
+      "llm",
+      "output-style",
+      "prompt-engineering"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:fcakyon/claude-codex-settings",
+    "name": "claude-codex-settings",
+    "owner": "fcakyon",
+    "type": "github-repo",
+    "source_url": "https://github.com/fcakyon/claude-codex-settings",
+    "metric": {
+      "stars": 1147
+    },
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "claudecode",
+      "claudecode-config",
+      "codex",
+      "codex-cli",
+      "commit-message",
+      "cursor",
+      "dokploy",
+      "frontend-design",
+      "gemini-cli",
+      "github",
+      "hetzner",
+      "kimi-k3",
+      "plugin",
+      "pull-requests"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:ccplugins/awesome-claude-code-plugins",
+    "name": "awesome-claude-code-plugins",
+    "owner": "ccplugins",
+    "type": "github-repo",
+    "source_url": "https://github.com/ccplugins/awesome-claude-code-plugins",
+    "metric": {
+      "stars": 946
+    },
+    "description": "Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code",
+    "topics": [
+      "awesome-claude-code",
+      "awesome-list",
+      "awesome-plugins",
+      "awesome-resources",
+      "claude-code",
+      "claude-code-commands",
+      "claude-code-hooks",
+      "claude-code-mcp",
+      "claude-code-plugin",
+      "claude-code-subagents"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "claude-code-plugin"
+  },
+  {
+    "id": "github:SethGammon/Citadel",
+    "name": "Citadel",
+    "owner": "SethGammon",
+    "type": "github-repo",
+    "source_url": "https://github.com/SethGammon/Citadel",
+    "metric": {
+      "stars": 922
+    },
+    "description": "The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.",
+    "topics": [
+      "agent-orchestration",
+      "agent-workflow",
+      "ai-agents",
+      "claude-code-plugin",
+      "claude-plugins",
+      "codex-plugin",
+      "developer-tools",
+      "mcp"
+    ],
+    "license": "MIT",
+    "seed_topic": "claude-code-plugin"
+  }
+]

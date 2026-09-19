@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:firebase/agent-skills@firebase-security-rules-auditor",
+    "name": "firebase/agent-skills@firebase-security-rules-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/firebase/agent-skills/firebase-security-rules-auditor",
+    "metric": {
+      "installs": 117800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add firebase/agent-skills@firebase-security-rules-auditor",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:firebase/agent-skills@firestore-security-rules-auditor",
+    "name": "firebase/agent-skills@firestore-security-rules-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/firebase/agent-skills/firestore-security-rules-auditor",
+    "metric": {
+      "installs": 20400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add firebase/agent-skills@firestore-security-rules-auditor",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:waynesutton/convexskills@convex-security-audit",
+    "name": "waynesutton/convexskills@convex-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/waynesutton/convexskills/convex-security-audit",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add waynesutton/convexskills@convex-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:ruvnet/ruflo@security-audit",
+    "name": "ruvnet/ruflo@security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/ruvnet/ruflo/security-audit",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ruvnet/ruflo@security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@security-auditor",
+    "name": "sickn33/agentic-awesome-skills@security-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/security-auditor",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@security-auditor",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@security-audit",
+    "name": "sickn33/agentic-awesome-skills@security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/security-audit",
+    "metric": {
+      "installs": 1300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@mcp-security-audit",
+    "name": "github/awesome-copilot@mcp-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/mcp-security-audit",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@mcp-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:reason-machines/security-skills@wxmini-security-audit",
+    "name": "reason-machines/security-skills@wxmini-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/security-skills/wxmini-security-audit",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add reason-machines/security-skills@wxmini-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:zhaono1/agent-playbook@security-auditor",
+    "name": "zhaono1/agent-playbook@security-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/zhaono1/agent-playbook/security-auditor",
+    "metric": {
+      "installs": 1000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add zhaono1/agent-playbook@security-auditor",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:ovachiever/droid-tings@security-auditor",
+    "name": "ovachiever/droid-tings@security-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/ovachiever/droid-tings/security-auditor",
+    "metric": {
+      "installs": 783
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ovachiever/droid-tings@security-auditor",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@skill-security-auditor",
+    "name": "alirezarezvani/claude-skills@skill-security-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/skill-security-auditor",
+    "metric": {
+      "installs": 753
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@skill-security-auditor",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:reason-machines/security-skills@esaa-security-audit",
+    "name": "reason-machines/security-skills@esaa-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/security-skills/esaa-security-audit",
+    "metric": {
+      "installs": 703
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add reason-machines/security-skills@esaa-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@laravel-security-audit",
+    "name": "sickn33/agentic-awesome-skills@laravel-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/laravel-security-audit",
+    "metric": {
+      "installs": 554
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@laravel-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:netresearch/security-audit-skill@security-audit",
+    "name": "netresearch/security-audit-skill@security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/netresearch/security-audit-skill/security-audit",
+    "metric": {
+      "installs": 548
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add netresearch/security-audit-skill@security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@security-audit-logging",
+    "name": "aj-geddes/useful-ai-prompts@security-audit-logging",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/security-audit-logging",
+    "metric": {
+      "installs": 548
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@security-audit-logging",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:smartchainark/skill-security-audit@skill-security-audit",
+    "name": "smartchainark/skill-security-audit@skill-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/smartchainark/skill-security-audit/skill-security-audit",
+    "metric": {
+      "installs": 514
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add smartchainark/skill-security-audit@skill-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:reason-machines/security-skills@email-security-auditor-cpp",
+    "name": "reason-machines/security-skills@email-security-auditor-cpp",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/security-skills/email-security-auditor-cpp",
+    "metric": {
+      "installs": 466
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add reason-machines/security-skills@email-security-auditor-cpp",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:datadog-labs/agent-skills@dd-audit-security-investigation",
+    "name": "datadog-labs/agent-skills@dd-audit-security-investigation",
+    "type": "skill",
+    "source_url": "https://skills.sh/datadog-labs/agent-skills/dd-audit-security-investigation",
+    "metric": {
+      "installs": 421
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add datadog-labs/agent-skills@dd-audit-security-investigation",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:agentnode-dev/skills-security-audit@skills-security-audit",
+    "name": "agentnode-dev/skills-security-audit@skills-security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/agentnode-dev/skills-security-audit/skills-security-audit",
+    "metric": {
+      "installs": 332
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add agentnode-dev/skills-security-audit@skills-security-audit",
+    "seed_keyword": "security audit"
+  },
+  {
+    "id": "skillssh:donchitos/claude-code-game-studios@security-audit",
+    "name": "donchitos/claude-code-game-studios@security-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/donchitos/claude-code-game-studios/security-audit",
+    "metric": {
+      "installs": 312
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add donchitos/claude-code-game-studios@security-audit",
+    "seed_keyword": "security audit"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:designed-by-ai/skills@design-mobile-apps",
+    "name": "designed-by-ai/skills@design-mobile-apps",
+    "type": "skill",
+    "source_url": "https://skills.sh/designed-by-ai/skills/design-mobile-apps",
+    "metric": {
+      "installs": 297500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add designed-by-ai/skills@design-mobile-apps",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:ceorkm/mobile-app-ui-design@mobile-app-ui-design",
+    "name": "ceorkm/mobile-app-ui-design@mobile-app-ui-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design",
+    "metric": {
+      "installs": 9300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ceorkm/mobile-app-ui-design@mobile-app-ui-design",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:solana-mobile/solana-mobile-skills@solana-mobile",
+    "name": "solana-mobile/solana-mobile-skills@solana-mobile",
+    "type": "skill",
+    "source_url": "https://skills.sh/solana-mobile/solana-mobile-skills/solana-mobile",
+    "metric": {
+      "installs": 5100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add solana-mobile/solana-mobile-skills@solana-mobile",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:forcedotcom/sf-skills@mobile-apps-create",
+    "name": "forcedotcom/sf-skills@mobile-apps-create",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/mobile-apps-create",
+    "metric": {
+      "installs": 4700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add forcedotcom/sf-skills@mobile-apps-create",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:forcedotcom/sf-skills@building-mobile-apps",
+    "name": "forcedotcom/sf-skills@building-mobile-apps",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/building-mobile-apps",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add forcedotcom/sf-skills@building-mobile-apps",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@mobile-app-testing",
+    "name": "aj-geddes/useful-ai-prompts@mobile-app-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-testing",
+    "metric": {
+      "installs": 810
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@mobile-app-testing",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@mobile-app-debugging",
+    "name": "aj-geddes/useful-ai-prompts@mobile-app-debugging",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-debugging",
+    "metric": {
+      "installs": 551
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@mobile-app-debugging",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:secondsky/claude-skills@mobile-app-testing",
+    "name": "secondsky/claude-skills@mobile-app-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-testing",
+    "metric": {
+      "installs": 431
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add secondsky/claude-skills@mobile-app-testing",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:secondsky/claude-skills@mobile-app-debugging",
+    "name": "secondsky/claude-skills@mobile-app-debugging",
+    "type": "skill",
+    "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-debugging",
+    "metric": {
+      "installs": 396
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add secondsky/claude-skills@mobile-app-debugging",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
+    "name": "mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
+    "type": "skill",
+    "source_url": "https://skills.sh/mukul975/anthropic-cybersecurity-skills/conducting-mobile-app-penetration-test",
+    "metric": {
+      "installs": 282
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:nexu-io/open-design@mobile-app",
+    "name": "nexu-io/open-design@mobile-app",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexu-io/open-design/mobile-app",
+    "metric": {
+      "installs": 276
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexu-io/open-design@mobile-app",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:peterhdd/agent-skills@engineering-mobile-app-builder",
+    "name": "peterhdd/agent-skills@engineering-mobile-app-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/peterhdd/agent-skills/engineering-mobile-app-builder",
+    "metric": {
+      "installs": 163
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add peterhdd/agent-skills@engineering-mobile-app-builder",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:qodex-ai/ai-agent-skills@mobile-app-interface",
+    "name": "qodex-ai/ai-agent-skills@mobile-app-interface",
+    "type": "skill",
+    "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/mobile-app-interface",
+    "metric": {
+      "installs": 160
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add qodex-ai/ai-agent-skills@mobile-app-interface",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@mobile-app-design",
+    "name": "podo/design-agent-skills@mobile-app-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-design",
+    "metric": {
+      "installs": 129
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@mobile-app-design",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:404kidwiz/claude-supercode-skills@mobile-app-developer",
+    "name": "404kidwiz/claude-supercode-skills@mobile-app-developer",
+    "type": "skill",
+    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/mobile-app-developer",
+    "metric": {
+      "installs": 128
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add 404kidwiz/claude-supercode-skills@mobile-app-developer",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@mobile-app-ui-design",
+    "name": "podo/design-agent-skills@mobile-app-ui-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-ui-design",
+    "metric": {
+      "installs": 127
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@mobile-app-ui-design",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:ww-w-ai/bkit-claude-code@mobile-app",
+    "name": "ww-w-ai/bkit-claude-code@mobile-app",
+    "type": "skill",
+    "source_url": "https://skills.sh/ww-w-ai/bkit-claude-code/mobile-app",
+    "metric": {
+      "installs": 110
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ww-w-ai/bkit-claude-code@mobile-app",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:microsoft/power-platform-skills@create-mobile-app",
+    "name": "microsoft/power-platform-skills@create-mobile-app",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoft/power-platform-skills/create-mobile-app",
+    "metric": {
+      "installs": 100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoft/power-platform-skills@create-mobile-app",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:mphinance/alpha-skills@mobile-app",
+    "name": "mphinance/alpha-skills@mobile-app",
+    "type": "skill",
+    "source_url": "https://skills.sh/mphinance/alpha-skills/mobile-app",
+    "metric": {
+      "installs": 84
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mphinance/alpha-skills@mobile-app",
+    "seed_keyword": "mobile app"
+  }
+]

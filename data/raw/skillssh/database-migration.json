@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:wshobson/agents@database-migration",
+    "name": "wshobson/agents@database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/database-migration",
+    "metric": {
+      "installs": 16400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@database-migrations",
+    "name": "affaan-m/ecc@database-migrations",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/database-migrations",
+    "metric": {
+      "installs": 10100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@database-migrations",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@database-migration-management",
+    "name": "aj-geddes/useful-ai-prompts@database-migration-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/database-migration-management",
+    "metric": {
+      "installs": 488
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@database-migration-management",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:bobmatnyc/claude-mpm-skills@database-migration",
+    "name": "bobmatnyc/claude-mpm-skills@database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/database-migration",
+    "metric": {
+      "installs": 377
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bobmatnyc/claude-mpm-skills@database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@database-migrations-migration-observability",
+    "name": "sickn33/agentic-awesome-skills@database-migrations-migration-observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/database-migrations-migration-observability",
+    "metric": {
+      "installs": 311
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@database-migrations-migration-observability",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:sickn33/agentic-awesome-skills@database",
+    "name": "sickn33/agentic-awesome-skills@database",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/database",
+    "metric": {
+      "installs": 268
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add sickn33/agentic-awesome-skills@database",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:yonatangross/orchestkit@database-patterns",
+    "name": "yonatangross/orchestkit@database-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/yonatangross/orchestkit/database-patterns",
+    "metric": {
+      "installs": 209
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add yonatangross/orchestkit@database-patterns",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:charleswiltgen/axiom@axiom-database-migration",
+    "name": "charleswiltgen/axiom@axiom-database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/charleswiltgen/axiom/axiom-database-migration",
+    "metric": {
+      "installs": 187
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add charleswiltgen/axiom@axiom-database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:jorgealves/agent_skills@database-migration-integrity-checker",
+    "name": "jorgealves/agent_skills@database-migration-integrity-checker",
+    "type": "skill",
+    "source_url": "https://skills.sh/jorgealves/agent_skills/database-migration-integrity-checker",
+    "metric": {
+      "installs": 177
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jorgealves/agent_skills@database-migration-integrity-checker",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:timescale/pg-aiguide@postgres-database-migration",
+    "name": "timescale/pg-aiguide@postgres-database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/timescale/pg-aiguide/postgres-database-migration",
+    "metric": {
+      "installs": 148
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add timescale/pg-aiguide@postgres-database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:microsoftdocs/agent-skills@azure-database-migration",
+    "name": "microsoftdocs/agent-skills@azure-database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoftdocs/agent-skills/azure-database-migration",
+    "metric": {
+      "installs": 141
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoftdocs/agent-skills@azure-database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:seb1n/awesome-ai-agent-skills@database-migration",
+    "name": "seb1n/awesome-ai-agent-skills@database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/seb1n/awesome-ai-agent-skills/database-migration",
+    "metric": {
+      "installs": 69
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add seb1n/awesome-ai-agent-skills@database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:microsoft/azure-sql-database-container@azuresql-db-schema-migration",
+    "name": "microsoft/azure-sql-database-container@azuresql-db-schema-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoft/azure-sql-database-container/azuresql-db-schema-migration",
+    "metric": {
+      "installs": 62
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoft/azure-sql-database-container@azuresql-db-schema-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:langchain-ai/skills-benchmarks@database-migrations",
+    "name": "langchain-ai/skills-benchmarks@database-migrations",
+    "type": "skill",
+    "source_url": "https://skills.sh/langchain-ai/skills-benchmarks/database-migrations",
+    "metric": {
+      "installs": 59
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add langchain-ai/skills-benchmarks@database-migrations",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:schemavaults/dbh@database-migrations",
+    "name": "schemavaults/dbh@database-migrations",
+    "type": "skill",
+    "source_url": "https://skills.sh/schemavaults/dbh/database-migrations",
+    "metric": {
+      "installs": 53
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add schemavaults/dbh@database-migrations",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:mohitagw15856/pm-claude-skills@database-migration-plan",
+    "name": "mohitagw15856/pm-claude-skills@database-migration-plan",
+    "type": "skill",
+    "source_url": "https://skills.sh/mohitagw15856/pm-claude-skills/database-migration-plan",
+    "metric": {
+      "installs": 40
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mohitagw15856/pm-claude-skills@database-migration-plan",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:xu-xiang/everything-claude-code-zh@database-migrations",
+    "name": "xu-xiang/everything-claude-code-zh@database-migrations",
+    "type": "skill",
+    "source_url": "https://skills.sh/xu-xiang/everything-claude-code-zh/database-migrations",
+    "metric": {
+      "installs": 38
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add xu-xiang/everything-claude-code-zh@database-migrations",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:dauquangthanh/hanoi-rainbow@database-migration",
+    "name": "dauquangthanh/hanoi-rainbow@database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/dauquangthanh/hanoi-rainbow/database-migration",
+    "metric": {
+      "installs": 26
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dauquangthanh/hanoi-rainbow@database-migration",
+    "seed_keyword": "database migration"
+  },
+  {
+    "id": "skillssh:rmyndharis/antigravity-skills@database-migration",
+    "name": "rmyndharis/antigravity-skills@database-migration",
+    "type": "skill",
+    "source_url": "https://skills.sh/rmyndharis/antigravity-skills/database-migration",
+    "metric": {
+      "installs": 22
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rmyndharis/antigravity-skills@database-migration",
+    "seed_keyword": "database migration"
+  }
+]

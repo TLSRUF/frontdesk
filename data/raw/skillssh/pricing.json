@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@pricing",
+    "name": "coreyhaines31/marketingskills@pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing",
+    "metric": {
+      "installs": 62500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@pricing-strategy",
+    "name": "coreyhaines31/marketingskills@pricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing-strategy",
+    "metric": {
+      "installs": 61900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@pricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:rorkai/app-store-connect-cli-skills@asc-ppp-pricing",
+    "name": "rorkai/app-store-connect-cli-skills@asc-ppp-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/rorkai/app-store-connect-cli-skills/asc-ppp-pricing",
+    "metric": {
+      "installs": 6800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rorkai/app-store-connect-cli-skills@asc-ppp-pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@azure-pricing",
+    "name": "github/awesome-copilot@azure-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/azure-pricing",
+    "metric": {
+      "installs": 4700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@azure-pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:phuryn/pm-skills@pricing-strategy",
+    "name": "phuryn/pm-skills@pricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/phuryn/pm-skills/pricing-strategy",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add phuryn/pm-skills@pricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:slavingia/skills@pricing",
+    "name": "slavingia/skills@pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/slavingia/skills/pricing",
+    "metric": {
+      "installs": 2400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add slavingia/skills@pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:refoundai/lenny-skills@pricing-strategy",
+    "name": "refoundai/lenny-skills@pricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/refoundai/lenny-skills/pricing-strategy",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add refoundai/lenny-skills@pricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:deanpeters/product-manager-skills@finance-based-pricing-advisor",
+    "name": "deanpeters/product-manager-skills@finance-based-pricing-advisor",
+    "type": "skill",
+    "source_url": "https://skills.sh/deanpeters/product-manager-skills/finance-based-pricing-advisor",
+    "metric": {
+      "installs": 2100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add deanpeters/product-manager-skills@finance-based-pricing-advisor",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@gtm-technical-product-pricing",
+    "name": "github/awesome-copilot@gtm-technical-product-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/gtm-technical-product-pricing",
+    "metric": {
+      "installs": 1700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@gtm-technical-product-pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:mengto/skills@pricing-page",
+    "name": "mengto/skills@pricing-page",
+    "type": "skill",
+    "source_url": "https://skills.sh/mengto/skills/pricing-page",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mengto/skills@pricing-page",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:kostja94/marketing-skills@pricing-page-generator",
+    "name": "kostja94/marketing-skills@pricing-page-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/kostja94/marketing-skills/pricing-page-generator",
+    "metric": {
+      "installs": 992
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kostja94/marketing-skills@pricing-page-generator",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:nexscope-ai/amazon-skills@amazon-repricing-strategy",
+    "name": "nexscope-ai/amazon-skills@amazon-repricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/amazon-skills/amazon-repricing-strategy",
+    "metric": {
+      "installs": 970
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/amazon-skills@amazon-repricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:nexscope-ai/ecommerce-skills@etsy-pricing-strategy",
+    "name": "nexscope-ai/ecommerce-skills@etsy-pricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy",
+    "metric": {
+      "installs": 848
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/ecommerce-skills@etsy-pricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:nexscope-ai/ecommerce-skills@tiktok-shop-pricing",
+    "name": "nexscope-ai/ecommerce-skills@tiktok-shop-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-pricing",
+    "metric": {
+      "installs": 839
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/ecommerce-skills@tiktok-shop-pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:kostja94/marketing-skills@pricing-strategy",
+    "name": "kostja94/marketing-skills@pricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/kostja94/marketing-skills/pricing-strategy",
+    "metric": {
+      "installs": 833
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kostja94/marketing-skills@pricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "name": "shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/shopify/shopify-ai-toolkit/shopify-app-pricing",
+    "metric": {
+      "installs": 826
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
+    "name": "aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/pricing-packaging-planner",
+    "metric": {
+      "installs": 777
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:ognjengt/founder-skills@pricing-strategist",
+    "name": "ognjengt/founder-skills@pricing-strategist",
+    "type": "skill",
+    "source_url": "https://skills.sh/ognjengt/founder-skills/pricing-strategist",
+    "metric": {
+      "installs": 716
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ognjengt/founder-skills@pricing-strategist",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@pricing-strategy",
+    "name": "alirezarezvani/claude-skills@pricing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/pricing-strategy",
+    "metric": {
+      "installs": 649
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@pricing-strategy",
+    "seed_keyword": "pricing"
+  }
+]

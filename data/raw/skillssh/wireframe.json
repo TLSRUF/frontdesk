@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:owl-listener/designer-skills@wireframe-spec",
+    "name": "owl-listener/designer-skills@wireframe-spec",
+    "type": "skill",
+    "source_url": "https://skills.sh/owl-listener/designer-skills/wireframe-spec",
+    "metric": {
+      "installs": 1800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add owl-listener/designer-skills@wireframe-spec",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:ghaida/intent@wireframe",
+    "name": "ghaida/intent@wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/ghaida/intent/wireframe",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ghaida/intent@wireframe",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:aj-geddes/useful-ai-prompts@wireframe-prototyping",
+    "name": "aj-geddes/useful-ai-prompts@wireframe-prototyping",
+    "type": "skill",
+    "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/wireframe-prototyping",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aj-geddes/useful-ai-prompts@wireframe-prototyping",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:plannotator/effective-html@html-wireframe",
+    "name": "plannotator/effective-html@html-wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/plannotator/effective-html/html-wireframe",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add plannotator/effective-html@html-wireframe",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:mengto/skills@technical-wireframe-info-layout",
+    "name": "mengto/skills@technical-wireframe-info-layout",
+    "type": "skill",
+    "source_url": "https://skills.sh/mengto/skills/technical-wireframe-info-layout",
+    "metric": {
+      "installs": 944
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mengto/skills@technical-wireframe-info-layout",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:mengto/skills@build-wireframe-scan-reveal",
+    "name": "mengto/skills@build-wireframe-scan-reveal",
+    "type": "skill",
+    "source_url": "https://skills.sh/mengto/skills/build-wireframe-scan-reveal",
+    "metric": {
+      "installs": 663
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mengto/skills@build-wireframe-scan-reveal",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:roble3/cc-blender-skill@wireframe-to-3d",
+    "name": "roble3/cc-blender-skill@wireframe-to-3d",
+    "type": "skill",
+    "source_url": "https://skills.sh/roble3/cc-blender-skill/wireframe-to-3d",
+    "metric": {
+      "installs": 379
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add roble3/cc-blender-skill@wireframe-to-3d",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:markdown-viewer/skills@wireframe",
+    "name": "markdown-viewer/skills@wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/markdown-viewer/skills/wireframe",
+    "metric": {
+      "installs": 290
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add markdown-viewer/skills@wireframe",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:nexu-io/open-design@wireframe-sketch",
+    "name": "nexu-io/open-design@wireframe-sketch",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexu-io/open-design/wireframe-sketch",
+    "metric": {
+      "installs": 272
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexu-io/open-design@wireframe-sketch",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:agilek/wireframer-skill@wireframer",
+    "name": "agilek/wireframer-skill@wireframer",
+    "type": "skill",
+    "source_url": "https://skills.sh/agilek/wireframer-skill/wireframer",
+    "metric": {
+      "installs": 131
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add agilek/wireframer-skill@wireframer",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@wireframer",
+    "name": "podo/design-agent-skills@wireframer",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/wireframer",
+    "metric": {
+      "installs": 115
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@wireframer",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@wireframe-skill",
+    "name": "podo/design-agent-skills@wireframe-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/wireframe-skill",
+    "metric": {
+      "installs": 113
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@wireframe-skill",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:bm629/agent-skills@authoring-wireframes",
+    "name": "bm629/agent-skills@authoring-wireframes",
+    "type": "skill",
+    "source_url": "https://skills.sh/bm629/agent-skills/authoring-wireframes",
+    "metric": {
+      "installs": 112
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bm629/agent-skills@authoring-wireframes",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@claude-wireframe-skill",
+    "name": "podo/design-agent-skills@claude-wireframe-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/claude-wireframe-skill",
+    "metric": {
+      "installs": 111
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@claude-wireframe-skill",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:bm629/agent-skills@reviewing-wireframes",
+    "name": "bm629/agent-skills@reviewing-wireframes",
+    "type": "skill",
+    "source_url": "https://skills.sh/bm629/agent-skills/reviewing-wireframes",
+    "metric": {
+      "installs": 108
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bm629/agent-skills@reviewing-wireframes",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:manalkaff/opendesign@wireframe",
+    "name": "manalkaff/opendesign@wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/manalkaff/opendesign/wireframe",
+    "metric": {
+      "installs": 82
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add manalkaff/opendesign@wireframe",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:bluzir/claude-code-design@wireframe",
+    "name": "bluzir/claude-code-design@wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/bluzir/claude-code-design/wireframe",
+    "metric": {
+      "installs": 65
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add bluzir/claude-code-design@wireframe",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:teo5777/easy-wireframe@easy-wireframe",
+    "name": "teo5777/easy-wireframe@easy-wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/teo5777/easy-wireframe/easy-wireframe",
+    "metric": {
+      "installs": 48
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add teo5777/easy-wireframe@easy-wireframe",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:magdoub/claude-wireframe-skill@wireframe",
+    "name": "magdoub/claude-wireframe-skill@wireframe",
+    "type": "skill",
+    "source_url": "https://skills.sh/magdoub/claude-wireframe-skill/wireframe",
+    "metric": {
+      "installs": 32
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add magdoub/claude-wireframe-skill@wireframe",
+    "seed_keyword": "wireframe"
+  }
+]

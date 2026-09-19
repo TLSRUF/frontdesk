@@ -1,0 +1,854 @@
+[
+  {
+    "id": "github:DietrichGebert/ponytail",
+    "name": "ponytail",
+    "owner": "DietrichGebert",
+    "type": "github-repo",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "metric": {
+      "stars": 142048
+    },
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:wshobson/agents",
+    "name": "agents",
+    "owner": "wshobson",
+    "type": "github-repo",
+    "source_url": "https://github.com/wshobson/agents",
+    "metric": {
+      "stars": 39783
+    },
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "anthropic",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-marketplace",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "cursor-rules",
+      "github-copilot",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "pi-coding-agent",
+      "subagents"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:jnMetaCode/agency-agents-zh",
+    "name": "agency-agents-zh",
+    "owner": "jnMetaCode",
+    "type": "github-repo",
+    "source_url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "metric": {
+      "stars": 20784
+    },
+    "description": "🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+    "topics": [
+      "agency-orchestrator",
+      "agent-definitions",
+      "ai-agents",
+      "ai-roles",
+      "chinese",
+      "claude",
+      "claude-code",
+      "copilot-agent",
+      "cursor-rules",
+      "deepseek",
+      "hermes-agent",
+      "llm",
+      "multi-agent",
+      "no-code",
+      "prompt-engineering",
+      "qwen",
+      "system-prompt",
+      "workbuddy",
+      "workflow"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:ciembor/agent-rules-books",
+    "name": "agent-rules-books",
+    "owner": "ciembor",
+    "type": "github-repo",
+    "source_url": "https://github.com/ciembor/agent-rules-books",
+    "metric": {
+      "stars": 2824
+    },
+    "description": "AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.",
+    "topics": [
+      "agent-rules",
+      "agent-skills",
+      "agent-skills-manager",
+      "agents-md",
+      "agents-rules",
+      "agents-skills",
+      "agentsmd",
+      "ai-agent",
+      "ai-skills",
+      "claude-code",
+      "claude-code-skills",
+      "code-quality",
+      "codex",
+      "codex-skills",
+      "cursor-rules",
+      "cursor-skills",
+      "domain-driven-design",
+      "programming-books",
+      "refactoring"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:flyeric0212/cursor-rules",
+    "name": "cursor-rules",
+    "owner": "flyeric0212",
+    "type": "github-repo",
+    "source_url": "https://github.com/flyeric0212/cursor-rules",
+    "metric": {
+      "stars": 1886
+    },
+    "description": "整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。",
+    "topics": [
+      "cursor",
+      "cursor-rules"
+    ],
+    "license": null,
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:devtoolsd/awesome-devtools",
+    "name": "awesome-devtools",
+    "owner": "devtoolsd",
+    "type": "github-repo",
+    "source_url": "https://github.com/devtoolsd/awesome-devtools",
+    "metric": {
+      "stars": 679
+    },
+    "description": "A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.",
+    "topics": [
+      "alternatives",
+      "antigravity",
+      "awesome",
+      "awesome-devtools",
+      "awesome-lists",
+      "cursor",
+      "cursor-ai",
+      "cursor-rules",
+      "dev",
+      "dev-tools",
+      "develop",
+      "developer",
+      "developer-tools",
+      "development",
+      "development-tools",
+      "devops-tools",
+      "devtool",
+      "devtools",
+      "open-source",
+      "oss"
+    ],
+    "license": "Unlicense",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:HoangNguyen0403/agent-skills-standard",
+    "name": "agent-skills-standard",
+    "owner": "HoangNguyen0403",
+    "type": "github-repo",
+    "source_url": "https://github.com/HoangNguyen0403/agent-skills-standard",
+    "metric": {
+      "stars": 569
+    },
+    "description": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
+    "topics": [
+      "agent-",
+      "agentic-ai",
+      "android",
+      "angular",
+      "best-practices",
+      "coding-standards",
+      "cursor-rules",
+      "flutter",
+      "golang",
+      "ios",
+      "kotlin",
+      "laravel",
+      "nestjs",
+      "nextjs",
+      "react",
+      "react-native",
+      "reactjs",
+      "spring-boot",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:matank001/cursor-security-rules",
+    "name": "cursor-security-rules",
+    "owner": "matank001",
+    "type": "github-repo",
+    "source_url": "https://github.com/matank001/cursor-security-rules",
+    "metric": {
+      "stars": 378
+    },
+    "description": "This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development.",
+    "topics": [
+      "agent-security",
+      "agents",
+      "ai",
+      "aiagents",
+      "cursor",
+      "cursor-rules",
+      "cursor-security",
+      "cursorrules",
+      "security"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:kleosr/cursorkleosr",
+    "name": "cursorkleosr",
+    "owner": "kleosr",
+    "type": "github-repo",
+    "source_url": "https://github.com/kleosr/cursorkleosr",
+    "metric": {
+      "stars": 327
+    },
+    "description": "Make AI Development Feel Natural in Cursor",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "cursor",
+      "cursor-rules",
+      "ide"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "name": "andrej-karpathy-skills-cursor-vscode",
+    "owner": "mbeijen",
+    "type": "github-repo",
+    "source_url": "https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "metric": {
+      "stars": 271
+    },
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor",
+    "topics": [
+      "ai",
+      "cursor-ide",
+      "cursor-rules",
+      "vscode-extension"
+    ],
+    "license": null,
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:danielvm-git/bigpowers",
+    "name": "bigpowers",
+    "owner": "danielvm-git",
+    "type": "github-repo",
+    "source_url": "https://github.com/danielvm-git/bigpowers",
+    "metric": {
+      "stars": 206
+    },
+    "description": "Agent skills synthesizing years of software engineering discipline into a prescriptive methodology for solo developers",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "bmad",
+      "claude-code",
+      "clean-code",
+      "cursor-rules",
+      "devops",
+      "documentation-as-code",
+      "gemini-cli",
+      "productivity",
+      "software-engineering",
+      "solo-developer",
+      "spec-driven-development",
+      "tdd"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:KbWen/agentic-os",
+    "name": "agentic-os",
+    "owner": "KbWen",
+    "type": "github-repo",
+    "source_url": "https://github.com/KbWen/agentic-os",
+    "metric": {
+      "stars": 179
+    },
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for Claude Code, Codex, Cursor, Copilot, and Antigravity, via AGENTS.md.",
+    "topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "agentic-development",
+      "agents-md",
+      "ai-agent",
+      "ai-coding-assistant",
+      "ai-governance",
+      "ai-guardrails",
+      "ai-workflow",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cursor-rules",
+      "developer-tools",
+      "github-copilot",
+      "google-antigravity",
+      "llm-tools",
+      "multi-agent",
+      "prompt-engineering",
+      "token-optimization"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:ilindaniel/ponytail-lite",
+    "name": "ponytail-lite",
+    "owner": "ilindaniel",
+    "type": "github-repo",
+    "source_url": "https://github.com/ilindaniel/ponytail-lite",
+    "metric": {
+      "stars": 178
+    },
+    "description": "Stop agents from over-engineering. Inspired by Ponytail, but without the plugin madness. Just one AGENTS.md file.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "cursor-rules",
+      "developer-tools",
+      "kiss",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:RollingGo-AI/rollinggo-hotel-skill-cn",
+    "name": "rollinggo-hotel-skill-cn",
+    "owner": "RollingGo-AI",
+    "type": "github-repo",
+    "source_url": "https://github.com/RollingGo-AI/rollinggo-hotel-skill-cn",
+    "metric": {
+      "stars": 155
+    },
+    "description": "全球酒店预订&低价监控提醒Skill，200万+精选酒店，独家优惠价格，让你的Agent轻松预订品质酒店，支持支付宝下单+查询历史订单，24 小时客服支持，全天候响应。",
+    "topics": [
+      "agent-skill",
+      "agent-toolkit",
+      "ai-agents",
+      "claude-code",
+      "codex-skill",
+      "cursor-rules",
+      "cursor-skill",
+      "github-copilot",
+      "hotel-booking",
+      "hotel-cli",
+      "hotel-mcp",
+      "hotel-reservation",
+      "hotel-skills",
+      "llm-skills",
+      "mcp-tools",
+      "openclaw-skill",
+      "skill",
+      "travel-planning",
+      "travel-skill",
+      "windsurf"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:Lolner95/AIGX",
+    "name": "AIGX",
+    "owner": "Lolner95",
+    "type": "github-repo",
+    "source_url": "https://github.com/Lolner95/AIGX",
+    "metric": {
+      "stars": 147
+    },
+    "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the right rules, forbidden imports, and gotchas to each file. The only context format validated in a controlled benchmark. Tool-agnostic; nothing injected into your source.",
+    "topics": [
+      "agents-md",
+      "ai-agents",
+      "ai-coding-assistant",
+      "claude-md",
+      "code-generation",
+      "coding-conventions",
+      "context-engineering",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "llms-txt",
+      "prompt-engineering",
+      "spec",
+      "standard"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:MohamedAbdallah-14/unslop",
+    "name": "unslop",
+    "owner": "MohamedAbdallah-14",
+    "type": "github-repo",
+    "source_url": "https://github.com/MohamedAbdallah-14/unslop",
+    "metric": {
+      "stars": 140
+    },
+    "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini.",
+    "topics": [
+      "ai-detection",
+      "ai-plugin",
+      "ai-writing",
+      "anti-slop",
+      "claude-code",
+      "claude-code-plugin",
+      "cline-rules",
+      "codex-plugin",
+      "content-quality",
+      "cursor-plugin",
+      "cursor-rules",
+      "gemini-cli-extension",
+      "humanizer",
+      "llm",
+      "open-source",
+      "prompt-engineering",
+      "python",
+      "typescript",
+      "windsurf-rules",
+      "writing-tools"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:Mark393295827/third-brain-v7-skills",
+    "name": "third-brain-v7-skills",
+    "owner": "Mark393295827",
+    "type": "github-repo",
+    "source_url": "https://github.com/Mark393295827/third-brain-v7-skills",
+    "metric": {
+      "stars": 139
+    },
+    "description": "agent wiki +engineering skills ",
+    "topics": [
+      "agentic",
+      "ai-agents",
+      "claude-skills",
+      "codex",
+      "cursor-rules",
+      "graph-engineering",
+      "knowledge-management",
+      "loop",
+      "loop-engineering",
+      "obsidian",
+      "ontology",
+      "wiki"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:Aaronontheweb/dotnet-cursor-rules",
+    "name": "dotnet-cursor-rules",
+    "owner": "Aaronontheweb",
+    "type": "github-repo",
+    "source_url": "https://github.com/Aaronontheweb/dotnet-cursor-rules",
+    "metric": {
+      "stars": 134
+    },
+    "description": ".mdc files for defining Cursor rules specific to .NET projects",
+    "topics": [
+      "cursor",
+      "cursor-ai",
+      "cursor-ai-editor",
+      "cursor-rules"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:madebyaris/advance-minimax-m3-cursor-rules",
+    "name": "advance-minimax-m3-cursor-rules",
+    "owner": "madebyaris",
+    "type": "github-repo",
+    "source_url": "https://github.com/madebyaris/advance-minimax-m3-cursor-rules",
+    "metric": {
+      "stars": 125
+    },
+    "description": "Agentic-first Cursor Rules powered by MiniMax M3 - clarify-first prompting, interleaved thinking, and full tool orchestration for production-ready AI coding",
+    "topics": [
+      "agentic-ai",
+      "ai-coding",
+      "ai-workflow",
+      "code-generation",
+      "cursor",
+      "cursor-ide",
+      "cursor-rules",
+      "developer-tools",
+      "mcp",
+      "minimax",
+      "minimax-m2",
+      "minimax-m3"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:aaddrick/attention-control",
+    "name": "attention-control",
+    "owner": "aaddrick",
+    "type": "github-repo",
+    "source_url": "https://github.com/aaddrick/attention-control",
+    "metric": {
+      "stars": 112
+    },
+    "description": "Air traffic control discipline for agent output. Written for a reader with ADHD.",
+    "topics": [
+      "accessibility",
+      "adhd",
+      "agent-skill",
+      "agent-skills",
+      "agents-md",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-code-skills",
+      "codex-cli",
+      "cursor-rules",
+      "gemini-cli",
+      "neurodiversity",
+      "output-style",
+      "prompt-engineering",
+      "technical-writing"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:SalesforceAIResearch/agentforce-adlc",
+    "name": "agentforce-adlc",
+    "owner": "SalesforceAIResearch",
+    "type": "github-repo",
+    "source_url": "https://github.com/SalesforceAIResearch/agentforce-adlc",
+    "metric": {
+      "stars": 109
+    },
+    "description": "Agent Development Life Cycle — Build, deploy, test, and optimize Agentforce agents using Claude Code skills and Agent Script DSL.",
+    "topics": [
+      "agentforce",
+      "claude-skill",
+      "cursor-rules"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:ahacker-1/cre-agent-skills",
+    "name": "cre-agent-skills",
+    "owner": "ahacker-1",
+    "type": "github-repo",
+    "source_url": "https://github.com/ahacker-1/cre-agent-skills",
+    "metric": {
+      "stars": 92
+    },
+    "description": "Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing workflows - standalone prompts for Claude Code, ChatGPT, Cursor, and other LLMs.",
+    "topics": [
+      "ai-agents",
+      "ai-skills",
+      "ai-tools",
+      "chatgpt-prompts",
+      "claude-code",
+      "claude-code-skills",
+      "commercial-real-estate",
+      "cre",
+      "cursor-rules",
+      "due-diligence",
+      "financial-modeling",
+      "investment-analysis",
+      "llm-prompts",
+      "multifamily",
+      "prompt-engineering",
+      "proptech",
+      "real-estate",
+      "real-estate-analysis",
+      "real-estate-investing",
+      "underwriting"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:ivangrynenko/cursorrules",
+    "name": "cursorrules",
+    "owner": "ivangrynenko",
+    "type": "github-repo",
+    "source_url": "https://github.com/ivangrynenko/cursorrules",
+    "metric": {
+      "stars": 87
+    },
+    "description": "A set of cursor rules for Cursor AI IDE that support PHP, Python, JavaScript and Drupal-specific rules",
+    "topics": [
+      "coding-best-practices",
+      "cursor-rules",
+      "cursorrules",
+      "drupal",
+      "drupal-coding-standards",
+      "javascript-coding-standards",
+      "php-coding-standards",
+      "python-coding-standards"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:blefnk/awesome-cursor-rules",
+    "name": "awesome-cursor-rules",
+    "owner": "blefnk",
+    "type": "github-repo",
+    "source_url": "https://github.com/blefnk/awesome-cursor-rules",
+    "metric": {
+      "stars": 82
+    },
+    "description": "❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailwind 4, shadcn/ui, drizzle orm, better auth, polar, tanstack form, react query, etc.",
+    "topics": [
+      "better-auth",
+      "blefnk",
+      "copilot",
+      "cursor",
+      "cursor-rules",
+      "cursorrules",
+      "drizzle-orm",
+      "nextjs",
+      "polar",
+      "react-query",
+      "relivator",
+      "reliverse",
+      "shadcn-ui",
+      "tanstack-react-query",
+      "vscode",
+      "windsurf"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:nota-america/forgecat-agent-profiles",
+    "name": "forgecat-agent-profiles",
+    "owner": "nota-america",
+    "type": "github-repo",
+    "source_url": "https://github.com/nota-america/forgecat-agent-profiles",
+    "metric": {
+      "stars": 77
+    },
+    "description": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute ForgeCat packages.",
+    "topics": [
+      "agent-md-file",
+      "agent-profiles",
+      "agent-skills",
+      "agent-workflows",
+      "ai-agent",
+      "ai-agent-marketplace",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-plugin",
+      "codex-skills",
+      "cursor",
+      "cursor-rules",
+      "forgecat",
+      "mcp",
+      "skills-md"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:roedyrustam/vibes-plug",
+    "name": "vibes-plug",
+    "owner": "roedyrustam",
+    "type": "github-repo",
+    "source_url": "https://github.com/roedyrustam/vibes-plug",
+    "metric": {
+      "stars": 68
+    },
+    "description": "Universal Multi-Agent Swarm Plugin with specialized skills for Antigravity (AGY), Claude Code, and Cursor IDE. Modern 2026 Fullstack (React 19, Tailwind v4, Bun, Next.js 15, MCP v1.9, Rust, Python 3.14).",
+    "topics": [
+      "ai-agents",
+      "ai-coding",
+      "antigravity",
+      "antigravity-plugins",
+      "claude",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "cursor-ai",
+      "cursor-rules",
+      "developer-tools",
+      "gemini",
+      "llm",
+      "multi-agent",
+      "prompt-engineering",
+      "skill-md",
+      "skills",
+      "swarm-intelligence",
+      "swarm-mode",
+      "web3"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:chihebnabil/lovable-boilerplate",
+    "name": "lovable-boilerplate",
+    "owner": "chihebnabil",
+    "type": "github-repo",
+    "source_url": "https://github.com/chihebnabil/lovable-boilerplate",
+    "metric": {
+      "stars": 65
+    },
+    "description": "A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot",
+    "topics": [
+      "boilerplate",
+      "copilot",
+      "copilot-enabled",
+      "cursor-rules",
+      "lovable",
+      "lovable-dev",
+      "react",
+      "react-boilerplate"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:HugoRCD/nuxt-ui-rules",
+    "name": "nuxt-ui-rules",
+    "owner": "HugoRCD",
+    "type": "github-repo",
+    "source_url": "https://github.com/HugoRCD/nuxt-ui-rules",
+    "metric": {
+      "stars": 62
+    },
+    "description": "Comprehensive guidelines for AI assistants working with Nuxt UI v3. Prevents common v2→v3 migration errors and provides best practices for modern Nuxt UI development.",
+    "topics": [
+      "best-practices",
+      "claude",
+      "cursor",
+      "cursor-rules",
+      "guidelines",
+      "nuxt-ui",
+      "rules"
+    ],
+    "license": null,
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:devallibus/shiplog",
+    "name": "shiplog",
+    "owner": "devallibus",
+    "type": "github-repo",
+    "source_url": "https://github.com/devallibus/shiplog",
+    "metric": {
+      "stars": 55
+    },
+    "description": "SUPERCHARGE AI-assisted development by using Git. Cross-model review gates, evidence-linked closure, verification profiles, model-tier routing, artifact envelopes, and provenance signing — all from a single skill for Claude Code, Codex, and Cursor.",
+    "topics": [
+      "ai-agent-skill",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "claude-skill",
+      "claudecode",
+      "claudeskills",
+      "code-review",
+      "codex",
+      "cursor",
+      "cursor-rules",
+      "developer-tools",
+      "github-workflow",
+      "knowledge-graph",
+      "skills",
+      "traceability"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  },
+  {
+    "id": "github:SkeneTechnologies/skene-cookbook",
+    "name": "skene-cookbook",
+    "owner": "SkeneTechnologies",
+    "type": "github-repo",
+    "source_url": "https://github.com/SkeneTechnologies/skene-cookbook",
+    "metric": {
+      "stars": 53
+    },
+    "description": "700+ AI skills for Claude and Cursor — PLG, marketing, security, DevEx, and more. One command to install.",
+    "topics": [
+      "ai",
+      "ai-skills",
+      "anthropic",
+      "automation",
+      "claude",
+      "cursor",
+      "cursor-rules",
+      "devex",
+      "marketing",
+      "plg",
+      "product-led-growth",
+      "python",
+      "security",
+      "skills"
+    ],
+    "license": "MIT",
+    "seed_topic": "cursor-rules"
+  }
+]

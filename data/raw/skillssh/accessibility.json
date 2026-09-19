@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:addyosmani/web-quality-skills@accessibility",
+    "name": "addyosmani/web-quality-skills@accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/web-quality-skills/accessibility",
+    "metric": {
+      "installs": 54000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/web-quality-skills@accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:ibelick/ui-skills@fixing-accessibility",
+    "name": "ibelick/ui-skills@fixing-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/ibelick/ui-skills/fixing-accessibility",
+    "metric": {
+      "installs": 18600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ibelick/ui-skills@fixing-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:jakubkrehel/skills@better-accessibility",
+    "name": "jakubkrehel/skills@better-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/jakubkrehel/skills/better-accessibility",
+    "metric": {
+      "installs": 17900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jakubkrehel/skills@better-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:wshobson/agents@accessibility-compliance",
+    "name": "wshobson/agents@accessibility-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/accessibility-compliance",
+    "metric": {
+      "installs": 13300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@accessibility-compliance",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:flutter/agent-plugins@flutter-improving-accessibility",
+    "name": "flutter/agent-plugins@flutter-improving-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/flutter/agent-plugins/flutter-improving-accessibility",
+    "metric": {
+      "installs": 8500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add flutter/agent-plugins@flutter-improving-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@accessibility",
+    "name": "affaan-m/ecc@accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/accessibility",
+    "metric": {
+      "installs": 7800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:dpearson2699/swift-ios-skills@ios-accessibility",
+    "name": "dpearson2699/swift-ios-skills@ios-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/dpearson2699/swift-ios-skills/ios-accessibility",
+    "metric": {
+      "installs": 4400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dpearson2699/swift-ios-skills@ios-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:pixijs/pixijs-skills@pixijs-accessibility",
+    "name": "pixijs/pixijs-skills@pixijs-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/pixijs/pixijs-skills/pixijs-accessibility",
+    "metric": {
+      "installs": 4200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pixijs/pixijs-skills@pixijs-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@accessibility-review",
+    "name": "anthropics/knowledge-work-plugins@accessibility-review",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/accessibility-review",
+    "metric": {
+      "installs": 3600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@accessibility-review",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:microsoft/vscode@accessibility",
+    "name": "microsoft/vscode@accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/microsoft/vscode/accessibility",
+    "metric": {
+      "installs": 2900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add microsoft/vscode@accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:mindrally/skills@accessibility-a11y",
+    "name": "mindrally/skills@accessibility-a11y",
+    "type": "skill",
+    "source_url": "https://skills.sh/mindrally/skills/accessibility-a11y",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mindrally/skills@accessibility-a11y",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:owl-listener/designer-skills@accessibility-test-plan",
+    "name": "owl-listener/designer-skills@accessibility-test-plan",
+    "type": "skill",
+    "source_url": "https://skills.sh/owl-listener/designer-skills/accessibility-test-plan",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add owl-listener/designer-skills@accessibility-test-plan",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:flutter/agent-plugins@flutter-accessibility-audit",
+    "name": "flutter/agent-plugins@flutter-accessibility-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/flutter/agent-plugins/flutter-accessibility-audit",
+    "metric": {
+      "installs": 1500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add flutter/agent-plugins@flutter-accessibility-audit",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:mastepanoski/claude-skills@wcag-accessibility-audit",
+    "name": "mastepanoski/claude-skills@wcag-accessibility-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/mastepanoski/claude-skills/wcag-accessibility-audit",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mastepanoski/claude-skills@wcag-accessibility-audit",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:forcedotcom/sf-skills@experience-lwc-accessibility-validate",
+    "name": "forcedotcom/sf-skills@experience-lwc-accessibility-validate",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/experience-lwc-accessibility-validate",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add forcedotcom/sf-skills@experience-lwc-accessibility-validate",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:flutter/agent-plugins@flutter-accessibility",
+    "name": "flutter/agent-plugins@flutter-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/flutter/agent-plugins/flutter-accessibility",
+    "metric": {
+      "installs": 1000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add flutter/agent-plugins@flutter-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:dadederk/ios-accessibility-agent-skill@ios-accessibility",
+    "name": "dadederk/ios-accessibility-agent-skill@ios-accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/dadederk/ios-accessibility-agent-skill/ios-accessibility",
+    "metric": {
+      "installs": 825
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dadederk/ios-accessibility-agent-skill@ios-accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:jezweb/claude-skills@accessibility",
+    "name": "jezweb/claude-skills@accessibility",
+    "type": "skill",
+    "source_url": "https://skills.sh/jezweb/claude-skills/accessibility",
+    "metric": {
+      "installs": 512
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jezweb/claude-skills@accessibility",
+    "seed_keyword": "accessibility"
+  },
+  {
+    "id": "skillssh:webflow/webflow-skills@accessibility-audit",
+    "name": "webflow/webflow-skills@accessibility-audit",
+    "type": "skill",
+    "source_url": "https://skills.sh/webflow/webflow-skills/accessibility-audit",
+    "metric": {
+      "installs": 495
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add webflow/webflow-skills@accessibility-audit",
+    "seed_keyword": "accessibility"
+  }
+]

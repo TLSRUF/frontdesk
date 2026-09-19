@@ -1,0 +1,822 @@
+[
+  {
+    "id": "github:AgriciDaniel/claude-seo",
+    "name": "claude-seo",
+    "owner": "AgriciDaniel",
+    "type": "github-repo",
+    "source_url": "https://github.com/AgriciDaniel/claude-seo",
+    "metric": {
+      "stars": 17172
+    },
+    "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
+    "topics": [
+      "ai",
+      "ai-seo",
+      "claude-code",
+      "claude-code-skill",
+      "marketing-automation",
+      "open-source",
+      "seo"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:alyssaxuu/flowy",
+    "name": "flowy",
+    "owner": "alyssaxuu",
+    "type": "github-repo",
+    "source_url": "https://github.com/alyssaxuu/flowy",
+    "metric": {
+      "stars": 12131
+    },
+    "description": "The minimal javascript library to create flowcharts ✨",
+    "topics": [
+      "diagrams",
+      "drag-and-drop",
+      "engine",
+      "flowchart",
+      "javascript",
+      "javascript-library",
+      "marketing",
+      "marketing-automation",
+      "minimal",
+      "zapier"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:mautic/mautic",
+    "name": "mautic",
+    "owner": "mautic",
+    "type": "github-repo",
+    "source_url": "https://github.com/mautic/mautic",
+    "metric": {
+      "stars": 10529
+    },
+    "description": "Mautic: Open Source Marketing Automation Software.",
+    "topics": [
+      "digital-experience-platform",
+      "digitalexperienceplatform",
+      "dxp",
+      "email-marketing",
+      "email-marketing-automation",
+      "email-marketing-software",
+      "hacktoberfest",
+      "marketing-automation",
+      "marketing-tools",
+      "mautic",
+      "open-source",
+      "php"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:AgriciDaniel/claude-ads",
+    "name": "claude-ads",
+    "owner": "AgriciDaniel",
+    "type": "github-repo",
+    "source_url": "https://github.com/AgriciDaniel/claude-ads",
+    "metric": {
+      "stars": 9401
+    },
+    "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "ai-marketing",
+      "claude-code",
+      "claude-code-skill",
+      "google-ads",
+      "marketing-automation",
+      "meta-ads",
+      "open-source",
+      "paid-advertising",
+      "ppc"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:Mailtrain-org/mailtrain",
+    "name": "mailtrain",
+    "owner": "Mailtrain-org",
+    "type": "github-repo",
+    "source_url": "https://github.com/Mailtrain-org/mailtrain",
+    "metric": {
+      "stars": 5752
+    },
+    "description": "Self hosted newsletter app",
+    "topics": [
+      "email-marketing",
+      "mailtrain",
+      "marketing-automation"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:leaperone/MultiPost-Extension",
+    "name": "MultiPost-Extension",
+    "owner": "leaperone",
+    "type": "github-repo",
+    "source_url": "https://github.com/leaperone/MultiPost-Extension",
+    "metric": {
+      "stars": 3496
+    },
+    "description": "A browser extension that helps users publish content to multiple social media platforms with one click.",
+    "topics": [
+      "article",
+      "automation",
+      "content-platform",
+      "marketing",
+      "marketing-automation",
+      "social-media"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:eracle/OpenOutreach",
+    "name": "OpenOutreach",
+    "owner": "eracle",
+    "type": "github-repo",
+    "source_url": "https://github.com/eracle/OpenOutreach",
+    "metric": {
+      "stars": 3032
+    },
+    "description": "Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install.",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-marketing",
+      "agentic-workflow",
+      "automation",
+      "b2b",
+      "email-automation",
+      "icp",
+      "lead-generation",
+      "lead-qualification",
+      "llm",
+      "marketing",
+      "marketing-automation",
+      "outreach",
+      "prospecting",
+      "sales-intelligence",
+      "self-hosted"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:aaron-he-zhu/aaron-marketing-skills",
+    "name": "aaron-marketing-skills",
+    "owner": "aaron-he-zhu",
+    "type": "github-repo",
+    "source_url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
+    "metric": {
+      "stars": 2801
+    },
+    "description": "120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 auditor gates: TALE · CORE-EEAT · CITE · ECHO · SEND · ROAS · STAR · RAMP.",
+    "topics": [
+      "aaron-marketing",
+      "agent-skills",
+      "ai-staff",
+      "brand-messaging",
+      "brand-narrative",
+      "content-optimization",
+      "email-marketing",
+      "generative-engine-optimization",
+      "geo",
+      "grok",
+      "hermes",
+      "influencer-marketing",
+      "marketing",
+      "marketing-automation",
+      "organic-social",
+      "paid-advertising",
+      "product-launch",
+      "roas",
+      "seo",
+      "social-media-marketing"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:zubair-trabzada/ai-marketing-claude",
+    "name": "ai-marketing-claude",
+    "owner": "zubair-trabzada",
+    "type": "github-repo",
+    "source_url": "https://github.com/zubair-trabzada/ai-marketing-claude",
+    "metric": {
+      "stars": 2663
+    },
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports.",
+    "topics": [
+      "ai-marketing",
+      "claude",
+      "claude-code",
+      "competitive-analysis",
+      "content-strategy",
+      "copywriting",
+      "email-marketing",
+      "marketing",
+      "marketing-automation",
+      "seo"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:Notifuse/notifuse",
+    "name": "notifuse",
+    "owner": "Notifuse",
+    "type": "github-repo",
+    "source_url": "https://github.com/Notifuse/notifuse",
+    "metric": {
+      "stars": 2205
+    },
+    "description": "Open-source, self-hosted newsletter, email marketing and transactional email platform. Visual MJML editor, Liquid templating, 7 sending providers.",
+    "topics": [
+      "amazon-ses",
+      "bulk-email",
+      "campaign-management",
+      "email-api",
+      "email-automation",
+      "email-builder",
+      "email-marketing",
+      "email-templates",
+      "mailchimp-alternative",
+      "mailgun",
+      "mailing-list",
+      "marketing-automation",
+      "mjml",
+      "newsletter",
+      "newsletter-management",
+      "newsletter-software",
+      "postmark",
+      "self-hosted",
+      "sendgrid",
+      "transactional-email"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:mettle/sendportal",
+    "name": "sendportal",
+    "owner": "mettle",
+    "type": "github-repo",
+    "source_url": "https://github.com/mettle/sendportal",
+    "metric": {
+      "stars": 2173
+    },
+    "description": "Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost. ",
+    "topics": [
+      "email-marketing",
+      "emails",
+      "marketing-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:tsingyuai/growth-lab",
+    "name": "growth-lab",
+    "owner": "tsingyuai",
+    "type": "github-repo",
+    "source_url": "https://github.com/tsingyuai/growth-lab",
+    "metric": {
+      "stars": 1988
+    },
+    "description": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。",
+    "topics": [
+      "agentic-marketing",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "growth",
+      "growth-hacking",
+      "marketing-automation",
+      "open-source",
+      "seo",
+      "skills",
+      "xiaohongshu"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:irinabuht12-oss/google-meta-ads-ga4-mcp",
+    "name": "google-meta-ads-ga4-mcp",
+    "owner": "irinabuht12-oss",
+    "type": "github-repo",
+    "source_url": "https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp",
+    "metric": {
+      "stars": 1974
+    },
+    "description": "Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remote MCP, OAuth login, no API keys. By Ryze AI.",
+    "topics": [
+      "ad-optimization",
+      "advertising",
+      "ai-agent",
+      "campaign-management",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "facebook-ads",
+      "ga4",
+      "google-ads",
+      "google-ads-mcp",
+      "google-analytics",
+      "instagram-ads",
+      "marketing-automation",
+      "mcp",
+      "mcp-server",
+      "meta-ads",
+      "meta-ads-mcp",
+      "model-context-protocol",
+      "n8n"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:Git-Agni/prod-FARM-IOS-Core",
+    "name": "prod-FARM-IOS-Core",
+    "owner": "Git-Agni",
+    "type": "github-repo",
+    "source_url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+    "metric": {
+      "stars": 1518
+    },
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+    "topics": [
+      "appium",
+      "device-farm",
+      "ios-automation",
+      "marketing-automation",
+      "phone-farm",
+      "tiktok-automation-script",
+      "webdriveragent"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:gitcoffee-os/postbot",
+    "name": "postbot",
+    "owner": "gitcoffee-os",
+    "type": "github-repo",
+    "source_url": "https://github.com/gitcoffee-os/postbot",
+    "metric": {
+      "stars": 1444
+    },
+    "description": "PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。",
+    "topics": [
+      "article",
+      "audio",
+      "automation",
+      "blog",
+      "cms",
+      "content",
+      "html",
+      "image-text",
+      "markdown",
+      "marketing",
+      "marketing-automation",
+      "media",
+      "multiplatform",
+      "note",
+      "podcast",
+      "productivity-tools",
+      "social-media",
+      "video"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:ALwrity/ALwrity",
+    "name": "ALwrity",
+    "owner": "ALwrity",
+    "type": "github-repo",
+    "source_url": "https://github.com/ALwrity/ALwrity",
+    "metric": {
+      "stars": 1165
+    },
+    "description": "ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP",
+    "topics": [
+      "ai-agent",
+      "ai-content-generation",
+      "ai-content-marketing",
+      "ai-digital-marketing",
+      "ai-seo-tools",
+      "ai-social-media",
+      "automated-seo",
+      "content-marketing",
+      "marketing-automation",
+      "multimodal-content-generation",
+      "seo-automation"
+    ],
+    "license": null,
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:Katzca/AutoSocial",
+    "name": "AutoSocial",
+    "owner": "Katzca",
+    "type": "github-repo",
+    "source_url": "https://github.com/Katzca/AutoSocial",
+    "metric": {
+      "stars": 1152
+    },
+    "description": "Local social media automation dashboard for TikTok, Instagram, and YouTube.",
+    "topics": [
+      "marketing-automation",
+      "social-media-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:indranilbanerjee/digital-marketing-pro",
+    "name": "digital-marketing-pro",
+    "owner": "indranilbanerjee",
+    "type": "github-repo",
+    "source_url": "https://github.com/indranilbanerjee/digital-marketing-pro",
+    "metric": {
+      "stars": 825
+    },
+    "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - grounded in brand context, human approval, and verifiable outputs.",
+    "topics": [
+      "aeo",
+      "agent-skills",
+      "ai-marketing",
+      "c2pa",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "content-marketing",
+      "copilot-cli-plugin",
+      "cursor-plugin",
+      "eu-ai-act",
+      "gemini-cli-extension",
+      "geo",
+      "google-antigravity",
+      "hermes-plugin",
+      "marketing-agency",
+      "marketing-automation",
+      "openai-codex",
+      "openclaw-plugin",
+      "seo"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:ChatbotXIO/ChatbotX",
+    "name": "ChatbotX",
+    "owner": "ChatbotXIO",
+    "type": "github-repo",
+    "source_url": "https://github.com/ChatbotXIO/ChatbotX",
+    "metric": {
+      "stars": 805
+    },
+    "description": "Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Telegram, Zalo, Email, API, and Webchat 🤖",
+    "topics": [
+      "agentic-ai",
+      "agentic-chat-marketing",
+      "agentic-marketing",
+      "chatbot",
+      "hacktoberfest",
+      "manychat-alternative",
+      "marketing",
+      "marketing-automation",
+      "nextjs",
+      "omnichannel",
+      "open-source",
+      "oss",
+      "postgresql",
+      "redis",
+      "sales",
+      "typescript"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:StJudeWasHere/seonaut",
+    "name": "seonaut",
+    "owner": "StJudeWasHere",
+    "type": "github-repo",
+    "source_url": "https://github.com/StJudeWasHere/seonaut",
+    "metric": {
+      "stars": 787
+    },
+    "description": "Open source SEO audit tool.",
+    "topics": [
+      "crawler",
+      "crawling",
+      "docker",
+      "docker-compose",
+      "go",
+      "golang",
+      "marketing-automation",
+      "seo",
+      "technical-seo",
+      "web"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:grouparoo/grouparoo",
+    "name": "grouparoo",
+    "owner": "grouparoo",
+    "type": "github-repo",
+    "source_url": "https://github.com/grouparoo/grouparoo",
+    "metric": {
+      "stars": 779
+    },
+    "description": "🦘 The Grouparoo Monorepo - open source customer data sync framework",
+    "topics": [
+      "apis",
+      "communication",
+      "docker",
+      "email",
+      "events",
+      "grouparoo",
+      "hacktoberfest",
+      "integration-framework",
+      "low-code",
+      "marketing",
+      "marketing-analytics",
+      "marketing-automation",
+      "marketing-operations",
+      "marketing-tools",
+      "nodejs",
+      "push-notifications",
+      "reverse-etl",
+      "self-hosted",
+      "typescript"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:AgriciDaniel/codex-seo",
+    "name": "codex-seo",
+    "owner": "AgriciDaniel",
+    "type": "github-repo",
+    "source_url": "https://github.com/AgriciDaniel/codex-seo",
+    "metric": {
+      "stars": 729
+    },
+    "description": "Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reports.",
+    "topics": [
+      "ai-search",
+      "ai-seo",
+      "automation",
+      "codex",
+      "codex-cli",
+      "codex-skills",
+      "content-strategy",
+      "core-web-vitals",
+      "dataforseo",
+      "ecommerce-seo",
+      "generative-engine-optimization",
+      "google-search-console",
+      "local-seo",
+      "marketing-automation",
+      "mcp",
+      "open-source",
+      "python",
+      "schema-markup",
+      "seo",
+      "technical-seo"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:DjangoCRM/django-crm",
+    "name": "django-crm",
+    "owner": "DjangoCRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/DjangoCRM/django-crm",
+    "metric": {
+      "stars": 626
+    },
+    "description": "CRM and Task management software, Email marketing and many more. Django CRM software app is built for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development. ✨",
+    "topics": [
+      "crm",
+      "crm-system",
+      "customer",
+      "customer-segmentation",
+      "django",
+      "django-crm",
+      "django-framework",
+      "email-automation",
+      "email-marketing",
+      "marketing-analytics",
+      "marketing-automation",
+      "python",
+      "reports",
+      "sales",
+      "sales-analysis",
+      "self-hosted",
+      "task-management",
+      "team",
+      "todo-list",
+      "todoapp"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:Shudesu/line-harness-oss",
+    "name": "line-harness-oss",
+    "owner": "Shudesu",
+    "type": "github-repo",
+    "source_url": "https://github.com/Shudesu/line-harness-oss",
+    "metric": {
+      "stars": 593
+    },
+    "description": "L Harness — self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (野田修一).",
+    "topics": [
+      "cloudflare-workers",
+      "crm",
+      "l-harness",
+      "line-official-account",
+      "marketing-automation",
+      "mcp",
+      "mcp-server",
+      "self-hosted"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:minhnv0807/ai-business-skills",
+    "name": "ai-business-skills",
+    "owner": "minhnv0807",
+    "type": "github-repo",
+    "source_url": "https://github.com/minhnv0807/ai-business-skills",
+    "metric": {
+      "stars": 584
+    },
+    "description": "138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library. 4 regions (US/EU/SEA/LATAM) + Vietnam 2025-2026. Companion: opa-kit.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-avatar",
+      "anthropic",
+      "chatgpt",
+      "claude-code",
+      "claude-plugin",
+      "content-marketing",
+      "copilot",
+      "cursor",
+      "dropshipping",
+      "gemini",
+      "global-marketing",
+      "llm-prompts",
+      "marketing-automation",
+      "marketing-skills",
+      "personal-brand",
+      "prompt-engineering",
+      "tiktok-marketing",
+      "vietnam"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:marketingtoolslist/awesome-marketing",
+    "name": "awesome-marketing",
+    "owner": "marketingtoolslist",
+    "type": "github-repo",
+    "source_url": "https://github.com/marketingtoolslist/awesome-marketing",
+    "metric": {
+      "stars": 458
+    },
+    "description": "A curated list of awesome marketing tools and resources",
+    "topics": [
+      "ai-agents",
+      "ai-marketing",
+      "ai-marketing-agent",
+      "ai-marketing-tools",
+      "awesome",
+      "awesome-digital-marketing",
+      "awesome-list",
+      "awesome-marketing",
+      "digital-marketing",
+      "gtm-engineering",
+      "marketing",
+      "marketing-analytics",
+      "marketing-automation",
+      "marketing-tools",
+      "marketing-tools-list",
+      "seo",
+      "seotools",
+      "sge"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:joshmn/caffeinate",
+    "name": "caffeinate",
+    "owner": "joshmn",
+    "type": "github-repo",
+    "source_url": "https://github.com/joshmn/caffeinate",
+    "metric": {
+      "stars": 384
+    },
+    "description": "A Rails engine for drip campaigns/scheduled sequences and periodical support. Works with ActionMailer, and other things.",
+    "topics": [
+      "drip",
+      "drip-campaign",
+      "email",
+      "marketing-automation",
+      "rails-engine",
+      "scheduled-messages",
+      "scheduled-notifications"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:zapier/gtm-cheat-codes",
+    "name": "gtm-cheat-codes",
+    "owner": "zapier",
+    "type": "github-repo",
+    "source_url": "https://github.com/zapier/gtm-cheat-codes",
+    "metric": {
+      "stars": 339
+    },
+    "description": "A field guide for go to market teams using coding agents. Installable skills for campaign planning, CRM context, customer proof, and reviewable agent workflows.",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "coding-agents",
+      "cursor",
+      "customer-success",
+      "go-to-market",
+      "gtm",
+      "marketing-automation",
+      "revops",
+      "zapier",
+      "zapier-mcp"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:CosmoBlk/email-marketing-bible",
+    "name": "email-marketing-bible",
+    "owner": "CosmoBlk",
+    "type": "github-repo",
+    "source_url": "https://github.com/CosmoBlk/email-marketing-bible",
+    "metric": {
+      "stars": 303
+    },
+    "description": "Email marketing skill for Claude Code. 55K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert.",
+    "topics": [
+      "agent-skills",
+      "ai-skill",
+      "claude-code",
+      "copywriting",
+      "deliverability",
+      "ecommerce",
+      "email-marketing",
+      "marketing-automation",
+      "saas"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  },
+  {
+    "id": "github:mettle/sendportal-core",
+    "name": "sendportal-core",
+    "owner": "mettle",
+    "type": "github-repo",
+    "source_url": "https://github.com/mettle/sendportal-core",
+    "metric": {
+      "stars": 299
+    },
+    "description": "Core functionality for SendPortal",
+    "topics": [
+      "email-marketing",
+      "emails",
+      "marketing-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "marketing-automation"
+  }
+]

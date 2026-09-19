@@ -1,0 +1,782 @@
+[
+  {
+    "id": "github:donnemartin/system-design-primer",
+    "name": "system-design-primer",
+    "owner": "donnemartin",
+    "type": "github-repo",
+    "source_url": "https://github.com/donnemartin/system-design-primer",
+    "metric": {
+      "stars": 370680
+    },
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "topics": [
+      "design",
+      "design-patterns",
+      "design-system",
+      "development",
+      "interview",
+      "interview-practice",
+      "interview-questions",
+      "programming",
+      "python",
+      "system",
+      "web",
+      "web-application",
+      "webapp"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:VoltAgent/awesome-design-md",
+    "name": "awesome-design-md",
+    "owner": "VoltAgent",
+    "type": "github-repo",
+    "source_url": "https://github.com/VoltAgent/awesome-design-md",
+    "metric": {
+      "stars": 116573
+    },
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "topics": [
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma",
+      "google-stitch",
+      "landing-page",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:mui/material-ui",
+    "name": "material-ui",
+    "owner": "mui",
+    "type": "github-repo",
+    "source_url": "https://github.com/mui/material-ui",
+    "metric": {
+      "stars": 99061
+    },
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+    "topics": [
+      "design-system",
+      "material-design",
+      "material-ui",
+      "react",
+      "react-components"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:saadeghi/daisyui",
+    "name": "daisyui",
+    "owner": "saadeghi",
+    "type": "github-repo",
+    "source_url": "https://github.com/saadeghi/daisyui",
+    "metric": {
+      "stars": 42420
+    },
+    "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+    "topics": [
+      "component",
+      "component-library",
+      "components",
+      "css",
+      "css-components",
+      "css-framework",
+      "daisyui",
+      "design-system",
+      "design-systems",
+      "front-end",
+      "postcss",
+      "svelte",
+      "tailwind",
+      "tailwind-css",
+      "tailwindcss",
+      "ui-design",
+      "ui-framework",
+      "ui-kit",
+      "ui-library",
+      "ui-pattern"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:chakra-ui/chakra-ui",
+    "name": "chakra-ui",
+    "owner": "chakra-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/chakra-ui/chakra-ui",
+    "metric": {
+      "stars": 40651
+    },
+    "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+    "topics": [
+      "a11y",
+      "accessible",
+      "ark-ui",
+      "chakra-ui",
+      "component",
+      "css-in-js",
+      "dark-mode",
+      "design-system",
+      "react",
+      "react-components",
+      "reactjs",
+      "styled",
+      "ui-components",
+      "ui-library",
+      "uikit",
+      "wai-aria"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:pedronauck/docz",
+    "name": "docz",
+    "owner": "pedronauck",
+    "type": "github-repo",
+    "source_url": "https://github.com/pedronauck/docz",
+    "metric": {
+      "stars": 23570
+    },
+    "description": "✍ It has never been so easy to document your things!",
+    "topics": [
+      "design-system",
+      "docs",
+      "documentation",
+      "docz",
+      "gatsby",
+      "js",
+      "mdx",
+      "react",
+      "theme",
+      "ui",
+      "zero-configuration"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:gztchan/awesome-design",
+    "name": "awesome-design",
+    "owner": "gztchan",
+    "type": "github-repo",
+    "source_url": "https://github.com/gztchan/awesome-design",
+    "metric": {
+      "stars": 17547
+    },
+    "description": "🌟 Curated design resources from all over the world.",
+    "topics": [
+      "adobe",
+      "awesome",
+      "creative",
+      "curated",
+      "design",
+      "design-system",
+      "designer-news",
+      "font",
+      "graphics",
+      "podcast",
+      "sketch",
+      "ui",
+      "ux",
+      "vector"
+    ],
+    "license": null,
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:stenciljs/core",
+    "name": "core",
+    "owner": "stenciljs",
+    "type": "github-repo",
+    "source_url": "https://github.com/stenciljs/core",
+    "metric": {
+      "stars": 13126
+    },
+    "description": "A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-agnostic codebase.",
+    "topics": [
+      "custom-element",
+      "design-system",
+      "ionic",
+      "ssg",
+      "ssr",
+      "static-site-generator",
+      "stencil",
+      "stenciljs",
+      "typescript",
+      "webcomponent"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:primer/css",
+    "name": "css",
+    "owner": "primer",
+    "type": "github-repo",
+    "source_url": "https://github.com/primer/css",
+    "metric": {
+      "stars": 13020
+    },
+    "description": "Primer is GitHub's design system. This is the CSS implementation",
+    "topics": [
+      "css",
+      "design-system",
+      "design-systems",
+      "framework",
+      "meta",
+      "primer",
+      "primer-css",
+      "sass",
+      "styleguide",
+      "ui-components"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:markmead/hyperui",
+    "name": "hyperui",
+    "owner": "markmead",
+    "type": "github-repo",
+    "source_url": "https://github.com/markmead/hyperui",
+    "metric": {
+      "stars": 12235
+    },
+    "description": "Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀",
+    "topics": [
+      "accessibility",
+      "components",
+      "css",
+      "design-system",
+      "frontend",
+      "html",
+      "tailwind",
+      "tailwindcss",
+      "tailwindui",
+      "templates",
+      "ui"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:jdan/98.css",
+    "name": "98.css",
+    "owner": "jdan",
+    "type": "github-repo",
+    "source_url": "https://github.com/jdan/98.css",
+    "metric": {
+      "stars": 11498
+    },
+    "description": "A design system for building faithful recreations of old UIs",
+    "topics": [
+      "css",
+      "design-system",
+      "guy-fieri",
+      "windows98"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:material-components/material-web",
+    "name": "material-web",
+    "owner": "material-components",
+    "type": "github-repo",
+    "source_url": "https://github.com/material-components/material-web",
+    "metric": {
+      "stars": 11252
+    },
+    "description": "Material Design Web Components",
+    "topics": [
+      "component-",
+      "design-system",
+      "lit",
+      "lit-element",
+      "lit-html",
+      "material",
+      "material-design",
+      "material-you",
+      "material3",
+      "web",
+      "web-components"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:mui/base-ui",
+    "name": "base-ui",
+    "owner": "mui",
+    "type": "github-repo",
+    "source_url": "https://github.com/mui/base-ui",
+    "metric": {
+      "stars": 10942
+    },
+    "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+    "topics": [
+      "accessibility",
+      "base-ui",
+      "components",
+      "design-system",
+      "react",
+      "react-components",
+      "ui",
+      "wai-aria"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:DouyinFE/semi-design",
+    "name": "semi-design",
+    "owner": "DouyinFE",
+    "type": "github-repo",
+    "source_url": "https://github.com/DouyinFE/semi-design",
+    "metric": {
+      "stars": 10365
+    },
+    "description": "🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click",
+    "topics": [
+      "ai-friendly",
+      "code2design",
+      "dark-mode",
+      "design-system",
+      "design2code",
+      "designops",
+      "designtocode",
+      "figma-plugin",
+      "react",
+      "theme",
+      "ui-libary"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:carbon-design-system/carbon",
+    "name": "carbon",
+    "owner": "carbon-design-system",
+    "type": "github-repo",
+    "source_url": "https://github.com/carbon-design-system/carbon",
+    "metric": {
+      "stars": 9464
+    },
+    "description": "A design system built by IBM",
+    "topics": [
+      "design-system",
+      "hacktoberfest",
+      "javascript",
+      "react",
+      "scss"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:themesberg/flowbite",
+    "name": "flowbite",
+    "owner": "themesberg",
+    "type": "github-repo",
+    "source_url": "https://github.com/themesberg/flowbite",
+    "metric": {
+      "stars": 9356
+    },
+    "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
+    "topics": [
+      "components",
+      "css",
+      "design-system",
+      "eslint",
+      "figma",
+      "flowbite",
+      "html",
+      "hugo",
+      "javascript",
+      "prettier",
+      "tailwind",
+      "tailwindcss",
+      "typescript",
+      "ui-components",
+      "ui-framework",
+      "ui-library",
+      "webpack"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:nuejs/nue",
+    "name": "nue",
+    "owner": "nuejs",
+    "type": "github-repo",
+    "source_url": "https://github.com/nuejs/nue",
+    "metric": {
+      "stars": 8820
+    },
+    "description": "Fastest way to build modern websites",
+    "topics": [
+      "design",
+      "design-system",
+      "javascript",
+      "javascript-framework",
+      "markdown-flavour",
+      "nuejs"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:grommet/grommet",
+    "name": "grommet",
+    "owner": "grommet",
+    "type": "github-repo",
+    "source_url": "https://github.com/grommet/grommet",
+    "metric": {
+      "stars": 8346
+    },
+    "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package",
+    "topics": [
+      "a11y",
+      "babel",
+      "design-system",
+      "grommet",
+      "hacktoberfest",
+      "javascript",
+      "react",
+      "ux-framework"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:rebassjs/rebass",
+    "name": "rebass",
+    "owner": "rebassjs",
+    "type": "github-repo",
+    "source_url": "https://github.com/rebassjs/rebass",
+    "metric": {
+      "stars": 7898
+    },
+    "description": ":atom_symbol: React primitive UI components built with styled-system.",
+    "topics": [
+      "color",
+      "components",
+      "css",
+      "design-system",
+      "emotion",
+      "grid",
+      "javascript",
+      "layout",
+      "react",
+      "react-components",
+      "rebass",
+      "styled-components",
+      "styled-system",
+      "theme",
+      "typography",
+      "ui"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:react95-io/React95",
+    "name": "React95",
+    "owner": "react95-io",
+    "type": "github-repo",
+    "source_url": "https://github.com/react95-io/React95",
+    "metric": {
+      "stars": 7267
+    },
+    "description": "🌈🕹  Windows 95 style UI component library for React",
+    "topics": [
+      "component-library",
+      "components",
+      "design-system",
+      "react",
+      "reactjs",
+      "styled-components",
+      "ui",
+      "ui-kit",
+      "vaporwave",
+      "windows95"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:unovue/reka-ui",
+    "name": "reka-ui",
+    "owner": "unovue",
+    "type": "github-repo",
+    "source_url": "https://github.com/unovue/reka-ui",
+    "metric": {
+      "stars": 6816
+    },
+    "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+    "topics": [
+      "accessibility",
+      "accessible",
+      "component-library",
+      "design-system",
+      "headless",
+      "nuxt",
+      "primitives",
+      "radix-ui",
+      "reka-ui",
+      "ui",
+      "ui-components",
+      "ui-kit",
+      "vue",
+      "vue-component-library",
+      "vue-components",
+      "vue-radix"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:vmware-archive/clarity",
+    "name": "clarity",
+    "owner": "vmware-archive",
+    "type": "github-repo",
+    "source_url": "https://github.com/vmware-archive/clarity",
+    "metric": {
+      "stars": 6392
+    },
+    "description": "Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.",
+    "topics": [
+      "accessibility",
+      "accessible-components",
+      "accessible-design",
+      "angular",
+      "angular-components",
+      "clarity",
+      "component-library",
+      "components",
+      "css",
+      "design-system",
+      "lit-elements",
+      "typescript",
+      "ui",
+      "ux",
+      "web",
+      "web-components",
+      "web-components-library"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:elastic/eui",
+    "name": "eui",
+    "owner": "elastic",
+    "type": "github-repo",
+    "source_url": "https://github.com/elastic/eui",
+    "metric": {
+      "stars": 6367
+    },
+    "description": "Elastic UI Framework 🙌",
+    "topics": [
+      "css-in-js",
+      "design-system",
+      "elasticsearch",
+      "eui",
+      "kibana",
+      "react"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:chakra-ui/panda",
+    "name": "panda",
+    "owner": "chakra-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/chakra-ui/panda",
+    "metric": {
+      "stars": 6193
+    },
+    "description": "🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️",
+    "topics": [
+      "atomic-css",
+      "compiler",
+      "css",
+      "css-in-js",
+      "design-system",
+      "design-tokens",
+      "engine",
+      "framework-agnostic",
+      "jit-compiler",
+      "postcss",
+      "styled-system",
+      "theming",
+      "typescript",
+      "utility-classes"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:Shopify/polaris-react-archive",
+    "name": "polaris-react-archive",
+    "owner": "Shopify",
+    "type": "github-repo",
+    "source_url": "https://github.com/Shopify/polaris-react-archive",
+    "metric": {
+      "stars": 6170
+    },
+    "description": "Shopify's Polaris Design System - React implementation (Deprecated)",
+    "topics": [
+      "component-library",
+      "design-system",
+      "design-systems",
+      "design-tokens",
+      "figma-plugin",
+      "icons",
+      "react",
+      "shopify-polaris",
+      "typescript",
+      "vscode-extension"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:skeletonlabs/skeleton",
+    "name": "skeleton",
+    "owner": "skeletonlabs",
+    "type": "github-repo",
+    "source_url": "https://github.com/skeletonlabs/skeleton",
+    "metric": {
+      "stars": 6060
+    },
+    "description": "Skeleton is an adaptive design system powered by Tailwind CSS.",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "astro",
+      "components",
+      "components-library",
+      "design",
+      "design-system",
+      "nextjs",
+      "react",
+      "svelte",
+      "sveltekit",
+      "tailwindcss",
+      "user-interface",
+      "vite"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:basscss/basscss",
+    "name": "basscss",
+    "owner": "basscss",
+    "type": "github-repo",
+    "source_url": "https://github.com/basscss/basscss",
+    "metric": {
+      "stars": 5897
+    },
+    "description": "Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library",
+    "topics": [
+      "atomic-css",
+      "basscss",
+      "css",
+      "design-system",
+      "functional-css",
+      "oocss",
+      "utility",
+      "utility-css"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:arco-design/arco-design",
+    "name": "arco-design",
+    "owner": "arco-design",
+    "type": "github-repo",
+    "source_url": "https://github.com/arco-design/arco-design",
+    "metric": {
+      "stars": 5704
+    },
+    "description": "A comprehensive React UI components library based on Arco Design",
+    "topics": [
+      "arco-design",
+      "component-library",
+      "customize",
+      "design-system",
+      "react",
+      "ui",
+      "ui-library"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:system-ui/theme-ui",
+    "name": "theme-ui",
+    "owner": "system-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/system-ui/theme-ui",
+    "metric": {
+      "stars": 5398
+    },
+    "description": "Build consistent, themeable React apps based on constraint-based design principles",
+    "topics": [
+      "color",
+      "design",
+      "design-system",
+      "design-tokens",
+      "emotion",
+      "layout",
+      "mdx",
+      "react",
+      "style",
+      "theme",
+      "typography",
+      "ui"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  },
+  {
+    "id": "github:chakra-ui/ark",
+    "name": "ark",
+    "owner": "chakra-ui",
+    "type": "github-repo",
+    "source_url": "https://github.com/chakra-ui/ark",
+    "metric": {
+      "stars": 5395
+    },
+    "description": "Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.",
+    "topics": [
+      "components",
+      "design-system",
+      "headless",
+      "primitives",
+      "react",
+      "solid",
+      "svelte",
+      "ui",
+      "unstyled",
+      "vue"
+    ],
+    "license": "MIT",
+    "seed_topic": "design-system"
+  }
+]

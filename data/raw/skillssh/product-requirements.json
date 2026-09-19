@@ -1,0 +1,223 @@
+[
+  {
+    "id": "skillssh:stellarlinkco/myclaude@product-requirements",
+    "name": "stellarlinkco/myclaude@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/stellarlinkco/myclaude/product-requirements",
+    "metric": {
+      "installs": 1200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add stellarlinkco/myclaude@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:product-on-purpose/pm-skills@measure-dashboard-requirements",
+    "name": "product-on-purpose/pm-skills@measure-dashboard-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/product-on-purpose/pm-skills/measure-dashboard-requirements",
+    "metric": {
+      "installs": 683
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add product-on-purpose/pm-skills@measure-dashboard-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:prometheas-labs/agent-plugins@product-development",
+    "name": "prometheas-labs/agent-plugins@product-development",
+    "type": "skill",
+    "source_url": "https://skills.sh/prometheas-labs/agent-plugins/product-development",
+    "metric": {
+      "installs": 259
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add prometheas-labs/agent-plugins@product-development",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:404kidwiz/claude-supercode-skills@product-manager",
+    "name": "404kidwiz/claude-supercode-skills@product-manager",
+    "type": "skill",
+    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/product-manager",
+    "metric": {
+      "installs": 255
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add 404kidwiz/claude-supercode-skills@product-manager",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
+    "name": "pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
+    "type": "skill",
+    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/requirements-specification",
+    "metric": {
+      "installs": 234
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:khazp/vibe-coding-prompt-template@vibe-prd",
+    "name": "khazp/vibe-coding-prompt-template@vibe-prd",
+    "type": "skill",
+    "source_url": "https://skills.sh/khazp/vibe-coding-prompt-template/vibe-prd",
+    "metric": {
+      "installs": 174
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add khazp/vibe-coding-prompt-template@vibe-prd",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:jaygptpro/amazon-pro-skills@amz-product-compliance",
+    "name": "jaygptpro/amazon-pro-skills@amz-product-compliance",
+    "type": "skill",
+    "source_url": "https://skills.sh/jaygptpro/amazon-pro-skills/amz-product-compliance",
+    "metric": {
+      "installs": 109
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add jaygptpro/amazon-pro-skills@amz-product-compliance",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:davidlee/doctrine@spec-product",
+    "name": "davidlee/doctrine@spec-product",
+    "type": "skill",
+    "source_url": "https://skills.sh/davidlee/doctrine/spec-product",
+    "metric": {
+      "installs": 91
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add davidlee/doctrine@spec-product",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:vilin1927/autoflux-landing@product-requirements",
+    "name": "vilin1927/autoflux-landing@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/vilin1927/autoflux-landing/product-requirements",
+    "metric": {
+      "installs": 26
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vilin1927/autoflux-landing@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:ssdeanx/agentstack@product-requirements",
+    "name": "ssdeanx/agentstack@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/ssdeanx/agentstack/product-requirements",
+    "metric": {
+      "installs": 22
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ssdeanx/agentstack@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:organvm-iv-taxis/a-i--skills@product-requirements-designer",
+    "name": "organvm-iv-taxis/a-i--skills@product-requirements-designer",
+    "type": "skill",
+    "source_url": "https://skills.sh/organvm-iv-taxis/a-i--skills/product-requirements-designer",
+    "metric": {
+      "installs": 19
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add organvm-iv-taxis/a-i--skills@product-requirements-designer",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:wizeline/sdlc-agents@qa-parsing-product-requirements",
+    "name": "wizeline/sdlc-agents@qa-parsing-product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/wizeline/sdlc-agents/qa-parsing-product-requirements",
+    "metric": {
+      "installs": 18
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wizeline/sdlc-agents@qa-parsing-product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:ecarrenolozano/ai-sdlc-skills@c-manage-product-requirements",
+    "name": "ecarrenolozano/ai-sdlc-skills@c-manage-product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/ecarrenolozano/ai-sdlc-skills/c-manage-product-requirements",
+    "metric": {
+      "installs": 15
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ecarrenolozano/ai-sdlc-skills@c-manage-product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:cbrock84/headcount@product-requirements",
+    "name": "cbrock84/headcount@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/cbrock84/headcount/product-requirements",
+    "metric": {
+      "installs": 6
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cbrock84/headcount@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:yonderlab/kota.agent.skills@product-requirements",
+    "name": "yonderlab/kota.agent.skills@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/yonderlab/kota.agent.skills/product-requirements",
+    "metric": {
+      "installs": 6
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add yonderlab/kota.agent.skills@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:puterakahfi/ai-native-skills@product-requirements",
+    "name": "puterakahfi/ai-native-skills@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/puterakahfi/ai-native-skills/product-requirements",
+    "metric": {
+      "installs": 2
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add puterakahfi/ai-native-skills@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
+    "id": "skillssh:yiweiwan/skills@product-requirements",
+    "name": "yiweiwan/skills@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/yiweiwan/skills/product-requirements",
+    "metric": {
+      "installs": 2
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add yiweiwan/skills@product-requirements",
+    "seed_keyword": "product requirements"
+  }
+]

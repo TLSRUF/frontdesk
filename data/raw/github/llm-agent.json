@@ -1,0 +1,822 @@
+[
+  {
+    "id": "github:microsoft/autogen",
+    "name": "autogen",
+    "owner": "microsoft",
+    "type": "github-repo",
+    "source_url": "https://github.com/microsoft/autogen",
+    "metric": {
+      "stars": 61053
+    },
+    "description": "A programming framework for agentic AI",
+    "topics": [
+      "agentic",
+      "agentic-agi",
+      "agents",
+      "ai",
+      "autogen",
+      "autogen-ecosystem",
+      "chatgpt",
+      "framework",
+      "llm-agent",
+      "llm-framework"
+    ],
+    "license": "CC-BY-4.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:2noise/ChatTTS",
+    "name": "ChatTTS",
+    "owner": "2noise",
+    "type": "github-repo",
+    "source_url": "https://github.com/2noise/ChatTTS",
+    "metric": {
+      "stars": 39856
+    },
+    "description": "A generative speech model for daily dialogue.",
+    "topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:agentscope-ai/agentscope",
+    "name": "agentscope",
+    "owner": "agentscope-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/agentscope-ai/agentscope",
+    "metric": {
+      "stars": 31944
+    },
+    "description": "Build and run agents you can see, understand and trust.",
+    "topics": [
+      "agent",
+      "chatbot",
+      "large-language-models",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "multi-agent",
+      "multi-modal",
+      "react-agent",
+      "realtime-agent",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:feder-cr/AIHawk",
+    "name": "AIHawk",
+    "owner": "feder-cr",
+    "type": "github-repo",
+    "source_url": "https://github.com/feder-cr/AIHawk",
+    "metric": {
+      "stars": 31593
+    },
+    "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.",
+    "topics": [
+      "agentic-ai",
+      "ai-agent",
+      "ai-automation",
+      "autonomous-agents",
+      "browser",
+      "browser-agent",
+      "claude-code-plugin",
+      "computer-use",
+      "gemini-cli-extension",
+      "job-hunting",
+      "job-search",
+      "lead-generation",
+      "llm-agent",
+      "market-research",
+      "price-monitoring",
+      "productivity",
+      "task-automation",
+      "web-agent",
+      "web-automation",
+      "web-research"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:titanwings/distilly",
+    "name": "distilly",
+    "owner": "titanwings",
+    "type": "github-repo",
+    "source_url": "https://github.com/titanwings/distilly",
+    "metric": {
+      "stars": 24867
+    },
+    "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "ai-persona",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skills",
+      "deepseek-harness",
+      "digital-human",
+      "dsh-plugin",
+      "hermes-agent",
+      "knowledge-distillation",
+      "llm-agent",
+      "meta-skill",
+      "openclaw",
+      "opencode"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:letta-ai/letta",
+    "name": "letta",
+    "owner": "letta-ai",
+    "type": "github-repo",
+    "source_url": "https://github.com/letta-ai/letta",
+    "metric": {
+      "stars": 24792
+    },
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "llm-agent"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:HKUDS/DeepCode",
+    "name": "DeepCode",
+    "owner": "HKUDS",
+    "type": "github-repo",
+    "source_url": "https://github.com/HKUDS/DeepCode",
+    "metric": {
+      "stars": 16573
+    },
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "topics": [
+      "agentic-coding",
+      "harness-engineering",
+      "llm-agent"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:lsdefine/GenericAgent",
+    "name": "GenericAgent",
+    "owner": "lsdefine",
+    "type": "github-repo",
+    "source_url": "https://github.com/lsdefine/GenericAgent",
+    "metric": {
+      "stars": 14220
+    },
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "topics": [
+      "ai-agent",
+      "automation",
+      "autonomous-agent",
+      "browser-automation",
+      "claude",
+      "computer-control",
+      "desktop-automation",
+      "gemini",
+      "lightweight",
+      "llm-agent",
+      "memory-system",
+      "python",
+      "self-evolving",
+      "skill-tree",
+      "task-automation"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "name": "PocketFlow-Tutorial-Codebase-Knowledge",
+    "owner": "The-Pocket",
+    "type": "github-repo",
+    "source_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "metric": {
+      "stars": 12671
+    },
+    "description": "Pocket Flow: Codebase to Tutorial",
+    "topics": [
+      "coding",
+      "large-language-model",
+      "large-language-models",
+      "llm",
+      "llm-agent",
+      "llm-agents",
+      "llm-application",
+      "llm-apps",
+      "llm-framework",
+      "llm-frameworks",
+      "llms",
+      "pocket-flow",
+      "pocketflow"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:The-Pocket/PocketFlow",
+    "name": "PocketFlow",
+    "owner": "The-Pocket",
+    "type": "github-repo",
+    "source_url": "https://github.com/The-Pocket/PocketFlow",
+    "metric": {
+      "stars": 11179
+    },
+    "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai-framework",
+      "ai-frameworks",
+      "aiagent",
+      "aiagents",
+      "artificial-intelligence",
+      "flow-based-programming",
+      "flow-engineering",
+      "large-language-model",
+      "large-language-models",
+      "llm-agent",
+      "llm-framework",
+      "pocket-flow",
+      "pocketflow",
+      "retrieval-augmented-generation",
+      "workflow",
+      "workflow-orchestration"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:EvoMap/evolver",
+    "name": "evolver",
+    "owner": "EvoMap",
+    "type": "github-repo",
+    "source_url": "https://github.com/EvoMap/evolver",
+    "metric": {
+      "stars": 9104
+    },
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "topics": [
+      "a2a",
+      "agent-evolution",
+      "agent-framework",
+      "agent-protocol",
+      "ai-agent",
+      "auditable-ai",
+      "autonomous-agent",
+      "cli",
+      "evomap",
+      "gep",
+      "llm-agent",
+      "mcp",
+      "memory-system",
+      "nodejs",
+      "prompt-engineering",
+      "prompt-governance",
+      "self-evolution",
+      "self-evolving",
+      "skill-library",
+      "skills"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:strands-agents/harness-sdk",
+    "name": "harness-sdk",
+    "owner": "strands-agents",
+    "type": "github-repo",
+    "source_url": "https://github.com/strands-agents/harness-sdk",
+    "metric": {
+      "stars": 7361
+    },
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+    "topics": [
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "autonomous-agents",
+      "bedrock",
+      "generative-ai",
+      "harness",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "multi-agent-systems",
+      "openai",
+      "python",
+      "sdk",
+      "strands-agents",
+      "typescript"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:jeinlee1991/chinese-llm-benchmark",
+    "name": "chinese-llm-benchmark",
+    "owner": "jeinlee1991",
+    "type": "github-repo",
+    "source_url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
+    "metric": {
+      "stars": 6445
+    },
+    "description": "非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.6、ernie4.5、MiniMax-M2.7、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.1、MiMo-V2、LongCat、gemma4、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。",
+    "topics": [
+      "agentic-ai",
+      "artificial-intelligence",
+      "llm-agent",
+      "llm-evaluation"
+    ],
+    "license": null,
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:Mai-with-u/MaiBot",
+    "name": "MaiBot",
+    "owner": "Mai-with-u",
+    "type": "github-repo",
+    "source_url": "https://github.com/Mai-with-u/MaiBot",
+    "metric": {
+      "stars": 5989
+    },
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.",
+    "topics": [
+      "agent",
+      "chat",
+      "chatbot",
+      "llm",
+      "llm-agent",
+      "llms",
+      "python",
+      "qq-bot",
+      "qqbot"
+    ],
+    "license": "GPL-3.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:areal-project/AReaL",
+    "name": "AReaL",
+    "owner": "areal-project",
+    "type": "github-repo",
+    "source_url": "https://github.com/areal-project/AReaL",
+    "metric": {
+      "stars": 5775
+    },
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "topics": [
+      "agent",
+      "llm",
+      "llm-agent",
+      "llm-reasoning",
+      "machine-learning-systems",
+      "mlsys",
+      "reinforcement-learning",
+      "rl"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:ATH-MaaS/ComfyUI-Copilot",
+    "name": "ComfyUI-Copilot",
+    "owner": "ATH-MaaS",
+    "type": "github-repo",
+    "source_url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
+    "metric": {
+      "stars": 5520
+    },
+    "description": "An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance",
+    "topics": [
+      "agent",
+      "ai",
+      "comfy-ui",
+      "comfyui",
+      "comfyui-nodes",
+      "copilot",
+      "deepseek",
+      "deepseek-v3",
+      "flux",
+      "gpt-4",
+      "llm-agent",
+      "rag",
+      "stable-diffusion"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:pguso/ai-agents-from-scratch",
+    "name": "ai-agents-from-scratch",
+    "owner": "pguso",
+    "type": "github-repo",
+    "source_url": "https://github.com/pguso/ai-agents-from-scratch",
+    "metric": {
+      "stars": 4781
+    },
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "topics": [
+      "ai-agents",
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:gptme/gptme",
+    "name": "gptme",
+    "owner": "gptme",
+    "type": "github-repo",
+    "source_url": "https://github.com/gptme/gptme",
+    "metric": {
+      "stars": 4418
+    },
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+    "topics": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "ai-assistant",
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "cli",
+      "code-generation",
+      "llamacpp",
+      "llm",
+      "llm-agent",
+      "llm-apps",
+      "openai",
+      "openrouter",
+      "rag"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:langroid/langroid",
+    "name": "langroid",
+    "owner": "langroid",
+    "type": "github-repo",
+    "source_url": "https://github.com/langroid/langroid",
+    "metric": {
+      "stars": 4103
+    },
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "topics": [
+      "agents",
+      "ai",
+      "chatgpt",
+      "function-calling",
+      "gpt",
+      "gpt-4",
+      "gpt4",
+      "information-retrieval",
+      "language-model",
+      "llama",
+      "llm",
+      "llm-agent",
+      "llm-framework",
+      "local-llm",
+      "multi-agent-systems",
+      "openai-api",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:shroominic/codeinterpreter-api",
+    "name": "codeinterpreter-api",
+    "owner": "shroominic",
+    "type": "github-repo",
+    "source_url": "https://github.com/shroominic/codeinterpreter-api",
+    "metric": {
+      "stars": 3844
+    },
+    "description": "👾 Open source implementation of the ChatGPT Code Interpreter",
+    "topics": [
+      "chatgpt",
+      "chatgpt-code-generation",
+      "code-interpreter",
+      "codeinterpreter",
+      "langchain",
+      "llm-agent"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:xiaobright/dsh-anchored-standard",
+    "name": "dsh-anchored-standard",
+    "owner": "xiaobright",
+    "type": "github-repo",
+    "source_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "metric": {
+      "stars": 3809
+    },
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm-agent"
+    ],
+    "license": "NOASSERTION",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:THUDM/AgentBench",
+    "name": "AgentBench",
+    "owner": "THUDM",
+    "type": "github-repo",
+    "source_url": "https://github.com/THUDM/AgentBench",
+    "metric": {
+      "stars": 3741
+    },
+    "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+    "topics": [
+      "chatgpt",
+      "gpt-4",
+      "llm",
+      "llm-agent"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:filipecalegario/awesome-generative-ai",
+    "name": "awesome-generative-ai",
+    "owner": "filipecalegario",
+    "type": "github-repo",
+    "source_url": "https://github.com/filipecalegario/awesome-generative-ai",
+    "metric": {
+      "stars": 3539
+    },
+    "description": "A curated list of Generative AI tools, works, models, and references",
+    "topics": [
+      "ai-art",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "dall-e",
+      "dalle2",
+      "embeddings",
+      "generative-ai",
+      "gpt-4",
+      "llm",
+      "llm-agent",
+      "midjourney",
+      "openai",
+      "prompt-engineering",
+      "semantic-search",
+      "stable-diffusion",
+      "text-to-image",
+      "txt2img"
+    ],
+    "license": "CC0-1.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:DSXiangLi/DecryptPrompt",
+    "name": "DecryptPrompt",
+    "owner": "DSXiangLi",
+    "type": "github-repo",
+    "source_url": "https://github.com/DSXiangLi/DecryptPrompt",
+    "metric": {
+      "stars": 3440
+    },
+    "description": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
+    "topics": [
+      "aigc",
+      "chain-of-thought",
+      "chatgpt",
+      "demonstration",
+      "few-shot-learning",
+      "in-context-learning",
+      "instruction-tuning",
+      "llm",
+      "llm-agent",
+      "papers",
+      "prompt",
+      "prompt-engineering",
+      "prompt-tuning",
+      "zero-shot-learning"
+    ],
+    "license": null,
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:HolmesGPT/holmesgpt",
+    "name": "holmesgpt",
+    "owner": "HolmesGPT",
+    "type": "github-repo",
+    "source_url": "https://github.com/HolmesGPT/holmesgpt",
+    "metric": {
+      "stars": 3410
+    },
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "topics": [
+      "aiops",
+      "chatbot",
+      "chatops",
+      "devops",
+      "devops-tools",
+      "incident",
+      "incident-management",
+      "incident-response",
+      "jira",
+      "kubernetes",
+      "llm",
+      "llm-agent",
+      "llm-framework",
+      "llms",
+      "monitoring",
+      "observability",
+      "prometheus",
+      "site-reliability-engineering",
+      "slack",
+      "sre"
+    ],
+    "license": "Apache-2.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:yilewang/llm-for-zotero",
+    "name": "llm-for-zotero",
+    "owner": "yilewang",
+    "type": "github-repo",
+    "source_url": "https://github.com/yilewang/llm-for-zotero",
+    "metric": {
+      "stars": 3069
+    },
+    "description": "An open-source research agent system for your Zotero library.",
+    "topics": [
+      "academic-paper",
+      "codex",
+      "literature-analysis",
+      "llm-agent",
+      "mcp",
+      "rag",
+      "research-tool",
+      "zotero",
+      "zotero-plugin"
+    ],
+    "license": "AGPL-3.0",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:genieincodebottle/generative-ai",
+    "name": "generative-ai",
+    "owner": "genieincodebottle",
+    "type": "github-repo",
+    "source_url": "https://github.com/genieincodebottle/generative-ai",
+    "metric": {
+      "stars": 2639
+    },
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "claude",
+      "gemini",
+      "genai",
+      "genai-usecase",
+      "generative-ai",
+      "interview-questions",
+      "langchain",
+      "langgraph",
+      "large-language-model",
+      "llm-agent",
+      "llm-evaluation",
+      "mcp",
+      "model-context-protocol",
+      "multimodal",
+      "n8n",
+      "n8n-workflow",
+      "openai-api",
+      "retrieval-augmented-generation"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:AGI-Edgerunners/LLM-Agents-Papers",
+    "name": "LLM-Agents-Papers",
+    "owner": "AGI-Edgerunners",
+    "type": "github-repo",
+    "source_url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
+    "metric": {
+      "stars": 2345
+    },
+    "description": "A repo lists papers related to LLM based agent",
+    "topics": [
+      "agents",
+      "large-language-models",
+      "llm-agent",
+      "paper-list"
+    ],
+    "license": null,
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:Weizhena/Deep-Research-skills",
+    "name": "Deep-Research-skills",
+    "owner": "Weizhena",
+    "type": "github-repo",
+    "source_url": "https://github.com/Weizhena/Deep-Research-skills",
+    "metric": {
+      "stars": 2189
+    },
+    "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
+    "topics": [
+      "claude-code",
+      "claude-code-skills",
+      "deep-research-agent",
+      "gpt-skills",
+      "llm-agent",
+      "opencode",
+      "opencode-skills",
+      "research"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  },
+  {
+    "id": "github:SqueezeAILab/LLMCompiler",
+    "name": "LLMCompiler",
+    "owner": "SqueezeAILab",
+    "type": "github-repo",
+    "source_url": "https://github.com/SqueezeAILab/LLMCompiler",
+    "metric": {
+      "stars": 1885
+    },
+    "description": "[ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling",
+    "topics": [
+      "efficient-inference",
+      "function-calling",
+      "large-language-models",
+      "llama",
+      "llama2",
+      "llm",
+      "llm-agent",
+      "llm-agents",
+      "llm-framework",
+      "llms",
+      "natural-language-processing",
+      "nlp",
+      "parallel-function-call",
+      "transformer"
+    ],
+    "license": "MIT",
+    "seed_topic": "llm-agent"
+  }
+]

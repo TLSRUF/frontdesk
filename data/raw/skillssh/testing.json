@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skillssh:anthropics/skills@webapp-testing",
+    "name": "anthropics/skills@webapp-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/skills/webapp-testing",
+    "metric": {
+      "installs": 159300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/skills@webapp-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@ab-testing",
+    "name": "coreyhaines31/marketingskills@ab-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/ab-testing",
+    "metric": {
+      "installs": 60200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@ab-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:samber/cc-skills-golang@golang-testing",
+    "name": "samber/cc-skills-golang@golang-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-testing",
+    "metric": {
+      "installs": 40900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills-golang@golang-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:clerk/skills@clerk-testing",
+    "name": "clerk/skills@clerk-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/clerk/skills/clerk-testing",
+    "metric": {
+      "installs": 39200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add clerk/skills@clerk-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:addyosmani/agent-skills@browser-testing-with-devtools",
+    "name": "addyosmani/agent-skills@browser-testing-with-devtools",
+    "type": "skill",
+    "source_url": "https://skills.sh/addyosmani/agent-skills/browser-testing-with-devtools",
+    "metric": {
+      "installs": 34600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add addyosmani/agent-skills@browser-testing-with-devtools",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@python-testing-patterns",
+    "name": "wshobson/agents@python-testing-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/python-testing-patterns",
+    "metric": {
+      "installs": 32900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@python-testing-patterns",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@e2e-testing-patterns",
+    "name": "wshobson/agents@e2e-testing-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/e2e-testing-patterns",
+    "metric": {
+      "installs": 22700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@e2e-testing-patterns",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@javascript-testing-patterns",
+    "name": "wshobson/agents@javascript-testing-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/javascript-testing-patterns",
+    "metric": {
+      "installs": 18900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@javascript-testing-patterns",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@backtesting-frameworks",
+    "name": "wshobson/agents@backtesting-frameworks",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/backtesting-frameworks",
+    "metric": {
+      "installs": 15200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@backtesting-frameworks",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@golang-testing",
+    "name": "affaan-m/ecc@golang-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/golang-testing",
+    "metric": {
+      "installs": 12600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@golang-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@webapp-testing",
+    "name": "github/awesome-copilot@webapp-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/webapp-testing",
+    "metric": {
+      "installs": 12400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add github/awesome-copilot@webapp-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:vuejs-ai/skills@vue-testing-best-practices",
+    "name": "vuejs-ai/skills@vue-testing-best-practices",
+    "type": "skill",
+    "source_url": "https://skills.sh/vuejs-ai/skills/vue-testing-best-practices",
+    "metric": {
+      "installs": 11800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add vuejs-ai/skills@vue-testing-best-practices",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:affaan-m/ecc@e2e-testing",
+    "name": "affaan-m/ecc@e2e-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/affaan-m/ecc/e2e-testing",
+    "metric": {
+      "installs": 10100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add affaan-m/ecc@e2e-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@temporal-python-testing",
+    "name": "wshobson/agents@temporal-python-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/temporal-python-testing",
+    "metric": {
+      "installs": 9900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@temporal-python-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@web3-testing",
+    "name": "wshobson/agents@web3-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/web3-testing",
+    "metric": {
+      "installs": 9800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@web3-testing",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:wshobson/agents@bats-testing-patterns",
+    "name": "wshobson/agents@bats-testing-patterns",
+    "type": "skill",
+    "source_url": "https://skills.sh/wshobson/agents/bats-testing-patterns",
+    "metric": {
+      "installs": 9800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add wshobson/agents@bats-testing-patterns",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:flutter/agent-plugins@flutter-testing-apps",
+    "name": "flutter/agent-plugins@flutter-testing-apps",
+    "type": "skill",
+    "source_url": "https://skills.sh/flutter/agent-plugins/flutter-testing-apps",
+    "metric": {
+      "installs": 9100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add flutter/agent-plugins@flutter-testing-apps",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:twostraws/swift-testing-agent-skill@swift-testing-pro",
+    "name": "twostraws/swift-testing-agent-skill@swift-testing-pro",
+    "type": "skill",
+    "source_url": "https://skills.sh/twostraws/swift-testing-agent-skill/swift-testing-pro",
+    "metric": {
+      "installs": 8700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add twostraws/swift-testing-agent-skill@swift-testing-pro",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@testing-strategy",
+    "name": "anthropics/knowledge-work-plugins@testing-strategy",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/testing-strategy",
+    "metric": {
+      "installs": 6000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@testing-strategy",
+    "seed_keyword": "testing"
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@sox-testing",
+    "name": "anthropics/knowledge-work-plugins@sox-testing",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/sox-testing",
+    "metric": {
+      "installs": 2500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add anthropics/knowledge-work-plugins@sox-testing",
+    "seed_keyword": "testing"
+  }
+]

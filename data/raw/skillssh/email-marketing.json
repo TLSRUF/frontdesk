@@ -1,0 +1,249 @@
+[
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@cold-email",
+    "name": "coreyhaines31/marketingskills@cold-email",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
+    "metric": {
+      "installs": 110000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@cold-email",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@emails",
+    "name": "coreyhaines31/marketingskills@emails",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/emails",
+    "metric": {
+      "installs": 60800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@emails",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:coreyhaines31/marketingskills@email-sequence",
+    "name": "coreyhaines31/marketingskills@email-sequence",
+    "type": "skill",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/email-sequence",
+    "metric": {
+      "installs": 55800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add coreyhaines31/marketingskills@email-sequence",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:caffeinelabs/skills@extension-email-marketing",
+    "name": "caffeinelabs/skills@extension-email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/caffeinelabs/skills/extension-email-marketing",
+    "metric": {
+      "installs": 21000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add caffeinelabs/skills@extension-email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:claude-office-skills/skills@email-marketing",
+    "name": "claude-office-skills/skills@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/claude-office-skills/skills/email-marketing",
+    "metric": {
+      "installs": 4400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add claude-office-skills/skills@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:arnabbagxd/brand-building-skills@email-marketing",
+    "name": "arnabbagxd/brand-building-skills@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/arnabbagxd/brand-building-skills/email-marketing",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add arnabbagxd/brand-building-skills@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:kostja94/marketing-skills@email-marketing",
+    "name": "kostja94/marketing-skills@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/kostja94/marketing-skills/email-marketing",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add kostja94/marketing-skills@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:nexscope-ai/ecommerce-skills@ecommerce-email-marketing-builder",
+    "name": "nexscope-ai/ecommerce-skills@ecommerce-email-marketing-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/ecommerce-email-marketing-builder",
+    "metric": {
+      "installs": 928
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexscope-ai/ecommerce-skills@ecommerce-email-marketing-builder",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-render-builder",
+    "name": "aaron-he-zhu/aaron-marketing-skills@email-render-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-render-builder",
+    "metric": {
+      "installs": 785
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/aaron-marketing-skills@email-render-builder",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-creative-builder",
+    "name": "aaron-he-zhu/aaron-marketing-skills@email-creative-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-creative-builder",
+    "metric": {
+      "installs": 784
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/aaron-marketing-skills@email-creative-builder",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-sequence-designer",
+    "name": "aaron-he-zhu/aaron-marketing-skills@email-sequence-designer",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-sequence-designer",
+    "metric": {
+      "installs": 784
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/aaron-marketing-skills@email-sequence-designer",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-quality-auditor",
+    "name": "aaron-he-zhu/aaron-marketing-skills@email-quality-auditor",
+    "type": "skill",
+    "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-quality-auditor",
+    "metric": {
+      "installs": 777
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add aaron-he-zhu/aaron-marketing-skills@email-quality-auditor",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:cosmoblk/email-marketing-bible@email-marketing-bible",
+    "name": "cosmoblk/email-marketing-bible@email-marketing-bible",
+    "type": "skill",
+    "source_url": "https://skills.sh/cosmoblk/email-marketing-bible/email-marketing-bible",
+    "metric": {
+      "installs": 365
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cosmoblk/email-marketing-bible@email-marketing-bible",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:nexu-io/open-design@email-marketing",
+    "name": "nexu-io/open-design@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/nexu-io/open-design/email-marketing",
+    "metric": {
+      "installs": 258
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add nexu-io/open-design@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:shawnpang/startup-founder-skills@email-marketing",
+    "name": "shawnpang/startup-founder-skills@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/shawnpang/startup-founder-skills/email-marketing",
+    "metric": {
+      "installs": 145
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shawnpang/startup-founder-skills@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:maddhruv/absolute@email-marketing",
+    "name": "maddhruv/absolute@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/maddhruv/absolute/email-marketing",
+    "metric": {
+      "installs": 128
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add maddhruv/absolute@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:finsilabs/awesome-ecommerce-skills@email-marketing-automation",
+    "name": "finsilabs/awesome-ecommerce-skills@email-marketing-automation",
+    "type": "skill",
+    "source_url": "https://skills.sh/finsilabs/awesome-ecommerce-skills/email-marketing-automation",
+    "metric": {
+      "installs": 99
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add finsilabs/awesome-ecommerce-skills@email-marketing-automation",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:mphinance/alpha-skills@email-marketing",
+    "name": "mphinance/alpha-skills@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/mphinance/alpha-skills/email-marketing",
+    "metric": {
+      "installs": 85
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mphinance/alpha-skills@email-marketing",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:dengineproblem/agents-monorepo@email-marketing",
+    "name": "dengineproblem/agents-monorepo@email-marketing",
+    "type": "skill",
+    "source_url": "https://skills.sh/dengineproblem/agents-monorepo/email-marketing",
+    "metric": {
+      "installs": 78
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add dengineproblem/agents-monorepo@email-marketing",
+    "seed_keyword": "email marketing"
+  }
+]

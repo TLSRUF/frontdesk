@@ -21,7 +21,7 @@ Once installed, Claude will check "is there already a skill for this?" before do
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — the classification scheme (departments/sub-categories/keyword hints)
 - **`skills/frontdesk/data/catalog.json`** — the final classified data (machine-readable source of truth)
 - **`skills/frontdesk/data/unclassified.json`** — items that failed auto-classification (for manual review, 23 entries)
-- **`skills/frontdesk/scripts/route.mjs`** — the decision-ladder router prototype (`npm run route -- "task description"`)
+- **`skills/frontdesk/scripts/route.mjs`** — the decision-ladder router (`npm run route -- "task description"`; add `--install` to actually install the top candidate once approved)
 
 ## Starter pack & pipeline
 

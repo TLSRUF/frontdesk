@@ -10,12 +10,13 @@
     "classify": "node scripts/classify.mjs",
     "enrich": "node scripts/enrich-descriptions.mjs",
     "repo-health": "node scripts/repo-health.mjs",
+    "audit-scores": "node scripts/audit-scores.mjs",
     "build:catalog": "node scripts/build-catalog-md.mjs",
     "route": "node scripts/route.mjs",
     "benchmark": "node scripts/benchmark.mjs",
     "pipeline": "node scripts/pipeline.mjs",
     "starter-pack": "node scripts/pick-best-of-breed.mjs",
     "install-starter-pack": "node scripts/install-starter-pack.mjs",
-    "all": "npm run collect:github && npm run collect:skillssh && npm run classify && npm run enrich && npm run repo-health && npm run build:catalog && npm run starter-pack"
+    "all": "npm run collect:github && npm run collect:skillssh && npm run classify && npm run enrich && npm run repo-health && npm run audit-scores && npm run build:catalog && npm run starter-pack"
   }
 }

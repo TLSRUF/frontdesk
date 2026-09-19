@@ -13,7 +13,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 96.8
+    "health_score": 96.8,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:affaan-m/ecc@market-research",
@@ -29,7 +30,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:emblemcompany/agent-skills@emblem-market-research",
@@ -45,7 +47,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 68.6
+    "health_score": 68.6,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:affaan-m/ecc@prediction-market-oracle-research",
@@ -61,7 +64,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:apify/agent-skills@apify-market-research",
@@ -77,7 +81,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 58.3
   },
   {
     "id": "github:zubair-trabzada/ai-marketing-claude",
@@ -109,7 +114,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:k-dense-ai/scientific-agent-skills@market-research-reports",
@@ -125,7 +131,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@keyword-research",
@@ -141,7 +148,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 66.7
   },
   {
     "id": "skillssh:kostja94/marketing-skills@keyword-research",
@@ -157,7 +165,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": true,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:kostja94/marketing-skills@research-sources",
@@ -173,7 +182,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": true,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:manojbajaj95/claude-gtm-plugin@market-research-analysis",
@@ -189,7 +199,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 96.3
+    "health_score": 96.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:404kidwiz/claude-supercode-skills@market-researcher",
@@ -205,7 +216,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 75
   },
   {
     "id": "skillssh:linkfox-ai/linkfox-skills@linkfox-sellersprite-market-research",
@@ -221,7 +233,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 95.1
+    "health_score": 95.1,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:bmad-code-org/bmad-method@bmad-market-research",
@@ -237,7 +250,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:alirezarezvani/claude-skills@market-research",
@@ -253,7 +267,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:shawnpang/startup-founder-skills@market-research",
@@ -269,7 +284,8 @@
     "category": "1.1",
     "category_name": "전략/기획 (Strategy) > 시장조사/경쟁분석",
     "weak_match": false,
-    "health_score": 64.7
+    "health_score": 64.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:phuryn/pm-skills@brainstorm-okrs",
@@ -285,7 +301,8 @@
     "category": "1.2",
     "category_name": "전략/기획 (Strategy) > 아이디어 검증",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@brainstorm",
@@ -301,7 +318,8 @@
     "category": "1.2",
     "category_name": "전략/기획 (Strategy) > 아이디어 검증",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:borghei/claude-skills@brainstorm-okrs",
@@ -317,7 +335,8 @@
     "category": "1.2",
     "category_name": "전략/기획 (Strategy) > 아이디어 검증",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@pricing",
@@ -333,7 +352,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@pricing-strategy",
@@ -349,7 +369,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:rorkai/app-store-connect-cli-skills@asc-ppp-pricing",
@@ -365,7 +386,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 98.5
+    "health_score": 98.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:github/awesome-copilot@azure-pricing",
@@ -381,7 +403,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:phuryn/pm-skills@pricing-strategy",
@@ -397,7 +420,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:slavingia/skills@pricing",
@@ -413,7 +437,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 70
+    "health_score": 70,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:refoundai/lenny-skills@pricing-strategy",
@@ -429,7 +454,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:deanpeters/product-manager-skills@finance-based-pricing-advisor",
@@ -445,7 +471,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:github/awesome-copilot@gtm-technical-product-pricing",
@@ -461,7 +488,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mengto/skills@pricing-page",
@@ -477,7 +505,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:kostja94/marketing-skills@pricing-page-generator",
@@ -493,7 +522,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:nexscope-ai/amazon-skills@amazon-repricing-strategy",
@@ -509,7 +539,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:nexscope-ai/ecommerce-skills@etsy-pricing-strategy",
@@ -525,7 +556,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:nexscope-ai/ecommerce-skills@tiktok-shop-pricing",
@@ -541,7 +573,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:kostja94/marketing-skills@pricing-strategy",
@@ -557,7 +590,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:shopify/shopify-ai-toolkit@shopify-app-pricing",
@@ -573,7 +607,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 99.1
+    "health_score": 99.1,
+    "audit_score": 50
   },
   {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
@@ -589,7 +624,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:ognjengt/founder-skills@pricing-strategist",
@@ -605,7 +641,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 76.8
+    "health_score": 76.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:alirezarezvani/claude-skills@pricing-strategy",
@@ -621,7 +658,8 @@
     "category": "1.4",
     "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:Fission-AI/OpenSpec",
@@ -653,7 +691,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:product-on-purpose/pm-skills@measure-dashboard-requirements",
@@ -669,7 +708,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": true,
-    "health_score": 99.5
+    "health_score": 99.5,
+    "audit_score": 93.8
   },
   {
     "id": "github:anombyte93/prd-taskmaster",
@@ -701,7 +741,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": true,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
@@ -717,7 +758,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": true,
-    "health_score": 52.5
+    "health_score": 52.5,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:khazp/vibe-coding-prompt-template@vibe-prd",
@@ -733,7 +775,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:davidlee/doctrine@spec-product",
@@ -749,7 +792,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": true,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:vilin1927/autoflux-landing@product-requirements",
@@ -765,7 +809,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:ssdeanx/agentstack@product-requirements",
@@ -781,7 +826,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 62.8
+    "health_score": 62.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:organvm-iv-taxis/a-i--skills@product-requirements-designer",
@@ -797,7 +843,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 91.8
+    "health_score": 91.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:wizeline/sdlc-agents@qa-parsing-product-requirements",
@@ -813,7 +860,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:ecarrenolozano/ai-sdlc-skills@c-manage-product-requirements",
@@ -829,7 +877,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:cbrock84/headcount@product-requirements",
@@ -845,7 +894,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:yonderlab/kota.agent.skills@product-requirements",
@@ -861,7 +911,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 55
+    "health_score": 55,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:puterakahfi/ai-native-skills@product-requirements",
@@ -877,7 +928,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:yiweiwan/skills@product-requirements",
@@ -893,7 +945,8 @@
     "category": "2.1",
     "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
     "weak_match": false,
-    "health_score": 65
+    "health_score": 65,
+    "audit_score": null
   },
   {
     "id": "skillssh:larksuite/cli@lark-okr",
@@ -909,7 +962,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "github:kuchin/awesome-cto",
@@ -941,7 +995,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:deanpeters/product-manager-skills@roadmap-planning",
@@ -957,7 +1012,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@roadmap-update",
@@ -973,7 +1029,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:refoundai/lenny-skills@setting-okrs-goals",
@@ -989,7 +1046,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:refoundai/lenny-skills@technical-roadmaps",
@@ -1005,7 +1063,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:refoundai/lenny-skills@prioritizing-roadmap",
@@ -1021,7 +1080,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:lorabv/awesome-agile",
@@ -1053,7 +1113,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 79.4
+    "health_score": 79.4,
+    "audit_score": 91.7
   },
   {
     "id": "github:logchimp/logchimp",
@@ -1085,7 +1146,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 68.8
   },
   {
     "id": "skillssh:product-on-purpose/pm-skills@foundation-okr-writer",
@@ -1101,7 +1163,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 99.5
+    "health_score": 99.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:product-on-purpose/pm-skills@measure-okr-grader",
@@ -1117,7 +1180,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 99.5
+    "health_score": 99.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:alirezarezvani/claude-skills@roadmap-communicator",
@@ -1133,7 +1197,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aj-geddes/useful-ai-prompts@technical-roadmap-planning",
@@ -1149,7 +1214,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "github:haydenbleasel/eververse",
@@ -1181,7 +1247,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:refoundai/lenny-skills@goal-setting-okrs",
@@ -1197,7 +1264,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:promovaweb/specsfy@specsfy-roadmap-milestone-interviewer",
@@ -1213,7 +1281,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 86.9
+    "health_score": 86.9,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:refoundai/lenny-skills@roadmap-prioritization",
@@ -1229,7 +1298,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:tech-leads-club/agent-skills@decomposition-planning-roadmap",
@@ -1245,7 +1315,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rysweet/amplihack@roadmap-strategist",
@@ -1261,7 +1332,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 52.6
+    "health_score": 52.6,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:codestable/codestable@cs-roadmap-review",
@@ -1277,7 +1349,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 79.4
+    "health_score": 79.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:codestable/codestable@cs-roadmap-impl-goal",
@@ -1293,7 +1366,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 79.4
+    "health_score": 79.4,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:nexu-io/open-design@team-okrs",
@@ -1309,7 +1383,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rampstackco/claude-skills@okr-design",
@@ -1325,7 +1400,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:onewave-ai/claude-skills@okr-generator",
@@ -1341,7 +1417,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 87.7
+    "health_score": 87.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:assimovt/productskills@roadmap-planning",
@@ -1357,7 +1434,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 57
+    "health_score": 57,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rampstackco/claude-skills@roadmap-planning",
@@ -1373,7 +1451,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:f-labs-io/agent-html-skills@html-timeline-roadmap",
@@ -1389,7 +1468,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 90.8
+    "health_score": 90.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:shipshitdev/skills@roadmap-analyzer",
@@ -1405,7 +1485,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 79.5
+    "health_score": 79.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:riba2534/feishu-cli@feishu-cli-okr",
@@ -1421,7 +1502,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 50
   },
   {
     "id": "skillssh:yonatangross/orchestkit@okr-design",
@@ -1437,7 +1519,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 96.5
+    "health_score": 96.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:oldwinter/skills@setting-okrs-and-goals",
@@ -1453,7 +1536,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mohitagw15856/pm-claude-skills@okr-builder",
@@ -1469,7 +1553,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:membranedev/application-skills@okra",
@@ -1485,7 +1570,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:wdavidturner/product-skills@okrs",
@@ -1501,7 +1587,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 57
+    "health_score": 57,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:asgard-ai-platform/skills@ops-okr-planning",
@@ -1517,7 +1604,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 76.1
+    "health_score": 76.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:lagz0ne/okra@reverse-tornado-okr",
@@ -1533,7 +1621,8 @@
     "category": "2.2",
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@customer-research",
@@ -1549,7 +1638,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:nexu-io/open-design@swiss-user-research-video-template",
@@ -1565,7 +1655,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:RefoundAI/lenny-skills",
@@ -1597,7 +1688,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@user-research-synthesis",
@@ -1613,7 +1705,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:glebis/claude-skills@deep-research",
@@ -1629,7 +1722,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": true,
-    "health_score": 98.2
+    "health_score": 98.2,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:cookiy-ai/user-research-skill@user-research-cookiy",
@@ -1645,7 +1739,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 88.4
+    "health_score": 88.4,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:shawnpang/startup-founder-skills@user-research-synthesis",
@@ -1661,7 +1756,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 64.7
+    "health_score": 64.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:podo/design-agent-skills@user-research-cookiy",
@@ -1677,7 +1773,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 50
   },
   {
     "id": "skillssh:yonatangross/orchestkit@user-research",
@@ -1693,7 +1790,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 96.5
+    "health_score": 96.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:mohitagw15856/pm-claude-skills@user-research-synthesis",
@@ -1709,7 +1807,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
@@ -1725,7 +1824,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": true,
-    "health_score": 52.5
+    "health_score": 52.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:nicepkg/ai-workflow@user-research",
@@ -1741,7 +1841,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 65.2
+    "health_score": 65.2,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sylphxai/skills@user-research-repository-review",
@@ -1757,7 +1858,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:monumentalsystems/atlas-agent-teams@user-research",
@@ -1773,7 +1875,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 80.8
+    "health_score": 80.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:kelegele/oh-my-pm@user-research",
@@ -1789,7 +1892,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rsmdt/the-startup@user-research",
@@ -1805,7 +1909,8 @@
     "category": "2.3",
     "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
     "weak_match": false,
-    "health_score": 88.3
+    "health_score": 88.3,
+    "audit_score": 91.7
   },
   {
     "id": "github:phuryn/pm-skills",
@@ -2061,7 +2166,8 @@
     "category": "2.5",
     "category_name": "프로덕트 매니지먼트 > 프로덕트 매니지먼트 일반",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "github:orico/www.mlcompendium.com",
@@ -2093,7 +2199,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:ghaida/intent@wireframe",
@@ -2109,7 +2216,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 83.8
+    "health_score": 83.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aj-geddes/useful-ai-prompts@wireframe-prototyping",
@@ -2125,7 +2233,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:plannotator/effective-html@html-wireframe",
@@ -2141,7 +2250,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mengto/skills@technical-wireframe-info-layout",
@@ -2157,7 +2267,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mengto/skills@build-wireframe-scan-reveal",
@@ -2173,7 +2284,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:roble3/cc-blender-skill@wireframe-to-3d",
@@ -2189,7 +2301,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 72.5
+    "health_score": 72.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:markdown-viewer/skills@wireframe",
@@ -2205,7 +2318,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 70
+    "health_score": 70,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:nexu-io/open-design@wireframe-sketch",
@@ -2221,7 +2335,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:agilek/wireframer-skill@wireframer",
@@ -2237,7 +2352,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 58.6
+    "health_score": 58.6,
+    "audit_score": 50
   },
   {
     "id": "skillssh:podo/design-agent-skills@wireframer",
@@ -2253,7 +2369,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 66.7
   },
   {
     "id": "skillssh:podo/design-agent-skills@wireframe-skill",
@@ -2269,7 +2386,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 66.7
   },
   {
     "id": "skillssh:bm629/agent-skills@authoring-wireframes",
@@ -2285,7 +2403,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:podo/design-agent-skills@claude-wireframe-skill",
@@ -2301,7 +2420,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 16.7
   },
   {
     "id": "skillssh:bm629/agent-skills@reviewing-wireframes",
@@ -2317,7 +2437,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:manalkaff/opendesign@wireframe",
@@ -2333,7 +2454,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 86.8
+    "health_score": 86.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:bluzir/claude-code-design@wireframe",
@@ -2349,7 +2471,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 63.1
+    "health_score": 63.1,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:teo5777/easy-wireframe@easy-wireframe",
@@ -2365,7 +2488,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:magdoub/claude-wireframe-skill@wireframe",
@@ -2381,7 +2505,8 @@
     "category": "3.1",
     "category_name": "디자인 > UX/와이어프레임",
     "weak_match": false,
-    "health_score": 58.3
+    "health_score": 58.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:ceorkm/mobile-app-ui-design@mobile-app-ui-design",
@@ -2397,7 +2522,8 @@
     "category": "3.2",
     "category_name": "디자인 > UI 비주얼 디자인",
     "weak_match": false,
-    "health_score": 76.4
+    "health_score": 76.4,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:samuraigpt/generative-media-skills@muapi-ui-design",
@@ -2413,7 +2539,8 @@
     "category": "3.2",
     "category_name": "디자인 > UI 비주얼 디자인",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:figma/mcp-server-guide@figma-create-design-system-rules",
@@ -2429,7 +2556,8 @@
     "category": "3.2",
     "category_name": "디자인 > UI 비주얼 디자인",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:podo/design-agent-skills@mobile-app-ui-design",
@@ -2445,7 +2573,8 @@
     "category": "3.2",
     "category_name": "디자인 > UI 비주얼 디자인",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 50
   },
   {
     "id": "github:donnemartin/system-design-primer",
@@ -2477,7 +2606,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 95.9
+    "health_score": 95.9,
+    "audit_score": 75
   },
   {
     "id": "github:VoltAgent/awesome-design-md",
@@ -2525,7 +2655,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:saadeghi/daisyui",
@@ -2573,7 +2704,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:radix-ui/primitives",
@@ -2637,7 +2769,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:primer/css",
@@ -2797,7 +2930,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:expo/skills@expo-design-system",
@@ -2813,7 +2947,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:rebassjs/rebass",
@@ -2973,7 +3108,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:forcedotcom/sf-skills@design-systems-slds-validate",
@@ -2989,7 +3125,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:system-ui/theme-ui",
@@ -3037,7 +3174,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:wondelai/skills@system-design",
@@ -3053,7 +3191,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:Manavarya09/design-extract",
@@ -3085,7 +3224,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 97.2
+    "health_score": 97.2,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@design-system",
@@ -3101,7 +3241,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:nateherkai/scroll-craft",
@@ -3133,7 +3274,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:buildgreatproducts/builder-os@design-system",
@@ -3149,7 +3291,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 87.2
+    "health_score": 87.2,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:owl-listener/designer-skills@design-system-adoption",
@@ -3165,7 +3308,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:figma/mcp-server-guide@create-design-system-rules",
@@ -3181,7 +3325,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:jezweb/claude-skills@design-system",
@@ -3197,7 +3342,8 @@
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 81.3
   },
   {
     "id": "github:nexu-io/open-design",
@@ -3229,7 +3375,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:gkd-kit/gkd",
@@ -3325,7 +3472,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:jakubkrehel/skills@better-accessibility",
@@ -3341,7 +3489,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:bootstrap-vue/bootstrap-vue",
@@ -3373,7 +3522,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:screetsec/TheFatRat",
@@ -3437,7 +3587,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": null
   },
   {
     "id": "github:chinchang/hint.css",
@@ -3485,7 +3636,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:andreasbm/web-skills",
@@ -3613,7 +3765,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 88.2
+    "health_score": 88.2,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:pixijs/pixijs-skills@pixijs-accessibility",
@@ -3629,7 +3782,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 94.6
+    "health_score": 94.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@accessibility-review",
@@ -3645,7 +3799,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:microsoft/vscode@accessibility",
@@ -3661,7 +3816,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mindrally/skills@accessibility-a11y",
@@ -3677,7 +3833,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 97.2
+    "health_score": 97.2,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:owl-listener/designer-skills@accessibility-test-plan",
@@ -3693,7 +3850,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:flutter/agent-plugins@flutter-accessibility-audit",
@@ -3709,7 +3867,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": null
   },
   {
     "id": "skillssh:mastepanoski/claude-skills@wcag-accessibility-audit",
@@ -3725,7 +3884,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 69.5
+    "health_score": 69.5,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:forcedotcom/sf-skills@experience-lwc-accessibility-validate",
@@ -3741,7 +3901,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:flutter/agent-plugins@flutter-accessibility",
@@ -3757,7 +3918,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": null
   },
   {
     "id": "skillssh:dadederk/ios-accessibility-agent-skill@ios-accessibility",
@@ -3773,7 +3935,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 57.7
+    "health_score": 57.7,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:jezweb/claude-skills@accessibility",
@@ -3789,7 +3952,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:webflow/webflow-skills@accessibility-audit",
@@ -3805,7 +3969,8 @@
     "category": "3.5",
     "category_name": "디자인 > 접근성 (a11y)",
     "weak_match": false,
-    "health_score": 94.6
+    "health_score": 94.6,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:vercel-labs/agent-skills@vercel-react-best-practices",
@@ -3821,7 +3986,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:vercel-labs/agent-skills@vercel-react-native-skills",
@@ -3837,7 +4003,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:f/prompts.chat",
@@ -3885,7 +4052,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:Leonxlnx/taste-skill",
@@ -3965,7 +4133,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:jeecgboot/JeecgBoot",
@@ -4061,7 +4230,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:pascalorg/editor",
@@ -4141,7 +4311,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 80.2
+    "health_score": 80.2,
+    "audit_score": 93.8
   },
   {
     "id": "github:triggerdotdev/trigger.dev",
@@ -4173,7 +4344,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 68.8
   },
   {
     "id": "skillssh:clerk/skills@clerk-react-router-patterns",
@@ -4189,7 +4361,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 80.2
+    "health_score": 80.2,
+    "audit_score": 93.8
   },
   {
     "id": "github:stenciljs/core",
@@ -4253,7 +4426,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "github:alibaba/spring-ai-alibaba",
@@ -4285,7 +4459,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:callstackincubator/agent-skills@upgrading-react-native",
@@ -4301,7 +4476,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:webstudio-is/webstudio",
@@ -4349,7 +4525,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:rivet-dev/skills@rivetkit-client-react",
@@ -4365,7 +4542,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 81.8
+    "health_score": 81.8,
+    "audit_score": 93.8
   },
   {
     "id": "github:fullstackhero/dotnet-starter-kit",
@@ -4525,7 +4703,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:WuKongOpenSource/WukongCRM-11.0-JAVA",
@@ -4621,7 +4800,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:vercel-labs/json-render@react-three-fiber",
@@ -4637,7 +4817,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:trycompai/comp",
@@ -4701,7 +4882,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:fcakyon/claude-codex-settings",
@@ -4829,7 +5011,8 @@
     "category": "4.1",
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:1146345502/aural-oss",
@@ -4925,7 +5108,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "github:stablyai/orca",
@@ -4973,7 +5157,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": null
   },
   {
     "id": "skillssh:solana-mobile/solana-mobile-skills@solana-mobile",
@@ -4989,7 +5174,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": true,
-    "health_score": 90.8
+    "health_score": 90.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:forcedotcom/sf-skills@mobile-apps-create",
@@ -5005,7 +5191,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 50
   },
   {
     "id": "github:RevylAI/greenlight",
@@ -5053,7 +5240,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "github:chatwoot/chatwoot-mobile-app",
@@ -5085,7 +5273,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "github:paywallpro/paywall-gallery",
@@ -5117,7 +5306,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:secondsky/claude-skills@mobile-app-testing",
@@ -5133,7 +5323,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 96.3
+    "health_score": 96.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:secondsky/claude-skills@mobile-app-debugging",
@@ -5149,7 +5340,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 96.3
+    "health_score": 96.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mukul975/anthropic-cybersecurity-skills@conducting-mobile-app-penetration-test",
@@ -5165,7 +5357,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:nexu-io/open-design@mobile-app",
@@ -5181,7 +5374,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:peterhdd/agent-skills@engineering-mobile-app-builder",
@@ -5197,7 +5391,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 52.5
+    "health_score": 52.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:qodex-ai/ai-agent-skills@mobile-app-interface",
@@ -5213,7 +5408,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 46.1
+    "health_score": 46.1,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:podo/design-agent-skills@mobile-app-design",
@@ -5229,7 +5425,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 41.7
   },
   {
     "id": "skillssh:404kidwiz/claude-supercode-skills@mobile-app-developer",
@@ -5245,7 +5442,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:ww-w-ai/bkit-claude-code@mobile-app",
@@ -5261,7 +5459,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:microsoft/power-platform-skills@create-mobile-app",
@@ -5277,7 +5476,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mphinance/alpha-skills@mobile-app",
@@ -5293,7 +5493,8 @@
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": 90.2
+    "health_score": 90.2,
+    "audit_score": 91.7
   },
   {
     "id": "github:AgriciDaniel/codex-seo",
@@ -5341,7 +5542,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:wshobson/agents@api-design-principles",
@@ -5357,7 +5559,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:Evil0ctal/Douyin_TikTok_Download_API",
@@ -5405,7 +5608,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:jeffallan/claude-skills@api-designer",
@@ -5421,7 +5625,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 68.8
   },
   {
     "id": "github:axnsan12/drf-yasg",
@@ -5453,7 +5658,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 97.2
+    "health_score": 97.2,
+    "audit_score": 93.8
   },
   {
     "id": "github:tfranzel/drf-spectacular",
@@ -5501,7 +5707,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 88.2
+    "health_score": 88.2,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aj-geddes/useful-ai-prompts@rest-api-design",
@@ -5517,7 +5724,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 68.8
   },
   {
     "id": "skillssh:erikote04/swift-api-design-guidelines-agent-skill@swift-api-design-guidelines-skill",
@@ -5533,7 +5741,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 56.1
+    "health_score": 56.1,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@api-design-principles",
@@ -5549,7 +5758,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:alirezarezvani/claude-skills@api-design-reviewer",
@@ -5565,7 +5775,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:asyrafhussin/agent-skills@api-design-patterns",
@@ -5581,7 +5792,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 92.8
+    "health_score": 92.8,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:zhaono1/agent-playbook@api-designer",
@@ -5597,7 +5809,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 93.4
+    "health_score": 93.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:samuraigpt/generative-media-skills@muapi-design-guide",
@@ -5613,7 +5826,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aaronontheweb/dotnet-skills@api-design",
@@ -5629,7 +5843,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:secondsky/claude-skills@rest-api-design",
@@ -5645,7 +5860,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 96.3
+    "health_score": 96.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:bobmatnyc/claude-mpm-skills@api-design-patterns",
@@ -5661,7 +5877,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 84.8
+    "health_score": 84.8,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:chrisbanes/skills@kotlin-api-design",
@@ -5677,7 +5894,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 97.9
+    "health_score": 97.9,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:manutej/luxor-claude-marketplace@rest-api-design-patterns",
@@ -5693,7 +5911,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 63.8
+    "health_score": 63.8,
+    "audit_score": 62.5
   },
   {
     "id": "skillssh:margelo/react-native-skills@api-design",
@@ -5709,7 +5928,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 82.2
+    "health_score": 82.2,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:akillness/jeo-skills@api-design",
@@ -5725,7 +5945,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 81.3
+    "health_score": 81.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:proyecto26/system-design-skills@api-design",
@@ -5741,7 +5962,8 @@
     "category": "5.1",
     "category_name": "엔지니어링-백엔드 > API 설계",
     "weak_match": false,
-    "health_score": 72.2
+    "health_score": 72.2,
+    "audit_score": 91.7
   },
   {
     "id": "github:Graphify-Labs/graphify",
@@ -5869,7 +6091,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:affaan-m/ecc@database-migrations",
@@ -5885,7 +6108,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:deeplethe/utopia",
@@ -5997,7 +6221,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:bobmatnyc/claude-mpm-skills@database-migration",
@@ -6013,7 +6238,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 84.8
+    "health_score": 84.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@database-migrations-migration-observability",
@@ -6029,7 +6255,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@database",
@@ -6045,7 +6272,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:yonatangross/orchestkit@database-patterns",
@@ -6061,7 +6289,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": true,
-    "health_score": 96.5
+    "health_score": 96.5,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:charleswiltgen/axiom@axiom-database-migration",
@@ -6077,7 +6306,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 99.5
+    "health_score": 99.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:jorgealves/agent_skills@database-migration-integrity-checker",
@@ -6093,7 +6323,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 54.8
+    "health_score": 54.8,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:timescale/pg-aiguide@postgres-database-migration",
@@ -6109,7 +6340,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:microsoftdocs/agent-skills@azure-database-migration",
@@ -6125,7 +6357,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:seb1n/awesome-ai-agent-skills@database-migration",
@@ -6141,7 +6374,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 86.7
+    "health_score": 86.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:microsoft/azure-sql-database-container@azuresql-db-schema-migration",
@@ -6157,7 +6391,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": true,
-    "health_score": 90.2
+    "health_score": 90.2,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:langchain-ai/skills-benchmarks@database-migrations",
@@ -6173,7 +6408,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 82.8
+    "health_score": 82.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:schemavaults/dbh@database-migrations",
@@ -6189,7 +6425,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mohitagw15856/pm-claude-skills@database-migration-plan",
@@ -6205,7 +6442,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:xu-xiang/everything-claude-code-zh@database-migrations",
@@ -6221,7 +6459,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 67.5
+    "health_score": 67.5,
+    "audit_score": null
   },
   {
     "id": "skillssh:dauquangthanh/hanoi-rainbow@database-migration",
@@ -6237,7 +6476,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 60.9
+    "health_score": 60.9,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rmyndharis/antigravity-skills@database-migration",
@@ -6253,7 +6493,8 @@
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 91.7
   },
   {
     "id": "github:googleworkspace/cli",
@@ -6509,7 +6750,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:semaphoreui/semaphore",
@@ -6541,7 +6783,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:hashicorp/terraform-provider-aws",
@@ -6637,7 +6880,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
@@ -6653,7 +6897,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 93.1
+    "health_score": 93.1,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
@@ -6669,7 +6914,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 93.1
+    "health_score": 93.1,
+    "audit_score": 58.3
   },
   {
     "id": "github:Orange-Cyberdefense/GOAD",
@@ -6733,7 +6979,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:aquasecurity/tfsec",
@@ -6797,7 +7044,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 87.5
   },
   {
     "id": "github:terraform-linters/tflint",
@@ -6861,7 +7109,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:jeffallan/claude-skills@terraform-engineer",
@@ -6877,7 +7126,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 68.8
   },
   {
     "id": "skillssh:hashicorp/agent-skills@terraform-search-import",
@@ -6893,7 +7143,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:hashicorp/agent-skills@new-terraform-provider",
@@ -6909,7 +7160,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:hashicorp/agent-skills@terraform-policy",
@@ -6925,7 +7177,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:pulumi/agent-skills@pulumi-terraform-to-pulumi",
@@ -6941,7 +7194,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 91.3
+    "health_score": 91.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:aj-geddes/useful-ai-prompts@terraform-infrastructure",
@@ -6957,7 +7211,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:eraserlabs/eraser-io@terraform-diagrams",
@@ -6973,7 +7228,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 72.5
+    "health_score": 72.5,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mindrally/skills@terraform",
@@ -6989,7 +7245,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 97.2
+    "health_score": 97.2,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:daymade/claude-code-skills@terraform-skill",
@@ -7005,7 +7262,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:alirezarezvani/claude-skills@terraform-patterns",
@@ -7021,7 +7279,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:bobmatnyc/claude-mpm-skills@terraform",
@@ -7037,7 +7296,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 84.8
+    "health_score": 84.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:nvidia/skillspector@terraform-deployer",
@@ -7053,7 +7313,8 @@
     "category": "6.2",
     "category_name": "엔지니어링-인프라/DevOps > IaC",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:stacktape/stacktape",
@@ -7085,7 +7346,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:microsoft/azure-skills@azure-observability",
@@ -7101,7 +7363,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:koala73/worldmonitor",
@@ -7149,7 +7412,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 68.8
   },
   {
     "id": "github:langfuse/langfuse",
@@ -7181,7 +7445,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:comet-ml/opik",
@@ -7293,7 +7558,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:google/skills@google-cloud-networking-observability",
@@ -7309,7 +7575,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:wshobson/agents@service-mesh-observability",
@@ -7325,7 +7592,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 68.8
   },
   {
     "id": "github:openstatusHQ/openstatus",
@@ -7389,7 +7657,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 58.3
   },
   {
     "id": "github:traceloop/openllmetry",
@@ -7485,7 +7754,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:memodb-io/Acontext",
@@ -7517,7 +7787,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 89.5
+    "health_score": 89.5,
+    "audit_score": 91.7
   },
   {
     "id": "github:HolmesGPT/holmesgpt",
@@ -7549,7 +7820,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 95.5
+    "health_score": 95.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:assistant-ui/skills@observability",
@@ -7565,7 +7837,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 80.8
+    "health_score": 80.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:grafana/skills@database-observability",
@@ -7581,7 +7854,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 95.5
+    "health_score": 95.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:elastic/agent-skills@observability-llm-obs",
@@ -7597,7 +7871,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:elastic/agent-skills@observability-logs-search",
@@ -7613,7 +7888,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:elastic/agent-skills@observability-service-health",
@@ -7629,7 +7905,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:elastic/agent-skills@observability-manage-slos",
@@ -7645,7 +7922,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:elastic/agent-skills@observability-edot-python-instrument",
@@ -7661,7 +7939,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:elastic/agent-skills@observability-edot-java-instrument",
@@ -7677,7 +7956,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:redis/agent-skills@redis-observability",
@@ -7693,7 +7973,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 96.3
+    "health_score": 96.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aj-geddes/useful-ai-prompts@security-audit-logging",
@@ -7709,7 +7990,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:cockroachlabs/cockroachdb-skills@monitoring-background-jobs",
@@ -7725,7 +8007,8 @@
     "category": "6.3",
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
-    "health_score": 84
+    "health_score": 84,
+    "audit_score": 91.7
   },
   {
     "id": "github:infracost/infracost",
@@ -8029,7 +8312,8 @@
     "category": "7.2",
     "category_name": "엔지니어링-데이터/ML/AI > 모델 학습",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:microsoft/azure-skills@azure-storage",
@@ -8045,7 +8329,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:mattpocock/skills@writing-fragments",
@@ -8061,7 +8346,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:langchain-ai/langchain",
@@ -8525,7 +8811,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 93.8
   },
   {
     "id": "github:weaviate/weaviate",
@@ -8621,7 +8908,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 96.7
+    "health_score": 96.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:langchain-ai/langchain-skills@langchain-rag",
@@ -8637,7 +8925,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 89.9
+    "health_score": 89.9,
+    "audit_score": 87.5
   },
   {
     "id": "github:langchain4j/langchain4j",
@@ -8701,7 +8990,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:github/awesome-copilot@pytest-coverage",
@@ -8717,7 +9007,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:zilliztech/claude-context",
@@ -8845,7 +9136,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 93.1
+    "health_score": 93.1,
+    "audit_score": 50
   },
   {
     "id": "github:reorproject/reor",
@@ -8893,7 +9185,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 94.8
+    "health_score": 94.8,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:getcargohq/cargo-skills@cargo-storage",
@@ -8909,7 +9202,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 89.5
+    "health_score": 89.5,
+    "audit_score": 83.3
   },
   {
     "id": "github:vespa-engine/vespa",
@@ -8957,7 +9251,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:genkit-ai/genkit",
@@ -9069,7 +9364,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:langroid/langroid",
@@ -9101,7 +9397,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 97.2
+    "health_score": 97.2,
+    "audit_score": 87.5
   },
   {
     "id": "github:yilewang/llm-for-zotero",
@@ -9133,7 +9430,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:zilliztech/memsearch",
@@ -9181,7 +9479,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:nvidia/skills@rag-perf",
@@ -9197,7 +9496,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "github:doobidoo/mcp-memory-service",
@@ -9229,7 +9529,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "skillssh:anthropics/financial-services@initiating-coverage",
@@ -9245,7 +9546,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:activeloopai/hivemind",
@@ -9277,7 +9579,8 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:NirDiamant/Agent_Memory_Techniques",
@@ -10205,7 +10508,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:google/adk-python",
@@ -10541,7 +10845,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:EvoMap/evolver",
@@ -11133,7 +11438,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 97.2
+    "health_score": 97.2,
+    "audit_score": 93.8
   },
   {
     "id": "github:wquguru/harness-books",
@@ -11341,7 +11647,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": true,
-    "health_score": 74
+    "health_score": 74,
+    "audit_score": 33.3
   },
   {
     "id": "github:tsingyuai/growth-lab",
@@ -11405,7 +11712,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:mohitagw15856/pm-claude-skills",
@@ -11469,7 +11777,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@multi-agent-patterns",
@@ -11485,7 +11794,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:ALwrity/ALwrity",
@@ -11517,7 +11827,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:zhu1090093659/spec_driven_develop",
@@ -11597,7 +11908,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:minhnv0807/ai-business-skills",
@@ -11773,7 +12085,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:zapier/gtm-cheat-codes",
@@ -11821,7 +12134,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 57
+    "health_score": 57,
+    "audit_score": 68.8
   },
   {
     "id": "github:OneWave-AI/claude-skills",
@@ -11869,7 +12183,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 57.7
+    "health_score": 57.7,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:vasilyu1983/ai-agents-public@ai-prompt-engineering",
@@ -11885,7 +12200,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 94.8
+    "health_score": 94.8,
+    "audit_score": 91.7
   },
   {
     "id": "github:danielvm-git/bigpowers",
@@ -11917,7 +12233,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 42.5
+    "health_score": 42.5,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:rohitg00/awesome-claude-code-toolkit@prompt-engineering",
@@ -11933,7 +12250,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 91.7
   },
   {
     "id": "github:KbWen/agentic-os",
@@ -12013,7 +12331,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 86.2
+    "health_score": 86.2,
+    "audit_score": null
   },
   {
     "id": "github:MohamedAbdallah-14/unslop",
@@ -12061,7 +12380,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 93.1
+    "health_score": 93.1,
+    "audit_score": 58.3
   },
   {
     "id": "github:aaddrick/attention-control",
@@ -12093,7 +12413,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 70.8
+    "health_score": 70.8,
+    "audit_score": 91.7
   },
   {
     "id": "github:ahacker-1/cre-agent-skills",
@@ -12125,7 +12446,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 34.5
+    "health_score": 34.5,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:shipshitdev/skills@prompt-engineering",
@@ -12141,7 +12463,8 @@
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false,
-    "health_score": 79.5
+    "health_score": 79.5,
+    "audit_score": 91.7
   },
   {
     "id": "github:nota-america/forgecat-agent-profiles",
@@ -12333,7 +12656,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 62.5
   },
   {
     "id": "github:D4Vinci/Scrapling",
@@ -12365,7 +12689,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:samber/cc-skills-golang@golang-testing",
@@ -12381,7 +12706,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:clerk/skills@clerk-testing",
@@ -12397,7 +12723,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 80.2
+    "health_score": 80.2,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:addyosmani/agent-skills@browser-testing-with-devtools",
@@ -12413,7 +12740,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "skillssh:wshobson/agents@python-testing-patterns",
@@ -12429,7 +12757,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:wshobson/agents@e2e-testing-patterns",
@@ -12445,7 +12774,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:wshobson/agents@javascript-testing-patterns",
@@ -12461,7 +12791,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:wshobson/agents@backtesting-frameworks",
@@ -12477,7 +12808,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:affaan-m/ecc@golang-testing",
@@ -12493,7 +12825,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:github/awesome-copilot@webapp-testing",
@@ -12509,7 +12842,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:affaan-m/ecc@e2e-testing",
@@ -12525,7 +12859,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:wshobson/agents@temporal-python-testing",
@@ -12541,7 +12876,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:wshobson/agents@web3-testing",
@@ -12557,7 +12893,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:wshobson/agents@bats-testing-patterns",
@@ -12573,7 +12910,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:twostraws/swift-testing-agent-skill@swift-testing-pro",
@@ -12589,7 +12927,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 74.6
+    "health_score": 74.6,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@testing-strategy",
@@ -12605,7 +12944,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:inspec/inspec",
@@ -12637,7 +12977,8 @@
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:project-vera/vera",
@@ -12701,7 +13042,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": true,
-    "health_score": 99.9
+    "health_score": 99.9,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:firebase/agent-skills@firestore-security-rules-auditor",
@@ -12717,7 +13059,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": true,
-    "health_score": 99.9
+    "health_score": 99.9,
+    "audit_score": 93.8
   },
   {
     "id": "github:CISOfy/lynis",
@@ -12749,7 +13092,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 63.9
+    "health_score": 63.9,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:ruvnet/ruflo@security-audit",
@@ -12765,7 +13109,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@security-auditor",
@@ -12781,7 +13126,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@security-audit",
@@ -12797,7 +13143,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:github/awesome-copilot@mcp-security-audit",
@@ -12813,7 +13160,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:reason-machines/security-skills@wxmini-security-audit",
@@ -12829,7 +13177,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 77.3
+    "health_score": 77.3,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:zhaono1/agent-playbook@security-auditor",
@@ -12845,7 +13194,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 93.4
+    "health_score": 93.4,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:ovachiever/droid-tings@security-auditor",
@@ -12861,7 +13211,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 58.3
+    "health_score": 58.3,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:alirezarezvani/claude-skills@skill-security-auditor",
@@ -12877,7 +13228,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:reason-machines/security-skills@esaa-security-audit",
@@ -12893,7 +13245,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 77.3
+    "health_score": 77.3,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@laravel-security-audit",
@@ -12909,7 +13262,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:netresearch/security-audit-skill@security-audit",
@@ -12925,7 +13279,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 89.5
+    "health_score": 89.5,
+    "audit_score": 68.8
   },
   {
     "id": "skillssh:smartchainark/skill-security-audit@skill-security-audit",
@@ -12941,7 +13296,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 56.1
+    "health_score": 56.1,
+    "audit_score": 33.3
   },
   {
     "id": "skillssh:reason-machines/security-skills@email-security-auditor-cpp",
@@ -12957,7 +13313,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 77.3
+    "health_score": 77.3,
+    "audit_score": 41.7
   },
   {
     "id": "skillssh:datadog-labs/agent-skills@dd-audit-security-investigation",
@@ -12973,7 +13330,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": true,
-    "health_score": 96.1
+    "health_score": 96.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:agentnode-dev/skills-security-audit@skills-security-audit",
@@ -12989,7 +13347,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 42.5
+    "health_score": 42.5,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:donchitos/claude-code-game-studios@security-audit",
@@ -13005,7 +13364,8 @@
     "category": "8.3",
     "category_name": "품질/보안 > 보안 리뷰/pentest",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@seo-audit",
@@ -13021,7 +13381,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@programmatic-seo",
@@ -13037,7 +13398,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@ai-seo",
@@ -13053,7 +13415,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:useosint/skills@is-this-photo-real",
@@ -13069,7 +13432,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 78.6
+    "health_score": 78.6,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:useosint/skills@investigate-without-getting-made",
@@ -13085,7 +13449,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 78.6
+    "health_score": 78.6,
+    "audit_score": 58.3
   },
   {
     "id": "skillssh:useosint/skills@what-leaked-about-you",
@@ -13101,7 +13466,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 78.6
+    "health_score": 78.6,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:useosint/skills@find-the-original-image",
@@ -13117,7 +13483,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 78.6
+    "health_score": 78.6,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:resciencelab/opc-skills@seo-geo",
@@ -13133,7 +13500,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:addyosmani/web-quality-skills@seo",
@@ -13149,7 +13517,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:firecrawl/firecrawl-workflows@firecrawl-seo-audit",
@@ -13165,7 +13534,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 96.8
+    "health_score": 96.8,
+    "audit_score": 83.3
   },
   {
     "id": "github:AgriciDaniel/claude-seo",
@@ -13197,7 +13567,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aaron-he-zhu/seo-geo-claude-skills@seo-content-writer",
@@ -13213,7 +13584,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 95.9
+    "health_score": 95.9,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:agricidaniel/claude-seo@seo",
@@ -13229,7 +13601,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:agricidaniel/claude-seo@seo-audit",
@@ -13245,7 +13618,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:sanity-io/agent-toolkit@seo-aeo-best-practices",
@@ -13261,7 +13635,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 96
+    "health_score": 96,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:agricidaniel/claude-seo@seo-content",
@@ -13277,7 +13652,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:getpaseo/paseo@paseo",
@@ -13293,7 +13669,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:getpaseo/paseo@paseo-handoff",
@@ -13309,7 +13686,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:getpaseo/paseo@paseo-committee",
@@ -13325,7 +13703,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@seo-audit",
@@ -13341,7 +13720,8 @@
     "category": "9.1",
     "category_name": "마케팅/그로스 > SEO",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:aaron-he-zhu/aaron-marketing-skills",
@@ -13405,7 +13785,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:kostja94/marketing-skills@copywriting",
@@ -13421,7 +13802,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:samber/cc-skills@copywriting-hooks",
@@ -13437,7 +13819,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 94.4
+    "health_score": 94.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:nexu-io/open-design@copywriting",
@@ -13453,7 +13836,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "skillssh:samber/cc-skills@copywriting-tone-of-voice-creator",
@@ -13469,7 +13853,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 94.4
+    "health_score": 94.4,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:samber/cc-skills@copywriting-cta",
@@ -13485,7 +13870,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 94.4
+    "health_score": 94.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:samber/cc-skills@copywriting-prose-creator",
@@ -13501,7 +13887,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 94.4
+    "health_score": 94.4,
+    "audit_score": 75
   },
   {
     "id": "skillssh:miqdadbadjuber/anti-slop@antislop-copywriting",
@@ -13517,7 +13904,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@copywriting",
@@ -13533,7 +13921,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:guia-matthieu/clawfu-skills@conversion-copywriting",
@@ -13549,7 +13938,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 75.9
+    "health_score": 75.9,
+    "audit_score": null
   },
   {
     "id": "skillssh:vivy-yi/xiaohongshu-skills@copywriting-skills",
@@ -13565,7 +13955,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 56.5
+    "health_score": 56.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:openclaudia/openclaudia-skills@copywriting",
@@ -13581,7 +13972,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 98.1
+    "health_score": 98.1,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mblode/agent-skills@copywriting",
@@ -13597,7 +13989,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 93.1
+    "health_score": 93.1,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:yashaiguy-dev/sales-page-copywriting-skill@sales-page-copywriting",
@@ -13613,7 +14006,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 57
+    "health_score": 57,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:boraoztunc/skills@ogilvy-copywriting",
@@ -13629,7 +14023,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 88
+    "health_score": 88,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:louisblythe/sales-skills@copywriting",
@@ -13645,7 +14040,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 54.4
+    "health_score": 54.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:ronantakizawa/japanese-copywriting@japanese-copywriting",
@@ -13661,7 +14057,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 42.5
+    "health_score": 42.5,
+    "audit_score": 83.3
   },
   {
     "id": "github:CosmoBlk/email-marketing-bible",
@@ -13693,7 +14090,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 46.1
+    "health_score": 46.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:supabase/supabase@copywriting",
@@ -13709,7 +14107,8 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:AgriciDaniel/claude-ads",
@@ -13821,7 +14220,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:coreyhaines31/marketingskills@email-sequence",
@@ -13837,7 +14237,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:caffeinelabs/skills@extension-email-marketing",
@@ -13853,7 +14254,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 93.8
   },
   {
     "id": "github:mautic/mautic",
@@ -13901,7 +14303,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 67.1
+    "health_score": 67.1,
+    "audit_score": 93.8
   },
   {
     "id": "github:Notifuse/notifuse",
@@ -13949,7 +14352,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 79.7
+    "health_score": 79.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:kostja94/marketing-skills@email-marketing",
@@ -13965,7 +14369,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:nexscope-ai/ecommerce-skills@ecommerce-email-marketing-builder",
@@ -13981,7 +14386,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-render-builder",
@@ -13997,7 +14403,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-creative-builder",
@@ -14013,7 +14420,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-sequence-designer",
@@ -14029,7 +14437,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-quality-auditor",
@@ -14045,7 +14454,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:DjangoCRM/django-crm",
@@ -14093,7 +14503,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 96.8
+    "health_score": 96.8,
+    "audit_score": 91.7
   },
   {
     "id": "github:mettle/sendportal-core",
@@ -14125,7 +14536,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:shawnpang/startup-founder-skills@email-marketing",
@@ -14141,7 +14553,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 64.7
+    "health_score": 64.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:maddhruv/absolute@email-marketing",
@@ -14157,7 +14570,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 86.2
+    "health_score": 86.2,
+    "audit_score": null
   },
   {
     "id": "skillssh:finsilabs/awesome-ecommerce-skills@email-marketing-automation",
@@ -14173,7 +14587,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 59.7
+    "health_score": 59.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mphinance/alpha-skills@email-marketing",
@@ -14189,7 +14604,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": 90.2
+    "health_score": 90.2,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:dengineproblem/agents-monorepo@email-marketing",
@@ -14205,7 +14621,8 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 93.8
   },
   {
     "id": "github:Linked-API/linkedapi-mcp",
@@ -14237,7 +14654,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 81.3
   },
   {
     "id": "github:frappe/erpnext",
@@ -14333,7 +14751,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 67.1
+    "health_score": 67.1,
+    "audit_score": 87.5
   },
   {
     "id": "github:Volmarg/personal-management-system",
@@ -14525,7 +14944,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:hubspot/agent-cli-skills@crm-lookup",
@@ -14541,7 +14961,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 92.5
+    "health_score": 92.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:hubspot/agent-cli-skills@crm-data-quality",
@@ -14557,7 +14978,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 92.5
+    "health_score": 92.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@crm-cleanup",
@@ -14573,7 +14995,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@crm-maintenance",
@@ -14589,7 +15012,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:customware-ai/skills@crm-builder",
@@ -14605,7 +15029,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 93.8
   },
   {
     "id": "github:Shudesu/line-harness-oss",
@@ -14637,7 +15062,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 86.8
+    "health_score": 86.8,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:membranedev/application-skills@zoho-crm",
@@ -14653,7 +15079,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:membranedev/application-skills@dynamics-crm",
@@ -14669,7 +15096,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 50
   },
   {
     "id": "skillssh:louisblythe/sales-skills@email-sequence",
@@ -14685,7 +15113,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 54.4
+    "health_score": 54.4,
+    "audit_score": 91.7
   },
   {
     "id": "github:kaymen99/sales-outreach-automation-langgraph",
@@ -14717,7 +15146,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 89.5
+    "health_score": 89.5,
+    "audit_score": 93.8
   },
   {
     "id": "github:Othmane-Khadri/YALC-the-GTM-operating-system",
@@ -14749,7 +15179,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
@@ -14765,7 +15196,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "github:nando0x/ProspectOS",
@@ -14797,7 +15229,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 70.2
+    "health_score": 70.2,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:onewave-ai/claude-skills@gmail-to-crm-pipeline",
@@ -14813,7 +15246,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 87.7
+    "health_score": 87.7,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:guia-matthieu/clawfu-skills@crm-hygiene",
@@ -14829,7 +15263,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 75.9
+    "health_score": 75.9,
+    "audit_score": null
   },
   {
     "id": "skillssh:membranedev/application-skills@outreach",
@@ -14845,7 +15280,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 50
   },
   {
     "id": "skillssh:membranedev/application-skills@sugarcrm",
@@ -14861,7 +15297,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 93.8
   },
   {
     "id": "github:iPythoning/b2b-sdr-agent-template",
@@ -14893,7 +15330,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:crustdata/skills@sales-outreach",
@@ -14909,7 +15347,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 89.5
+    "health_score": 89.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:maddhruv/absolute@crm-management",
@@ -14925,7 +15364,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 86.2
+    "health_score": 86.2,
+    "audit_score": null
   },
   {
     "id": "skillssh:membranedev/application-skills@agile-crm",
@@ -14941,7 +15381,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 62.5
   },
   {
     "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm-development",
@@ -14957,7 +15398,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 84.8
+    "health_score": 84.8,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm",
@@ -14973,7 +15415,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 84.8
+    "health_score": 84.8,
+    "audit_score": 91.7
   },
   {
     "id": "github:toofast1/awesome-ai-lead-generation",
@@ -15197,7 +15640,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "github:buildingopen/opengtm",
@@ -15245,7 +15689,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 74.7
+    "health_score": 74.7,
+    "audit_score": 83.3
   },
   {
     "id": "github:browser-use/contact-use",
@@ -15277,7 +15722,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:pollow/c-suite-skills@vp-sales",
@@ -15293,7 +15739,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 57
+    "health_score": 57,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:kiluazen/kstack@outreach",
@@ -15309,7 +15756,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 65
+    "health_score": 65,
+    "audit_score": 58.3
   },
   {
     "id": "github:Hainrixz/whatsapp-closer-agentkit",
@@ -15357,7 +15805,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:whawkinsiv/solo-founder-skills@sales",
@@ -15373,7 +15822,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": 97.4
+    "health_score": 97.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sales-skills/sales@sales-influencer-hero",
@@ -15389,7 +15839,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sales-skills/sales@sales-outreach-io",
@@ -15405,7 +15856,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mr-kelly/skills@kelly-sales-outreach",
@@ -15421,7 +15873,8 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false,
-    "health_score": 90.2
+    "health_score": 90.2,
+    "audit_score": 66.7
   },
   {
     "id": "skillssh:clerk/skills@clerk-billing",
@@ -15437,7 +15890,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 80.2
+    "health_score": 80.2,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:harperaa/secure-claude-skills@payment-security-clerk-billing-stripe",
@@ -15453,7 +15907,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 54.8
+    "health_score": 54.8,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:finsilabs/awesome-ecommerce-skills@subscription-billing",
@@ -15469,7 +15924,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 59.7
+    "health_score": 59.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:membranedev/application-skills@stripe-corporate-card",
@@ -15485,7 +15941,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:ssheleg/sheleg-dev@stripe-billing",
@@ -15501,7 +15958,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:borghei/claude-skills@stripe-integration-expert",
@@ -15517,7 +15975,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:heyvhuang/ship-faster@stripe",
@@ -15533,7 +15992,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 88.3
+    "health_score": 88.3,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:fusengine/agents@laravel-billing",
@@ -15549,7 +16009,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 90.2
+    "health_score": 90.2,
+    "audit_score": 50
   },
   {
     "id": "skillssh:whawkinsiv/solo-founder-skills@payments",
@@ -15565,7 +16026,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": true,
-    "health_score": 97.4
+    "health_score": 97.4,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:fandhe-ai/agent-reference-skills@stripe",
@@ -15581,7 +16043,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 77.3
+    "health_score": 77.3,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:geelark/geelark-cli@geelark-billing",
@@ -15597,7 +16060,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 88.6
+    "health_score": 88.6,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:metronome-industries/ai@stripe-to-metronome-migration",
@@ -15613,7 +16077,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:danzam98/claude-skills-toolkit@saas-billing-patterns-for-stripe-and-paypal",
@@ -15629,7 +16094,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 65
+    "health_score": 65,
+    "audit_score": 8.3
   },
   {
     "id": "skillssh:nirholas/xactions@billing-management",
@@ -15645,7 +16111,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "skillssh:clownnvd/claude-code-skills@stripe",
@@ -15661,7 +16128,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:terminalskills/skills@stripe-billing",
@@ -15677,7 +16145,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 95.1
+    "health_score": 95.1,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:zef-computers/drivers@stripe-billing",
@@ -15693,7 +16162,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 52.5
+    "health_score": 52.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:andrewsrigom/agent-skills@stripe-webhook-first-billing-state",
@@ -15709,7 +16179,8 @@
     "category": "10.2",
     "category_name": "세일즈/매출 > 결제/빌링 연동",
     "weak_match": false,
-    "health_score": 65
+    "health_score": 65,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:googleworkspace/cli@persona-customer-support",
@@ -15725,7 +16196,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:uvdesk/community-skeleton",
@@ -15837,7 +16309,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "github:taoshihan1991/goflylivechat",
@@ -16045,7 +16518,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 59.7
+    "health_score": 59.7,
+    "audit_score": 93.8
   },
   {
     "id": "github:hossainchisty/FreshGerium-ERP-Platform",
@@ -16093,7 +16567,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "github:classiebit/addchat-laravel",
@@ -16125,7 +16600,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 86.2
+    "health_score": 86.2,
+    "audit_score": null
   },
   {
     "id": "skillssh:shipshitdev/skills@support-systems-architect",
@@ -16141,7 +16617,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": true,
-    "health_score": 79.5
+    "health_score": 79.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:twilio/ai@twilio-customer-support-architect",
@@ -16157,7 +16634,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 82.5
+    "health_score": 82.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:finsilabs/awesome-ecommerce-skills@customer-support-integration",
@@ -16173,7 +16651,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 59.7
+    "health_score": 59.7,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:rmyndharis/antigravity-skills@customer-support",
@@ -16189,7 +16668,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:sylphxai/skills@customer-support-operations",
@@ -16205,7 +16685,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 87.3
+    "health_score": 87.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:tatat/agents-playground@customer-support",
@@ -16221,7 +16702,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 42.5
+    "health_score": 42.5,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:whawkinsiv/solo-founder-skills@support",
@@ -16237,7 +16719,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": true,
-    "health_score": 97.4
+    "health_score": 97.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:itsimonfredlingjack/codex-dev-plugin@customer-support",
@@ -16253,7 +16736,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 46.1
+    "health_score": 46.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:herdiansah/antigravity-skills-master@customer-support",
@@ -16269,7 +16753,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 46.1
+    "health_score": 46.1,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:sidetoolco/org-charts@customer-support",
@@ -16285,7 +16770,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 42.5
+    "health_score": 42.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:notque/vexjoy-agent@customer-support",
@@ -16301,7 +16787,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": 97.4
+    "health_score": 97.4,
+    "audit_score": null
   },
   {
     "id": "skillssh:superlowburn/skill-customer-support@customer-support",
@@ -16317,7 +16804,8 @@
     "category": "10.3",
     "category_name": "세일즈/매출 > 고객지원 자동화",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "github:makeplane/plane",
@@ -16349,7 +16837,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:hcengineering/platform",
@@ -16397,7 +16886,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": true,
-    "health_score": 98
+    "health_score": 98,
+    "audit_score": 91.7
   },
   {
     "id": "github:RedPlanetHQ/tegon",
@@ -16429,7 +16919,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:404kidwiz/claude-supercode-skills@project-manager",
@@ -16445,7 +16936,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": true,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "github:borghei/Claude-Skills",
@@ -16493,7 +16985,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 95.4
+    "health_score": 95.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:jezweb/claude-skills@project-session-management",
@@ -16509,7 +17002,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": true,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:miles990/claude-software-skills@project-management",
@@ -16525,7 +17019,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 58.8
+    "health_score": 58.8,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:curiositech/some_claude_skills@project-management-guru-adhd",
@@ -16541,7 +17036,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 97.1
+    "health_score": 97.1,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:laurigates/claude-plugins@uv-project-management",
@@ -16557,7 +17053,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 91.3
+    "health_score": 91.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:vivy-yi/xiaohongshu-skills@project-management",
@@ -16573,7 +17070,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 56.5
+    "health_score": 56.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
@@ -16589,7 +17087,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 99.3
+    "health_score": 99.3,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:proffesor-for-testing/agentic-qe@qe-github-project-management",
@@ -16605,7 +17104,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 99.8
+    "health_score": 99.8,
+    "audit_score": 66.7
   },
   {
     "id": "skillssh:zenobi-us/dotfiles@projectmanagement",
@@ -16621,7 +17121,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": true,
-    "health_score": 91.3
+    "health_score": 91.3,
+    "audit_score": 33.3
   },
   {
     "id": "skillssh:jk-0001/skills@project-management",
@@ -16637,7 +17138,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 47.7
+    "health_score": 47.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:seb1n/awesome-ai-agent-skills@project-management",
@@ -16653,7 +17155,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 86.7
+    "health_score": 86.7,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:prorise-cool/claude-code-multi-agent@project-management-specialist",
@@ -16669,7 +17172,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 89.1
+    "health_score": 89.1,
+    "audit_score": null
   },
   {
     "id": "skillssh:dmend3z/tribo-skills@project-management",
@@ -16685,7 +17189,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 59.3
+    "health_score": 59.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:peterbamuhigire/proposal-skills@project-management",
@@ -16701,7 +17206,8 @@
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
-    "health_score": 79.5
+    "health_score": 79.5,
+    "audit_score": 91.7
   },
   {
     "id": "github:upstash/context7",
@@ -16733,7 +17239,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:addyosmani/agent-skills@documentation-and-adrs",
@@ -16749,7 +17256,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:github/awesome-copilot@documentation-writer",
@@ -16765,7 +17273,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:Redocly/redoc",
@@ -16845,7 +17354,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:github/awesome-copilot@create-oo-component-documentation",
@@ -16861,7 +17371,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:github/awesome-copilot@update-oo-component-documentation",
@@ -16877,7 +17388,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:scanopy/scanopy",
@@ -16925,7 +17437,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 89.5
+    "health_score": 89.5,
+    "audit_score": 91.7
   },
   {
     "id": "github:jupyter-book/jupyter-book",
@@ -16957,7 +17470,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 87.5
   },
   {
     "id": "github:nuxt-content/docus",
@@ -17005,7 +17519,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 96.7
+    "health_score": 96.7,
+    "audit_score": 91.7
   },
   {
     "id": "github:mitmproxy/pdoc",
@@ -17053,7 +17568,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:timescale/pg-aiguide",
@@ -17085,7 +17601,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:geoffjay/claude-plugins@documentation-update",
@@ -17101,7 +17618,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 54.8
+    "health_score": 54.8,
+    "audit_score": 93.8
   },
   {
     "id": "github:jsdoc2md/jsdoc-to-markdown",
@@ -17149,7 +17667,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:SwiftDocOrg/swift-doc",
@@ -17197,7 +17716,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:mcollina/skills@documentation",
@@ -17213,7 +17733,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:2fd/graphdoc",
@@ -17245,7 +17766,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 65
+    "health_score": 65,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:upstash/context7@documentation-lookup",
@@ -17261,7 +17783,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "github:sourcey/sourcey",
@@ -17325,7 +17848,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 65.6
+    "health_score": 65.6,
+    "audit_score": 93.8
   },
   {
     "id": "github:anvilco/spectaql",
@@ -17357,7 +17881,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:pdoc3/pdoc",
@@ -17517,7 +18042,8 @@
     "category": "11.2",
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
-    "health_score": 56.3
+    "health_score": 56.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:microsoft/azure-skills@azure-compliance",
@@ -17533,7 +18059,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:prowler-cloud/prowler",
@@ -17565,7 +18092,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:codenotary/immudb",
@@ -17597,7 +18125,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:kyverno/kyverno",
@@ -17629,7 +18158,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:affaan-m/ecc@hipaa-compliance",
@@ -17645,7 +18175,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:trailofbits/skills@spec-to-code-compliance",
@@ -17661,7 +18192,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:HotCakeX/Harden-Windows-Security",
@@ -17725,7 +18257,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:ComplianceAsCode/content",
@@ -17773,7 +18306,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:0x6d69636b/windows_hardening",
@@ -17821,7 +18355,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 93.1
+    "health_score": 93.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:samber/cc-skills@snyk-agent-scan-compliance",
@@ -17837,7 +18372,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 94.4
+    "health_score": 94.4,
+    "audit_score": 87.5
   },
   {
     "id": "github:oss-review-toolkit/ort",
@@ -17917,7 +18453,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:qodex-ai/ai-agent-skills@legal-document-analyzer",
@@ -17933,7 +18470,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 46.1
+    "health_score": 46.1,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:nexscope-ai/amazon-skills@amazon-product-compliance",
@@ -17949,7 +18487,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:nexscope-ai/ecommerce-skills@tiktok-shop-compliance",
@@ -17965,7 +18504,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:davila7/claude-code-templates@security-compliance",
@@ -17981,7 +18521,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:nexscope-ai/ecommerce-skills@shopify-tax-compliance",
@@ -17997,7 +18538,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/claude-for-legal@entity-compliance",
@@ -18013,7 +18555,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:anthropics/claude-for-legal@material-contract-schedule",
@@ -18029,7 +18572,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:datadog-labs/agent-skills@dd-audit-compliance-report",
@@ -18045,7 +18589,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 96.1
+    "health_score": 96.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:cowork-os/cowork-os@legal-contract-negotiation-review",
@@ -18061,7 +18606,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 99.3
+    "health_score": 99.3,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@compliance",
@@ -18077,7 +18623,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:nvidia/skillspector@jp-compliance-reporter",
@@ -18093,7 +18640,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:lawve-ai/awesome-legal-skills@contract-review-anthropic",
@@ -18109,7 +18657,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 99.7
+    "health_score": 99.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:zh-xx/legal-assistant-skills@contract-review",
@@ -18125,7 +18674,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 75.1
+    "health_score": 75.1,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:lawve-ai/awesome-legal-skills@tech-contract-negotiation-patrick-munro",
@@ -18141,7 +18691,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 99.7
+    "health_score": 99.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:evolsb/claude-legal-skill@contract-review",
@@ -18157,7 +18708,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 88.2
+    "health_score": 88.2,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:skala-io/legal-skills@contractor-agreement-review",
@@ -18173,7 +18725,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 60.3
+    "health_score": 60.3,
+    "audit_score": 81.3
   },
   {
     "id": "skillssh:jaygptpro/amazon-pro-skills@amz-product-compliance",
@@ -18189,7 +18742,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 69.5
+    "health_score": 69.5,
+    "audit_score": 75
   },
   {
     "id": "skillssh:qfeius/contract-cli@contract-cli-mdm-legal",
@@ -18205,7 +18759,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 91.8
+    "health_score": 91.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:qfeius/contract-cli@contract-cli-contract",
@@ -18221,7 +18776,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 91.8
+    "health_score": 91.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:cat-xierluo/legal-skills@contract-copilot",
@@ -18237,7 +18793,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:lawve-ai/awesome-legal-skills@nil-contract-analysis-samir-patel",
@@ -18253,7 +18810,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 99.7
+    "health_score": 99.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:zubair-trabzada/ai-legal-claude@contract-comparison",
@@ -18269,7 +18827,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 70
+    "health_score": 70,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:zh-xx/legal-assistant-skills@contract-gen",
@@ -18285,7 +18844,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 75.1
+    "health_score": 75.1,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:box/skills@box-legal-workflows-contract",
@@ -18301,7 +18861,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 91.8
+    "health_score": 91.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mohitagw15856/pm-claude-skills@contract-review",
@@ -18317,7 +18878,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:iankiku/forwward-teams@legal",
@@ -18333,7 +18895,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": true,
-    "health_score": 77.3
+    "health_score": 77.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:liaoann/skills@contracts",
@@ -18349,7 +18912,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:austintgriffith/ethskills@contracts",
@@ -18365,7 +18929,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 78.2
+    "health_score": 78.2,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:ni032mas/agent-skills-ru@ru-legal-contract-review",
@@ -18381,7 +18946,8 @@
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 91.7
   },
   {
     "id": "github:poteto/hiring-without-whiteboards",
@@ -18429,7 +18995,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 80
+    "health_score": 80,
+    "audit_score": 93.8
   },
   {
     "id": "github:backend-br/vagas",
@@ -18525,7 +19092,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 87.5
   },
   {
     "id": "github:zapplyjobs/New-Grad-Jobs-2027",
@@ -18637,7 +19205,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:Sjamilla/awesome-recruitment",
@@ -18717,7 +19286,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 93.8
   },
   {
     "id": "github:jobright-ai/Daily-H1B-Jobs-In-Tech",
@@ -18749,7 +19319,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 50
   },
   {
     "id": "skillssh:mbfinotti/sales-skills@sales-hiring",
@@ -18765,7 +19336,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:mbfinotti/revops-skills@revops-hiring",
@@ -18781,7 +19353,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "github:Creditas/challenge",
@@ -18813,7 +19386,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "github:sliday/resume-job-matcher",
@@ -18845,7 +19419,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "github:Dannny-Babs/Canadian-Tech-Internships-2025",
@@ -18877,7 +19452,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:refoundai/lenny-skills@hiring-product-talent",
@@ -18893,7 +19469,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 90
+    "health_score": 90,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:onewave-ai/claude-skills@hiring-scorecard",
@@ -18909,7 +19486,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 87.7
+    "health_score": 87.7,
+    "audit_score": 91.7
   },
   {
     "id": "github:PeterCookDev/TechLeading",
@@ -18941,7 +19519,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:pluginagentmarketplace/custom-plugin-engineering-manager@hiring-recruitment",
@@ -18957,7 +19536,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 54.8
+    "health_score": 54.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:shawnpang/startup-founder-skills@job-description",
@@ -18973,7 +19553,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 64.7
+    "health_score": 64.7,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:samber/developer-platform-skills@developer-platform-hiring",
@@ -18989,7 +19570,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 85
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:manager-dot-dev/manager-skills@hiring",
@@ -19005,7 +19587,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 71.8
+    "health_score": 71.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:madslorentzen/ai-job-search@jobdanmark-search",
@@ -19021,7 +19604,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:chasen-liao/resume-skills@job-description-analyzer",
@@ -19037,7 +19621,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 90.2
+    "health_score": 90.2,
+    "audit_score": 83.3
   },
   {
     "id": "github:sourcegraph/careers",
@@ -19069,7 +19654,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 79.5
+    "health_score": 79.5,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:curiositech/some_claude_skills@hiring-manager-deep-dive",
@@ -19085,7 +19671,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 97.1
+    "health_score": 97.1,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:salesforcecommercecloud/b2c-developer-tooling@b2c-job",
@@ -19101,7 +19688,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 94.8
+    "health_score": 94.8,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:vince-winkintel/gitlab-cli-skills@glab-job",
@@ -19117,7 +19705,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 91.3
+    "health_score": 91.3,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:tilebox/skills@tilebox-workflow-jobs",
@@ -19133,7 +19722,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 75
+    "health_score": 75,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:catalystbyzoho/agent-skills@catalyst-job-scheduling",
@@ -19149,7 +19739,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 93.8
+    "health_score": 93.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:onewave-ai/claude-skills@cowork-hiring-screener",
@@ -19165,7 +19756,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 87.7
+    "health_score": 87.7,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:jshchnz/claude-jobs@claude-jobs",
@@ -19181,7 +19773,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 60.9
+    "health_score": 60.9,
+    "audit_score": 87.5
   },
   {
     "id": "skillssh:dengineproblem/agents-monorepo@job-description-generator",
@@ -19197,7 +19790,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:kylezantos/soleio-design-hiring@soleio-design-hiring",
@@ -19213,7 +19807,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 44.8
+    "health_score": 44.8,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:mohitagw15856/pm-claude-skills@job-description-writer",
@@ -19229,7 +19824,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:lytics/agent-skills@job-manager",
@@ -19245,7 +19841,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": true,
-    "health_score": 67.3
+    "health_score": 67.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:w95/awesome-claude-corporate-skills@job-description-writer",
@@ -19261,7 +19858,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 65.4
+    "health_score": 65.4,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:thecraighewitt/skills@hiring",
@@ -19277,7 +19875,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 76.3
+    "health_score": 76.3,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:anthropics/knowledge-work-plugins@hiring-screener",
@@ -19293,7 +19892,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:ericgandrade/claude-superskills@job-description-analyzer",
@@ -19309,7 +19909,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 73.8
+    "health_score": 73.8,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:davila7/claude-code-templates@job-description-analyzer",
@@ -19325,7 +19926,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:inbharatai/claude-skills@job-description",
@@ -19341,7 +19943,8 @@
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 59.7
+    "health_score": 59.7,
+    "audit_score": 91.7
   },
   {
     "id": "github:rtk-ai/rtk",
@@ -19421,7 +20024,8 @@
     "category": "12.2",
     "category_name": "메타/효율화 레이어 > 에이전트 라우팅 메타에이전트",
     "weak_match": false,
-    "health_score": 61.7
+    "health_score": 61.7,
+    "audit_score": 83.3
   },
   {
     "id": "github:Snailclimb/JavaGuide",
@@ -19469,7 +20073,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:topoteretes/cognee",
@@ -19501,7 +20106,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 89.9
+    "health_score": 89.9,
+    "audit_score": 93.8
   },
   {
     "id": "github:NevaMind-AI/memU",
@@ -19565,7 +20171,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:rohitg00/agentmemory@recall",
@@ -19581,7 +20188,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:rohitg00/agentmemory@session-history",
@@ -19597,7 +20205,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:rohitg00/agentmemory@forget",
@@ -19613,7 +20222,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:rohitg00/agentmemory@recap",
@@ -19629,7 +20239,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@commit-context",
@@ -19645,7 +20256,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@commit-history",
@@ -19661,7 +20273,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@handoff",
@@ -19677,7 +20290,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:wshobson/agents@memory-safety-patterns",
@@ -19693,7 +20307,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:wshobson/agents@memory-forensics",
@@ -19709,7 +20324,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 68.8
   },
   {
     "id": "skillssh:rohitg00/agentmemory@agentmemory-agents",
@@ -19725,7 +20341,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@agentmemory-mcp-tools",
@@ -19741,7 +20358,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "skillssh:rohitg00/agentmemory@agentmemory-config",
@@ -19757,7 +20375,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@agentmemory-architecture",
@@ -19773,7 +20392,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@agentmemory-hooks",
@@ -19789,7 +20409,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:rohitg00/agentmemory@write-agentmemory-skill",
@@ -19805,7 +20426,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:plastic-labs/honcho",
@@ -19837,7 +20459,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 33.3
   },
   {
     "id": "github:letta-ai/letta-code",
@@ -19949,7 +20572,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:sickn33/agentic-awesome-skills@agent-memory-systems",
@@ -19965,7 +20589,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:Intuition-Lab/personal-model",
@@ -19997,7 +20622,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@reflect",
@@ -20013,7 +20639,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 75
   },
   {
     "id": "github:IAAR-Shanghai/Awesome-AI-Memory",
@@ -20045,7 +20672,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@critique",
@@ -20061,7 +20689,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@kaizen",
@@ -20077,7 +20706,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@judge-with-debate",
@@ -20093,7 +20723,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@memorize",
@@ -20109,7 +20740,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@subagent-driven-development",
@@ -20125,7 +20757,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@plan-task",
@@ -20141,7 +20774,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@implement-task",
@@ -20157,7 +20791,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": true,
-    "health_score": 100
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:api/git@agent-memory",
@@ -20173,7 +20808,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": null
+    "health_score": null,
+    "audit_score": null
   },
   {
     "id": "github:LycheeMem/LycheeMem",
@@ -20221,7 +20857,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": 75.9
+    "health_score": 75.9,
+    "audit_score": null
   },
   {
     "id": "skillssh:siviter-xyz/dot-agent@context-engineering",
@@ -20237,7 +20874,8 @@
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false,
-    "health_score": 54.8
+    "health_score": 54.8,
+    "audit_score": 91.7
   },
   {
     "id": "github:Portkey-AI/gateway",

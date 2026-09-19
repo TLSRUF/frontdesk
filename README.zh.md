@@ -25,7 +25,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 启动包(Starter Pack)与流水线(Pipeline)
 
-- **启动包** —— 满足"只装这一个,各部门最好的技能就自动齐全"这个诉求。`npm run starter-pack` 会在 13 个部门中,从分类置信度高、且**未被废弃**的条目里挑出安装量最高的一个(目前共 12 个部门有结果)——是否废弃通过 `health_score` 判断,依据是 GitHub 是否标记为 archived、有没有许可证、以及 fork 数。然后用 `node scripts/install-starter-pack.mjs --yes` 一次性全部安装。**需要说明:这里选的是"在仍被维护的技能里安装量最高"的,而不是"性能最好"的技能** —— 目前仍然没有衡量真实性能的方法(我们也试过用 Reddit 提及次数作为替代指标,但连 ponytail 都搜不到任何有效信号,所以放弃了这个思路)。
+- **启动包** —— 满足"只装这一个,各部门最好的技能就自动齐全"这个诉求。`npm run starter-pack` 会在 13 个部门中,从分类置信度高、**未被废弃**(`health_score`,依据 GitHub 是否 archived、有没有许可证、fork 数)且**没有安全风险标记**(`audit_score`,来自 skills.sh 公开的 Socket/Snyk 等审计 API)的条目里挑出安装量最高的一个(目前共 12 个部门有结果)。然后用 `node scripts/install-starter-pack.mjs --yes` 一次性全部安装。**需要说明:这里选的是"在安全且仍被维护的技能里安装量最高"的,而不是"性能最好"的技能** —— 目前仍然没有衡量真实性能的方法(我们也试过用 Reddit 提及次数作为替代指标,但连 ponytail 都搜不到任何有效信号,所以放弃了这个思路)。
 - **流水线** —— 复用现有的目录/路由器,按"创意 → 产品定义 → 设计 → 开发 → 质量/安全 → 市场营销/销售 → 部署 → 运维"8 个阶段给出建议:`node scripts/pipeline.mjs "项目描述"`。由于部署和运维会影响真实服务,这个流水线设计为**每个阶段都需要人工确认后才进入下一阶段**,而不是从头到尾全自动执行。
 
 完整的设计考量和局限性见 [`ARCHITECTURE.md`](ARCHITECTURE.md) 中的"스타터팩"/"파이프라인"/"목표 대비 현황"章节(标题是韩文,但代码块和表格本身不受语言影响)。
@@ -68,6 +68,7 @@ npm run classify          # 用 taxonomy.mjs 的关键词自动分类 → data/c
 npm run enrich            # 从热门 skills.sh 条目的 SKILL.md 中回填真实描述
 npm run build:catalog     # 生成 CATALOG.md
 npm run repo-health       # 计算 health_score(是否废弃/许可证/fork 数)→ 合并进 catalog.json(有缓存,只抓取新仓库)
+npm run audit-scores      # 计算 audit_score(Socket/Snyk 等安全审计)→ 合并进 catalog.json
 npm run starter-pack      # 挑选各部门的代表技能 → data/starter-pack.json
 npm run install-starter-pack -- --yes   # 实际安装启动包
 npm run pipeline -- "项目描述"            # 打印 8 阶段流水线路线图

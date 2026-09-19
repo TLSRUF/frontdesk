@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T07:37:58.758Z",
+  "generated_at": "2026-09-19T12:16:32.350Z",
   "granularity": "department",
-  "note": "installs(설치 수) 기준 인기 1위이지, 실측 성능/품질 순위가 아님. archived·라이선스 없음·fork 없음 등으로 health_score가 낮은 항목은 미리 제외함 — ARCHITECTURE.md/BENCHMARK.md의 한계 참고",
+  "note": "installs(설치 수) 기준 인기 1위이지, 실측 성능/품질 순위가 아님. archived·라이선스 없음·fork 없음(health_score)이거나 Socket/Snyk 등에서 위험 신호가 나온(audit_score) 항목은 미리 제외함 — ARCHITECTURE.md/BENCHMARK.md의 한계 참고",
   "picks": [
     {
       "group": "1",
@@ -10,6 +10,7 @@
       "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing",
       "installs": 62500,
       "health_score": 100,
+      "audit_score": 91.7,
       "install": "npx skills add coreyhaines31/marketingskills@pricing"
     },
     {
@@ -19,6 +20,7 @@
       "source_url": "https://skills.sh/larksuite/cli/lark-okr",
       "installs": 378900,
       "health_score": 100,
+      "audit_score": 83.3,
       "install": "npx skills add larksuite/cli@lark-okr"
     },
     {
@@ -28,6 +30,7 @@
       "source_url": "https://skills.sh/arvindrk/extract-design-system/extract-design-system",
       "installs": 129200,
       "health_score": 95.9,
+      "audit_score": 75,
       "install": "npx skills add arvindrk/extract-design-system@extract-design-system"
     },
     {
@@ -37,6 +40,7 @@
       "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
       "installs": 725700,
       "health_score": 90,
+      "audit_score": 93.8,
       "install": "npx skills add vercel-labs/agent-skills@vercel-react-best-practices"
     },
     {
@@ -46,6 +50,7 @@
       "source_url": "https://skills.sh/wshobson/agents/api-design-principles",
       "installs": 28400,
       "health_score": 100,
+      "audit_score": 87.5,
       "install": "npx skills add wshobson/agents@api-design-principles"
     },
     {
@@ -55,6 +60,7 @@
       "source_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
       "installs": 264800,
       "health_score": 100,
+      "audit_score": 91.7,
       "install": "npx skills add google/agents-cli@google-agents-cli-observability"
     },
     {
@@ -64,6 +70,7 @@
       "source_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
       "installs": 21600,
       "health_score": 100,
+      "audit_score": 93.8,
       "install": "npx skills add wshobson/agents@prompt-engineering-patterns"
     },
     {
@@ -73,6 +80,7 @@
       "source_url": "https://skills.sh/anthropics/skills/webapp-testing",
       "installs": 159300,
       "health_score": 90,
+      "audit_score": 62.5,
       "install": "npx skills add anthropics/skills@webapp-testing"
     },
     {
@@ -82,6 +90,7 @@
       "source_url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
       "installs": 209900,
       "health_score": 100,
+      "audit_score": 87.5,
       "install": "npx skills add coreyhaines31/marketingskills@seo-audit"
     },
     {
@@ -91,6 +100,7 @@
       "source_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
       "installs": 110000,
       "health_score": 100,
+      "audit_score": 81.3,
       "install": "npx skills add coreyhaines31/marketingskills@cold-email"
     },
     {
@@ -100,6 +110,7 @@
       "source_url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
       "installs": 588100,
       "health_score": 100,
+      "audit_score": 93.8,
       "install": "npx skills add microsoft/azure-skills@azure-compliance"
     },
     {
@@ -109,6 +120,7 @@
       "source_url": "https://skills.sh/addyosmani/agent-skills/context-engineering",
       "installs": 36800,
       "health_score": 100,
+      "audit_score": 87.5,
       "install": "npx skills add addyosmani/agent-skills@context-engineering"
     }
   ]

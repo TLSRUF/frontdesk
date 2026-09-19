@@ -1,0 +1,50 @@
+{
+  "as_of": "2026-09-19",
+  "note": "GitHub 공개 데이터(gh api)로 직접 확인한 사실만 기록. 실행/성능 벤치마크가 아니라 카탈로그 규모·구조 비교이며, 다른 프로젝트를 실제로 설치/실행해서 측정한 값이 아니다.",
+  "projects": [
+    {
+      "name": "frontdesk",
+      "url": "https://github.com/TLSRUF/frontdesk",
+      "stars": 0,
+      "catalog_size": 1311,
+      "departments": 13,
+      "mechanism": "GitHub+skills.sh에서 수집한 외부 스킬을 13개 부서로 분류하고, 규칙 기반으로 요청을 라우팅",
+      "install": "npx skills add TLSRUF/frontdesk@frontdesk",
+      "license": "MIT"
+    },
+    {
+      "name": "headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "stars": 1626,
+      "catalog_size": 125,
+      "departments": 15,
+      "mechanism": "15+ 부서, 125+ 개별 설치 가능한 스킬로 구성된 '회사 조직' 시뮬레이션 (자체 제작 스킬 위주, 외부 카탈로그 수집이 아님)",
+      "install": "저장소 README 참고",
+      "license": null
+    },
+    {
+      "name": "skene-cookbook",
+      "url": "https://github.com/SkeneTechnologies/skene-cookbook",
+      "stars": 53,
+      "catalog_size": 700,
+      "departments": null,
+      "mechanism": "700+ 스킬 모음(PLG/마케팅/보안/DevEx 등), 부서 분류 체계나 라우팅 로직은 공개돼 있지 않음",
+      "install": "저장소 README 참고 (\"One command to install\")",
+      "license": "MIT"
+    }
+  ],
+  "related_but_different_mechanism": [
+    {
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "stars": 9024,
+      "mechanism": "요청마다 새 전문 에이전트 팀을 설계/생성하는 메타 스킬 — 기존 카탈로그에서 고르는 게 아니라 그때그때 만든다는 점이 frontdesk와 다름"
+    },
+    {
+      "name": "the-architect",
+      "url": "https://github.com/Hainrixz/the-architect",
+      "stars": 505,
+      "mechanism": "프로젝트 아키텍처/블루프린트 설계 도구 — 라우팅이 아니라 설계 산출물 생성이 목적"
+    }
+  ]
+}

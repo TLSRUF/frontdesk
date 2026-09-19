@@ -1,5 +1,7 @@
 # frontdesk
 
+<sub><a href="README.en.md">English</a> &middot; <a href="README.zh.md">中文</a></sub>
+
 요청이 들어오면 무거운 범용 에이전트부터 부르지 않고, 13개 부서(전략/기획부터 개발·디자인·마케팅까지) 중 어디로 보낼지 먼저 판단하는 프런트데스크. 아이디어 검증부터 수익모델, 마케팅, 디자인, 개발까지 소프트웨어 회사의 모든 기능을 한 번에 처리하는 통합 AI 툴을 만들기 위한 1단계로, GitHub과 [skills.sh](https://skills.sh)에서 AI 개발자용 에이전트/스킬을 수집해 실제 개발 회사 조직도처럼 세분화된 분야별로 분류한 카탈로그다.
 
 ## 이 프로젝트는 스킬로도 설치할 수 있다
@@ -21,6 +23,27 @@ npx skills add TLSRUF/frontdesk@frontdesk
 - **`skills/frontdesk/data/unclassified.json`** — 자동 분류 실패 항목 (수동 검토용, 23건)
 - **`skills/frontdesk/scripts/route.mjs`** — 판단 사다리 라우터 프로토타입 (`npm run route -- "작업 설명"`)
 
+## 성능/벤치마크
+
+<img src="skills/frontdesk/assets/benchmark-accuracy.svg" alt="Classification accuracy comparison" width="600">
+<img src="skills/frontdesk/assets/benchmark-false-positive.svg" alt="False positive rate comparison" width="600">
+
+라우터의 분류 정확도를 직접 작성한 87개 테스트 문장으로 실측했다 (재현: `node scripts/benchmark.mjs`):
+
+| | 정확도 (영어 78건) | 오탐률 (off-domain 4건) |
+|---|---:|---:|
+| **frontdesk (현재)** | **88.5%** | **0%** |
+| naive substring (이 프로젝트가 원래 쓰던 방식) | 87.2% | 25% |
+| 다수결 베이스라인 | 7.7% | 100% |
+
+핵심은 정확도 차이(88.5% vs 87.2%)가 아니라 **오탐률(0% vs 25%)**이다 — naive 방식은 "storage"라는 단어에 "rag"가 부분 문자열로 들어있다는 이유만으로 완전히 무관한 요청을 잘못 분류했다(실제로 발견해서 고친 버그). 1회 분류에 평균 0.05ms, LLM 호출 없이 토큰 비용 0.
+
+비슷한 카탈로그형 프로젝트와의 규모 비교(성능이 아니라 각자 공개한 수치 비교):
+
+<img src="skills/frontdesk/assets/catalog-size-comparison.svg" alt="Catalog size comparison" width="600">
+
+전체 방법론, 발견한 버그들, 알려진 한계는 [`skills/frontdesk/BENCHMARK.md`](skills/frontdesk/BENCHMARK.md)에 있다.
+
 ## 다시 실행하기 (카탈로그 최신화)
 
 `skills/frontdesk/` 안에서:
@@ -38,6 +61,7 @@ npm run classify          # taxonomy.mjs 키워드로 자동 분류 → data/cat
 npm run enrich            # 인기 상위 skills.sh 항목의 SKILL.md에서 실제 설명을 가져와 채움
 npm run build:catalog     # CATALOG.md 생성
 npm run route -- "recommend a testing automation tool"   # 라우터 데모
+npm run benchmark        # 분류 정확도/오탐률 벤치마크 실행 + 차트 재생성
 ```
 
 `classify`는 항상 raw 데이터에서 카탈로그를 통째로 재생성하므로 `enrich`보다 먼저 실행해야 한다(순서를 바꾸면 보강한 설명이 사라진다). `npm run all`은 이 순서를 이미 보장한다.

@@ -52,7 +52,7 @@ export const departments = [
     categories: [
       { id: "5.1", name: "API 설계", keywords: ["api design", "rest api", "graphql", "openapi"] },
       { id: "5.2", name: "DB/마이그레이션", keywords: ["database migration", "schema design", "sql", "postgres", "orm"] },
-      { id: "5.3", name: "인증/Identity", keywords: ["authentication", "oauth", "identity", "authorization", "jwt"] },
+      { id: "5.3", name: "인증/Identity", keywords: ["authentication", "oauth", "identity provider", "identity management", "user identity", "authorization", "jwt"] },
       { id: "5.4", name: "마이크로서비스/아키텍처", keywords: ["microservices", "backend architecture", "distributed systems"] }
     ]
   },
@@ -83,7 +83,7 @@ export const departments = [
     categories: [
       { id: "8.1", name: "테스트 자동화", keywords: ["test automation", "unit testing", "e2e testing", "playwright", "testing"] },
       { id: "8.2", name: "코드 리뷰", keywords: ["code review", "pr review", "static analysis"] },
-      { id: "8.3", name: "보안 리뷰/pentest", keywords: ["security review", "pentest", "vulnerability scan", "security audit"] },
+      { id: "8.3", name: "보안 리뷰/pentest", keywords: ["security review", "pentest", "penetration test", "vulnerability scan", "security audit"] },
       { id: "8.4", name: "부하/성능 테스트", keywords: ["load testing", "performance testing", "stress test"] }
     ]
   },
@@ -95,7 +95,7 @@ export const departments = [
       { id: "9.2", name: "콘텐츠/카피라이팅", keywords: ["copywriting", "content marketing", "blog writing"] },
       { id: "9.3", name: "유료광고", keywords: ["paid ads", "google ads", "facebook ads", "ad campaign"] },
       { id: "9.4", name: "SNS 마케팅", keywords: ["social media marketing", "instagram", "tiktok marketing"] },
-      { id: "9.5", name: "이메일/CRM", keywords: ["email marketing", "crm", "lifecycle marketing", "newsletter"] },
+      { id: "9.5", name: "이메일/CRM", keywords: ["email marketing", "lifecycle marketing", "newsletter"] },
       { id: "9.6", name: "그로스 실험/A-B테스트", keywords: ["growth hacking", "a/b testing", "ab-testing", "conversion optimization"] }
     ]
   },
@@ -105,7 +105,7 @@ export const departments = [
     categories: [
       { id: "10.1", name: "세일즈 아웃리치", keywords: ["sales outreach", "cold email", "lead generation", "sales automation", "crm"] },
       { id: "10.2", name: "결제/빌링 연동", keywords: ["stripe", "billing", "payment integration", "subscription billing"] },
-      { id: "10.3", name: "고객지원 자동화", keywords: ["customer support", "helpdesk", "support automation", "chatbot support"] }
+      { id: "10.3", name: "고객지원 자동화", keywords: ["customer support", "helpdesk", "support automation", "chatbot support", "support chatbot"] }
     ]
   },
   {
@@ -124,7 +124,7 @@ export const departments = [
     categories: [
       { id: "12.1", name: "토큰 절약/프롬프트 압축", keywords: ["token efficient", "prompt compression", "context compression", "yagni", "ponytail", "few token", "reduce token", "token consumption", "less code", "meta-prompting"] },
       { id: "12.2", name: "에이전트 라우팅 메타에이전트", keywords: ["agent router", "orchestrator", "swarm", "agent coordination"] },
-      { id: "12.3", name: "메모리/컨텍스트 관리", keywords: ["agent memory", "context management", "long-term memory", "rag memory", "self-correcting memory", "remembers", "context engineering", "prompt compression"] },
+      { id: "12.3", name: "메모리/컨텍스트 관리", keywords: ["agent memory", "context management", "long-term memory", "rag memory", "self-correcting memory", "remembers", "context engineering"] },
       { id: "12.4", name: "멀티에이전트 조율 프레임워크", keywords: ["langchain", "autogen", "crewai", "multi-agent framework"] }
     ]
   },

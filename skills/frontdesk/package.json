@@ -11,6 +11,7 @@
     "enrich": "node scripts/enrich-descriptions.mjs",
     "build:catalog": "node scripts/build-catalog-md.mjs",
     "route": "node scripts/route.mjs",
+    "benchmark": "node scripts/benchmark.mjs",
     "all": "npm run collect:github && npm run collect:skillssh && npm run classify && npm run enrich && npm run build:catalog"
   }
 }

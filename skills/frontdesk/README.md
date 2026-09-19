@@ -1,5 +1,7 @@
 # frontdesk (스킬)
 
+<sub><a href="README.en.md">English</a> &middot; <a href="README.zh.md">中文</a></sub>
+
 이 폴더는 [`SKILL.md`](SKILL.md)를 포함한, 다른 프로젝트에 그대로 설치 가능한 **자기완결적 스킬 패키지**다. 프로젝트 전체 배경과 설계 문서는 저장소 루트의 [`README.md`](../../README.md), [`ARCHITECTURE.md`](../../ARCHITECTURE.md)를 참고한다.
 
 ## 설치
@@ -25,7 +27,8 @@ node scripts/route.mjs "recommend a testing automation tool"
 - `SKILL.md` — Claude(또는 다른 에이전트)가 읽는 실제 스킬 정의
 - `taxonomy.mjs` — 13개 부서 분류 체계
 - `data/catalog.json` — 분류된 카탈로그 원본 (1,311건)
-- `scripts/` — 수집(`collect-*.mjs`) → 분류(`classify.mjs`) → 보강(`enrich-descriptions.mjs`) → 문서화(`build-catalog-md.mjs`) → 라우팅(`route.mjs`) 파이프라인
+- `scripts/` — 수집(`collect-*.mjs`) → 분류(`classify.mjs`) → 보강(`enrich-descriptions.mjs`) → 문서화(`build-catalog-md.mjs`) → 라우팅(`route.mjs`) → 벤치마크(`benchmark.mjs`) 파이프라인
 - `CATALOG.md` — 사람이 읽는 카탈로그 전체 목록
+- `BENCHMARK.md` — 분류 정확도/오탐률 벤치마크와 비슷한 프로젝트와의 규모 비교
 
-카탈로그를 최신화하려면 `npm run all` (저장소 루트 README 참고).
+카탈로그를 최신화하려면 `npm run all`, 벤치마크는 `npm run benchmark` (저장소 루트 README 참고).

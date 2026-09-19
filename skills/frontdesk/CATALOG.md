@@ -395,7 +395,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 - **[codex-seo](https://github.com/AgriciDaniel/codex-seo)** (⭐ 729) — Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reports.
 
-## 5. 엔지니어링-백엔드 (64건)
+## 5. 엔지니어링-백엔드 (62건)
 
 ### 5.1 API 설계
 
@@ -465,8 +465,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[cli](https://github.com/googleworkspace/cli)** (⭐ 31053) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - **[composio](https://github.com/ComposioHQ/composio)** (⭐ 30237) — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - **[opa](https://github.com/open-policy-agent/opa)** (⭐ 12249) — Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-- **[agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** (⭐ 6287) — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
-- **[letta-code](https://github.com/letta-ai/letta-code)** (⭐ 3377) — Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 
 ### 5.4 마이크로서비스/아키텍처
 
@@ -577,7 +575,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[metaflow](https://github.com/Netflix/metaflow)** (⭐ 10274) — Build, Manage and Deploy AI/ML Systems
 - **[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)** (⭐ 6066) — Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
-## 7. 엔지니어링-데이터/ML/AI (286건)
+## 7. 엔지니어링-데이터/ML/AI (287건)
 
 ### 7.1 데이터 파이프라인/ETL
 
@@ -770,6 +768,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[swarms](https://github.com/kyegomez/swarms)** (⭐ 7181) — The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** (⭐ 7085) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - **[MindSearch](https://github.com/InternLM/MindSearch)** (⭐ 6929) — 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
+- **[agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** (⭐ 6287) — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - **[MaiBot](https://github.com/Mai-with-u/MaiBot)** (⭐ 5990) — MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.
 - **[oasis](https://github.com/camel-ai/oasis)** (⭐ 5160) — 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. 
 - **[solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh)** (⭐ 4925) — An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.
@@ -935,7 +934,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[agentnode-dev/skills-security-audit@skills-security-audit](https://skills.sh/agentnode-dev/skills-security-audit/skills-security-audit)** (⬇ 332 installs) — _설명 없음_
 - **[donchitos/claude-code-game-studios@security-audit](https://skills.sh/donchitos/claude-code-game-studios/security-audit)** (⬇ 312 installs) — _설명 없음_
 
-## 9. 마케팅/그로스 (112건)
+## 9. 마케팅/그로스 (76건)
 
 ### 9.1 SEO
 
@@ -1003,33 +1002,12 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 - **[coreyhaines31/marketingskills@emails](https://skills.sh/coreyhaines31/marketingskills/emails)** (⬇ 60,800 installs) ⚠ — When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboar
 - **[coreyhaines31/marketingskills@email-sequence](https://skills.sh/coreyhaines31/marketingskills/email-sequence)** (⬇ 55,800 installs) ⚠ — _설명 없음_
-- **[erpnext](https://github.com/frappe/erpnext)** (⭐ 39363) — Free and Open Source Enterprise Resource Planning (ERP)
-- **[monica](https://github.com/monicahq/monica)** (⭐ 25334) — Personal CRM. Remember everything about your friends, family and business relationships.
 - **[caffeinelabs/skills@extension-email-marketing](https://skills.sh/caffeinelabs/skills/extension-email-marketing)** (⬇ 21,000 installs) — Send personalised marketing emails to subscribers with an unsubscribe link.
 - **[mautic](https://github.com/mautic/mautic)** (⭐ 10531) — Mautic: Open Source Marketing Automation Software.
-- **[akaunting](https://github.com/akaunting/akaunting)** (⭐ 10127) — Online Accounting Software
-- **[ever-gauzy](https://github.com/ever-co/ever-gauzy)** (⭐ 7749) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
-- **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** (⭐ 5752) — SuiteCRM - Open source CRM for the world
 - **[mailtrain](https://github.com/Mailtrain-org/mailtrain)** (⭐ 5752) — Self hosted newsletter app
-- **[claude-office-skills/skills@crm-automation](https://skills.sh/claude-office-skills/skills/crm-automation)** (⬇ 4,800 installs) — _설명 없음_
 - **[claude-office-skills/skills@email-marketing](https://skills.sh/claude-office-skills/skills/email-marketing)** (⬇ 4,400 installs) — _설명 없음_
-- **[personal-management-system](https://github.com/Volmarg/personal-management-system)** (⭐ 4160) — Your web application for managing personal data.
-- **[espocrm](https://github.com/espocrm/espocrm)** (⭐ 3371) — EspoCRM – Open Source CRM Application
-- **[CommunityServer](https://github.com/ONLYOFFICE/CommunityServer)** (⭐ 3166) — Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
-- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** (⭐ 3142) — A self-hosted open source application for managing your invoices, clients and payments.
-- **[CordysCRM](https://github.com/1Panel-dev/CordysCRM)** (⭐ 2726) — 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。
-- **[frappe_docker](https://github.com/frappe/frappe_docker)** (⭐ 2566) — Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development
-- **[DaybydayCRM](https://github.com/Bottelet/DaybydayCRM)** (⭐ 2328) — DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
 - **[notifuse](https://github.com/Notifuse/notifuse)** (⭐ 2205) — Open-source, self-hosted newsletter, email marketing and transactional email platform. Visual MJML editor, Liquid templating, 7 sending providers.
 - **[sendportal](https://github.com/mettle/sendportal)** (⭐ 2173) — Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost. 
-- **[oms-erp](https://github.com/FJ-OMS/oms-erp)** (⭐ 1926) — 一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
-- **[avo](https://github.com/avo-hq/avo)** (⭐ 1801) — The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails
-- **[YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM)** (⭐ 1791) — We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce
-- **[hubspot/agent-cli-skills@crm-lookup](https://skills.sh/hubspot/agent-cli-skills/crm-lookup)** (⬇ 1,500 installs) — _설명 없음_
-- **[hubspot/agent-cli-skills@crm-data-quality](https://skills.sh/hubspot/agent-cli-skills/crm-data-quality)** (⬇ 1,500 installs) — _설명 없음_
-- **[anthropics/knowledge-work-plugins@crm-cleanup](https://skills.sh/anthropics/knowledge-work-plugins/crm-cleanup)** (⬇ 1,400 installs) — _설명 없음_
-- **[anthropics/knowledge-work-plugins@crm-maintenance](https://skills.sh/anthropics/knowledge-work-plugins/crm-maintenance)** (⬇ 1,400 installs) — _설명 없음_
-- **[customware-ai/skills@crm-builder](https://skills.sh/customware-ai/skills/crm-builder)** (⬇ 1,400 installs) — _설명 없음_
 - **[arnabbagxd/brand-building-skills@email-marketing](https://skills.sh/arnabbagxd/brand-building-skills/email-marketing)** (⬇ 1,100 installs) — _설명 없음_
 - **[kostja94/marketing-skills@email-marketing](https://skills.sh/kostja94/marketing-skills/email-marketing)** (⬇ 1,100 installs) — _설명 없음_
 - **[nexscope-ai/ecommerce-skills@ecommerce-email-marketing-builder](https://skills.sh/nexscope-ai/ecommerce-skills/ecommerce-email-marketing-builder)** (⬇ 928 installs) — _설명 없음_
@@ -1038,25 +1016,10 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[aaron-he-zhu/aaron-marketing-skills@email-sequence-designer](https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-sequence-designer)** (⬇ 784 installs) ⚠ — _설명 없음_
 - **[aaron-he-zhu/aaron-marketing-skills@email-quality-auditor](https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-quality-auditor)** (⬇ 777 installs) ⚠ — _설명 없음_
 - **[django-crm](https://github.com/DjangoCRM/django-crm)** (⭐ 626) — CRM and Task management software, Email marketing and many more. Django CRM software app is built for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development. ✨
-- **[line-harness-oss](https://github.com/Shudesu/line-harness-oss)** (⭐ 593) — L Harness — self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (野田修一).
-- **[joellewis/finance_skills@crm-client-lifecycle](https://skills.sh/joellewis/finance_skills/crm-client-lifecycle)** (⬇ 572 installs) — _설명 없음_
-- **[membranedev/application-skills@zoho-crm](https://skills.sh/membranedev/application-skills/zoho-crm)** (⬇ 571 installs) — _설명 없음_
-- **[membranedev/application-skills@dynamics-crm](https://skills.sh/membranedev/application-skills/dynamics-crm)** (⬇ 541 installs) — _설명 없음_
 - **[caffeinate](https://github.com/joshmn/caffeinate)** (⭐ 384) — A Rails engine for drip campaigns/scheduled sequences and periodical support. Works with ActionMailer, and other things.
 - **[cosmoblk/email-marketing-bible@email-marketing-bible](https://skills.sh/cosmoblk/email-marketing-bible/email-marketing-bible)** (⬇ 365 installs) — _설명 없음_
-- **[casper-studios/casper-marketplace@attio-crm](https://skills.sh/casper-studios/casper-marketplace/attio-crm)** (⬇ 313 installs) — _설명 없음_
 - **[sendportal-core](https://github.com/mettle/sendportal-core)** (⭐ 299) — Core functionality for SendPortal
-- **[mbfinotti/revops-skills@crm-data-governance](https://skills.sh/mbfinotti/revops-skills/crm-data-governance)** (⬇ 286 installs) — _설명 없음_
 - **[nexu-io/open-design@email-marketing](https://skills.sh/nexu-io/open-design/email-marketing)** (⬇ 258 installs) — _설명 없음_
-- **[scientiacapital/skills@crm-integration](https://skills.sh/scientiacapital/skills/crm-integration)** (⬇ 219 installs) — _설명 없음_
-- **[onewave-ai/claude-skills@gmail-to-crm-pipeline](https://skills.sh/onewave-ai/claude-skills/gmail-to-crm-pipeline)** (⬇ 215 installs) — _설명 없음_
-- **[guia-matthieu/clawfu-skills@crm-hygiene](https://skills.sh/guia-matthieu/clawfu-skills/crm-hygiene)** (⬇ 212 installs) — _설명 없음_
-- **[membranedev/application-skills@sugarcrm](https://skills.sh/membranedev/application-skills/sugarcrm)** (⬇ 200 installs) ⚠ — _설명 없음_
-- **[membranedev/application-skills@capsule-crm](https://skills.sh/membranedev/application-skills/capsule-crm)** (⬇ 169 installs) — _설명 없음_
-- **[maddhruv/absolute@crm-management](https://skills.sh/maddhruv/absolute/crm-management)** (⬇ 167 installs) — _설명 없음_
-- **[membranedev/application-skills@agile-crm](https://skills.sh/membranedev/application-skills/agile-crm)** (⬇ 166 installs) — _설명 없음_
-- **[bobmatnyc/claude-mpm-skills@espocrm-development](https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm-development)** (⬇ 152 installs) ⚠ — _설명 없음_
-- **[bobmatnyc/claude-mpm-skills@espocrm](https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm)** (⬇ 146 installs) ⚠ — _설명 없음_
 - **[shawnpang/startup-founder-skills@email-marketing](https://skills.sh/shawnpang/startup-founder-skills/email-marketing)** (⬇ 145 installs) — _설명 없음_
 - **[maddhruv/absolute@email-marketing](https://skills.sh/maddhruv/absolute/email-marketing)** (⬇ 128 installs) — _설명 없음_
 - **[finsilabs/awesome-ecommerce-skills@email-marketing-automation](https://skills.sh/finsilabs/awesome-ecommerce-skills/email-marketing-automation)** (⬇ 99 installs) — _설명 없음_
@@ -1067,21 +1030,57 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 - **[linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp)** (⭐ 67) — MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data.
 
-## 10. 세일즈/매출 (94건)
+## 10. 세일즈/매출 (130건)
 
 ### 10.1 세일즈 아웃리치
 
 - **[coreyhaines31/marketingskills@cold-email](https://skills.sh/coreyhaines31/marketingskills/cold-email)** (⬇ 110,000 installs) — Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails, prospecting emails, cold email campaigns, sales development emails, or SDR emails. Also use when the 
+- **[erpnext](https://github.com/frappe/erpnext)** (⭐ 39363) — Free and Open Source Enterprise Resource Planning (ERP)
+- **[monica](https://github.com/monicahq/monica)** (⭐ 25334) — Personal CRM. Remember everything about your friends, family and business relationships.
+- **[akaunting](https://github.com/akaunting/akaunting)** (⭐ 10127) — Online Accounting Software
+- **[ever-gauzy](https://github.com/ever-co/ever-gauzy)** (⭐ 7749) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+- **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** (⭐ 5752) — SuiteCRM - Open source CRM for the world
+- **[claude-office-skills/skills@crm-automation](https://skills.sh/claude-office-skills/skills/crm-automation)** (⬇ 4,800 installs) — _설명 없음_
+- **[personal-management-system](https://github.com/Volmarg/personal-management-system)** (⭐ 4160) — Your web application for managing personal data.
+- **[espocrm](https://github.com/espocrm/espocrm)** (⭐ 3371) — EspoCRM – Open Source CRM Application
 - **[DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (⭐ 3229) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+- **[CommunityServer](https://github.com/ONLYOFFICE/CommunityServer)** (⭐ 3166) — Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
+- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** (⭐ 3142) — A self-hosted open source application for managing your invoices, clients and payments.
+- **[CordysCRM](https://github.com/1Panel-dev/CordysCRM)** (⭐ 2726) — 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。
+- **[frappe_docker](https://github.com/frappe/frappe_docker)** (⭐ 2566) — Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development
+- **[DaybydayCRM](https://github.com/Bottelet/DaybydayCRM)** (⭐ 2328) — DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
+- **[oms-erp](https://github.com/FJ-OMS/oms-erp)** (⭐ 1926) — 一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
+- **[avo](https://github.com/avo-hq/avo)** (⭐ 1801) — The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails
+- **[YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM)** (⭐ 1791) — We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce
 - **[refoundai/lenny-skills@product-led-sales](https://skills.sh/refoundai/lenny-skills/product-led-sales)** (⬇ 1,700 installs) ⚠ — _설명 없음_
+- **[hubspot/agent-cli-skills@crm-lookup](https://skills.sh/hubspot/agent-cli-skills/crm-lookup)** (⬇ 1,500 installs) — _설명 없음_
+- **[hubspot/agent-cli-skills@crm-data-quality](https://skills.sh/hubspot/agent-cli-skills/crm-data-quality)** (⬇ 1,500 installs) — _설명 없음_
+- **[anthropics/knowledge-work-plugins@crm-cleanup](https://skills.sh/anthropics/knowledge-work-plugins/crm-cleanup)** (⬇ 1,400 installs) — _설명 없음_
+- **[anthropics/knowledge-work-plugins@crm-maintenance](https://skills.sh/anthropics/knowledge-work-plugins/crm-maintenance)** (⬇ 1,400 installs) — _설명 없음_
+- **[customware-ai/skills@crm-builder](https://skills.sh/customware-ai/skills/crm-builder)** (⬇ 1,400 installs) — _설명 없음_
+- **[line-harness-oss](https://github.com/Shudesu/line-harness-oss)** (⭐ 593) — L Harness — self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (野田修一).
+- **[joellewis/finance_skills@crm-client-lifecycle](https://skills.sh/joellewis/finance_skills/crm-client-lifecycle)** (⬇ 572 installs) — _설명 없음_
+- **[membranedev/application-skills@zoho-crm](https://skills.sh/membranedev/application-skills/zoho-crm)** (⬇ 571 installs) — _설명 없음_
+- **[membranedev/application-skills@dynamics-crm](https://skills.sh/membranedev/application-skills/dynamics-crm)** (⬇ 541 installs) — _설명 없음_
 - **[louisblythe/sales-skills@email-sequence](https://skills.sh/louisblythe/sales-skills/email-sequence)** (⬇ 415 installs) ⚠ — _설명 없음_
 - **[sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph)** (⭐ 388) — Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)
+- **[casper-studios/casper-marketplace@attio-crm](https://skills.sh/casper-studios/casper-marketplace/attio-crm)** (⬇ 313 installs) — _설명 없음_
 - **[YALC-the-GTM-operating-system](https://github.com/Othmane-Khadri/YALC-the-GTM-operating-system)** (⭐ 306) — YALC 1.0, the open-source Clay alternative. MIT, CLI-first, self-hosted, runs in Claude Code. Yalc today is an intelligent orchestration layer that runs pre configured GTM agents on your existing tech stack (CRM, sequencer and call recorder) → yalc.ai
 - **[mbfinotti/sales-skills@sales-outreach-personalization](https://skills.sh/mbfinotti/sales-skills/sales-outreach-personalization)** (⬇ 302 installs) — _설명 없음_
+- **[mbfinotti/revops-skills@crm-data-governance](https://skills.sh/mbfinotti/revops-skills/crm-data-governance)** (⬇ 286 installs) — _설명 없음_
 - **[ProspectOS](https://github.com/nando0x/ProspectOS)** (⭐ 221) — CRM de prospecção de leads com scraping de Google Maps + Instagram e mensagens geradas por IA.
+- **[scientiacapital/skills@crm-integration](https://skills.sh/scientiacapital/skills/crm-integration)** (⬇ 219 installs) — _설명 없음_
+- **[onewave-ai/claude-skills@gmail-to-crm-pipeline](https://skills.sh/onewave-ai/claude-skills/gmail-to-crm-pipeline)** (⬇ 215 installs) — _설명 없음_
+- **[guia-matthieu/clawfu-skills@crm-hygiene](https://skills.sh/guia-matthieu/clawfu-skills/crm-hygiene)** (⬇ 212 installs) — _설명 없음_
 - **[membranedev/application-skills@outreach](https://skills.sh/membranedev/application-skills/outreach)** (⬇ 201 installs) ⚠ — _설명 없음_
+- **[membranedev/application-skills@sugarcrm](https://skills.sh/membranedev/application-skills/sugarcrm)** (⬇ 200 installs) ⚠ — _설명 없음_
 - **[b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template)** (⭐ 184) — Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.
+- **[membranedev/application-skills@capsule-crm](https://skills.sh/membranedev/application-skills/capsule-crm)** (⬇ 169 installs) — _설명 없음_
 - **[crustdata/skills@sales-outreach](https://skills.sh/crustdata/skills/sales-outreach)** (⬇ 169 installs) — _설명 없음_
+- **[maddhruv/absolute@crm-management](https://skills.sh/maddhruv/absolute/crm-management)** (⬇ 167 installs) — _설명 없음_
+- **[membranedev/application-skills@agile-crm](https://skills.sh/membranedev/application-skills/agile-crm)** (⬇ 166 installs) — _설명 없음_
+- **[bobmatnyc/claude-mpm-skills@espocrm-development](https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm-development)** (⬇ 152 installs) ⚠ — _설명 없음_
+- **[bobmatnyc/claude-mpm-skills@espocrm](https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm)** (⬇ 146 installs) ⚠ — _설명 없음_
 - **[awesome-ai-lead-generation](https://github.com/toofast1/awesome-ai-lead-generation)** (⭐ 131) — A curated list of AI tools for finding customers, social listening, and automated outreach. The modern growth stack.
 - **[50k-lead-generation-system](https://github.com/Awaisali36/50k-lead-generation-system)** (⭐ 93) — 🎯 Complete B2B lead generation system combining Apollo.io, Google Search, LinkedIn scraping, and AI qualification. Generate, enrich, and score thousands of leads automatically with n8n, Airtable, and Google Gemini.
 - **[mailsheet](https://github.com/nickvidal/mailsheet)** (⭐ 70) — Send emails from Google Sheets
@@ -1370,7 +1369,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[davila7/claude-code-templates@job-description-analyzer](https://skills.sh/davila7/claude-code-templates/job-description-analyzer)** (⬇ 13 installs) — _설명 없음_
 - **[inbharatai/claude-skills@job-description](https://skills.sh/inbharatai/claude-skills/job-description)** (⬇ 11 installs) — _설명 없음_
 
-## 12. 메타/효율화 레이어 (58건)
+## 12. 메타/효율화 레이어 (59건)
 
 ### 12.1 토큰 절약/프롬프트 압축
 
@@ -1410,6 +1409,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[rohitg00/agentmemory@write-agentmemory-skill](https://skills.sh/rohitg00/agentmemory/write-agentmemory-skill)** (⬇ 9,200 installs) ⚠ — _설명 없음_
 - **[honcho](https://github.com/plastic-labs/honcho)** (⭐ 7247) —  Memory library for building stateful agents
 - **[muratcankoylan/agent-skills-for-context-engineering@context-engineering-collection](https://skills.sh/muratcankoylan/agent-skills-for-context-engineering/context-engineering-collection)** (⬇ 3,900 installs) — _설명 없음_
+- **[letta-code](https://github.com/letta-ai/letta-code)** (⭐ 3377) — Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - **[neo](https://github.com/neomjs/neo)** (⭐ 3279) — Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.
 - **[agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)** (⭐ 2574) — 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai 
 - **[openwolf](https://github.com/cytostack/openwolf)** (⭐ 2348) — Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry.

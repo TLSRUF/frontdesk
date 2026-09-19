@@ -1,0 +1,524 @@
+{
+  "generated_at": "2026-09-19T05:53:44.683Z",
+  "testset_size": 87,
+  "english_in_domain": 78,
+  "null_cases": 4,
+  "non_english_cases": 5,
+  "results": [
+    {
+      "name": "frontdesk (current, word-boundary)",
+      "accuracy": 88.5,
+      "correct": 69,
+      "total": 78,
+      "misses": [
+        {
+          "task": "validate this idea before we build anything, is it worth pursuing",
+          "expected": "1.2",
+          "predicted": null
+        },
+        {
+          "task": "design a new UI for the dashboard",
+          "expected": "3.2",
+          "predicted": null
+        },
+        {
+          "task": "design a new logo and brand identity",
+          "expected": "3.6",
+          "predicted": null
+        },
+        {
+          "task": "fine-tune a model on our custom dataset",
+          "expected": "7.2",
+          "predicted": null
+        },
+        {
+          "task": "write e2e tests for the checkout flow",
+          "expected": "8.1",
+          "predicted": null
+        },
+        {
+          "task": "load test our api before launch",
+          "expected": "8.4",
+          "predicted": null
+        },
+        {
+          "task": "run an a/b testing experiment on our signup page",
+          "expected": "9.6",
+          "predicted": "8.1"
+        },
+        {
+          "task": "compress our prompts to save context",
+          "expected": "12.1",
+          "predicted": null
+        },
+        {
+          "task": "set up crewai for multi-agent coordination",
+          "expected": "12.4",
+          "predicted": "7.4"
+        }
+      ],
+      "falsePositiveRate": 0,
+      "falsePositiveDetails": []
+    },
+    {
+      "name": "naive substring (pre-fix)",
+      "accuracy": 87.2,
+      "correct": 68,
+      "total": 78,
+      "misses": [
+        {
+          "task": "validate this idea before we build anything, is it worth pursuing",
+          "expected": "1.2",
+          "predicted": null
+        },
+        {
+          "task": "design a new UI for the dashboard",
+          "expected": "3.2",
+          "predicted": null
+        },
+        {
+          "task": "design a new logo and brand identity",
+          "expected": "3.6",
+          "predicted": null
+        },
+        {
+          "task": "write terraform to provision our infra",
+          "expected": "6.2",
+          "predicted": "5.2"
+        },
+        {
+          "task": "fine-tune a model on our custom dataset",
+          "expected": "7.2",
+          "predicted": null
+        },
+        {
+          "task": "write e2e tests for the checkout flow",
+          "expected": "8.1",
+          "predicted": null
+        },
+        {
+          "task": "load test our api before launch",
+          "expected": "8.4",
+          "predicted": null
+        },
+        {
+          "task": "run an a/b testing experiment on our signup page",
+          "expected": "9.6",
+          "predicted": "8.1"
+        },
+        {
+          "task": "compress our prompts to save context",
+          "expected": "12.1",
+          "predicted": null
+        },
+        {
+          "task": "set up crewai for multi-agent coordination",
+          "expected": "12.4",
+          "predicted": "7.4"
+        }
+      ],
+      "falsePositiveRate": 25,
+      "falsePositiveDetails": [
+        {
+          "task": "we need more storage for user uploads, can you help provision it",
+          "predicted": "7.3"
+        }
+      ]
+    },
+    {
+      "name": "majority baseline (always dept 7)",
+      "accuracy": 7.7,
+      "correct": 6,
+      "total": 78,
+      "misses": [
+        {
+          "task": "we need a market research report on our competitors",
+          "expected": "1.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "run a competitive analysis against our top 3 rivals",
+          "expected": "1.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "help us build a pitch deck for investors",
+          "expected": "1.5",
+          "predicted": "7.0"
+        },
+        {
+          "task": "figure out our business model and how we'll make money",
+          "expected": "1.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "what pricing strategy should we use for our SaaS product",
+          "expected": "1.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "validate this idea before we build anything, is it worth pursuing",
+          "expected": "1.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write a PRD for the new checkout feature",
+          "expected": "2.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "help prioritize our product roadmap for next quarter",
+          "expected": "2.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "conduct user interviews to understand pain points",
+          "expected": "2.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "define our north star metric for growth",
+          "expected": "2.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "what should our OKRs be this quarter",
+          "expected": "2.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "I need general product management help organizing our backlog process",
+          "expected": "2.5",
+          "predicted": "7.0"
+        },
+        {
+          "task": "create wireframes for the onboarding flow",
+          "expected": "3.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "design a new UI for the dashboard",
+          "expected": "3.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build out our design system components",
+          "expected": "3.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "make a clickable prototype for user testing",
+          "expected": "3.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "audit our app for accessibility issues",
+          "expected": "3.5",
+          "predicted": "7.0"
+        },
+        {
+          "task": "design a new logo and brand identity",
+          "expected": "3.6",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build this component in react",
+          "expected": "4.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "optimize our web vitals and page load speed",
+          "expected": "4.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build a react native mobile app",
+          "expected": "4.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "fix the ios app crash on launch",
+          "expected": "4.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "convert this design to tailwind css",
+          "expected": "4.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "reduce our bundle size for faster loads",
+          "expected": "4.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "design a rest api for the orders service",
+          "expected": "5.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write a database migration to add a new column",
+          "expected": "5.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up oauth authentication for our app",
+          "expected": "5.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "break this monolith into microservices",
+          "expected": "5.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "design a graphql schema for our api",
+          "expected": "5.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up jwt-based auth for our api",
+          "expected": "5.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up ci/cd for our github repo",
+          "expected": "6.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write terraform to provision our infra",
+          "expected": "6.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up observability and logging for our services",
+          "expected": "6.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "help reduce our cloud costs",
+          "expected": "6.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "configure github actions for deployment",
+          "expected": "6.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up grafana dashboards for monitoring",
+          "expected": "6.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write e2e tests for the checkout flow",
+          "expected": "8.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "do a pr review of this branch",
+          "expected": "8.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "run a security audit on our auth system",
+          "expected": "8.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "load test our api before launch",
+          "expected": "8.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "run a penetration test on our staging environment",
+          "expected": "8.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up unit testing for our new service",
+          "expected": "8.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "improve our seo rankings for the blog",
+          "expected": "9.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write copywriting for our landing page",
+          "expected": "9.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up a google ads campaign",
+          "expected": "9.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "grow our instagram following",
+          "expected": "9.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up an email marketing newsletter",
+          "expected": "9.5",
+          "predicted": "7.0"
+        },
+        {
+          "task": "run an a/b testing experiment on our signup page",
+          "expected": "9.6",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write cold email templates for sales outreach",
+          "expected": "10.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "integrate stripe billing into our app",
+          "expected": "10.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up a customer support helpdesk",
+          "expected": "10.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build a crm for tracking leads",
+          "expected": "10.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "automate our subscription billing",
+          "expected": "10.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up a support chatbot for customers",
+          "expected": "10.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "track our tasks in a project management tool",
+          "expected": "11.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "generate documentation for our api",
+          "expected": "11.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "review this contract for compliance issues",
+          "expected": "11.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write a job description for a backend engineer",
+          "expected": "11.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write an adr for this architecture decision",
+          "expected": "11.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "check gdpr compliance for our data handling",
+          "expected": "11.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "reduce token usage in our claude code sessions",
+          "expected": "12.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "add long-term memory to our agent across sessions",
+          "expected": "12.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build an orchestrator to route between agents",
+          "expected": "12.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "compress our prompts to save context",
+          "expected": "12.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "set up crewai for multi-agent coordination",
+          "expected": "12.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "make this coding agent more yagni, less over-engineering",
+          "expected": "12.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "curate an awesome list of claude code plugins",
+          "expected": "13.1",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build a coding agent harness from scratch",
+          "expected": "13.2",
+          "predicted": "7.0"
+        },
+        {
+          "task": "add a safety net to block destructive git commands",
+          "expected": "13.3",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write cursor rules for our typescript project",
+          "expected": "13.4",
+          "predicted": "7.0"
+        },
+        {
+          "task": "build a terminal session manager for ai coding tools",
+          "expected": "13.5",
+          "predicted": "7.0"
+        },
+        {
+          "task": "wrap the github mcp server for our agent",
+          "expected": "13.6",
+          "predicted": "7.0"
+        }
+      ],
+      "falsePositiveRate": 100,
+      "falsePositiveDetails": [
+        {
+          "task": "we need more storage for user uploads, can you help provision it",
+          "predicted": "7.0"
+        },
+        {
+          "task": "write a poem about the ocean",
+          "predicted": "7.0"
+        },
+        {
+          "task": "what's the weather like today",
+          "predicted": "7.0"
+        },
+        {
+          "task": "help me think through a hard decision in my personal life",
+          "predicted": "7.0"
+        }
+      ]
+    }
+  ],
+  "non_english": {
+    "accuracy": 40,
+    "correct": 2,
+    "total": 5,
+    "note": "영어 키워드만 매칭하는 현재 구현의 알려진 한계 (ARCHITECTURE.md 참고)"
+  },
+  "latency_ms_per_call": 0.0477,
+  "latency_note": "5000회 반복 측정한 실측값. LLM 호출이 없는 순수 정규식 매칭이라 토큰 비용이 0이다."
+}

@@ -5910,36 +5910,6 @@
     "weak_match": false
   },
   {
-    "id": "github:microsoft/agent-governance-toolkit",
-    "name": "agent-governance-toolkit",
-    "type": "github-repo",
-    "source_url": "https://github.com/microsoft/agent-governance-toolkit",
-    "metric": {
-      "stars": 6287
-    },
-    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-    "license": "MIT",
-    "install": "git clone https://github.com/microsoft/agent-governance-toolkit",
-    "category": "5.3",
-    "category_name": "엔지니어링-백엔드 > 인증/Identity",
-    "weak_match": false
-  },
-  {
-    "id": "github:letta-ai/letta-code",
-    "name": "letta-code",
-    "type": "github-repo",
-    "source_url": "https://github.com/letta-ai/letta-code",
-    "metric": {
-      "stars": 3377
-    },
-    "description": "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/letta-ai/letta-code",
-    "category": "5.3",
-    "category_name": "엔지니어링-백엔드 > 인증/Identity",
-    "weak_match": false
-  },
-  {
     "id": "github:GoogleCloudPlatform/microservices-demo",
     "name": "microservices-demo",
     "type": "github-repo",
@@ -10020,6 +9990,21 @@
     "weak_match": false
   },
   {
+    "id": "github:microsoft/agent-governance-toolkit",
+    "name": "agent-governance-toolkit",
+    "type": "github-repo",
+    "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+    "metric": {
+      "stars": 6287
+    },
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "license": "MIT",
+    "install": "git clone https://github.com/microsoft/agent-governance-toolkit",
+    "category": "7.4",
+    "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
+    "weak_match": false
+  },
+  {
     "id": "github:Mai-with-u/MaiBot",
     "name": "MaiBot",
     "type": "github-repo",
@@ -13050,36 +13035,6 @@
     "weak_match": true
   },
   {
-    "id": "github:frappe/erpnext",
-    "name": "erpnext",
-    "type": "github-repo",
-    "source_url": "https://github.com/frappe/erpnext",
-    "metric": {
-      "stars": 39363
-    },
-    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
-    "license": "GPL-3.0",
-    "install": "git clone https://github.com/frappe/erpnext",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:monicahq/monica",
-    "name": "monica",
-    "type": "github-repo",
-    "source_url": "https://github.com/monicahq/monica",
-    "metric": {
-      "stars": 25334
-    },
-    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/monicahq/monica",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
     "id": "skillssh:caffeinelabs/skills@extension-email-marketing",
     "name": "caffeinelabs/skills@extension-email-marketing",
     "type": "skill",
@@ -13110,51 +13065,6 @@
     "weak_match": false
   },
   {
-    "id": "github:akaunting/akaunting",
-    "name": "akaunting",
-    "type": "github-repo",
-    "source_url": "https://github.com/akaunting/akaunting",
-    "metric": {
-      "stars": 10127
-    },
-    "description": "Online Accounting Software",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/akaunting/akaunting",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:ever-co/ever-gauzy",
-    "name": "ever-gauzy",
-    "type": "github-repo",
-    "source_url": "https://github.com/ever-co/ever-gauzy",
-    "metric": {
-      "stars": 7749
-    },
-    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/ever-co/ever-gauzy",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:SuiteCRM/SuiteCRM",
-    "name": "SuiteCRM",
-    "type": "github-repo",
-    "source_url": "https://github.com/SuiteCRM/SuiteCRM",
-    "metric": {
-      "stars": 5752
-    },
-    "description": "SuiteCRM - Open source CRM for the world",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/SuiteCRM/SuiteCRM",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
     "id": "github:Mailtrain-org/mailtrain",
     "name": "mailtrain",
     "type": "github-repo",
@@ -13170,21 +13080,6 @@
     "weak_match": false
   },
   {
-    "id": "skillssh:claude-office-skills/skills@crm-automation",
-    "name": "claude-office-skills/skills@crm-automation",
-    "type": "skill",
-    "source_url": "https://skills.sh/claude-office-skills/skills/crm-automation",
-    "metric": {
-      "installs": 4800
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add claude-office-skills/skills@crm-automation",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
     "id": "skillssh:claude-office-skills/skills@email-marketing",
     "name": "claude-office-skills/skills@email-marketing",
     "type": "skill",
@@ -13195,111 +13090,6 @@
     "description": "",
     "license": null,
     "install": "npx skills add claude-office-skills/skills@email-marketing",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:Volmarg/personal-management-system",
-    "name": "personal-management-system",
-    "type": "github-repo",
-    "source_url": "https://github.com/Volmarg/personal-management-system",
-    "metric": {
-      "stars": 4160
-    },
-    "description": "Your web application for managing personal data.",
-    "license": "MIT",
-    "install": "git clone https://github.com/Volmarg/personal-management-system",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:espocrm/espocrm",
-    "name": "espocrm",
-    "type": "github-repo",
-    "source_url": "https://github.com/espocrm/espocrm",
-    "metric": {
-      "stars": 3371
-    },
-    "description": "EspoCRM – Open Source CRM Application",
-    "license": "AGPL-3.0",
-    "install": "git clone https://github.com/espocrm/espocrm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:ONLYOFFICE/CommunityServer",
-    "name": "CommunityServer",
-    "type": "github-repo",
-    "source_url": "https://github.com/ONLYOFFICE/CommunityServer",
-    "metric": {
-      "stars": 3166
-    },
-    "description": "Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/ONLYOFFICE/CommunityServer",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:InvoicePlane/InvoicePlane",
-    "name": "InvoicePlane",
-    "type": "github-repo",
-    "source_url": "https://github.com/InvoicePlane/InvoicePlane",
-    "metric": {
-      "stars": 3142
-    },
-    "description": "A self-hosted open source application for managing your invoices, clients and payments.",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/InvoicePlane/InvoicePlane",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:1Panel-dev/CordysCRM",
-    "name": "CordysCRM",
-    "type": "github-repo",
-    "source_url": "https://github.com/1Panel-dev/CordysCRM",
-    "metric": {
-      "stars": 2726
-    },
-    "description": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/1Panel-dev/CordysCRM",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:frappe/frappe_docker",
-    "name": "frappe_docker",
-    "type": "github-repo",
-    "source_url": "https://github.com/frappe/frappe_docker",
-    "metric": {
-      "stars": 2566
-    },
-    "description": "Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development",
-    "license": "MIT",
-    "install": "git clone https://github.com/frappe/frappe_docker",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:Bottelet/DaybydayCRM",
-    "name": "DaybydayCRM",
-    "type": "github-repo",
-    "source_url": "https://github.com/Bottelet/DaybydayCRM",
-    "metric": {
-      "stars": 2328
-    },
-    "description": "DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.",
-    "license": null,
-    "install": "git clone https://github.com/Bottelet/DaybydayCRM",
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false
@@ -13330,126 +13120,6 @@
     "description": "Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost. ",
     "license": "MIT",
     "install": "git clone https://github.com/mettle/sendportal",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:FJ-OMS/oms-erp",
-    "name": "oms-erp",
-    "type": "github-repo",
-    "source_url": "https://github.com/FJ-OMS/oms-erp",
-    "metric": {
-      "stars": 1926
-    },
-    "description": "一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。",
-    "license": "Apache-2.0",
-    "install": "git clone https://github.com/FJ-OMS/oms-erp",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:avo-hq/avo",
-    "name": "avo",
-    "type": "github-repo",
-    "source_url": "https://github.com/avo-hq/avo",
-    "metric": {
-      "stars": 1801
-    },
-    "description": "The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/avo-hq/avo",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "github:YetiForceCompany/YetiForceCRM",
-    "name": "YetiForceCRM",
-    "type": "github-repo",
-    "source_url": "https://github.com/YetiForceCompany/YetiForceCRM",
-    "metric": {
-      "stars": 1791
-    },
-    "description": "We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce",
-    "license": "NOASSERTION",
-    "install": "git clone https://github.com/YetiForceCompany/YetiForceCRM",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:hubspot/agent-cli-skills@crm-lookup",
-    "name": "hubspot/agent-cli-skills@crm-lookup",
-    "type": "skill",
-    "source_url": "https://skills.sh/hubspot/agent-cli-skills/crm-lookup",
-    "metric": {
-      "installs": 1500
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add hubspot/agent-cli-skills@crm-lookup",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:hubspot/agent-cli-skills@crm-data-quality",
-    "name": "hubspot/agent-cli-skills@crm-data-quality",
-    "type": "skill",
-    "source_url": "https://skills.sh/hubspot/agent-cli-skills/crm-data-quality",
-    "metric": {
-      "installs": 1500
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add hubspot/agent-cli-skills@crm-data-quality",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:anthropics/knowledge-work-plugins@crm-cleanup",
-    "name": "anthropics/knowledge-work-plugins@crm-cleanup",
-    "type": "skill",
-    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-cleanup",
-    "metric": {
-      "installs": 1400
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add anthropics/knowledge-work-plugins@crm-cleanup",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:anthropics/knowledge-work-plugins@crm-maintenance",
-    "name": "anthropics/knowledge-work-plugins@crm-maintenance",
-    "type": "skill",
-    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-maintenance",
-    "metric": {
-      "installs": 1400
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add anthropics/knowledge-work-plugins@crm-maintenance",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:customware-ai/skills@crm-builder",
-    "name": "customware-ai/skills@crm-builder",
-    "type": "skill",
-    "source_url": "https://skills.sh/customware-ai/skills/crm-builder",
-    "metric": {
-      "installs": 1400
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add customware-ai/skills@crm-builder",
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false
@@ -13575,66 +13245,6 @@
     "weak_match": false
   },
   {
-    "id": "github:Shudesu/line-harness-oss",
-    "name": "line-harness-oss",
-    "type": "github-repo",
-    "source_url": "https://github.com/Shudesu/line-harness-oss",
-    "metric": {
-      "stars": 593
-    },
-    "description": "L Harness — self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (野田修一).",
-    "license": "MIT",
-    "install": "git clone https://github.com/Shudesu/line-harness-oss",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:joellewis/finance_skills@crm-client-lifecycle",
-    "name": "joellewis/finance_skills@crm-client-lifecycle",
-    "type": "skill",
-    "source_url": "https://skills.sh/joellewis/finance_skills/crm-client-lifecycle",
-    "metric": {
-      "installs": 572
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add joellewis/finance_skills@crm-client-lifecycle",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:membranedev/application-skills@zoho-crm",
-    "name": "membranedev/application-skills@zoho-crm",
-    "type": "skill",
-    "source_url": "https://skills.sh/membranedev/application-skills/zoho-crm",
-    "metric": {
-      "installs": 571
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add membranedev/application-skills@zoho-crm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:membranedev/application-skills@dynamics-crm",
-    "name": "membranedev/application-skills@dynamics-crm",
-    "type": "skill",
-    "source_url": "https://skills.sh/membranedev/application-skills/dynamics-crm",
-    "metric": {
-      "installs": 541
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add membranedev/application-skills@dynamics-crm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
     "id": "github:joshmn/caffeinate",
     "name": "caffeinate",
     "type": "github-repo",
@@ -13665,21 +13275,6 @@
     "weak_match": false
   },
   {
-    "id": "skillssh:casper-studios/casper-marketplace@attio-crm",
-    "name": "casper-studios/casper-marketplace@attio-crm",
-    "type": "skill",
-    "source_url": "https://skills.sh/casper-studios/casper-marketplace/attio-crm",
-    "metric": {
-      "installs": 313
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add casper-studios/casper-marketplace@attio-crm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
     "id": "github:mettle/sendportal-core",
     "name": "sendportal-core",
     "type": "github-repo",
@@ -13690,21 +13285,6 @@
     "description": "Core functionality for SendPortal",
     "license": "MIT",
     "install": "git clone https://github.com/mettle/sendportal-core",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
-    "name": "mbfinotti/revops-skills@crm-data-governance",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/revops-skills/crm-data-governance",
-    "metric": {
-      "installs": 286
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/revops-skills@crm-data-governance",
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false
@@ -13723,141 +13303,6 @@
     "category": "9.5",
     "category_name": "마케팅/그로스 > 이메일/CRM",
     "weak_match": false
-  },
-  {
-    "id": "skillssh:scientiacapital/skills@crm-integration",
-    "name": "scientiacapital/skills@crm-integration",
-    "type": "skill",
-    "source_url": "https://skills.sh/scientiacapital/skills/crm-integration",
-    "metric": {
-      "installs": 219
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add scientiacapital/skills@crm-integration",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:onewave-ai/claude-skills@gmail-to-crm-pipeline",
-    "name": "onewave-ai/claude-skills@gmail-to-crm-pipeline",
-    "type": "skill",
-    "source_url": "https://skills.sh/onewave-ai/claude-skills/gmail-to-crm-pipeline",
-    "metric": {
-      "installs": 215
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add onewave-ai/claude-skills@gmail-to-crm-pipeline",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:guia-matthieu/clawfu-skills@crm-hygiene",
-    "name": "guia-matthieu/clawfu-skills@crm-hygiene",
-    "type": "skill",
-    "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/crm-hygiene",
-    "metric": {
-      "installs": 212
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add guia-matthieu/clawfu-skills@crm-hygiene",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:membranedev/application-skills@sugarcrm",
-    "name": "membranedev/application-skills@sugarcrm",
-    "type": "skill",
-    "source_url": "https://skills.sh/membranedev/application-skills/sugarcrm",
-    "metric": {
-      "installs": 200
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add membranedev/application-skills@sugarcrm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": true
-  },
-  {
-    "id": "skillssh:membranedev/application-skills@capsule-crm",
-    "name": "membranedev/application-skills@capsule-crm",
-    "type": "skill",
-    "source_url": "https://skills.sh/membranedev/application-skills/capsule-crm",
-    "metric": {
-      "installs": 169
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add membranedev/application-skills@capsule-crm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:maddhruv/absolute@crm-management",
-    "name": "maddhruv/absolute@crm-management",
-    "type": "skill",
-    "source_url": "https://skills.sh/maddhruv/absolute/crm-management",
-    "metric": {
-      "installs": 167
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add maddhruv/absolute@crm-management",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:membranedev/application-skills@agile-crm",
-    "name": "membranedev/application-skills@agile-crm",
-    "type": "skill",
-    "source_url": "https://skills.sh/membranedev/application-skills/agile-crm",
-    "metric": {
-      "installs": 166
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add membranedev/application-skills@agile-crm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm-development",
-    "name": "bobmatnyc/claude-mpm-skills@espocrm-development",
-    "type": "skill",
-    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm-development",
-    "metric": {
-      "installs": 152
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm-development",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": true
-  },
-  {
-    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm",
-    "name": "bobmatnyc/claude-mpm-skills@espocrm",
-    "type": "skill",
-    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm",
-    "metric": {
-      "installs": 146
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": true
   },
   {
     "id": "skillssh:shawnpang/startup-founder-skills@email-marketing",
@@ -13965,6 +13410,126 @@
     "weak_match": false
   },
   {
+    "id": "github:frappe/erpnext",
+    "name": "erpnext",
+    "type": "github-repo",
+    "source_url": "https://github.com/frappe/erpnext",
+    "metric": {
+      "stars": 39363
+    },
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "license": "GPL-3.0",
+    "install": "git clone https://github.com/frappe/erpnext",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:monicahq/monica",
+    "name": "monica",
+    "type": "github-repo",
+    "source_url": "https://github.com/monicahq/monica",
+    "metric": {
+      "stars": 25334
+    },
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "license": "AGPL-3.0",
+    "install": "git clone https://github.com/monicahq/monica",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:akaunting/akaunting",
+    "name": "akaunting",
+    "type": "github-repo",
+    "source_url": "https://github.com/akaunting/akaunting",
+    "metric": {
+      "stars": 10127
+    },
+    "description": "Online Accounting Software",
+    "license": "NOASSERTION",
+    "install": "git clone https://github.com/akaunting/akaunting",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:ever-co/ever-gauzy",
+    "name": "ever-gauzy",
+    "type": "github-repo",
+    "source_url": "https://github.com/ever-co/ever-gauzy",
+    "metric": {
+      "stars": 7749
+    },
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "license": "AGPL-3.0",
+    "install": "git clone https://github.com/ever-co/ever-gauzy",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:SuiteCRM/SuiteCRM",
+    "name": "SuiteCRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/SuiteCRM/SuiteCRM",
+    "metric": {
+      "stars": 5752
+    },
+    "description": "SuiteCRM - Open source CRM for the world",
+    "license": "AGPL-3.0",
+    "install": "git clone https://github.com/SuiteCRM/SuiteCRM",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:claude-office-skills/skills@crm-automation",
+    "name": "claude-office-skills/skills@crm-automation",
+    "type": "skill",
+    "source_url": "https://skills.sh/claude-office-skills/skills/crm-automation",
+    "metric": {
+      "installs": 4800
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add claude-office-skills/skills@crm-automation",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:Volmarg/personal-management-system",
+    "name": "personal-management-system",
+    "type": "github-repo",
+    "source_url": "https://github.com/Volmarg/personal-management-system",
+    "metric": {
+      "stars": 4160
+    },
+    "description": "Your web application for managing personal data.",
+    "license": "MIT",
+    "install": "git clone https://github.com/Volmarg/personal-management-system",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:espocrm/espocrm",
+    "name": "espocrm",
+    "type": "github-repo",
+    "source_url": "https://github.com/espocrm/espocrm",
+    "metric": {
+      "stars": 3371
+    },
+    "description": "EspoCRM – Open Source CRM Application",
+    "license": "AGPL-3.0",
+    "install": "git clone https://github.com/espocrm/espocrm",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
     "id": "github:melgarafael/DeskcommCRM",
     "name": "DeskcommCRM",
     "type": "github-repo",
@@ -13975,6 +13540,126 @@
     "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
     "license": "MIT",
     "install": "git clone https://github.com/melgarafael/DeskcommCRM",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:ONLYOFFICE/CommunityServer",
+    "name": "CommunityServer",
+    "type": "github-repo",
+    "source_url": "https://github.com/ONLYOFFICE/CommunityServer",
+    "metric": {
+      "stars": 3166
+    },
+    "description": "Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.",
+    "license": "Apache-2.0",
+    "install": "git clone https://github.com/ONLYOFFICE/CommunityServer",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:InvoicePlane/InvoicePlane",
+    "name": "InvoicePlane",
+    "type": "github-repo",
+    "source_url": "https://github.com/InvoicePlane/InvoicePlane",
+    "metric": {
+      "stars": 3142
+    },
+    "description": "A self-hosted open source application for managing your invoices, clients and payments.",
+    "license": "NOASSERTION",
+    "install": "git clone https://github.com/InvoicePlane/InvoicePlane",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:1Panel-dev/CordysCRM",
+    "name": "CordysCRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/1Panel-dev/CordysCRM",
+    "metric": {
+      "stars": 2726
+    },
+    "description": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
+    "license": "NOASSERTION",
+    "install": "git clone https://github.com/1Panel-dev/CordysCRM",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:frappe/frappe_docker",
+    "name": "frappe_docker",
+    "type": "github-repo",
+    "source_url": "https://github.com/frappe/frappe_docker",
+    "metric": {
+      "stars": 2566
+    },
+    "description": "Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development",
+    "license": "MIT",
+    "install": "git clone https://github.com/frappe/frappe_docker",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:Bottelet/DaybydayCRM",
+    "name": "DaybydayCRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/Bottelet/DaybydayCRM",
+    "metric": {
+      "stars": 2328
+    },
+    "description": "DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.",
+    "license": null,
+    "install": "git clone https://github.com/Bottelet/DaybydayCRM",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:FJ-OMS/oms-erp",
+    "name": "oms-erp",
+    "type": "github-repo",
+    "source_url": "https://github.com/FJ-OMS/oms-erp",
+    "metric": {
+      "stars": 1926
+    },
+    "description": "一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。",
+    "license": "Apache-2.0",
+    "install": "git clone https://github.com/FJ-OMS/oms-erp",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:avo-hq/avo",
+    "name": "avo",
+    "type": "github-repo",
+    "source_url": "https://github.com/avo-hq/avo",
+    "metric": {
+      "stars": 1801
+    },
+    "description": "The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails",
+    "license": "NOASSERTION",
+    "install": "git clone https://github.com/avo-hq/avo",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:YetiForceCompany/YetiForceCRM",
+    "name": "YetiForceCRM",
+    "type": "github-repo",
+    "source_url": "https://github.com/YetiForceCompany/YetiForceCRM",
+    "metric": {
+      "stars": 1791
+    },
+    "description": "We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce",
+    "license": "NOASSERTION",
+    "install": "git clone https://github.com/YetiForceCompany/YetiForceCRM",
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false
@@ -13993,6 +13678,141 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true
+  },
+  {
+    "id": "skillssh:hubspot/agent-cli-skills@crm-lookup",
+    "name": "hubspot/agent-cli-skills@crm-lookup",
+    "type": "skill",
+    "source_url": "https://skills.sh/hubspot/agent-cli-skills/crm-lookup",
+    "metric": {
+      "installs": 1500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add hubspot/agent-cli-skills@crm-lookup",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:hubspot/agent-cli-skills@crm-data-quality",
+    "name": "hubspot/agent-cli-skills@crm-data-quality",
+    "type": "skill",
+    "source_url": "https://skills.sh/hubspot/agent-cli-skills/crm-data-quality",
+    "metric": {
+      "installs": 1500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add hubspot/agent-cli-skills@crm-data-quality",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@crm-cleanup",
+    "name": "anthropics/knowledge-work-plugins@crm-cleanup",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-cleanup",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add anthropics/knowledge-work-plugins@crm-cleanup",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@crm-maintenance",
+    "name": "anthropics/knowledge-work-plugins@crm-maintenance",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-maintenance",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add anthropics/knowledge-work-plugins@crm-maintenance",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:customware-ai/skills@crm-builder",
+    "name": "customware-ai/skills@crm-builder",
+    "type": "skill",
+    "source_url": "https://skills.sh/customware-ai/skills/crm-builder",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add customware-ai/skills@crm-builder",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "github:Shudesu/line-harness-oss",
+    "name": "line-harness-oss",
+    "type": "github-repo",
+    "source_url": "https://github.com/Shudesu/line-harness-oss",
+    "metric": {
+      "stars": 593
+    },
+    "description": "L Harness — self-hosted LINE Official Account CRM: step messaging, broadcasts, forms and reservations, with MCP and TypeScript SDK. By Shudesu (野田修一).",
+    "license": "MIT",
+    "install": "git clone https://github.com/Shudesu/line-harness-oss",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:joellewis/finance_skills@crm-client-lifecycle",
+    "name": "joellewis/finance_skills@crm-client-lifecycle",
+    "type": "skill",
+    "source_url": "https://skills.sh/joellewis/finance_skills/crm-client-lifecycle",
+    "metric": {
+      "installs": 572
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add joellewis/finance_skills@crm-client-lifecycle",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@zoho-crm",
+    "name": "membranedev/application-skills@zoho-crm",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/zoho-crm",
+    "metric": {
+      "installs": 571
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add membranedev/application-skills@zoho-crm",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@dynamics-crm",
+    "name": "membranedev/application-skills@dynamics-crm",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/dynamics-crm",
+    "metric": {
+      "installs": 541
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add membranedev/application-skills@dynamics-crm",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
   },
   {
     "id": "skillssh:louisblythe/sales-skills@email-sequence",
@@ -14020,6 +13840,21 @@
     "description": "Automate lead research, qualification, and outreach with AI agents and Langgraph, creating personalized messaging and connecting with your CRMs (HubSpot, Airtable, Google Sheets)",
     "license": null,
     "install": "git clone https://github.com/kaymen99/sales-outreach-automation-langgraph",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:casper-studios/casper-marketplace@attio-crm",
+    "name": "casper-studios/casper-marketplace@attio-crm",
+    "type": "skill",
+    "source_url": "https://skills.sh/casper-studios/casper-marketplace/attio-crm",
+    "metric": {
+      "installs": 313
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add casper-studios/casper-marketplace@attio-crm",
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false
@@ -14055,6 +13890,21 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
+    "name": "mbfinotti/revops-skills@crm-data-governance",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/revops-skills/crm-data-governance",
+    "metric": {
+      "installs": 286
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/revops-skills@crm-data-governance",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
     "id": "github:nando0x/ProspectOS",
     "name": "ProspectOS",
     "type": "github-repo",
@@ -14065,6 +13915,51 @@
     "description": "CRM de prospecção de leads com scraping de Google Maps + Instagram e mensagens geradas por IA.",
     "license": "MIT",
     "install": "git clone https://github.com/nando0x/ProspectOS",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:scientiacapital/skills@crm-integration",
+    "name": "scientiacapital/skills@crm-integration",
+    "type": "skill",
+    "source_url": "https://skills.sh/scientiacapital/skills/crm-integration",
+    "metric": {
+      "installs": 219
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add scientiacapital/skills@crm-integration",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:onewave-ai/claude-skills@gmail-to-crm-pipeline",
+    "name": "onewave-ai/claude-skills@gmail-to-crm-pipeline",
+    "type": "skill",
+    "source_url": "https://skills.sh/onewave-ai/claude-skills/gmail-to-crm-pipeline",
+    "metric": {
+      "installs": 215
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add onewave-ai/claude-skills@gmail-to-crm-pipeline",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:guia-matthieu/clawfu-skills@crm-hygiene",
+    "name": "guia-matthieu/clawfu-skills@crm-hygiene",
+    "type": "skill",
+    "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/crm-hygiene",
+    "metric": {
+      "installs": 212
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add guia-matthieu/clawfu-skills@crm-hygiene",
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false
@@ -14085,6 +13980,21 @@
     "weak_match": true
   },
   {
+    "id": "skillssh:membranedev/application-skills@sugarcrm",
+    "name": "membranedev/application-skills@sugarcrm",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/sugarcrm",
+    "metric": {
+      "installs": 200
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add membranedev/application-skills@sugarcrm",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": true
+  },
+  {
     "id": "github:iPythoning/b2b-sdr-agent-template",
     "name": "b2b-sdr-agent-template",
     "type": "github-repo",
@@ -14095,6 +14005,21 @@
     "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
     "license": "MIT",
     "install": "git clone https://github.com/iPythoning/b2b-sdr-agent-template",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@capsule-crm",
+    "name": "membranedev/application-skills@capsule-crm",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/capsule-crm",
+    "metric": {
+      "installs": 169
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add membranedev/application-skills@capsule-crm",
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false
@@ -14113,6 +14038,66 @@
     "category": "10.1",
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": false
+  },
+  {
+    "id": "skillssh:maddhruv/absolute@crm-management",
+    "name": "maddhruv/absolute@crm-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/maddhruv/absolute/crm-management",
+    "metric": {
+      "installs": 167
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add maddhruv/absolute@crm-management",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:membranedev/application-skills@agile-crm",
+    "name": "membranedev/application-skills@agile-crm",
+    "type": "skill",
+    "source_url": "https://skills.sh/membranedev/application-skills/agile-crm",
+    "metric": {
+      "installs": 166
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add membranedev/application-skills@agile-crm",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm-development",
+    "name": "bobmatnyc/claude-mpm-skills@espocrm-development",
+    "type": "skill",
+    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm-development",
+    "metric": {
+      "installs": 152
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm-development",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": true
+  },
+  {
+    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm",
+    "name": "bobmatnyc/claude-mpm-skills@espocrm",
+    "type": "skill",
+    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm",
+    "metric": {
+      "installs": 146
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": true
   },
   {
     "id": "github:toofast1/awesome-ai-lead-generation",
@@ -18565,6 +18550,21 @@
     "description": "",
     "license": null,
     "install": "npx skills add muratcankoylan/agent-skills-for-context-engineering@context-engineering-collection",
+    "category": "12.3",
+    "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
+    "weak_match": false
+  },
+  {
+    "id": "github:letta-ai/letta-code",
+    "name": "letta-code",
+    "type": "github-repo",
+    "source_url": "https://github.com/letta-ai/letta-code",
+    "metric": {
+      "stars": 3377
+    },
+    "description": "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
+    "license": "Apache-2.0",
+    "install": "git clone https://github.com/letta-ai/letta-code",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false

@@ -660,6 +660,21 @@
     "weak_match": true
   },
   {
+    "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
+    "name": "pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
+    "type": "skill",
+    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/requirements-specification",
+    "metric": {
+      "installs": 234
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
+    "category": "2.1",
+    "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
+    "weak_match": true
+  },
+  {
     "id": "skillssh:khazp/vibe-coding-prompt-template@vibe-prd",
     "name": "khazp/vibe-coding-prompt-template@vibe-prd",
     "type": "skill",
@@ -1590,6 +1605,21 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
+    "name": "pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/user-discovery-research",
+    "metric": {
+      "installs": 55
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
+    "category": "2.3",
+    "category_name": "프로덕트 매니지먼트 > 유저 리서치/피드백",
+    "weak_match": true
+  },
+  {
     "id": "skillssh:nicepkg/ai-workflow@user-research",
     "name": "nicepkg/ai-workflow@user-research",
     "type": "skill",
@@ -1755,21 +1785,6 @@
     "weak_match": false
   },
   {
-    "id": "skillssh:deanpeters/product-manager-skills@context-engineering-advisor",
-    "name": "deanpeters/product-manager-skills@context-engineering-advisor",
-    "type": "skill",
-    "source_url": "https://skills.sh/deanpeters/product-manager-skills/context-engineering-advisor",
-    "metric": {
-      "installs": 2000
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add deanpeters/product-manager-skills@context-engineering-advisor",
-    "category": "2.5",
-    "category_name": "프로덕트 매니지먼트 > 프로덕트 매니지먼트 일반",
-    "weak_match": false
-  },
-  {
     "id": "github:deanpeters/product-manager-prompts",
     "name": "product-manager-prompts",
     "type": "github-repo",
@@ -1915,36 +1930,6 @@
     "description": "",
     "license": null,
     "install": "npx skills add 404kidwiz/claude-supercode-skills@product-manager",
-    "category": "2.5",
-    "category_name": "프로덕트 매니지먼트 > 프로덕트 매니지먼트 일반",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
-    "name": "pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
-    "type": "skill",
-    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/requirements-specification",
-    "metric": {
-      "installs": 234
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add pluginagentmarketplace/custom-plugin-product-manager@requirements-specification",
-    "category": "2.5",
-    "category_name": "프로덕트 매니지먼트 > 프로덕트 매니지먼트 일반",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
-    "name": "pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
-    "type": "skill",
-    "source_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/user-discovery-research",
-    "metric": {
-      "installs": 55
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research",
     "category": "2.5",
     "category_name": "프로덕트 매니지먼트 > 프로덕트 매니지먼트 일반",
     "weak_match": false
@@ -2290,21 +2275,6 @@
     "description": "",
     "license": null,
     "install": "npx skills add figma/mcp-server-guide@figma-create-design-system-rules",
-    "category": "3.2",
-    "category_name": "디자인 > UI 비주얼 디자인",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:figma/mcp-server-guide@create-design-system-rules",
-    "name": "figma/mcp-server-guide@create-design-system-rules",
-    "type": "skill",
-    "source_url": "https://skills.sh/figma/mcp-server-guide/create-design-system-rules",
-    "metric": {
-      "installs": 1400
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add figma/mcp-server-guide@create-design-system-rules",
     "category": "3.2",
     "category_name": "디자인 > UI 비주얼 디자인",
     "weak_match": false
@@ -2995,6 +2965,21 @@
     "description": "",
     "license": null,
     "install": "npx skills add owl-listener/designer-skills@design-system-adoption",
+    "category": "3.3",
+    "category_name": "디자인 > 디자인 시스템",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:figma/mcp-server-guide@create-design-system-rules",
+    "name": "figma/mcp-server-guide@create-design-system-rules",
+    "type": "skill",
+    "source_url": "https://skills.sh/figma/mcp-server-guide/create-design-system-rules",
+    "metric": {
+      "installs": 1400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add figma/mcp-server-guide@create-design-system-rules",
     "category": "3.3",
     "category_name": "디자인 > 디자인 시스템",
     "weak_match": false
@@ -4530,21 +4515,6 @@
     "weak_match": false
   },
   {
-    "id": "skillssh:margelo/react-native-skills@api-design",
-    "name": "margelo/react-native-skills@api-design",
-    "type": "skill",
-    "source_url": "https://skills.sh/margelo/react-native-skills/api-design",
-    "metric": {
-      "installs": 430
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add margelo/react-native-skills@api-design",
-    "category": "4.1",
-    "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
-    "weak_match": false
-  },
-  {
     "id": "skillssh:vercel-labs/json-render@json-render-react",
     "name": "vercel-labs/json-render@json-render-react",
     "type": "skill",
@@ -5370,6 +5340,21 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:margelo/react-native-skills@api-design",
+    "name": "margelo/react-native-skills@api-design",
+    "type": "skill",
+    "source_url": "https://skills.sh/margelo/react-native-skills/api-design",
+    "metric": {
+      "installs": 430
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add margelo/react-native-skills@api-design",
+    "category": "5.1",
+    "category_name": "엔지니어링-백엔드 > API 설계",
+    "weak_match": false
+  },
+  {
     "id": "skillssh:akillness/jeo-skills@api-design",
     "name": "akillness/jeo-skills@api-design",
     "type": "skill",
@@ -5670,6 +5655,21 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:sickn33/agentic-awesome-skills@database",
+    "name": "sickn33/agentic-awesome-skills@database",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/database",
+    "metric": {
+      "installs": 268
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add sickn33/agentic-awesome-skills@database",
+    "category": "5.2",
+    "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
+    "weak_match": true
+  },
+  {
     "id": "skillssh:yonatangross/orchestkit@database-patterns",
     "name": "yonatangross/orchestkit@database-patterns",
     "type": "skill",
@@ -5772,7 +5772,7 @@
     "install": "npx skills add microsoft/azure-sql-database-container@azuresql-db-schema-migration",
     "category": "5.2",
     "category_name": "엔지니어링-백엔드 > DB/마이그레이션",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:langchain-ai/skills-benchmarks@database-migrations",
@@ -7527,7 +7527,7 @@
     "install": "npx skills add pytorch/pytorch@pyrefly-type-coverage",
     "category": "7.2",
     "category_name": "엔지니어링-데이터/ML/AI > 모델 학습",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:microsoft/azure-skills@azure-storage",
@@ -8158,6 +8158,21 @@
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false
+  },
+  {
+    "id": "skillssh:github/awesome-copilot@pytest-coverage",
+    "name": "github/awesome-copilot@pytest-coverage",
+    "type": "skill",
+    "source_url": "https://skills.sh/github/awesome-copilot/pytest-coverage",
+    "metric": {
+      "installs": 12700
+    },
+    "description": "Run pytest tests with coverage, discover lines missing coverage, and increase coverage to 100%.",
+    "license": null,
+    "install": "npx skills add github/awesome-copilot@pytest-coverage",
+    "category": "7.3",
+    "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
+    "weak_match": true
   },
   {
     "id": "github:zilliztech/claude-context",
@@ -10770,19 +10785,19 @@
     "weak_match": false
   },
   {
-    "id": "skillssh:qodex-ai/ai-agent-skills@legal-document-analyzer",
-    "name": "qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "id": "skillssh:neolabhq/context-engineering-kit@test-prompt",
+    "name": "neolabhq/context-engineering-kit@test-prompt",
     "type": "skill",
-    "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/legal-document-analyzer",
+    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/test-prompt",
     "metric": {
       "installs": 1100
     },
     "description": "",
     "license": null,
-    "install": "npx skills add qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "install": "npx skills add neolabhq/context-engineering-kit@test-prompt",
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "github:zhu1090093659/spec_driven_develop",
@@ -11325,21 +11340,6 @@
     "weak_match": false
   },
   {
-    "id": "skillssh:datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
-    "name": "datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
-    "type": "skill",
-    "source_url": "https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management",
-    "metric": {
-      "installs": 98
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
-    "category": "7.4",
-    "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
-    "weak_match": false
-  },
-  {
     "id": "github:ahacker-1/cre-agent-skills",
     "name": "cre-agent-skills",
     "type": "github-repo",
@@ -11470,51 +11470,6 @@
     "description": "Multi-agent system for software development",
     "license": "MIT",
     "install": "git clone https://github.com/rjmurillo/ai-agents",
-    "category": "7.4",
-    "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:seb1n/awesome-ai-agent-skills@project-management",
-    "name": "seb1n/awesome-ai-agent-skills@project-management",
-    "type": "skill",
-    "source_url": "https://skills.sh/seb1n/awesome-ai-agent-skills/project-management",
-    "metric": {
-      "installs": 39
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add seb1n/awesome-ai-agent-skills@project-management",
-    "category": "7.4",
-    "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:prorise-cool/claude-code-multi-agent@project-management-specialist",
-    "name": "prorise-cool/claude-code-multi-agent@project-management-specialist",
-    "type": "skill",
-    "source_url": "https://skills.sh/prorise-cool/claude-code-multi-agent/project-management-specialist",
-    "metric": {
-      "installs": 38
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add prorise-cool/claude-code-multi-agent@project-management-specialist",
-    "category": "7.4",
-    "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:fandhe-ai/agent-reference-skills@stripe",
-    "name": "fandhe-ai/agent-reference-skills@stripe",
-    "type": "skill",
-    "source_url": "https://skills.sh/fandhe-ai/agent-reference-skills/stripe",
-    "metric": {
-      "installs": 36
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add fandhe-ai/agent-reference-skills@stripe",
     "category": "7.4",
     "category_name": "엔지니어링-데이터/ML/AI > 에이전트 오케스트레이션/프롬프트엔지니어링",
     "weak_match": false
@@ -11905,21 +11860,6 @@
     "description": "High-fidelity, anycloud emulators running in your laptop. For DevOps programming, testing, and simulation.",
     "license": null,
     "install": "git clone https://github.com/project-vera/vera",
-    "category": "8.1",
-    "category_name": "품질/보안 > 테스트 자동화",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:proffesor-for-testing/agentic-qe@qe-github-project-management",
-    "name": "proffesor-for-testing/agentic-qe@qe-github-project-management",
-    "type": "skill",
-    "source_url": "https://skills.sh/proffesor-for-testing/agentic-qe/qe-github-project-management",
-    "metric": {
-      "installs": 73
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add proffesor-for-testing/agentic-qe@qe-github-project-management",
     "category": "8.1",
     "category_name": "품질/보안 > 테스트 자동화",
     "weak_match": false
@@ -14655,6 +14595,21 @@
     "weak_match": true
   },
   {
+    "id": "skillssh:fandhe-ai/agent-reference-skills@stripe",
+    "name": "fandhe-ai/agent-reference-skills@stripe",
+    "type": "skill",
+    "source_url": "https://skills.sh/fandhe-ai/agent-reference-skills/stripe",
+    "metric": {
+      "installs": 36
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add fandhe-ai/agent-reference-skills@stripe",
+    "category": "10.2",
+    "category_name": "세일즈/매출 > 결제/빌링 연동",
+    "weak_match": false
+  },
+  {
     "id": "skillssh:geelark/geelark-cli@geelark-billing",
     "name": "geelark/geelark-cli@geelark-billing",
     "type": "skill",
@@ -15585,6 +15540,36 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
+    "name": "datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management",
+    "metric": {
+      "installs": 98
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:proffesor-for-testing/agentic-qe@qe-github-project-management",
+    "name": "proffesor-for-testing/agentic-qe@qe-github-project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/proffesor-for-testing/agentic-qe/qe-github-project-management",
+    "metric": {
+      "installs": 73
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add proffesor-for-testing/agentic-qe@qe-github-project-management",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false
+  },
+  {
     "id": "skillssh:zenobi-us/dotfiles@projectmanagement",
     "name": "zenobi-us/dotfiles@projectmanagement",
     "type": "skill",
@@ -15610,6 +15595,36 @@
     "description": "",
     "license": null,
     "install": "npx skills add jk-0001/skills@project-management",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:seb1n/awesome-ai-agent-skills@project-management",
+    "name": "seb1n/awesome-ai-agent-skills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/seb1n/awesome-ai-agent-skills/project-management",
+    "metric": {
+      "installs": 39
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add seb1n/awesome-ai-agent-skills@project-management",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:prorise-cool/claude-code-multi-agent@project-management-specialist",
+    "name": "prorise-cool/claude-code-multi-agent@project-management-specialist",
+    "type": "skill",
+    "source_url": "https://skills.sh/prorise-cool/claude-code-multi-agent/project-management-specialist",
+    "metric": {
+      "installs": 38
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add prorise-cool/claude-code-multi-agent@project-management-specialist",
     "category": "11.1",
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false
@@ -16780,6 +16795,21 @@
     "description": "",
     "license": null,
     "install": "npx skills add github/awesome-copilot@agent-owasp-compliance",
+    "category": "11.3",
+    "category_name": "운영/거버넌스 > 법무/컴플라이언스",
+    "weak_match": false
+  },
+  {
+    "id": "skillssh:qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "name": "qodex-ai/ai-agent-skills@legal-document-analyzer",
+    "type": "skill",
+    "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/legal-document-analyzer",
+    "metric": {
+      "installs": 1100
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add qodex-ai/ai-agent-skills@legal-document-analyzer",
     "category": "11.3",
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false
@@ -18240,6 +18270,21 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:langchain-ai/langchain-skills@deep-agents-memory",
+    "name": "langchain-ai/langchain-skills@deep-agents-memory",
+    "type": "skill",
+    "source_url": "https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory",
+    "metric": {
+      "installs": 16700
+    },
+    "description": "INVOKE THIS SKILL when your Deep Agent needs memory, persistence, or filesystem access. Covers StateBackend (ephemeral), StoreBackend (persistent), FilesystemMiddleware, and CompositeBackend for routing.",
+    "license": null,
+    "install": "npx skills add langchain-ai/langchain-skills@deep-agents-memory",
+    "category": "12.3",
+    "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
+    "weak_match": true
+  },
+  {
     "id": "github:NevaMind-AI/memU",
     "name": "memU",
     "type": "github-repo",
@@ -18645,6 +18690,21 @@
     "weak_match": false
   },
   {
+    "id": "skillssh:deanpeters/product-manager-skills@context-engineering-advisor",
+    "name": "deanpeters/product-manager-skills@context-engineering-advisor",
+    "type": "skill",
+    "source_url": "https://skills.sh/deanpeters/product-manager-skills/context-engineering-advisor",
+    "metric": {
+      "installs": 2000
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add deanpeters/product-manager-skills@context-engineering-advisor",
+    "category": "12.3",
+    "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
+    "weak_match": false
+  },
+  {
     "id": "skillssh:sickn33/agentic-awesome-skills@agent-memory-systems",
     "name": "sickn33/agentic-awesome-skills@agent-memory-systems",
     "type": "skill",
@@ -18687,7 +18747,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@thought-based-reasoning",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@reflect",
@@ -18702,7 +18762,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@reflect",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "github:IAAR-Shanghai/Awesome-AI-Memory",
@@ -18732,7 +18792,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@write-concisely",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@critique",
@@ -18747,7 +18807,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@critique",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@kaizen",
@@ -18762,7 +18822,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@kaizen",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@judge-with-debate",
@@ -18777,7 +18837,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@judge-with-debate",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@memorize",
@@ -18792,7 +18852,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@memorize",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@subagent-driven-development",
@@ -18807,7 +18867,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@subagent-driven-development",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@plan-task",
@@ -18822,7 +18882,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@plan-task",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:neolabhq/context-engineering-kit@implement-task",
@@ -18837,7 +18897,7 @@
     "install": "npx skills add neolabhq/context-engineering-kit@implement-task",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
+    "weak_match": true
   },
   {
     "id": "skillssh:api/git@agent-memory",
@@ -18850,21 +18910,6 @@
     "description": "",
     "license": null,
     "install": "npx skills add api/git@agent-memory",
-    "category": "12.3",
-    "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:neolabhq/context-engineering-kit@test-prompt",
-    "name": "neolabhq/context-engineering-kit@test-prompt",
-    "type": "skill",
-    "source_url": "https://skills.sh/neolabhq/context-engineering-kit/test-prompt",
-    "metric": {
-      "installs": 1100
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add neolabhq/context-engineering-kit@test-prompt",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
     "weak_match": false
@@ -18927,21 +18972,6 @@
     "install": "npx skills add siviter-xyz/dot-agent@context-engineering",
     "category": "12.3",
     "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:langchain-ai/langchain-skills@deep-agents-memory",
-    "name": "langchain-ai/langchain-skills@deep-agents-memory",
-    "type": "skill",
-    "source_url": "https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory",
-    "metric": {
-      "installs": 16700
-    },
-    "description": "INVOKE THIS SKILL when your Deep Agent needs memory, persistence, or filesystem access. Covers StateBackend (ephemeral), StoreBackend (persistent), FilesystemMiddleware, and CompositeBackend for routing.",
-    "license": null,
-    "install": "npx skills add langchain-ai/langchain-skills@deep-agents-memory",
-    "category": "12.4",
-    "category_name": "메타/효율화 레이어 > 멀티에이전트 조율 프레임워크",
     "weak_match": false
   },
   {
@@ -19045,21 +19075,6 @@
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
     "license": "MIT",
     "install": "git clone https://github.com/VoltAgent/awesome-agent-skills",
-    "category": "13.1",
-    "category_name": "AI 에이전트 생태계/메타 도구 > 큐레이션 목록/스킬 레지스트리",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:github/awesome-copilot@pytest-coverage",
-    "name": "github/awesome-copilot@pytest-coverage",
-    "type": "skill",
-    "source_url": "https://skills.sh/github/awesome-copilot/pytest-coverage",
-    "metric": {
-      "installs": 12700
-    },
-    "description": "Run pytest tests with coverage, discover lines missing coverage, and increase coverage to 100%.",
-    "license": null,
-    "install": "npx skills add github/awesome-copilot@pytest-coverage",
     "category": "13.1",
     "category_name": "AI 에이전트 생태계/메타 도구 > 큐레이션 목록/스킬 레지스트리",
     "weak_match": false
@@ -19195,21 +19210,6 @@
     "description": "A curated list of awesome marketing tools and resources",
     "license": "MIT",
     "install": "git clone https://github.com/marketingtoolslist/awesome-marketing",
-    "category": "13.1",
-    "category_name": "AI 에이전트 생태계/메타 도구 > 큐레이션 목록/스킬 레지스트리",
-    "weak_match": false
-  },
-  {
-    "id": "skillssh:sickn33/agentic-awesome-skills@database",
-    "name": "sickn33/agentic-awesome-skills@database",
-    "type": "skill",
-    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/database",
-    "metric": {
-      "installs": 268
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add sickn33/agentic-awesome-skills@database",
     "category": "13.1",
     "category_name": "AI 에이전트 생태계/메타 도구 > 큐레이션 목록/스킬 레지스트리",
     "weak_match": false

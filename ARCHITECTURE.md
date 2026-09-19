@@ -1,6 +1,8 @@
-# 통합 AI 개발 툴 — 아키텍처 비전 (Phase 1~2 설계 문서)
+# 통합 AI 개발 툴 — 아키텍처 비전 (Phase 1~4 설계 문서)
 
-이 문서는 [`skills/frontdesk/CATALOG.md`](skills/frontdesk/CATALOG.md)에 정리된 1,311개의 에이전트/스킬 데이터를 기반으로, "아이디어 → 수익모델 → 마케팅 → 디자인 → 개발"을 한 번에 처리하는 통합 AI 툴을 어떻게 만들지에 대한 설계 방향을 정리한다. Phase 2에서 판단 사다리의 규칙 기반 프로토타입(`skills/frontdesk/scripts/route.mjs`)까지 구현했고, Phase 3에서 이 전체를 [Agent Skills 스펙](https://skills.sh)에 맞춰 `skills/frontdesk/`로 패키징해 다른 프로젝트에 `npx skills add`로 설치 가능하게 만들었다 — 아래 "라우터 프로토타입"과 "스킬 패키징" 섹션 참고.
+이 문서는 [`skills/frontdesk/CATALOG.md`](skills/frontdesk/CATALOG.md)에 정리된 1,311개의 에이전트/스킬 데이터를 기반으로, "아이디어 → 수익모델 → 마케팅 → 디자인 → 개발"을 한 번에 처리하는 통합 AI 툴을 어떻게 만들지에 대한 설계 방향을 정리한다. Phase 2에서 판단 사다리의 규칙 기반 프로토타입(`skills/frontdesk/scripts/route.mjs`)까지 구현했고, Phase 3에서 이 전체를 [Agent Skills 스펙](https://skills.sh)에 맞춰 `skills/frontdesk/`로 패키징해 다른 프로젝트에 `npx skills add`로 설치 가능하게 만들었다. Phase 4에서 "부서별 대표 스킬 자동 설치(스타터팩)"와 "아이디어→배포/운영 8단계 파이프라인"을 추가했다 — 아래 "스타터팩"과 "파이프라인" 섹션 참고.
+
+**Phase 4를 시작하게 된 계기**: "카탈로그+라우터"만으로는 원래 목표("이거 하나만 쓰면 상황에 맞는 최고의 스킬을 저절로 가져온다")에 못 미쳤다. 라우터는 *추천*만 했지 *설치*는 안 했고, 여러 단계를 잇는 파이프라인도 없었다. 이 문서 하단 "목표 대비 현황"에 그 간극을 정직하게 남겨둔다.
 
 ## 핵심 아이디어: 카탈로그 = 라우팅 테이블
 
@@ -54,6 +56,60 @@ node scripts/route.mjs "landing page needs SEO and an email newsletter"
 
 애초엔 `scripts/`, `data/`, `taxonomy.mjs`가 저장소 루트에 있었다. 그런데 이 프로젝트 자체를 "ponytail처럼 남이 설치해서 쓰는 스킬"로 배포하기로 하면서, `npx skills add owner/repo@skill`나 Claude Code 플러그인 설치가 실제로 무엇을 복사해가는지 `anthropics/skills`, `vercel-labs/agent-skills` 저장소를 직접 열어 확인했다: **`skills/<name>/` 폴더 하나만** 자기완결적으로 복사된다 (그 폴더 밖의 파일은 따라오지 않는다). 그래서 라우터가 의존하는 모든 것(`taxonomy.mjs`, `data/catalog.json`, `scripts/*.mjs`)을 `skills/frontdesk/` 안으로 옮겼다. 저장소 루트에는 사람이 읽는 설계 문서(`README.md`, `ARCHITECTURE.md`, `LICENSE`)만 남긴다. 실제 스킬 정의는 [`skills/frontdesk/SKILL.md`](skills/frontdesk/SKILL.md).
 
+## 스타터팩 (Phase 4): "설치하면 알아서 다 갖춰지는" 요청에 대한 답
+
+`scripts/pick-best-of-breed.mjs`가 13개 부서마다 `type: skill`(=`npx skills add`로 바로 설치 가능)이면서 `weak_match`가 아닌(신뢰도 높게 분류된) 항목 중 **설치 수(installs) 1위**를 뽑아 `data/starter-pack.json`을 만든다. `scripts/install-starter-pack.mjs`가 그 목록을 실제로 `npx skills add`로 설치한다.
+
+```bash
+node scripts/pick-best-of-breed.mjs --per=department   # 부서당 1개 (기본, 12개 — 13번 부서는 확실한 후보 없음)
+node scripts/pick-best-of-breed.mjs --per=category      # 세부분야(~57개)당 1개, 더 촘촘하지만 설치량도 많음
+node scripts/install-starter-pack.mjs                   # 미리보기만 (기본)
+node scripts/install-starter-pack.mjs --yes             # 실제 설치
+```
+
+**정직하게 짚어야 할 것: 이건 "가장 성능이 뛰어난" 스킬을 고르는 게 아니라 "가장 많이 설치된" 스킬을 고르는 것이다.** 성능/품질을 측정할 방법이 아직 없어서(ARCHITECTURE.md 다른 절 참고, "품질 필터링" 항목) installs를 대리 지표로 쓴다. `weak_match` 제외 필터는 실제로 효과가 있었다 — 처음 돌렸을 때 `7.3 RAG/벡터검색` 대표로 `microsoft/azure-skills@azure-storage`(순수 Azure Storage 문서 스킬, RAG와 무관)가 뽑혔는데, 이건 "rag" 검색 시드에 우연히 걸려 약하게 분류된 항목이었다. `weak_match` 항목을 제외하니 `wshobson/agents@prompt-engineering-patterns`처럼 실제로 그 부서에 맞는 항목이 뽑혔다.
+
+이 작업 중에 분류기 자체의 구조적 약점도 하나 더 찾아 고쳤다: skills.sh 항목의 이름은 `owner/repo@skill` 형태인데, `github/awesome-copilot@pytest-coverage`(pytest 커버리지 도구)가 repo 이름에 들어있는 "awesome" 때문에 `13.1 큐레이션 목록`으로 강하게(weak_match=false) 오분류되고 있었다. repo 경로는 브랜딩성 단어를 포함하기 쉬워 신뢰도가 낮다고 보고, `scripts/classify.mjs`의 강한 매칭 단계에서는 `@` 뒤의 스킬 이름만 쓰고 repo 경로는 seed와 함께 약한 매칭에서만 쓰도록 고쳤다.
+
+안전 노트: `install-starter-pack.mjs`는 기본적으로 미리보기만 하고 `--yes`를 명시해야 실제로 설치한다. `skills` CLI 자신도 설치 직후 "이 스킬들은 full agent permission으로 돌아가니 검토하라"고 경고하며, 실제로 스킬 설치 시 Socket/Snyk 같은 보안 스캔 결과를 같이 보여준다(직접 확인함) — 그 경고를 우회하지 않는 게 이 스크립트의 설계 원칙이다.
+
+## 파이프라인 (Phase 4): 아이디어 → 배포 → 운영
+
+`scripts/pipeline.mjs`는 새 오케스트레이션 엔진이 아니라 **기존 taxonomy/catalog/라우팅 로직을 부서 단위로 제한해서 재사용**한 8단계 워크플로다:
+
+| 단계 | 이름 | 부서 |
+|---|---|---|
+| 1 | 아이디어/전략 | 1 |
+| 2 | 프로덕트 정의 | 2 |
+| 3 | 디자인 | 3 |
+| 4 | 개발 | 4, 5, 6, 7 |
+| 5 | 품질/보안 | 8 |
+| 6 | 마케팅/세일즈 | 9, 10 |
+| 7 | 배포 | 6 (CI/CD·IaC 중심) |
+| 8 | 운영 | 6, 11 (관측·거버넌스 중심) |
+
+각 단계는 그 부서로 범위를 제한한 `matchingCategories`(스킬 카탈로그 분류에 쓰는 것과 동일한 함수, `scripts/lib/classify-core.mjs`)를 단계별 기본 키워드 + 사용자의 프로젝트 설명으로 돌려서 가장 맞는 세부분야를 찾고, 그 안의 상위 후보를 보여준다.
+
+```bash
+node scripts/pipeline.mjs "AI 기반 레시피 추천 앱"              # 8단계 전체 로드맵
+node scripts/pipeline.mjs "AI 기반 레시피 추천 앱" --stage=3    # 3단계(디자인)만
+```
+
+**자율성 수준(설계 결정)**: 배포/운영 단계는 실제 서비스에 영향을 줄 수 있어 **단계마다 사람이 확인하고 다음으로 넘어가는 것을 전제**로 설계했다 (전 구간 완전 자동 실행은 하지 않음). 이 확인 루프 자체는 스크립트가 아니라 `SKILL.md`의 지시에 따라 Claude가 대화로 수행한다 — "로드맵 먼저 보여주기 → 단계별로 자세히 보여주고 승인받기 → 승인 후에만 다음 단계"라는 순서를 SKILL.md에 명시해뒀다.
+
+**알려진 한계**: 프로젝트 설명이 짧거나 그 부서 키워드를 담고 있지 않으면, 단계별 기본 시드 키워드가 결과를 지배한다 (예: "레시피 추천 앱"이라는 설명만으로는 1단계가 항상 "프라이싱 전략"으로 치우침 — 그 부서 시드 키워드 중 "pricing"이 가장 먼저 매칭되기 때문). 진짜 프로젝트별 맞춤 추천을 하려면 각 단계에서 사용자에게 좀 더 구체적인 방향을 물어보는 게 낫다.
+
+## 목표 대비 현황 (정직하게)
+
+애초 목표는 "이것 하나만 쓰면, 상황에 맞는 가장 좋은 스킬을 저절로 가져와서 아이디어부터 배포·운영까지 다 된다"였다. Phase 4까지의 현황:
+
+| 목표 | 상태 |
+|---|---|
+| 이거 하나만 설치하면 됨 | ✅ 스킬 하나로 설치, SKILL.md가 Claude에게 우선 참고하도록 지시 |
+| 상황에 맞는 스킬을 저절로 "가져옴"(설치까지) | 🟡 라우터(`route.mjs`)는 추천만 함. 스타터팩(`install-starter-pack.mjs`)은 실제 설치까지 하지만 "부서당 1개, 인기 기준"이라는 정해진 세트지, 매 상황에 맞춰 동적으로 고른 뒤 그때그때 설치하는 건 아직 아님 |
+| **가장 성능이 뛰어난** 것으로 고름 | 🔴 여전히 인기(installs/stars)가 유일한 신호. 실측 성능 지표 없음 (BENCHMARK.md, "다음에 할 수 있는 일" 2번) |
+| 아이디어→배포→운영 파이프라인 | ✅ 8단계 파이프라인 존재, 단 사람 확인 필수(전 자동 아님) — 이 프로젝트에서 원래 의도한 자율성 수준과 일치 |
+
 ## 데이터 흐름
 
 ```
@@ -81,5 +137,7 @@ skills.sh (skills CLI) ─┘                                      │          
 3. **설명 보강 확대**: 현재 인기 상위 80개만 보강됨 — 나머지 skills.sh 항목(600여 건)도 우선순위를 낮춰 점진적으로 보강
 4. **커버리지 확장**: 현재 27개 GitHub 시드 + 36개 skills.sh 키워드로 1,311건 확보 — 여전히 얇은 부서가 있다면 시드 추가
 5. **남은 미분류 23건 재검토**: 대부분 이름만으로는 분야를 알 수 없는 범용 도구(harness, terminal utility 등) — 새 카테고리보다는 그냥 수동 태깅이 나을 수 있음
-6. **실제 설치 검증**: `npx skills add TLSRUF/frontdesk@frontdesk`로 다른(빈) 프로젝트에서 설치가 실제로 되는지, Claude Code가 SKILL.md의 description만 보고 적절한 시점에 스스로 이 스킬을 불러오는지 검증
-7. **skills.sh 등재**: 지금은 git URL로만 설치 가능 — skills.sh 인덱스에 정식 등재되면 검색으로도 발견됨
+6. ~~실제 설치 검증~~ ✅ **완료**: `npx skills add TLSRUF/frontdesk@frontdesk`와 `npx skills add https://github.com/TLSRUF/frontdesk` 둘 다 실제로 설치되는 것을 확인함(별도 빈 디렉터리에서 실제 실행). Claude Code가 description만으로 알아서 트리거하는지는 아직 실전 세션에서 검증 안 함 — 이건 여전히 남은 항목.
+7. ~~skills.sh 등재~~ **조사 완료, 별도 등재 절차 없음**: `vercel-labs/skills`(skills.sh 공식 CLI) 저장소를 확인한 결과 PR/심사 큐 같은 제출 절차는 없다. 공개 GitHub 저장소에 `SKILL.md`만 있으면 누구든 `npx skills add`로 즉시 설치 가능하고, 웹사이트 리더보드는 실제 설치 텔레메트리 기반으로 보인다(문서로 100% 확정하지는 못함). 즉 "심사받아 등재"가 아니라 "실제로 쓰이면 자연히 리더보드에 노출"되는 구조로 추정됨.
+8. **스타터팩을 "그때그때 동적 설치"로 발전**: 지금은 "부서당 인기 1위, 고정 세트"를 미리 설치하는 방식이다. 실제 목표("상황에 맞게 저절로 가져옴")에 더 가까우려면, `route.mjs`가 2/3단계 후보를 반환했을 때 그 자리에서 바로(사용자 확인 후) `npx skills add`까지 실행하는 경로를 추가하는 게 다음 단계
+9. **성능 기반 랭킹**: installs 대신(또는 같이) 실제 품질 신호(라이선스, 유지보수 빈도, 이슈 대응 속도, 보안 스캔 결과 등)로 순위를 매기는 방법 — skills CLI가 설치 시 보여주는 Socket/Snyk 스캔 결과를 데이터로 끌어오는 것도 방법

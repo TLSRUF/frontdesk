@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-09-19T06:28:46.623Z",
+  "granularity": "department",
+  "note": "installs(설치 수) 기준 인기 1위이지, 실측 성능/품질 순위가 아님 — ARCHITECTURE.md/BENCHMARK.md의 한계 참고",
+  "picks": [
+    {
+      "group": "1",
+      "group_name": "전략/기획 (Strategy)",
+      "name": "coreyhaines31/marketingskills@pricing",
+      "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing",
+      "installs": 62500,
+      "install": "npx skills add coreyhaines31/marketingskills@pricing"
+    },
+    {
+      "group": "2",
+      "group_name": "프로덕트 매니지먼트",
+      "name": "larksuite/cli@lark-okr",
+      "source_url": "https://skills.sh/larksuite/cli/lark-okr",
+      "installs": 378900,
+      "install": "npx skills add larksuite/cli@lark-okr"
+    },
+    {
+      "group": "3",
+      "group_name": "디자인",
+      "name": "arvindrk/extract-design-system@extract-design-system",
+      "source_url": "https://skills.sh/arvindrk/extract-design-system/extract-design-system",
+      "installs": 129200,
+      "install": "npx skills add arvindrk/extract-design-system@extract-design-system"
+    },
+    {
+      "group": "4",
+      "group_name": "엔지니어링-프론트엔드",
+      "name": "vercel-labs/agent-skills@vercel-react-best-practices",
+      "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+      "installs": 725700,
+      "install": "npx skills add vercel-labs/agent-skills@vercel-react-best-practices"
+    },
+    {
+      "group": "5",
+      "group_name": "엔지니어링-백엔드",
+      "name": "wshobson/agents@api-design-principles",
+      "source_url": "https://skills.sh/wshobson/agents/api-design-principles",
+      "installs": 28400,
+      "install": "npx skills add wshobson/agents@api-design-principles"
+    },
+    {
+      "group": "6",
+      "group_name": "엔지니어링-인프라/DevOps",
+      "name": "google/agents-cli@google-agents-cli-observability",
+      "source_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
+      "installs": 264800,
+      "install": "npx skills add google/agents-cli@google-agents-cli-observability"
+    },
+    {
+      "group": "7",
+      "group_name": "엔지니어링-데이터/ML/AI",
+      "name": "wshobson/agents@prompt-engineering-patterns",
+      "source_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
+      "installs": 21600,
+      "install": "npx skills add wshobson/agents@prompt-engineering-patterns"
+    },
+    {
+      "group": "8",
+      "group_name": "품질/보안",
+      "name": "anthropics/skills@webapp-testing",
+      "source_url": "https://skills.sh/anthropics/skills/webapp-testing",
+      "installs": 159300,
+      "install": "npx skills add anthropics/skills@webapp-testing"
+    },
+    {
+      "group": "9",
+      "group_name": "마케팅/그로스",
+      "name": "coreyhaines31/marketingskills@seo-audit",
+      "source_url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
+      "installs": 209900,
+      "install": "npx skills add coreyhaines31/marketingskills@seo-audit"
+    },
+    {
+      "group": "10",
+      "group_name": "세일즈/매출",
+      "name": "coreyhaines31/marketingskills@cold-email",
+      "source_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
+      "installs": 110000,
+      "install": "npx skills add coreyhaines31/marketingskills@cold-email"
+    },
+    {
+      "group": "11",
+      "group_name": "운영/거버넌스",
+      "name": "microsoft/azure-skills@azure-compliance",
+      "source_url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
+      "installs": 588100,
+      "install": "npx skills add microsoft/azure-skills@azure-compliance"
+    },
+    {
+      "group": "12",
+      "group_name": "메타/효율화 레이어",
+      "name": "addyosmani/agent-skills@context-engineering",
+      "source_url": "https://skills.sh/addyosmani/agent-skills/context-engineering",
+      "installs": 36800,
+      "install": "npx skills add addyosmani/agent-skills@context-engineering"
+    }
+  ]
+}

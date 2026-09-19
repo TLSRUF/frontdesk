@@ -23,6 +23,13 @@ npx skills add TLSRUF/frontdesk@frontdesk
 - **`skills/frontdesk/data/unclassified.json`** —— 自动分类失败的条目(供人工复核,共 23 条)
 - **`skills/frontdesk/scripts/route.mjs`** —— 判断阶梯路由器原型(`npm run route -- "任务描述"`)
 
+## 启动包(Starter Pack)与流水线(Pipeline)
+
+- **启动包** —— 满足"只装这一个,各部门最好的技能就自动齐全"这个诉求。`npm run starter-pack` 会在 13 个部门中,从分类置信度高的条目里挑出安装量最高的一个(目前共 12 个部门有结果),然后用 `node scripts/install-starter-pack.mjs --yes` 一次性全部安装。**需要说明:这里选的是"安装量最高"的技能,而不是"性能最好"的技能** —— 目前还没有衡量性能的方法,只能用受欢迎程度作为替代指标。
+- **流水线** —— 复用现有的目录/路由器,按"创意 → 产品定义 → 设计 → 开发 → 质量/安全 → 市场营销/销售 → 部署 → 运维"8 个阶段给出建议:`node scripts/pipeline.mjs "项目描述"`。由于部署和运维会影响真实服务,这个流水线设计为**每个阶段都需要人工确认后才进入下一阶段**,而不是从头到尾全自动执行。
+
+完整的设计考量和局限性见 [`ARCHITECTURE.md`](ARCHITECTURE.md) 中的"스타터팩"/"파이프라인"/"목표 대비 현황"章节(标题是韩文,但代码块和表格本身不受语言影响)。
+
 ## 性能 / 基准测试
 
 <img src="skills/frontdesk/assets/benchmark-accuracy.svg" alt="Classification accuracy comparison" width="600">
@@ -49,7 +56,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 在 `skills/frontdesk/` 目录下:
 
 ```bash
-npm run all   # collect:github → collect:skillssh → classify → enrich → build:catalog
+npm run all   # collect:github → collect:skillssh → classify → enrich → build:catalog → starter-pack
 ```
 
 各步骤:
@@ -60,6 +67,9 @@ npm run collect:skillssh  # 用 `npx skills search` 收集 skills.sh 技能 (dat
 npm run classify          # 用 taxonomy.mjs 的关键词自动分类 → data/catalog.json(每次都会从原始数据重新生成)
 npm run enrich            # 从热门 skills.sh 条目的 SKILL.md 中回填真实描述
 npm run build:catalog     # 生成 CATALOG.md
+npm run starter-pack      # 挑选各部门的代表技能 → data/starter-pack.json
+npm run install-starter-pack -- --yes   # 实际安装启动包
+npm run pipeline -- "项目描述"            # 打印 8 阶段流水线路线图
 npm run route -- "recommend a testing automation tool"   # 路由器演示
 npm run benchmark         # 运行准确率/误判率基准测试并重新生成图表
 ```

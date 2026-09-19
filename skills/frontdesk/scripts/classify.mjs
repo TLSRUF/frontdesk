@@ -28,9 +28,22 @@ function loadRaw() {
 // 반환하는 경우가 있어(예: "rag" 검색에 "azure-storage"가 걸림) 신뢰도가 낮다.
 // 그래서 1차는 name+description+topics(신뢰도 높음)만으로 매칭하고,
 // 실패했을 때만 2차로 seed까지 포함해 재시도한다(신뢰도 낮음, weak_match로 표시).
+//
+// skills.sh 항목의 name은 "owner/repo@skill" 형태다. repo 이름이 "awesome-copilot"처럼
+// 브랜딩성 단어를 포함하면, 그 repo의 모든 스킬이 실제 내용과 무관하게 그 단어로 강하게
+// 매칭되는 문제가 생긴다(예: pytest-coverage 스킬이 repo명의 "awesome" 때문에
+// "큐레이션 목록" 카테고리로 잘못 분류됨). 그래서 repo 경로는 약한 신호로만 쓰고,
+// 스킬 이름 자체(및 설명/토픽)만 강한 신호로 쓴다.
+function splitSkillName(name) {
+  const at = name.indexOf("@");
+  if (at === -1) return { strongPart: name, weakPart: "" };
+  return { strongPart: name.slice(at + 1), weakPart: name.slice(0, at) };
+}
+
 function haystack(item, includeSeed) {
-  const parts = [item.name, item.description, ...(item.topics || [])];
-  if (includeSeed) parts.push(item.seed_topic, item.seed_keyword);
+  const { strongPart, weakPart } = splitSkillName(item.name);
+  const parts = [strongPart, item.description, ...(item.topics || [])];
+  if (includeSeed) parts.push(weakPart, item.seed_topic, item.seed_keyword);
   return parts.filter(Boolean).join(" ");
 }
 

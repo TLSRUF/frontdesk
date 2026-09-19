@@ -23,6 +23,13 @@ Once installed, Claude will check "is there already a skill for this?" before do
 - **`skills/frontdesk/data/unclassified.json`** — items that failed auto-classification (for manual review, 23 entries)
 - **`skills/frontdesk/scripts/route.mjs`** — the decision-ladder router prototype (`npm run route -- "task description"`)
 
+## Starter pack & pipeline
+
+- **Starter pack** — for "just install this one thing and get the best skill per department automatically." `npm run starter-pack` picks the most-installed, confidently-classified item per department (12 currently), and `node scripts/install-starter-pack.mjs --yes` installs all of them at once. **Note: this picks the most-*installed* skill, not the best-*performing* one** — there's no performance measurement to rank by yet, so popularity is used as a proxy.
+- **Pipeline** — 8 stages (idea → product definition → design → engineering → QA/security → marketing/sales → deploy → ops) that reuse the existing catalog/router, scoped per stage to the relevant department(s): `node scripts/pipeline.mjs "project description"`. Deploy and ops can affect a real service, so this is designed for **human confirmation at every stage transition** (not a fully unattended run end-to-end).
+
+Full design rationale and limitations are in [`ARCHITECTURE.md`](ARCHITECTURE.md) under "스타터팩" / "파이프라인" / "목표 대비 현황" (Korean headings, but readable via the code blocks and tables).
+
 ## Performance / Benchmark
 
 <img src="skills/frontdesk/assets/benchmark-accuracy.svg" alt="Classification accuracy comparison" width="600">
@@ -49,7 +56,7 @@ Full methodology, the bugs we found, and known limitations are in [`skills/front
 From inside `skills/frontdesk/`:
 
 ```bash
-npm run all   # collect:github → collect:skillssh → classify → enrich → build:catalog
+npm run all   # collect:github → collect:skillssh → classify → enrich → build:catalog → starter-pack
 ```
 
 Individual steps:
@@ -60,6 +67,9 @@ npm run collect:skillssh  # collect skills.sh skills via `npx skills search` (da
 npm run classify          # auto-classify with taxonomy.mjs keywords -> data/catalog.json (regenerated from raw every time)
 npm run enrich            # backfill real descriptions for popular skills.sh entries from their SKILL.md
 npm run build:catalog     # generate CATALOG.md
+npm run starter-pack      # pick the top skill per department -> data/starter-pack.json
+npm run install-starter-pack -- --yes   # actually install the starter pack
+npm run pipeline -- "project description"   # print the 8-stage pipeline roadmap
 npm run route -- "recommend a testing automation tool"   # router demo
 npm run benchmark         # run the accuracy/false-positive benchmark and regenerate charts
 ```

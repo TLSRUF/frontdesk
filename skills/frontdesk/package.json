@@ -12,6 +12,9 @@
     "build:catalog": "node scripts/build-catalog-md.mjs",
     "route": "node scripts/route.mjs",
     "benchmark": "node scripts/benchmark.mjs",
-    "all": "npm run collect:github && npm run collect:skillssh && npm run classify && npm run enrich && npm run build:catalog"
+    "pipeline": "node scripts/pipeline.mjs",
+    "starter-pack": "node scripts/pick-best-of-breed.mjs",
+    "install-starter-pack": "node scripts/install-starter-pack.mjs",
+    "all": "npm run collect:github && npm run collect:skillssh && npm run classify && npm run enrich && npm run build:catalog && npm run starter-pack"
   }
 }

@@ -4,7 +4,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 자동 생성 파일입니다 — 직접 수정하지 말고 `npm run all`로 재생성하세요.
 
-⚠ 표시(92건)는 이름/설명에 직접적인 키워드가 없어 검색 시드로만 분류된 "약한 매칭"입니다 — 카테고리가 부정확할 수 있으니 참고용으로만 보세요.
+⚠ 표시(110건)는 이름/설명에 직접적인 키워드가 없어 검색 시드로만 분류된 "약한 매칭"입니다 — 카테고리가 부정확할 수 있으니 참고용으로만 보세요.
 
 ---
 
@@ -58,7 +58,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[ognjengt/founder-skills@pricing-strategist](https://skills.sh/ognjengt/founder-skills/pricing-strategist)** (⬇ 716 installs) — _설명 없음_
 - **[alirezarezvani/claude-skills@pricing-strategy](https://skills.sh/alirezarezvani/claude-skills/pricing-strategy)** (⬇ 649 installs) — _설명 없음_
 
-## 2. 프로덕트 매니지먼트 (91건)
+## 2. 프로덕트 매니지먼트 (90건)
 
 ### 2.1 PRD/요구사항 작성
 
@@ -67,6 +67,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[product-on-purpose/pm-skills@measure-dashboard-requirements](https://skills.sh/product-on-purpose/pm-skills/measure-dashboard-requirements)** (⬇ 683 installs) ⚠ — _설명 없음_
 - **[prd-taskmaster](https://github.com/anombyte93/prd-taskmaster)** (⭐ 600) — Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task graph, evidence-gated execution.
 - **[prometheas-labs/agent-plugins@product-development](https://skills.sh/prometheas-labs/agent-plugins/product-development)** (⬇ 259 installs) ⚠ — _설명 없음_
+- **[pluginagentmarketplace/custom-plugin-product-manager@requirements-specification](https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/requirements-specification)** (⬇ 234 installs) ⚠ — _설명 없음_
 - **[khazp/vibe-coding-prompt-template@vibe-prd](https://skills.sh/khazp/vibe-coding-prompt-template/vibe-prd)** (⬇ 174 installs) — _설명 없음_
 - **[davidlee/doctrine@spec-product](https://skills.sh/davidlee/doctrine/spec-product)** (⬇ 91 installs) ⚠ — _설명 없음_
 - **[vilin1927/autoflux-landing@product-requirements](https://skills.sh/vilin1927/autoflux-landing/product-requirements)** (⬇ 26 installs) — _설명 없음_
@@ -135,6 +136,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[podo/design-agent-skills@user-research-cookiy](https://skills.sh/podo/design-agent-skills/user-research-cookiy)** (⬇ 136 installs) — _설명 없음_
 - **[yonatangross/orchestkit@user-research](https://skills.sh/yonatangross/orchestkit/user-research)** (⬇ 108 installs) — _설명 없음_
 - **[mohitagw15856/pm-claude-skills@user-research-synthesis](https://skills.sh/mohitagw15856/pm-claude-skills/user-research-synthesis)** (⬇ 67 installs) — _설명 없음_
+- **[pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research](https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/user-discovery-research)** (⬇ 55 installs) ⚠ — _설명 없음_
 - **[nicepkg/ai-workflow@user-research](https://skills.sh/nicepkg/ai-workflow/user-research)** (⬇ 46 installs) — _설명 없음_
 - **[sylphxai/skills@user-research-repository-review](https://skills.sh/sylphxai/skills/user-research-repository-review)** (⬇ 39 installs) — _설명 없음_
 - **[monumentalsystems/atlas-agent-teams@user-research](https://skills.sh/monumentalsystems/atlas-agent-teams/user-research)** (⬇ 33 installs) — _설명 없음_
@@ -149,7 +151,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[open-product-management](https://github.com/ProductHired/open-product-management)** (⭐ 4471) — A curated list of product management advice for technical people.
 - **[pimcore](https://github.com/pimcore/pimcore)** (⭐ 3849) — Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - **[awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management)** (⭐ 2603) — 👔 How to transition from software development to engineering management
-- **[deanpeters/product-manager-skills@context-engineering-advisor](https://skills.sh/deanpeters/product-manager-skills/context-engineering-advisor)** (⬇ 2,000 installs) — _설명 없음_
 - **[product-manager-prompts](https://github.com/deanpeters/product-manager-prompts)** (⭐ 1136) — A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
 - **[claude-skills](https://github.com/rampstackco/claude-skills)** (⭐ 881) — Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.
 - **[pm-skills](https://github.com/product-on-purpose/pm-skills)** (⭐ 683) — 68 plug-and-play, best-practice product management skills for AI agents: 30 Triple Diamond phase + 11 foundation + 12 utility + 15 tool (Foundation Sprint + Design Sprint). Plus 6 sub-agents, workflows, 200+ output samples, guides, and CI-enforced contracts. Apache 2.0.
@@ -160,8 +161,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[nexpath](https://github.com/hi0001234d/nexpath)** (⭐ 330) — Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers — catch missing tests and safety checks across Claude Code, Cursor, Windsurf, Replit, Lovable and Bolt.new.
 - **[AIPM-Wiki](https://github.com/archlizheng/AIPM-Wiki)** (⭐ 300) — 🧱 AI 产品经理入门知识库:面试题库 · AI 基础 · 案例拆解 · 学习路线 | 无论是零基础转行还是持续进步,一个仓库就够了
 - **[404kidwiz/claude-supercode-skills@product-manager](https://skills.sh/404kidwiz/claude-supercode-skills/product-manager)** (⬇ 255 installs) — _설명 없음_
-- **[pluginagentmarketplace/custom-plugin-product-manager@requirements-specification](https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/requirements-specification)** (⬇ 234 installs) — _설명 없음_
-- **[pluginagentmarketplace/custom-plugin-product-manager@user-discovery-research](https://skills.sh/pluginagentmarketplace/custom-plugin-product-manager/user-discovery-research)** (⬇ 55 installs) — _설명 없음_
 
 ## 3. 디자인 (109건)
 
@@ -193,7 +192,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[ceorkm/mobile-app-ui-design@mobile-app-ui-design](https://skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design)** (⬇ 9,300 installs) — _설명 없음_
 - **[samuraigpt/generative-media-skills@muapi-ui-design](https://skills.sh/samuraigpt/generative-media-skills/muapi-ui-design)** (⬇ 2,600 installs) — _설명 없음_
 - **[figma/mcp-server-guide@figma-create-design-system-rules](https://skills.sh/figma/mcp-server-guide/figma-create-design-system-rules)** (⬇ 1,700 installs) — _설명 없음_
-- **[figma/mcp-server-guide@create-design-system-rules](https://skills.sh/figma/mcp-server-guide/create-design-system-rules)** (⬇ 1,400 installs) — _설명 없음_
 - **[podo/design-agent-skills@mobile-app-ui-design](https://skills.sh/podo/design-agent-skills/mobile-app-ui-design)** (⬇ 127 installs) — _설명 없음_
 
 ### 3.3 디자인 시스템
@@ -243,6 +241,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[refoundai/lenny-skills@design-systems](https://skills.sh/refoundai/lenny-skills/design-systems)** (⬇ 1,800 installs) — _설명 없음_
 - **[buildgreatproducts/builder-os@design-system](https://skills.sh/buildgreatproducts/builder-os/design-system)** (⬇ 1,800 installs) — _설명 없음_
 - **[owl-listener/designer-skills@design-system-adoption](https://skills.sh/owl-listener/designer-skills/design-system-adoption)** (⬇ 1,600 installs) — _설명 없음_
+- **[figma/mcp-server-guide@create-design-system-rules](https://skills.sh/figma/mcp-server-guide/create-design-system-rules)** (⬇ 1,400 installs) — _설명 없음_
 - **[jezweb/claude-skills@design-system](https://skills.sh/jezweb/claude-skills/design-system)** (⬇ 1,000 installs) — _설명 없음_
 
 ### 3.4 프로토타이핑
@@ -289,7 +288,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[jezweb/claude-skills@accessibility](https://skills.sh/jezweb/claude-skills/accessibility)** (⬇ 512 installs) — _설명 없음_
 - **[webflow/webflow-skills@accessibility-audit](https://skills.sh/webflow/webflow-skills/accessibility-audit)** (⬇ 495 installs) — _설명 없음_
 
-## 4. 엔지니어링-프론트엔드 (95건)
+## 4. 엔지니어링-프론트엔드 (94건)
 
 ### 4.1 웹 프론트엔드
 
@@ -356,7 +355,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)** (⭐ 569) — A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages
 - **[Async](https://github.com/ZYKJShadow/Async)** (⭐ 479) — IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.
 - **[x-hiring](https://github.com/hehehai/x-hiring)** (⭐ 458) — 🤗 每日最新招聘信息，使用 Google AI 提取摘要
-- **[margelo/react-native-skills@api-design](https://skills.sh/margelo/react-native-skills/api-design)** (⬇ 430 installs) — _설명 없음_
 - **[vercel-labs/json-render@json-render-react](https://skills.sh/vercel-labs/json-render/json-render-react)** (⬇ 412 installs) — _설명 없음_
 - **[aural-oss](https://github.com/1146345502/aural-oss)** (⭐ 204) — Open-source AI interview platform for voice, chat & video
 - **[basjoo](https://github.com/haoyiyin/basjoo)** (⭐ 158) — Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector.
@@ -395,7 +393,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 - **[codex-seo](https://github.com/AgriciDaniel/codex-seo)** (⭐ 729) — Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reports.
 
-## 5. 엔지니어링-백엔드 (62건)
+## 5. 엔지니어링-백엔드 (64건)
 
 ### 5.1 API 설계
 
@@ -423,6 +421,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[bobmatnyc/claude-mpm-skills@api-design-patterns](https://skills.sh/bobmatnyc/claude-mpm-skills/api-design-patterns)** (⬇ 530 installs) — _설명 없음_
 - **[chrisbanes/skills@kotlin-api-design](https://skills.sh/chrisbanes/skills/kotlin-api-design)** (⬇ 519 installs) — _설명 없음_
 - **[manutej/luxor-claude-marketplace@rest-api-design-patterns](https://skills.sh/manutej/luxor-claude-marketplace/rest-api-design-patterns)** (⬇ 493 installs) — _설명 없음_
+- **[margelo/react-native-skills@api-design](https://skills.sh/margelo/react-native-skills/api-design)** (⬇ 430 installs) — _설명 없음_
 - **[akillness/jeo-skills@api-design](https://skills.sh/akillness/jeo-skills/api-design)** (⬇ 360 installs) — _설명 없음_
 - **[proyecto26/system-design-skills@api-design](https://skills.sh/proyecto26/system-design-skills/api-design)** (⬇ 224 installs) — _설명 없음_
 
@@ -446,13 +445,14 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[aj-geddes/useful-ai-prompts@database-migration-management](https://skills.sh/aj-geddes/useful-ai-prompts/database-migration-management)** (⬇ 488 installs) — _설명 없음_
 - **[bobmatnyc/claude-mpm-skills@database-migration](https://skills.sh/bobmatnyc/claude-mpm-skills/database-migration)** (⬇ 377 installs) — _설명 없음_
 - **[sickn33/agentic-awesome-skills@database-migrations-migration-observability](https://skills.sh/sickn33/agentic-awesome-skills/database-migrations-migration-observability)** (⬇ 311 installs) — _설명 없음_
+- **[sickn33/agentic-awesome-skills@database](https://skills.sh/sickn33/agentic-awesome-skills/database)** (⬇ 268 installs) ⚠ — _설명 없음_
 - **[yonatangross/orchestkit@database-patterns](https://skills.sh/yonatangross/orchestkit/database-patterns)** (⬇ 209 installs) ⚠ — _설명 없음_
 - **[charleswiltgen/axiom@axiom-database-migration](https://skills.sh/charleswiltgen/axiom/axiom-database-migration)** (⬇ 187 installs) — _설명 없음_
 - **[jorgealves/agent_skills@database-migration-integrity-checker](https://skills.sh/jorgealves/agent_skills/database-migration-integrity-checker)** (⬇ 177 installs) — _설명 없음_
 - **[timescale/pg-aiguide@postgres-database-migration](https://skills.sh/timescale/pg-aiguide/postgres-database-migration)** (⬇ 148 installs) — _설명 없음_
 - **[microsoftdocs/agent-skills@azure-database-migration](https://skills.sh/microsoftdocs/agent-skills/azure-database-migration)** (⬇ 141 installs) — _설명 없음_
 - **[seb1n/awesome-ai-agent-skills@database-migration](https://skills.sh/seb1n/awesome-ai-agent-skills/database-migration)** (⬇ 69 installs) — _설명 없음_
-- **[microsoft/azure-sql-database-container@azuresql-db-schema-migration](https://skills.sh/microsoft/azure-sql-database-container/azuresql-db-schema-migration)** (⬇ 62 installs) — _설명 없음_
+- **[microsoft/azure-sql-database-container@azuresql-db-schema-migration](https://skills.sh/microsoft/azure-sql-database-container/azuresql-db-schema-migration)** (⬇ 62 installs) ⚠ — _설명 없음_
 - **[langchain-ai/skills-benchmarks@database-migrations](https://skills.sh/langchain-ai/skills-benchmarks/database-migrations)** (⬇ 59 installs) — _설명 없음_
 - **[schemavaults/dbh@database-migrations](https://skills.sh/schemavaults/dbh/database-migrations)** (⬇ 53 installs) — _설명 없음_
 - **[mohitagw15856/pm-claude-skills@database-migration-plan](https://skills.sh/mohitagw15856/pm-claude-skills/database-migration-plan)** (⬇ 40 installs) — _설명 없음_
@@ -575,7 +575,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[metaflow](https://github.com/Netflix/metaflow)** (⭐ 10274) — Build, Manage and Deploy AI/ML Systems
 - **[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)** (⭐ 6066) — Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
-## 7. 엔지니어링-데이터/ML/AI (287건)
+## 7. 엔지니어링-데이터/ML/AI (284건)
 
 ### 7.1 데이터 파이프라인/ETL
 
@@ -597,7 +597,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[Soup](https://github.com/MakazhanAlpamys/Soup)** (⭐ 6821) — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - **[2027-AI-College-Jobs](https://github.com/speedyapply/2027-AI-College-Jobs)** (⭐ 6411) — 2027 AI/ML internship & new graduate job list updated daily
 - **[AReaL](https://github.com/areal-project/AReaL)** (⭐ 5776) — The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
-- **[pytorch/pytorch@pyrefly-type-coverage](https://skills.sh/pytorch/pytorch/pyrefly-type-coverage)** (⬇ 2,900 installs) — _설명 없음_
+- **[pytorch/pytorch@pyrefly-type-coverage](https://skills.sh/pytorch/pytorch/pyrefly-type-coverage)** (⬇ 2,900 installs) ⚠ — _설명 없음_
 
 ### 7.3 RAG/벡터검색
 
@@ -643,6 +643,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[txtai](https://github.com/neuml/txtai)** (⭐ 12964) — 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - **[LEANN](https://github.com/StarTrail-org/LEANN)** (⭐ 12946) — [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - **[wshobson/agents@rag-implementation](https://skills.sh/wshobson/agents/rag-implementation)** (⬇ 12,700 installs) — Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with exte
+- **[github/awesome-copilot@pytest-coverage](https://skills.sh/github/awesome-copilot/pytest-coverage)** (⬇ 12,700 installs) ⚠ — Run pytest tests with coverage, discover lines missing coverage, and increase coverage to 100%.
 - **[claude-context](https://github.com/zilliztech/claude-context)** (⭐ 12542) — Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - **[lancedb](https://github.com/lancedb/lancedb)** (⭐ 11464) — Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - **[orama](https://github.com/oramasearch/orama)** (⭐ 10557) — 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
@@ -820,7 +821,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[neolabhq/context-engineering-kit@prompt-engineering](https://skills.sh/neolabhq/context-engineering-kit/prompt-engineering)** (⬇ 1,300 installs) — _설명 없음_
 - **[neolabhq/context-engineering-kit@multi-agent-patterns](https://skills.sh/neolabhq/context-engineering-kit/multi-agent-patterns)** (⬇ 1,200 installs) — _설명 없음_
 - **[ALwrity](https://github.com/ALwrity/ALwrity)** (⭐ 1165) — ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
-- **[qodex-ai/ai-agent-skills@legal-document-analyzer](https://skills.sh/qodex-ai/ai-agent-skills/legal-document-analyzer)** (⬇ 1,100 installs) — _설명 없음_
+- **[neolabhq/context-engineering-kit@test-prompt](https://skills.sh/neolabhq/context-engineering-kit/test-prompt)** (⬇ 1,100 installs) ⚠ — _설명 없음_
 - **[spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** (⭐ 977) — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.
 - **[Citadel](https://github.com/SethGammon/Citadel)** (⭐ 922) — The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - **[ai-maestro](https://github.com/23blocks-OS/ai-maestro)** (⭐ 789) — AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations
@@ -857,7 +858,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[codealive-ai/ai-driven-development@prompt-engineering](https://skills.sh/codealive-ai/ai-driven-development/prompt-engineering)** (⬇ 128 installs) — _설명 없음_
 - **[attention-control](https://github.com/aaddrick/attention-control)** (⭐ 112) — Air traffic control discipline for agent output. Written for a reader with ADHD.
 - **[oakoss/agent-skills@prompt-engineering](https://skills.sh/oakoss/agent-skills/prompt-engineering)** (⬇ 100 installs) — _설명 없음_
-- **[datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management](https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management)** (⬇ 98 installs) — _설명 없음_
 - **[cre-agent-skills](https://github.com/ahacker-1/cre-agent-skills)** (⭐ 92) — Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing workflows - standalone prompts for Claude Code, ChatGPT, Cursor, and other LLMs.
 - **[codealive-ai/prompt-engineering-skill@prompt-engineering](https://skills.sh/codealive-ai/prompt-engineering-skill/prompt-engineering)** (⬇ 91 installs) — _설명 없음_
 - **[shipshitdev/skills@prompt-engineering](https://skills.sh/shipshitdev/skills/prompt-engineering)** (⬇ 89 installs) — _설명 없음_
@@ -867,9 +867,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[Agentic-Engineering-Infrastructure](https://github.com/Fractera/Agentic-Engineering-Infrastructure)** (⭐ 59) — Deploys your OS, databases, and SSL on your VPS in just 10 minutes. Orchestrates a team of AI agents for coding, marketing, and sales. The built-in optimizer saves up to 90% on token costs, letting you build and manage your online business directly through chat. Fully open-source.
 - **[shiplog](https://github.com/devallibus/shiplog)** (⭐ 55) — SUPERCHARGE AI-assisted development by using Git. Cross-model review gates, evidence-linked closure, verification profiles, model-tier routing, artifact envelopes, and provenance signing — all from a single skill for Claude Code, Codex, and Cursor.
 - **[ai-agents](https://github.com/rjmurillo/ai-agents)** (⭐ 45) — Multi-agent system for software development
-- **[seb1n/awesome-ai-agent-skills@project-management](https://skills.sh/seb1n/awesome-ai-agent-skills/project-management)** (⬇ 39 installs) — _설명 없음_
-- **[prorise-cool/claude-code-multi-agent@project-management-specialist](https://skills.sh/prorise-cool/claude-code-multi-agent/project-management-specialist)** (⬇ 38 installs) — _설명 없음_
-- **[fandhe-ai/agent-reference-skills@stripe](https://skills.sh/fandhe-ai/agent-reference-skills/stripe)** (⬇ 36 installs) — _설명 없음_
 
 ### 7.5 평가/벤치마크
 
@@ -879,7 +876,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[giskard-oss](https://github.com/Giskard-AI/giskard-oss)** (⭐ 5826) — 🐢 Open-Source Evaluation & Testing library for LLM Agents
 - **[little-coder](https://github.com/itayinbarr/little-coder)** (⭐ 2605) — A harness optimized to smaller LLMs
 
-## 8. 품질/보안 (44건)
+## 8. 품질/보안 (43건)
 
 ### 8.1 테스트 자동화
 
@@ -904,7 +901,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[inspec](https://github.com/inspec/inspec)** (⭐ 3091) — InSpec: Auditing and Testing Framework
 - **[anthropics/knowledge-work-plugins@sox-testing](https://skills.sh/anthropics/knowledge-work-plugins/sox-testing)** (⬇ 2,500 installs) — _설명 없음_
 - **[vera](https://github.com/project-vera/vera)** (⭐ 252) — High-fidelity, anycloud emulators running in your laptop. For DevOps programming, testing, and simulation.
-- **[proffesor-for-testing/agentic-qe@qe-github-project-management](https://skills.sh/proffesor-for-testing/agentic-qe/qe-github-project-management)** (⬇ 73 installs) — _설명 없음_
 
 ### 8.2 코드 리뷰
 
@@ -1030,7 +1026,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 - **[linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp)** (⭐ 67) — MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data.
 
-## 10. 세일즈/매출 (130건)
+## 10. 세일즈/매출 (131건)
 
 ### 10.1 세일즈 아웃리치
 
@@ -1121,6 +1117,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[heyvhuang/ship-faster@stripe](https://skills.sh/heyvhuang/ship-faster/stripe)** (⬇ 57 installs) — _설명 없음_
 - **[fusengine/agents@laravel-billing](https://skills.sh/fusengine/agents/laravel-billing)** (⬇ 53 installs) — _설명 없음_
 - **[whawkinsiv/solo-founder-skills@payments](https://skills.sh/whawkinsiv/solo-founder-skills/payments)** (⬇ 38 installs) ⚠ — _설명 없음_
+- **[fandhe-ai/agent-reference-skills@stripe](https://skills.sh/fandhe-ai/agent-reference-skills/stripe)** (⬇ 36 installs) — _설명 없음_
 - **[geelark/geelark-cli@geelark-billing](https://skills.sh/geelark/geelark-cli/geelark-billing)** (⬇ 35 installs) — _설명 없음_
 - **[metronome-industries/ai@stripe-to-metronome-migration](https://skills.sh/metronome-industries/ai/stripe-to-metronome-migration)** (⬇ 26 installs) — _설명 없음_
 - **[danzam98/claude-skills-toolkit@saas-billing-patterns-for-stripe-and-paypal](https://skills.sh/danzam98/claude-skills-toolkit/saas-billing-patterns-for-stripe-and-paypal)** (⬇ 15 installs) — _설명 없음_
@@ -1171,7 +1168,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[notque/vexjoy-agent@customer-support](https://skills.sh/notque/vexjoy-agent/customer-support)** (⬇ 5 installs) — _설명 없음_
 - **[superlowburn/skill-customer-support@customer-support](https://skills.sh/superlowburn/skill-customer-support/customer-support)** (⬇ 3 installs) — _설명 없음_
 
-## 11. 운영/거버넌스 (184건)
+## 11. 운영/거버넌스 (189건)
 
 ### 11.1 프로젝트 관리
 
@@ -1191,8 +1188,12 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[curiositech/some_claude_skills@project-management-guru-adhd](https://skills.sh/curiositech/some_claude_skills/project-management-guru-adhd)** (⬇ 235 installs) — _설명 없음_
 - **[laurigates/claude-plugins@uv-project-management](https://skills.sh/laurigates/claude-plugins/uv-project-management)** (⬇ 165 installs) — _설명 없음_
 - **[vivy-yi/xiaohongshu-skills@project-management](https://skills.sh/vivy-yi/xiaohongshu-skills/project-management)** (⬇ 156 installs) — _설명 없음_
+- **[datadrivenconstruction/ddc_skills_for_ai_agents_in_construction@n8n-project-management](https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management)** (⬇ 98 installs) — _설명 없음_
+- **[proffesor-for-testing/agentic-qe@qe-github-project-management](https://skills.sh/proffesor-for-testing/agentic-qe/qe-github-project-management)** (⬇ 73 installs) — _설명 없음_
 - **[zenobi-us/dotfiles@projectmanagement](https://skills.sh/zenobi-us/dotfiles/projectmanagement)** (⬇ 64 installs) ⚠ — _설명 없음_
 - **[jk-0001/skills@project-management](https://skills.sh/jk-0001/skills/project-management)** (⬇ 46 installs) — _설명 없음_
+- **[seb1n/awesome-ai-agent-skills@project-management](https://skills.sh/seb1n/awesome-ai-agent-skills/project-management)** (⬇ 39 installs) — _설명 없음_
+- **[prorise-cool/claude-code-multi-agent@project-management-specialist](https://skills.sh/prorise-cool/claude-code-multi-agent/project-management-specialist)** (⬇ 38 installs) — _설명 없음_
 - **[dmend3z/tribo-skills@project-management](https://skills.sh/dmend3z/tribo-skills/project-management)** (⬇ 18 installs) — _설명 없음_
 - **[peterbamuhigire/proposal-skills@project-management](https://skills.sh/peterbamuhigire/proposal-skills/project-management)** (⬇ 8 installs) — _설명 없음_
 
@@ -1277,6 +1278,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[copacetic](https://github.com/project-copacetic/copacetic)** (⭐ 1708) — 🧵 CLI tool for directly patching container images!
 - **[Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)** (⭐ 1587) — Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
 - **[github/awesome-copilot@agent-owasp-compliance](https://skills.sh/github/awesome-copilot/agent-owasp-compliance)** (⬇ 1,500 installs) — _설명 없음_
+- **[qodex-ai/ai-agent-skills@legal-document-analyzer](https://skills.sh/qodex-ai/ai-agent-skills/legal-document-analyzer)** (⬇ 1,100 installs) — _설명 없음_
 - **[nexscope-ai/amazon-skills@amazon-product-compliance](https://skills.sh/nexscope-ai/amazon-skills/amazon-product-compliance)** (⬇ 985 installs) — _설명 없음_
 - **[nexscope-ai/ecommerce-skills@tiktok-shop-compliance](https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance)** (⬇ 853 installs) — _설명 없음_
 - **[davila7/claude-code-templates@security-compliance](https://skills.sh/davila7/claude-code-templates/security-compliance)** (⬇ 847 installs) — _설명 없음_
@@ -1388,6 +1390,7 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** (⭐ 53198) — Breakthrough Method for Agile Ai Driven Development
 - **[addyosmani/agent-skills@context-engineering](https://skills.sh/addyosmani/agent-skills/context-engineering)** (⬇ 36,800 installs) — Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.
 - **[cognee](https://github.com/topoteretes/cognee)** (⭐ 30821) — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+- **[langchain-ai/langchain-skills@deep-agents-memory](https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory)** (⬇ 16,700 installs) ⚠ — INVOKE THIS SKILL when your Deep Agent needs memory, persistence, or filesystem access. Covers StateBackend (ephemeral), StoreBackend (persistent), FilesystemMiddleware, and CompositeBackend for routing.
 - **[memU](https://github.com/NevaMind-AI/memU)** (⭐ 14420) — Personal memory across agents
 - **[semantica](https://github.com/semantica-agi/semantica)** (⭐ 13219) — Graph-Native Infrastructure for Context and Accountable AI Systems
 - **[EverOS](https://github.com/EverMind-AI/EverOS)** (⭐ 13059) — One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
@@ -1415,21 +1418,21 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[openwolf](https://github.com/cytostack/openwolf)** (⭐ 2348) — Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry.
 - **[memanto](https://github.com/moorcheh-ai/memanto)** (⭐ 2250) — Memory that AI Agents Love!
 - **[magic-context](https://github.com/cortexkit/magic-context)** (⭐ 2147) — Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
+- **[deanpeters/product-manager-skills@context-engineering-advisor](https://skills.sh/deanpeters/product-manager-skills/context-engineering-advisor)** (⬇ 2,000 installs) — _설명 없음_
 - **[sickn33/agentic-awesome-skills@agent-memory-systems](https://skills.sh/sickn33/agentic-awesome-skills/agent-memory-systems)** (⬇ 1,900 installs) — _설명 없음_
 - **[personal-model](https://github.com/Intuition-Lab/personal-model)** (⭐ 1321) — Build your HUMAN.md.
-- **[neolabhq/context-engineering-kit@thought-based-reasoning](https://skills.sh/neolabhq/context-engineering-kit/thought-based-reasoning)** (⬇ 1,300 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@reflect](https://skills.sh/neolabhq/context-engineering-kit/reflect)** (⬇ 1,300 installs) — _설명 없음_
+- **[neolabhq/context-engineering-kit@thought-based-reasoning](https://skills.sh/neolabhq/context-engineering-kit/thought-based-reasoning)** (⬇ 1,300 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@reflect](https://skills.sh/neolabhq/context-engineering-kit/reflect)** (⬇ 1,300 installs) ⚠ — _설명 없음_
 - **[Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)** (⭐ 1222) — Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。
-- **[neolabhq/context-engineering-kit@write-concisely](https://skills.sh/neolabhq/context-engineering-kit/write-concisely)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@critique](https://skills.sh/neolabhq/context-engineering-kit/critique)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@kaizen](https://skills.sh/neolabhq/context-engineering-kit/kaizen)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@judge-with-debate](https://skills.sh/neolabhq/context-engineering-kit/judge-with-debate)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@memorize](https://skills.sh/neolabhq/context-engineering-kit/memorize)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@subagent-driven-development](https://skills.sh/neolabhq/context-engineering-kit/subagent-driven-development)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@plan-task](https://skills.sh/neolabhq/context-engineering-kit/plan-task)** (⬇ 1,200 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@implement-task](https://skills.sh/neolabhq/context-engineering-kit/implement-task)** (⬇ 1,200 installs) — _설명 없음_
+- **[neolabhq/context-engineering-kit@write-concisely](https://skills.sh/neolabhq/context-engineering-kit/write-concisely)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@critique](https://skills.sh/neolabhq/context-engineering-kit/critique)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@kaizen](https://skills.sh/neolabhq/context-engineering-kit/kaizen)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@judge-with-debate](https://skills.sh/neolabhq/context-engineering-kit/judge-with-debate)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@memorize](https://skills.sh/neolabhq/context-engineering-kit/memorize)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@subagent-driven-development](https://skills.sh/neolabhq/context-engineering-kit/subagent-driven-development)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@plan-task](https://skills.sh/neolabhq/context-engineering-kit/plan-task)** (⬇ 1,200 installs) ⚠ — _설명 없음_
+- **[neolabhq/context-engineering-kit@implement-task](https://skills.sh/neolabhq/context-engineering-kit/implement-task)** (⬇ 1,200 installs) ⚠ — _설명 없음_
 - **[api/git@agent-memory](https://skills.sh/api/git/agent-memory)** (⬇ 1,100 installs) — _설명 없음_
-- **[neolabhq/context-engineering-kit@test-prompt](https://skills.sh/neolabhq/context-engineering-kit/test-prompt)** (⬇ 1,100 installs) — _설명 없음_
 - **[LycheeMem](https://github.com/LycheeMem/LycheeMem)** (⭐ 1091) — Lightweight Long-Term Memory for LLM Agents.
 - **[cursorkleosr](https://github.com/kleosr/cursorkleosr)** (⭐ 327) — Make AI Development Feel Natural in Cursor
 - **[guia-matthieu/clawfu-skills@context-engineering](https://skills.sh/guia-matthieu/clawfu-skills/context-engineering)** (⬇ 226 installs) — _설명 없음_
@@ -1437,12 +1440,11 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 
 ### 12.4 멀티에이전트 조율 프레임워크
 
-- **[langchain-ai/langchain-skills@deep-agents-memory](https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory)** (⬇ 16,700 installs) — INVOKE THIS SKILL when your Deep Agent needs memory, persistence, or filesystem access. Covers StateBackend (ephemeral), StoreBackend (persistent), FilesystemMiddleware, and CompositeBackend for routing.
 - **[gateway](https://github.com/Portkey-AI/gateway)** (⭐ 13034) — A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - **[company-research-agent](https://github.com/guy-hartstein/company-research-agent)** (⭐ 2283) — An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on the backend for inference.
 - **[swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit)** (⭐ 850) — DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.
 
-## 13. AI 에이전트 생태계/메타 도구 (45건)
+## 13. AI 에이전트 생태계/메타 도구 (43건)
 
 ### 13.1 큐레이션 목록/스킬 레지스트리
 
@@ -1450,7 +1452,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** (⭐ 54286) — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 - **[awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** (⭐ 52656) — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - **[awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** (⭐ 34581) — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-- **[github/awesome-copilot@pytest-coverage](https://skills.sh/github/awesome-copilot/pytest-coverage)** (⬇ 12,700 installs) — Run pytest tests with coverage, discover lines missing coverage, and increase coverage to 100%.
 - **[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)** (⭐ 5939) — An awesome & curated list of best LLMOps tools for developers
 - **[awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding)** (⭐ 5265) — A curated list of vibe coding references, collaborating with AI to write code.
 - **[awesome-product-management](https://github.com/dend/awesome-product-management)** (⭐ 2368) — 🚀 A curated list of awesome resources for product/program managers to learn and grow.
@@ -1460,7 +1461,6 @@ GitHub과 skills.sh에서 수집해 실제 개발 회사 조직도 기준으로 
 - **[awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)** (⭐ 946) — Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 - **[awesome-devtools](https://github.com/devtoolsd/awesome-devtools)** (⭐ 679) — A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 - **[awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing)** (⭐ 458) — A curated list of awesome marketing tools and resources
-- **[sickn33/agentic-awesome-skills@database](https://skills.sh/sickn33/agentic-awesome-skills/database)** (⬇ 268 installs) — _설명 없음_
 
 ### 13.2 범용 코딩 에이전트/하네스
 

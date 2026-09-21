@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/skills/webapp-testing",
     "metric": {
-      "installs": 159300
+      "installs": 160600
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/ab-testing",
     "metric": {
-      "installs": 60200
+      "installs": 60900
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samber/cc-skills-golang/golang-testing",
     "metric": {
-      "installs": 40900
+      "installs": 41200
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-testing",
     "metric": {
-      "installs": 39200
+      "installs": 39800
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/browser-testing-with-devtools",
     "metric": {
-      "installs": 34600
+      "installs": 35800
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/python-testing-patterns",
     "metric": {
-      "installs": 32900
+      "installs": 33000
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/e2e-testing-patterns",
     "metric": {
-      "installs": 22700
+      "installs": 22800
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/javascript-testing-patterns",
     "metric": {
-      "installs": 18900
+      "installs": 19000
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/golang-testing",
     "metric": {
-      "installs": 12600
+      "installs": 12700
     },
     "description": "",
     "topics": [],
@@ -148,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vuejs-ai/skills/vue-testing-best-practices",
     "metric": {
-      "installs": 11800
+      "installs": 11900
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/temporal-python-testing",
     "metric": {
-      "installs": 9900
+      "installs": 10000
     },
     "description": "",
     "topics": [],
@@ -187,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/web3-testing",
     "metric": {
-      "installs": 9800
+      "installs": 9900
     },
     "description": "",
     "topics": [],
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/twostraws/swift-testing-agent-skill/swift-testing-pro",
     "metric": {
-      "installs": 8700
+      "installs": 8800
     },
     "description": "",
     "topics": [],

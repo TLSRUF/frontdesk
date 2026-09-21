@@ -1,0 +1,327 @@
+[
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@ux-designer",
+    "name": "shubhamsaboo/awesome-llm-apps@ux-designer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/ux-designer",
+    "metric": {
+      "installs": 3700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@ux-designer",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@project-graveyard",
+    "name": "shubhamsaboo/awesome-llm-apps@project-graveyard",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/project-graveyard",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@project-graveyard",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+    "name": "shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/thinking-out-loud",
+    "metric": {
+      "installs": 296
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@first-reader",
+    "name": "shubhamsaboo/awesome-llm-apps@first-reader",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/first-reader",
+    "metric": {
+      "installs": 70
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@first-reader",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/taste-skill@design-taste-frontend",
+    "name": "shubhamsaboo/taste-skill@design-taste-frontend",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/taste-skill/design-taste-frontend",
+    "metric": {
+      "installs": 2
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/taste-skill@design-taste-frontend",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@fullstack-developer",
+    "name": "shubhamsaboo/awesome-llm-apps@fullstack-developer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/fullstack-developer",
+    "metric": {
+      "installs": 8000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@fullstack-developer",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@content-creator",
+    "name": "shubhamsaboo/awesome-llm-apps@content-creator",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/content-creator",
+    "metric": {
+      "installs": 4700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@content-creator",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@code-reviewer",
+    "name": "shubhamsaboo/awesome-llm-apps@code-reviewer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/code-reviewer",
+    "metric": {
+      "installs": 4600
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@code-reviewer",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@technical-writer",
+    "name": "shubhamsaboo/awesome-llm-apps@technical-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/technical-writer",
+    "metric": {
+      "installs": 4500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@technical-writer",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@python-expert",
+    "name": "shubhamsaboo/awesome-llm-apps@python-expert",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/python-expert",
+    "metric": {
+      "installs": 4300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@python-expert",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@data-analyst",
+    "name": "shubhamsaboo/awesome-llm-apps@data-analyst",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/data-analyst",
+    "metric": {
+      "installs": 4000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@data-analyst",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@visualization-expert",
+    "name": "shubhamsaboo/awesome-llm-apps@visualization-expert",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/visualization-expert",
+    "metric": {
+      "installs": 3500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@visualization-expert",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@debugger",
+    "name": "shubhamsaboo/awesome-llm-apps@debugger",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/debugger",
+    "metric": {
+      "installs": 3200
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@debugger",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@sprint-planner",
+    "name": "shubhamsaboo/awesome-llm-apps@sprint-planner",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/sprint-planner",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@sprint-planner",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@scope-creep-detector",
+    "name": "shubhamsaboo/awesome-llm-apps@scope-creep-detector",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/scope-creep-detector",
+    "metric": {
+      "installs": 440
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@scope-creep-detector",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@commit-archaeologist",
+    "name": "shubhamsaboo/awesome-llm-apps@commit-archaeologist",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/commit-archaeologist",
+    "metric": {
+      "installs": 370
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@commit-archaeologist",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@academic-researcher",
+    "name": "shubhamsaboo/awesome-llm-apps@academic-researcher",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/academic-researcher",
+    "metric": {
+      "installs": 6800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@academic-researcher",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@project-planner",
+    "name": "shubhamsaboo/awesome-llm-apps@project-planner",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/project-planner",
+    "metric": {
+      "installs": 4400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@project-planner",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@deep-research",
+    "name": "shubhamsaboo/awesome-llm-apps@deep-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/deep-research",
+    "metric": {
+      "installs": 3800
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@deep-research",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@fact-checker",
+    "name": "shubhamsaboo/awesome-llm-apps@fact-checker",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/fact-checker",
+    "metric": {
+      "installs": 3300
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@fact-checker",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@strategy-advisor",
+    "name": "shubhamsaboo/awesome-llm-apps@strategy-advisor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/strategy-advisor",
+    "metric": {
+      "installs": 3100
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@strategy-advisor",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@editor",
+    "name": "shubhamsaboo/awesome-llm-apps@editor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/editor",
+    "metric": {
+      "installs": 2900
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@editor",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@advisor-orchestrator-worker",
+    "name": "shubhamsaboo/awesome-llm-apps@advisor-orchestrator-worker",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/advisor-orchestrator-worker",
+    "metric": {
+      "installs": 469
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@advisor-orchestrator-worker",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@dependency-doctor",
+    "name": "shubhamsaboo/awesome-llm-apps@dependency-doctor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/dependency-doctor",
+    "metric": {
+      "installs": 246
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@dependency-doctor",
+    "seed_keyword": "owner:shubhamsaboo"
+  },
+  {
+    "id": "skillssh:shubhamsaboo/taste-skill@redesign-existing-projects",
+    "name": "shubhamsaboo/taste-skill@redesign-existing-projects",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/taste-skill/redesign-existing-projects",
+    "metric": {
+      "installs": 2
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shubhamsaboo/taste-skill@redesign-existing-projects",
+    "seed_keyword": "owner:shubhamsaboo"
+  }
+]

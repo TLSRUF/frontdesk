@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/database-migrations",
     "metric": {
-      "installs": 10100
+      "installs": 10200
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/database-migration-management",
     "metric": {
-      "installs": 488
+      "installs": 489
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/database-migration",
     "metric": {
-      "installs": 377
+      "installs": 378
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/timescale/pg-aiguide/postgres-database-migration",
     "metric": {
-      "installs": 148
+      "installs": 152
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/azure-sql-database-container/azuresql-db-schema-migration",
     "metric": {
-      "installs": 62
+      "installs": 63
     },
     "description": "",
     "topics": [],

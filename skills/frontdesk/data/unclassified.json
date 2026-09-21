@@ -124,5 +124,75 @@
     "install": "git clone https://github.com/liguodongiot/llm-action",
     "category": null,
     "category_name": null
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@fullstack-developer",
+    "name": "shubhamsaboo/awesome-llm-apps@fullstack-developer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/fullstack-developer",
+    "metric": {
+      "installs": 8000
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@fullstack-developer",
+    "category": null,
+    "category_name": null
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@python-expert",
+    "name": "shubhamsaboo/awesome-llm-apps@python-expert",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/python-expert",
+    "metric": {
+      "installs": 4300
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@python-expert",
+    "category": null,
+    "category_name": null
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@academic-researcher",
+    "name": "shubhamsaboo/awesome-llm-apps@academic-researcher",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/academic-researcher",
+    "metric": {
+      "installs": 6800
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@academic-researcher",
+    "category": null,
+    "category_name": null
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@deep-research",
+    "name": "shubhamsaboo/awesome-llm-apps@deep-research",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/deep-research",
+    "metric": {
+      "installs": 3800
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@deep-research",
+    "category": null,
+    "category_name": null
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@editor",
+    "name": "shubhamsaboo/awesome-llm-apps@editor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/editor",
+    "metric": {
+      "installs": 2900
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@editor",
+    "category": null,
+    "category_name": null
   }
 ]

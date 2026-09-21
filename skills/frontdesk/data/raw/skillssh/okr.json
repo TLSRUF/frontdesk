@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/larksuite/cli/lark-okr",
     "metric": {
-      "installs": 378900
+      "installs": 380200
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/product-on-purpose/pm-skills/foundation-okr-writer",
     "metric": {
-      "installs": 644
+      "installs": 647
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/product-on-purpose/pm-skills/measure-okr-grader",
     "metric": {
-      "installs": 599
+      "installs": 601
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/refoundai/lenny-skills/goal-setting-okrs",
     "metric": {
-      "installs": 320
+      "installs": 330
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/onewave-ai/claude-skills/okr-generator",
     "metric": {
-      "installs": 206
+      "installs": 208
     },
     "description": "",
     "topics": [],

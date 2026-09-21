@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/azure-skills/azure-storage",
     "metric": {
-      "installs": 588500
+      "installs": 589900
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mattpocock/skills/writing-fragments",
     "metric": {
-      "installs": 359200
+      "installs": 365100
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/caffeinelabs/skills/extension-object-storage",
     "metric": {
-      "installs": 21000
+      "installs": 21400
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dart-lang/skills/dart-collect-coverage",
     "metric": {
-      "installs": 15300
+      "installs": 15500
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/langchain-ai/langchain-skills/langchain-rag",
     "metric": {
-      "installs": 15200
+      "installs": 15300
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/rag-implementation",
     "metric": {
-      "installs": 12700
+      "installs": 12800
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-storage-query",
     "metric": {
-      "installs": 8900
+      "installs": 9500
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/neondatabase/agent-skills/neon-object-storage",
     "metric": {
-      "installs": 8200
+      "installs": 9100
     },
     "description": "",
     "topics": [],
@@ -148,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/latent-spaces/brag/brag",
     "metric": {
-      "installs": 4300
+      "installs": 5800
     },
     "description": "",
     "topics": [],
@@ -252,7 +252,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aws/agent-toolkit-for-aws/aws-storage",
     "metric": {
-      "installs": 1500
+      "installs": 1600
     },
     "description": "",
     "topics": [],

@@ -28,7 +28,7 @@ node scripts/route.mjs "recommend a testing automation tool"
 
 - `SKILL.md` — Claude(또는 다른 에이전트)가 읽는 실제 스킬 정의
 - `taxonomy.mjs` — 13개 부서 분류 체계
-- `data/catalog.json` — 분류된 카탈로그 원본 (1,325건)
+- `data/catalog.json` — 분류된 카탈로그 원본 (1,348건)
 - `data/unclassified.json` — 자동 분류 실패 항목 (9건, 임베디드 개발·연구 아카이브 등 이 taxonomy에 안 맞는 것들)
 - `data/manual-overrides.json` — 키워드 매칭이 놓친 항목을 사람이 직접 분류한 예외 목록 (14건, `classify.mjs`가 자동 매칭보다 우선 적용)
 - `scripts/` — 수집(`collect-*.mjs`) → 분류(`classify.mjs`) → 보강(`enrich-descriptions.mjs`) → 건강도(`repo-health.mjs`) → 보안감사(`audit-scores.mjs`) → 문서화(`build-catalog-md.mjs`) → 라우팅(`route.mjs`) → 벤치마크(`benchmark.mjs`) → 스타터팩(`pick-best-of-breed.mjs`, `install-starter-pack.mjs`) → 파이프라인(`pipeline.mjs`)

@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing",
     "metric": {
-      "installs": 62500
+      "installs": 63200
     },
     "description": "",
     "topics": [],
@@ -135,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/kostja94/marketing-skills/pricing-page-generator",
     "metric": {
-      "installs": 992
+      "installs": 999
     },
     "description": "",
     "topics": [],
@@ -148,11 +148,24 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/amazon-skills/amazon-repricing-strategy",
     "metric": {
-      "installs": 970
+      "installs": 974
     },
     "description": "",
     "topics": [],
     "install": "npx skills add nexscope-ai/amazon-skills@amazon-repricing-strategy",
+    "seed_keyword": "pricing"
+  },
+  {
+    "id": "skillssh:shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "name": "shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/shopify/shopify-ai-toolkit/shopify-app-pricing",
+    "metric": {
+      "installs": 893
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add shopify/shopify-ai-toolkit@shopify-app-pricing",
     "seed_keyword": "pricing"
   },
   {
@@ -161,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy",
     "metric": {
-      "installs": 848
+      "installs": 858
     },
     "description": "",
     "topics": [],
@@ -174,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-pricing",
     "metric": {
-      "installs": 839
+      "installs": 850
     },
     "description": "",
     "topics": [],
@@ -195,25 +208,12 @@
     "seed_keyword": "pricing"
   },
   {
-    "id": "skillssh:shopify/shopify-ai-toolkit@shopify-app-pricing",
-    "name": "shopify/shopify-ai-toolkit@shopify-app-pricing",
-    "type": "skill",
-    "source_url": "https://skills.sh/shopify/shopify-ai-toolkit/shopify-app-pricing",
-    "metric": {
-      "installs": 826
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add shopify/shopify-ai-toolkit@shopify-app-pricing",
-    "seed_keyword": "pricing"
-  },
-  {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
     "name": "aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/pricing-packaging-planner",
     "metric": {
-      "installs": 777
+      "installs": 792
     },
     "description": "",
     "topics": [],
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ognjengt/founder-skills/pricing-strategist",
     "metric": {
-      "installs": 716
+      "installs": 722
     },
     "description": "",
     "topics": [],
@@ -239,7 +239,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/pricing-strategy",
     "metric": {
-      "installs": 649
+      "installs": 652
     },
     "description": "",
     "topics": [],

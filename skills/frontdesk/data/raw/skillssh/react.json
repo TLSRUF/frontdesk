@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
     "metric": {
-      "installs": 725700
+      "installs": 729800
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills",
     "metric": {
-      "installs": 215100
+      "installs": 216700
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-view-transitions",
     "metric": {
-      "installs": 125300
+      "installs": 127100
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/greensock/gsap-skills/gsap-react",
     "metric": {
-      "installs": 50900
+      "installs": 51300
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/callstackincubator/agent-skills/react-native-best-practices",
     "metric": {
-      "installs": 26200
+      "installs": 26400
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-react-patterns",
     "metric": {
-      "installs": 17000
+      "installs": 17200
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/millionco/react-doctor/react-doctor",
     "metric": {
-      "installs": 14600
+      "installs": 14700
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-react-router-patterns",
     "metric": {
-      "installs": 13600
+      "installs": 13800
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/json-render/react",
     "metric": {
-      "installs": 10700
+      "installs": 11000
     },
     "description": "",
     "topics": [],

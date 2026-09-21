@@ -46,6 +46,13 @@ const KEYWORDS = [
   "mobile app"
 ];
 
+// 특정 저장소/작성자를 통째로 훑어야 할 때(예: 일반 키워드 검색으로는 안 걸리는 니치한
+// 스킬 이름들 — "project-graveyard", "scope-creep-detector" 등). `skills find <query> --owner
+// <owner>`는 그 owner 소유 저장소로 검색을 제한한다. 쿼리 하나로는 다 안 걸려서 여러 개를 합친다.
+const OWNER_QUERIES = [
+  { owner: "shubhamsaboo", queries: ["agent", "code", "skill", "review", "design", "writing", "research", "plan", "data"] }
+];
+
 const ANSI_RE = /\u001b\[[0-9;]*m/g;
 const ENTRY_RE = /^([\w.-]+\/[\w.-]+)@([\w.-]+)\s+([\d.]+[KM]?)\s+installs$/;
 const URL_RE = /^└\s+(https?:\/\/\S+)/;
@@ -94,6 +101,15 @@ function searchSkills(keyword) {
   return parseOutput(raw);
 }
 
+function findSkillsByOwner(query, owner) {
+  const raw = execFileSync("npx", ["-y", "skills", "find", query, "--owner", owner], {
+    encoding: "utf8",
+    shell: true,
+    maxBuffer: 10 * 1024 * 1024
+  });
+  return parseOutput(raw);
+}
+
 let total = 0;
 for (const keyword of KEYWORDS) {
   try {
@@ -106,4 +122,21 @@ for (const keyword of KEYWORDS) {
     console.error(`[skillssh] "${keyword}" 실패:`, err.message);
   }
 }
+
+for (const { owner, queries } of OWNER_QUERIES) {
+  const merged = new Map();
+  for (const q of queries) {
+    try {
+      const items = findSkillsByOwner(q, owner);
+      for (const it of items) merged.set(it.id, it);
+    } catch (err) {
+      console.error(`[skillssh] owner:${owner} query:"${q}" 실패:`, err.message);
+    }
+  }
+  const items = [...merged.values()].map((it) => ({ ...it, seed_keyword: `owner:${owner}` }));
+  writeFileSync(`${OUT_DIR}/owner-${owner}.json`, JSON.stringify(items, null, 2));
+  total += items.length;
+  console.log(`[skillssh] owner:${owner} (${queries.length}개 쿼리 합산) -> ${items.length}건`);
+}
+
 console.log(`[skillssh] 총 ${total}건 수집 완료 (중복 포함, ${OUT_DIR}/*.json)`);

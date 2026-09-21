@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/roadmap-update",
     "metric": {
-      "installs": 2800
+      "installs": 2900
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/codestable/codestable/cs-roadmap",
     "metric": {
-      "installs": 1300
+      "installs": 1400
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/roadmap-communicator",
     "metric": {
-      "installs": 588
+      "installs": 589
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/technical-roadmap-planning",
     "metric": {
-      "installs": 564
+      "installs": 565
     },
     "description": "",
     "topics": [],
@@ -130,12 +130,25 @@
     "seed_keyword": "roadmap"
   },
   {
+    "id": "skillssh:blockmatic/basilic-skills@w-roadmap",
+    "name": "blockmatic/basilic-skills@w-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/blockmatic/basilic-skills/w-roadmap",
+    "metric": {
+      "installs": 343
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add blockmatic/basilic-skills@w-roadmap",
+    "seed_keyword": "roadmap"
+  },
+  {
     "id": "skillssh:promovaweb/specsfy@specsfy-roadmap-milestone-interviewer",
     "name": "promovaweb/specsfy@specsfy-roadmap-milestone-interviewer",
     "type": "skill",
     "source_url": "https://skills.sh/promovaweb/specsfy/specsfy-roadmap-milestone-interviewer",
     "metric": {
-      "installs": 315
+      "installs": 328
     },
     "description": "",
     "topics": [],
@@ -148,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/refoundai/lenny-skills/roadmap-prioritization",
     "metric": {
-      "installs": 305
+      "installs": 312
     },
     "description": "",
     "topics": [],
@@ -208,6 +221,19 @@
     "seed_keyword": "roadmap"
   },
   {
+    "id": "skillssh:rampstackco/claude-skills@roadmap-planning",
+    "name": "rampstackco/claude-skills@roadmap-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/rampstackco/claude-skills/roadmap-planning",
+    "metric": {
+      "installs": 205
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add rampstackco/claude-skills@roadmap-planning",
+    "seed_keyword": "roadmap"
+  },
+  {
     "id": "skillssh:assimovt/productskills@roadmap-planning",
     "name": "assimovt/productskills@roadmap-planning",
     "type": "skill",
@@ -221,42 +247,16 @@
     "seed_keyword": "roadmap"
   },
   {
-    "id": "skillssh:rampstackco/claude-skills@roadmap-planning",
-    "name": "rampstackco/claude-skills@roadmap-planning",
-    "type": "skill",
-    "source_url": "https://skills.sh/rampstackco/claude-skills/roadmap-planning",
-    "metric": {
-      "installs": 204
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add rampstackco/claude-skills@roadmap-planning",
-    "seed_keyword": "roadmap"
-  },
-  {
     "id": "skillssh:f-labs-io/agent-html-skills@html-timeline-roadmap",
     "name": "f-labs-io/agent-html-skills@html-timeline-roadmap",
     "type": "skill",
     "source_url": "https://skills.sh/f-labs-io/agent-html-skills/html-timeline-roadmap",
     "metric": {
-      "installs": 202
+      "installs": 203
     },
     "description": "",
     "topics": [],
     "install": "npx skills add f-labs-io/agent-html-skills@html-timeline-roadmap",
-    "seed_keyword": "roadmap"
-  },
-  {
-    "id": "skillssh:shipshitdev/skills@roadmap-analyzer",
-    "name": "shipshitdev/skills@roadmap-analyzer",
-    "type": "skill",
-    "source_url": "https://skills.sh/shipshitdev/skills/roadmap-analyzer",
-    "metric": {
-      "installs": 182
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add shipshitdev/skills@roadmap-analyzer",
     "seed_keyword": "roadmap"
   }
 ]

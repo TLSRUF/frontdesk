@@ -1,6 +1,6 @@
-# 통합 AI 개발 툴 — 아키텍처 비전 (Phase 1~8 설계 문서)
+# 통합 AI 개발 툴 — 아키텍처 비전 (Phase 1~10 설계 문서)
 
-이 문서는 [`skills/frontdesk/CATALOG.md`](skills/frontdesk/CATALOG.md)에 정리된 1,325개의 에이전트/스킬 데이터를 기반으로, "아이디어 → 수익모델 → 마케팅 → 디자인 → 개발"을 한 번에 처리하는 통합 AI 툴을 어떻게 만들지에 대한 설계 방향을 정리한다. Phase 2에서 판단 사다리의 규칙 기반 프로토타입(`skills/frontdesk/scripts/route.mjs`)까지 구현했고, Phase 3에서 이 전체를 [Agent Skills 스펙](https://skills.sh)에 맞춰 `skills/frontdesk/`로 패키징해 다른 프로젝트에 `npx skills add`로 설치 가능하게 만들었다. Phase 4에서 "부서별 대표 스킬 자동 설치(스타터팩)"와 "아이디어→배포/운영 8단계 파이프라인"을 추가했고, Phase 5에서 저장소 건강도 필터를, Phase 6에서 라우터에 `--install`(요청별 즉시 설치)을, Phase 7에서 보안 감사 점수(audit_score) 필터를, Phase 8에서 스타터팩 픽에 대한 LLM 채점을 추가했다 — 아래 각 섹션 참고.
+이 문서는 [`skills/frontdesk/CATALOG.md`](skills/frontdesk/CATALOG.md)에 정리된 1,348개의 에이전트/스킬 데이터를 기반으로, "아이디어 → 수익모델 → 마케팅 → 디자인 → 개발"을 한 번에 처리하는 통합 AI 툴을 어떻게 만들지에 대한 설계 방향을 정리한다. Phase 2에서 판단 사다리의 규칙 기반 프로토타입(`skills/frontdesk/scripts/route.mjs`)까지 구현했고, Phase 3에서 이 전체를 [Agent Skills 스펙](https://skills.sh)에 맞춰 `skills/frontdesk/`로 패키징해 다른 프로젝트에 `npx skills add`로 설치 가능하게 만들었다. Phase 4에서 "부서별 대표 스킬 자동 설치(스타터팩)"와 "아이디어→배포/운영 8단계 파이프라인"을 추가했고, Phase 5에서 저장소 건강도 필터를, Phase 6에서 라우터에 `--install`(요청별 즉시 설치)을, Phase 7에서 보안 감사 점수(audit_score) 필터를, Phase 8에서 스타터팩 픽에 대한 LLM 채점을, Phase 9에서 미분류 항목 수동 분류(`manual-overrides.json`)를, Phase 10에서 owner 범위 수집으로 외부 카탈로그(Shubhamsaboo/awesome-llm-apps)를 흡수하며 반복되는 repo-경로 오분류 버그를 근본적으로 고쳤다 — 아래 각 섹션 참고.
 
 **Phase 4를 시작하게 된 계기**: "카탈로그+라우터"만으로는 원래 목표("이거 하나만 쓰면 상황에 맞는 최고의 스킬을 저절로 가져온다")에 못 미쳤다. 라우터는 *추천*만 했지 *설치*는 안 했고, 여러 단계를 잇는 파이프라인도 없었다. 이 문서 하단 "목표 대비 현황"에 그 간극을 정직하게 남겨둔다.
 
@@ -61,7 +61,7 @@ node scripts/route.mjs "landing page needs SEO and an email newsletter"
 `scripts/pick-best-of-breed.mjs`가 13개 부서마다 `type: skill`(=`npx skills add`로 바로 설치 가능)이면서 `weak_match`가 아닌(신뢰도 높게 분류된) 항목 중 **설치 수(installs) 1위**를 뽑아 `data/starter-pack.json`을 만든다. `scripts/install-starter-pack.mjs`가 그 목록을 실제로 `npx skills add`로 설치한다.
 
 ```bash
-node scripts/pick-best-of-breed.mjs --per=department   # 부서당 1개 (기본, 12개 — 13번 부서는 확실한 후보 없음)
+node scripts/pick-best-of-breed.mjs --per=department   # 부서당 1개 (기본, 13개 부서 전부 — Phase 10에서 13번 부서 픽도 채움)
 node scripts/pick-best-of-breed.mjs --per=category      # 세부분야(~57개)당 1개, 더 촘촘하지만 설치량도 많음
 node scripts/install-starter-pack.mjs                   # 미리보기만 (기본)
 node scripts/install-starter-pack.mjs --yes             # 실제 설치
@@ -150,7 +150,19 @@ health_score와 audit_score는 둘 다 "걸러내는" 용도지 "이게 좋다"�
 
 **이 채점으로 실제 스타터팩 선정 로직을 바꾸지는 않았다** — 이번 범위는 "이미 뽑힌 픽을 채점해서 한계를 확인"하는 것이었지 "재선정"이 아니었다. 부서당 후보 1개만 봐서는 "이게 그 부서에서 제일 나은가"는 판단할 수 없고 "이게 괜찮은가"만 판단할 수 있다 — 재선정까지 하려면 부서당 상위 3~5개를 전부 채점해서 비교해야 공정하다(다음 후보로 남겨둠).
 
-**이 방법의 한계**: 1,325건 전체에 적용하기엔 비용이 크다(각 항목의 SKILL.md를 실제로 읽어야 함). 스타터팩처럼 범위가 좁을 때만 현실적이다. 또한 이건 한 세션에서 한 번 수행한 정성 평가이지, 재현 가능한 정량적 벤치마크가 아니다(BENCHMARK.md의 정량 벤치마크와는 성격이 다르다).
+**이 방법의 한계**: 1,348건 전체에 적용하기엔 비용이 크다(각 항목의 SKILL.md를 실제로 읽어야 함). 스타터팩처럼 범위가 좁을 때만 현실적이다. 또한 이건 한 세션에서 한 번 수행한 정성 평가이지, 재현 가능한 정량적 벤치마크가 아니다(BENCHMARK.md의 정량 벤치마크와는 성격이 다르다).
+
+## 외부 카탈로그 조사: Shubhamsaboo/awesome-llm-apps (Phase 10)
+
+사용자가 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)(139K★, 트렌드 1위)를 가져와서 방향성이 맞는지 보고 참고할 게 있으면 업그레이드하자고 요청해서 조사했다.
+
+**방향성 평가**: 절반만 맞는다. 이 저장소의 대부분(`starter_ai_agents/`, `advanced_ai_agents/`, `always_on_agents/` — 100개 넘는 Python 예제 앱)은 **클론해서 돌려보는 예제/튜토리얼 모음**이지, frontdesk처럼 "설치 하나로 좁은 작업에 바로 쓰는 스킬"이 아니다. 하지만 `agent_skills/` 계열은 정확히 우리와 같은 종류다 — 실제 설치 가능한 Claude Skill이고, skills.sh에 `owner/repo@skill` 형태로 정식 인덱싱되어 있었다.
+
+**실제로 가져온 것**: GitHub 콘텐츠 API로 본 `agent_skills/` 폴더에는 8개만 보였지만, skills.sh CLI로 조회하니 이 저장소(및 같은 작성자의 `taste-skill` 저장소)에 **25개 이상**의 설치 가능한 스킬이 있었다(fullstack-developer 8K설치, academic-researcher 6.8K, code-reviewer 4.6K 등) — 우리 기존 36개 키워드 시드로는 이런 니치한 이름을 못 찾았을 것들이다. 이걸 계기로 `scripts/collect-skillssh.mjs`에 **owner 범위 검색**(`npx skills find <query> --owner <owner>`)을 새로 추가했다 — 앞으로 다른 다작 작성자의 스킬을 찾을 때도 재사용 가능한 일반적인 수집 능력이 됐다.
+
+**이 과정에서 실제로 버그를 하나 더 찾아 고쳤다**: skills.sh 검색 결과는 설명(description)이 항상 비어 있는데, 이런 항목이 많은 저장소를 한꺼번에 수집하니 `weak_match` 폴백 단계에서 repo 경로("awesome-llm-apps"의 "awesome")가 다시 문제를 일으켰다 — `technical-writer`, `python-expert`처럼 설명도 없고 특정 키워드와도 안 맞는 스킬 15개가 전부 "13.1 큐레이션 목록"으로 잘못 분류됐다. 이건 예전에 `github/awesome-copilot@pytest-coverage` 사례로 이미 한 번 겪었던 문제가 다른 형태로 재발한 것이다. 근본 원인(repo 경로는 못 믿는다)에 맞게, 이번엔 repo 경로를 강한 매칭뿐 아니라 **약한 매칭에서도 아예 제외**했다 — `hesreallyhim/awesome-claude-code`처럼 실제로 설명에 "awesome"이 들어있는 진짜 큐레이션 리스트는 여전히 정확히 분류되는 것도 확인했다(회귀 없음).
+
+**결과**: 25건 신규 수집 중 5건은 키워드로 자동 분류(ux-designer, code-reviewer, advisor-orchestrator-worker 등), 16건은 이름과 실제 용도를 읽고 `manual-overrides.json`에 직접 분류(project-graveyard → 11.1 프로젝트 관리, scope-creep-detector/commit-archaeologist/dependency-doctor → 8.2 코드 리뷰, thinking-out-loud → 13.4 등), 4건(fullstack-developer, python-expert, academic-researcher, editor)은 여러 부서에 걸치거나 너무 일반적이라 억지로 분류하지 않고 미분류로 남겼다. 카탈로그가 1,325건 → **1,348건**으로 늘었고, 부수적으로 **스타터팩 13번 부서(AI 에이전트 생태계/메타 도구)의 빈자리도 처음으로 채워졌다**(`shubhamsaboo/awesome-llm-apps@thinking-out-loud`).
 
 ## 목표 대비 현황 (정직하게)
 
@@ -188,8 +200,8 @@ skills.sh (skills CLI) ─┘                                      │          
 1. ~~LLM 기반 분류로 전환~~ **검토 완료, 현재 방식 유지로 결정**: `route.mjs` 자체에 API 호출을 넣는 "진짜" 하이브리드도 고려했지만, Claude Code 안에서 쓸 땐 이미 Claude가 곁에 있어서 스크립트가 별도로 LLM을 또 부르는 게 이 프로젝트의 "불필요하게 무거운 걸 부르지 마라"는 철학과 어긋난다. 대신 SKILL.md가 "4단계(매칭 실패) 시 Claude가 직접 taxonomy.mjs를 훑어보라"고 지시해 **추가 비용 없이** 같은 효과를 낸다. Claude 없이 순수 CLI로만 쓰는 경우(CI 등)를 위한 진짜 API 통합은 필요해지면 재검토
 2. ~~품질 필터링~~ ✅ **완료 (Phase 5)**: `scripts/repo-health.mjs`가 라이선스·최근 커밋·archived 여부·fork 수로 `health_score`를 계산해 방치된 저장소를 걸러냄 (위 "저장소 건강도" 섹션)
 3. **설명 보강 확대**: 현재 인기 상위 80개만 보강됨 — 나머지 skills.sh 항목(600여 건)도 우선순위를 낮춰 점진적으로 보강
-4. **커버리지 확장**: 현재 27개 GitHub 시드 + 36개 skills.sh 키워드로 1,325건 확보 — 여전히 얇은 부서가 있다면 시드 추가
-5. ~~남은 미분류 23건 재검토~~ ✅ **완료 (Phase 9)**: 23건을 직접 읽고 14건은 `data/manual-overrides.json`(키워드 매칭이 놓친 항목을 사람이 직접 분류하는, `classify.mjs`가 자동 매칭보다 우선 적용하는 예외 목록)으로 분류했다(archify/diagram-design → 11.2 문서화, atlas/cc-switch → 13.5 세션 유틸리티, ORG2/harness/CLIProxyAPI → 13.2 에이전트 하네스, i-have-adhd → 13.4 IDE 컨벤션, arscontexta → 12.3 메모리, rig → 12.4 멀티에이전트 프레임워크, flowy → 4.1 프론트엔드, skills/agent-skills/baoyu-skills → 13.1 큐레이션 목록). 남은 9건(Open-ClaudeCode, embeddedskills, terminal-browser, engram, python-for-devops, webhook, n8n-data-manager, wsbalancer, llm-action)은 임베디드 개발·연구 아카이브·학습 플랫폼·순수 인프라 유틸리티 등 이 taxonomy의 13개 부서 어디에도 깔끔하게 안 맞아 의도적으로 미분류로 남겼다. 카탈로그 1,325건 분류, 새 카테고리를 늘리는 대신 예외 목록으로 처리하는 패턴을 마련해뒀다.
+4. ~~커버리지 확장~~ 🟡 **진행 중**: 27개 GitHub 시드 + 36개 skills.sh 키워드 + owner 범위 검색(Phase 10)으로 1,348건 확보. Owner 범위 검색을 다른 다작 스킬 작성자에게도 반복 적용하면 더 늘어날 여지가 있음
+5. ~~남은 미분류 23건 재검토~~ ✅ **완료 (Phase 9)**: 23건을 직접 읽고 14건은 `data/manual-overrides.json`(키워드 매칭이 놓친 항목을 사람이 직접 분류하는, `classify.mjs`가 자동 매칭보다 우선 적용하는 예외 목록)으로 분류했다(archify/diagram-design → 11.2 문서화, atlas/cc-switch → 13.5 세션 유틸리티, ORG2/harness/CLIProxyAPI → 13.2 에이전트 하네스, i-have-adhd → 13.4 IDE 컨벤션, arscontexta → 12.3 메모리, rig → 12.4 멀티에이전트 프레임워크, flowy → 4.1 프론트엔드, skills/agent-skills/baoyu-skills → 13.1 큐레이션 목록). 남은 9건(Open-ClaudeCode, embeddedskills, terminal-browser, engram, python-for-devops, webhook, n8n-data-manager, wsbalancer, llm-action)은 임베디드 개발·연구 아카이브·학습 플랫폼·순수 인프라 유틸리티 등 이 taxonomy의 13개 부서 어디에도 깔끔하게 안 맞아 의도적으로 미분류로 남겼다. 카탈로그 1,348건 분류, 새 카테고리를 늘리는 대신 예외 목록으로 처리하는 패턴을 마련해뒀다.
 6. ~~실제 설치 검증~~ ✅ **완료**: `npx skills add TLSRUF/frontdesk@frontdesk`와 `npx skills add https://github.com/TLSRUF/frontdesk` 둘 다 실제로 설치되는 것을 확인함(별도 빈 디렉터리에서 실제 실행). Claude Code가 description만으로 알아서 트리거하는지는 아직 실전 세션에서 검증 안 함 — 이건 여전히 남은 항목.
 7. ~~skills.sh 등재~~ **조사 완료, 별도 등재 절차 없음**: `vercel-labs/skills`(skills.sh 공식 CLI) 저장소를 확인한 결과 PR/심사 큐 같은 제출 절차는 없다. 공개 GitHub 저장소에 `SKILL.md`만 있으면 누구든 `npx skills add`로 즉시 설치 가능하고, 웹사이트 리더보드는 실제 설치 텔레메트리 기반으로 보인다(문서로 100% 확정하지는 못함). 즉 "심사받아 등재"가 아니라 "실제로 쓰이면 자연히 리더보드에 노출"되는 구조로 추정됨.
 8. ~~스타터팩을 "그때그때 동적 설치"로 발전~~ ✅ **완료 (Phase 6)**: `route.mjs`에 `--install` 플래그를 추가했다. 기본 실행(플래그 없이)은 여전히 추천만 하고, 사용자가 승인한 뒤 **같은 명령에 `--install`만 붙여 재실행**하면 캐시된 결과를 그대로 써서(재매칭 없이) `type: "skill"` 후보를 `npx skills add`로 그 자리에서 설치한다. `type: "github-repo"` 후보는 Agent Skills 스펙을 따른다는 보장이 없어 자동 설치하지 않고 `git clone` 안내만 한다(실제로 "terraform infra and seo copywriting" 같은 혼합 질의로 3단계 경로까지 검증함 — hashicorp/terraform은 clone 안내로, skills.sh 항목 2개는 실제 설치로 정확히 갈렸다).

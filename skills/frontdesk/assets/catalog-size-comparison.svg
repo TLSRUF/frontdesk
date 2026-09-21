@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="238" viewBox="0 0 720 238">
   <rect x="0" y="0" width="720" height="238" fill="#ffffff" />
-  <text x="24" y="30" font-size="19" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Catalog size vs. similar projects (self-reported, feature comparison — not a runtime benchmark)</text><text x="24" y="50" font-size="13" fill="#6b7280" font-family="Segoe UI, Arial, sans-serif">as of 2026-09-19 · figures from each project's own GitHub README/description</text>
+  <text x="24" y="30" font-size="19" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Catalog size vs. similar projects (self-reported, feature comparison — not a runtime benchmark)</text><text x="24" y="50" font-size="13" fill="#6b7280" font-family="Segoe UI, Arial, sans-serif">as of 2026-09-21 · figures from each project's own GitHub README/description</text>
   
     <text x="208" y="86" text-anchor="end" font-size="15" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif">frontdesk</text>
     <rect x="220" y="64" width="430" height="34" fill="#e5e7eb" rx="4" />
     <rect x="220" y="64" width="373.91304347826093" height="34" fill="#4f46e5" rx="4" />
-    <text x="603.913043478261" y="86" font-size="15" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="600">1311 skills</text>
+    <text x="603.913043478261" y="86" font-size="15" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="600">1348 skills</text>
     <text x="208" y="136" text-anchor="end" font-size="15" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif">headcount</text>
     <rect x="220" y="114" width="430" height="34" fill="#e5e7eb" rx="4" />
-    <rect x="220" y="114" width="35.6515106291248" height="34" fill="#10b981" rx="4" />
-    <text x="265.6515106291248" y="136" font-size="15" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="600">125 skills</text>
+    <rect x="220" y="114" width="34.6729454263966" height="34" fill="#10b981" rx="4" />
+    <text x="264.6729454263966" y="136" font-size="15" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="600">125 skills</text>
     <text x="208" y="186" text-anchor="end" font-size="15" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif">skene-cookbook</text>
     <rect x="220" y="164" width="430" height="34" fill="#e5e7eb" rx="4" />
-    <rect x="220" y="164" width="199.6484595230989" height="34" fill="#f59e0b" rx="4" />
-    <text x="429.6484595230989" y="186" font-size="15" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="600">700 skills</text>
+    <rect x="220" y="164" width="194.16849438782094" height="34" fill="#f59e0b" rx="4" />
+    <text x="424.16849438782094" y="186" font-size="15" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-weight="600">700 skills</text>
 </svg>

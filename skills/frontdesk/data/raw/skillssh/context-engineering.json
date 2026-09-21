@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/context-engineering",
     "metric": {
-      "installs": 36800
+      "installs": 38100
     },
     "description": "",
     "topics": [],
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/context-engineering",
     "metric": {
-      "installs": 226
+      "installs": 228
     },
     "description": "",
     "topics": [],
@@ -239,7 +239,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/siviter-xyz/dot-agent/context-engineering",
     "metric": {
-      "installs": 186
+      "installs": 188
     },
     "description": "",
     "topics": [],

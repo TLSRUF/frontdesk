@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-09-19",
+  "as_of": "2026-09-21",
   "note": "GitHub 공개 데이터(gh api)로 직접 확인한 사실만 기록. 실행/성능 벤치마크가 아니라 카탈로그 규모·구조 비교이며, 다른 프로젝트를 실제로 설치/실행해서 측정한 값이 아니다.",
   "projects": [
     {
       "name": "frontdesk",
       "url": "https://github.com/TLSRUF/frontdesk",
       "stars": 0,
-      "catalog_size": 1311,
+      "catalog_size": 1348,
       "departments": 13,
       "mechanism": "GitHub+skills.sh에서 수집한 외부 스킬을 13개 부서로 분류하고, 규칙 기반으로 요청을 라우팅",
       "install": "npx skills add TLSRUF/frontdesk@frontdesk",
@@ -45,6 +45,12 @@
       "url": "https://github.com/Hainrixz/the-architect",
       "stars": 505,
       "mechanism": "프로젝트 아키텍처/블루프린트 설계 도구 — 라우팅이 아니라 설계 산출물 생성이 목적"
+    },
+    {
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 139195,
+      "mechanism": "대부분(100개 이상)은 클론해서 돌려보는 Python 예제 에이전트 앱 모음 — frontdesk처럼 '설치 하나로 좁은 작업에 바로 쓰는 카탈로그+라우터'가 아니라 튜토리얼/템플릿 모음. 다만 agent_skills/ 계열은 방향이 같아(skills.sh에 owner/repo@skill로 인덱싱된 실제 설치형 스킬) 25개 이상을 이번에 frontdesk 카탈로그로 가져왔다"
     }
   ]
 }

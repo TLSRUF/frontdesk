@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/designed-by-ai/skills/design-mobile-apps",
     "metric": {
-      "installs": 297500
+      "installs": 332900
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design",
     "metric": {
-      "installs": 9300
+      "installs": 9500
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/solana-mobile/solana-mobile-skills/solana-mobile",
     "metric": {
-      "installs": 5100
+      "installs": 5300
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-testing",
     "metric": {
-      "installs": 810
+      "installs": 811
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-debugging",
     "metric": {
-      "installs": 551
+      "installs": 552
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-testing",
     "metric": {
-      "installs": 431
+      "installs": 432
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-debugging",
     "metric": {
-      "installs": 396
+      "installs": 397
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mukul975/anthropic-cybersecurity-skills/conducting-mobile-app-penetration-test",
     "metric": {
-      "installs": 282
+      "installs": 285
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/mobile-app-interface",
     "metric": {
-      "installs": 160
+      "installs": 161
     },
     "description": "",
     "topics": [],
@@ -174,24 +174,11 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-design",
     "metric": {
-      "installs": 129
+      "installs": 134
     },
     "description": "",
     "topics": [],
     "install": "npx skills add podo/design-agent-skills@mobile-app-design",
-    "seed_keyword": "mobile app"
-  },
-  {
-    "id": "skillssh:404kidwiz/claude-supercode-skills@mobile-app-developer",
-    "name": "404kidwiz/claude-supercode-skills@mobile-app-developer",
-    "type": "skill",
-    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/mobile-app-developer",
-    "metric": {
-      "installs": 128
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add 404kidwiz/claude-supercode-skills@mobile-app-developer",
     "seed_keyword": "mobile app"
   },
   {
@@ -200,11 +187,24 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-ui-design",
     "metric": {
-      "installs": 127
+      "installs": 131
     },
     "description": "",
     "topics": [],
     "install": "npx skills add podo/design-agent-skills@mobile-app-ui-design",
+    "seed_keyword": "mobile app"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@sleek-design-mobile-apps",
+    "name": "podo/design-agent-skills@sleek-design-mobile-apps",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/sleek-design-mobile-apps",
+    "metric": {
+      "installs": 129
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@sleek-design-mobile-apps",
     "seed_keyword": "mobile app"
   },
   {
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/power-platform-skills/create-mobile-app",
     "metric": {
-      "installs": 100
+      "installs": 101
     },
     "description": "",
     "topics": [],

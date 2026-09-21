@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/terraform-module-library",
     "metric": {
-      "installs": 14400
+      "installs": 14500
     },
     "description": "",
     "topics": [],
@@ -18,11 +18,37 @@
     "type": "skill",
     "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-style-guide",
     "metric": {
-      "installs": 11100
+      "installs": 11200
     },
     "description": "",
     "topics": [],
     "install": "npx skills add hashicorp/agent-skills@terraform-style-guide",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-generator",
+    "metric": {
+      "installs": 9500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "seed_keyword": "terraform"
+  },
+  {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-installer",
+    "metric": {
+      "installs": 9500
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
     "seed_keyword": "terraform"
   },
   {
@@ -39,38 +65,12 @@
     "seed_keyword": "terraform"
   },
   {
-    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
-    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
-    "type": "skill",
-    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-generator",
-    "metric": {
-      "installs": 8900
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
-    "seed_keyword": "terraform"
-  },
-  {
-    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
-    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
-    "type": "skill",
-    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-installer",
-    "metric": {
-      "installs": 8900
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
-    "seed_keyword": "terraform"
-  },
-  {
     "id": "skillssh:hashicorp/agent-skills@terraform-test",
     "name": "hashicorp/agent-skills@terraform-test",
     "type": "skill",
     "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-test",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-stacks",
     "metric": {
-      "installs": 5200
+      "installs": 5300
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/pulumi/agent-skills/pulumi-terraform-to-pulumi",
     "metric": {
-      "installs": 910
+      "installs": 911
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/terraform-infrastructure",
     "metric": {
-      "installs": 776
+      "installs": 777
     },
     "description": "",
     "topics": [],
@@ -187,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/eraserlabs/eraser-io/terraform-diagrams",
     "metric": {
-      "installs": 704
+      "installs": 706
     },
     "description": "",
     "topics": [],
@@ -200,7 +200,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mindrally/skills/terraform",
     "metric": {
-      "installs": 665
+      "installs": 667
     },
     "description": "",
     "topics": [],
@@ -213,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/daymade/claude-code-skills/terraform-skill",
     "metric": {
-      "installs": 618
+      "installs": 623
     },
     "description": "",
     "topics": [],
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/terraform-patterns",
     "metric": {
-      "installs": 614
+      "installs": 616
     },
     "description": "",
     "topics": [],
@@ -239,7 +239,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/terraform",
     "metric": {
-      "installs": 291
+      "installs": 292
     },
     "description": "",
     "topics": [],

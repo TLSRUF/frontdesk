@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/user-research-analysis",
     "metric": {
-      "installs": 599
+      "installs": 600
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/glebis/claude-skills/deep-research",
     "metric": {
-      "installs": 316
+      "installs": 318
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/cookiy-ai/user-research-skill/user-research-cookiy",
     "metric": {
-      "installs": 248
+      "installs": 249
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/user-research-synthesis",
     "metric": {
-      "installs": 151
+      "installs": 154
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/user-research-cookiy",
     "metric": {
-      "installs": 136
+      "installs": 142
     },
     "description": "",
     "topics": [],

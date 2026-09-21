@@ -22,7 +22,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 产出物
 
-- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** —— 按 13 个部门 / 约 57 个细分领域分类的 1,325 条智能体/技能列表(面向人类阅读的最终成果)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** —— 按 13 个部门 / 约 57 个细分领域分类的 1,348 条智能体/技能列表(面向人类阅读的最终成果)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** —— 基于这个目录构建统一编排器的设计方向,以及基于规则的路由器原型说明(把 [ponytail](https://github.com/DietrichGebert/ponytail) 的低 token 判断阶梯应用到"选择智能体"而非"写代码"上)
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** —— 分类体系定义(部门/细分领域/关键词提示)
 - **`skills/frontdesk/data/catalog.json`** —— 分类后的最终数据(机器可读的原始数据)
@@ -32,7 +32,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 启动包(Starter Pack)与流水线(Pipeline)
 
-- **启动包** —— 满足"只装这一个,各部门最好的技能就自动齐全"这个诉求。`npm run starter-pack` 会在 13 个部门中,从分类置信度高、**未被废弃**(`health_score`,依据 GitHub 是否 archived、有没有许可证、fork 数)且**没有安全风险标记**(`audit_score`,来自 skills.sh 公开的 Socket/Snyk 等审计 API)的条目里挑出安装量最高的一个(目前共 12 个部门有结果)。然后用 `node scripts/install-starter-pack.mjs --yes` 一次性全部安装。**需要说明:这里选的是"在安全且仍被维护的技能里安装量最高"的,而不是"性能最好"的技能** —— 目前仍然没有衡量真实性能的方法(我们也试过用 Reddit 提及次数作为替代指标,但连 ponytail 都搜不到任何有效信号,所以放弃了这个思路)。
+- **启动包** —— 满足"只装这一个,各部门最好的技能就自动齐全"这个诉求。`npm run starter-pack` 会在 13 个部门中,从分类置信度高、**未被废弃**(`health_score`,依据 GitHub 是否 archived、有没有许可证、fork 数)且**没有安全风险标记**(`audit_score`,来自 skills.sh 公开的 Socket/Snyk 等审计 API)的条目里挑出安装量最高的一个(13 个部门全部有结果)。然后用 `node scripts/install-starter-pack.mjs --yes` 一次性全部安装。**需要说明:这里选的是"在安全且仍被维护的技能里安装量最高"的,而不是"性能最好"的技能** —— 目前仍然没有衡量真实性能的方法(我们也试过用 Reddit 提及次数作为替代指标,但连 ponytail 都搜不到任何有效信号,所以放弃了这个思路)。
 - **流水线** —— 复用现有的目录/路由器,按"创意 → 产品定义 → 设计 → 开发 → 质量/安全 → 市场营销/销售 → 部署 → 运维"8 个阶段给出建议:`node scripts/pipeline.mjs "项目描述"`。由于部署和运维会影响真实服务,这个流水线设计为**每个阶段都需要人工确认后才进入下一阶段**,而不是从头到尾全自动执行。
 
 完整的设计考量和局限性见 [`ARCHITECTURE.md`](ARCHITECTURE.md) 中的"스타터팩"/"파이프라인"/"목표 대비 현황"章节(标题是韩文,但代码块和表格本身不受语言影响)。

@@ -28,7 +28,7 @@ node scripts/route.mjs "recommend a testing automation tool"
 
 - `SKILL.md` —— Claude(或其他智能体)实际读取的技能定义
 - `taxonomy.mjs` —— 13 个部门的分类体系
-- `data/catalog.json` —— 分类后的目录原始数据(1,325 条)
+- `data/catalog.json` —— 分类后的目录原始数据(1,348 条)
 - `data/unclassified.json` —— 自动分类失败的条目(9 条 —— 嵌入式开发工具、研究档案等确实不适合这套分类体系的内容)
 - `data/manual-overrides.json` —— 关键词匹配漏掉的条目,由人工分类的例外列表(14 条;`classify.mjs` 会优先应用这些,再进行自动匹配)
 - `scripts/` —— 采集(`collect-*.mjs`)→ 分类(`classify.mjs`)→ 补充(`enrich-descriptions.mjs`)→ 健康度(`repo-health.mjs`)→ 安全审计(`audit-scores.mjs`)→ 生成文档(`build-catalog-md.mjs`)→ 路由(`route.mjs`)→ 基准测试(`benchmark.mjs`)→ 启动包(`pick-best-of-breed.mjs`、`install-starter-pack.mjs`)→ 流水线(`pipeline.mjs`)的完整流水线

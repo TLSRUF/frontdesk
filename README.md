@@ -22,7 +22,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 결과물
 
-- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 13개 부서 / ~57개 세부분야로 분류된 1,325건의 에이전트/스킬 목록 (사람이 읽는 최종 산출물)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 13개 부서 / ~57개 세부분야로 분류된 1,348건의 에이전트/스킬 목록 (사람이 읽는 최종 산출물)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** — 이 카탈로그를 기반으로 통합 오케스트레이터를 어떻게 만들지에 대한 설계 방향, 그리고 규칙 기반 라우터 프로토타입 설명 ([ponytail](https://github.com/DietrichGebert/ponytail)의 저토큰 판단 사다리를 "에이전트 선택"에 적용)
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — 분류 체계 정의 (부서/세부분야/키워드 힌트)
 - **`skills/frontdesk/data/catalog.json`** — 분류된 최종 데이터 (기계가 읽는 원본)
@@ -32,7 +32,7 @@ npx skills add TLSRUF/frontdesk@frontdesk
 
 ## 스타터팩 & 파이프라인
 
-- **스타터팩** — "이거 하나만 설치하면 부서별로 제일 나은 스킬이 다 갖춰지길 원한다"는 목표에 대한 답. `npm run starter-pack`으로 13개 부서 중 신뢰도 높게 분류되고, 방치되지 않았고(`health_score`) 보안 위험 신호도 없는(`audit_score`, Socket/Snyk 등 공개 감사 API) 항목의 설치 수 1위를 뽑고(현재 12개), `node scripts/install-starter-pack.mjs --yes`로 한 번에 설치한다. **주의: 이건 "가장 성능이 뛰어난" 스킬이 아니라 "안전하고 방치되지 않은 것 중 가장 많이 설치된" 스킬이다** — 실제 성능을 측정할 방법이 아직 없다 (Reddit 언급 수도 검토했지만 ponytail조차 검색으로 신호가 안 잡혀서 포기했다).
+- **스타터팩** — "이거 하나만 설치하면 부서별로 제일 나은 스킬이 다 갖춰지길 원한다"는 목표에 대한 답. `npm run starter-pack`으로 13개 부서 중 신뢰도 높게 분류되고, 방치되지 않았고(`health_score`) 보안 위험 신호도 없는(`audit_score`, Socket/Snyk 등 공개 감사 API) 항목의 설치 수 1위를 뽑고(13개 부서 전부), `node scripts/install-starter-pack.mjs --yes`로 한 번에 설치한다. **주의: 이건 "가장 성능이 뛰어난" 스킬이 아니라 "안전하고 방치되지 않은 것 중 가장 많이 설치된" 스킬이다** — 실제 성능을 측정할 방법이 아직 없다 (Reddit 언급 수도 검토했지만 ponytail조차 검색으로 신호가 안 잡혀서 포기했다).
 - **파이프라인** — 아이디어 → 프로덕트 정의 → 디자인 → 개발 → 품질/보안 → 마케팅/세일즈 → 배포 → 운영, 8단계로 기존 카탈로그/라우터를 재사용해 단계별 추천을 준다: `node scripts/pipeline.mjs "프로젝트 설명"`. 배포·운영 단계는 실제 서비스에 영향을 줄 수 있어 **단계마다 사람이 확인하고 넘어가는 걸 전제**로 설계했다 (전 구간 자동 실행 아님).
 
 자세한 설계 배경과 한계는 [`ARCHITECTURE.md`](ARCHITECTURE.md)의 "스타터팩"·"파이프라인"·"목표 대비 현황" 절 참고.

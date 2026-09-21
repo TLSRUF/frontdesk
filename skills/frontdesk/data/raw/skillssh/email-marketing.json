@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
     "metric": {
-      "installs": 110000
+      "installs": 110700
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/emails",
     "metric": {
-      "installs": 60800
+      "installs": 61400
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/caffeinelabs/skills/extension-email-marketing",
     "metric": {
-      "installs": 21000
+      "installs": 21400
     },
     "description": "",
     "topics": [],
@@ -96,11 +96,37 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/ecommerce-email-marketing-builder",
     "metric": {
-      "installs": 928
+      "installs": 941
     },
     "description": "",
     "topics": [],
     "install": "npx skills add nexscope-ai/ecommerce-skills@ecommerce-email-marketing-builder",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:reason-machines/marketing-skills@email-marketing-bible-skill",
+    "name": "reason-machines/marketing-skills@email-marketing-bible-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/marketing-skills/email-marketing-bible-skill",
+    "metric": {
+      "installs": 896
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add reason-machines/marketing-skills@email-marketing-bible-skill",
+    "seed_keyword": "email marketing"
+  },
+  {
+    "id": "skillssh:reason-machines/marketing-skills@claude-email-marketing-skill",
+    "name": "reason-machines/marketing-skills@claude-email-marketing-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/marketing-skills/claude-email-marketing-skill",
+    "metric": {
+      "installs": 883
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add reason-machines/marketing-skills@claude-email-marketing-skill",
     "seed_keyword": "email marketing"
   },
   {
@@ -109,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-render-builder",
     "metric": {
-      "installs": 785
+      "installs": 800
     },
     "description": "",
     "topics": [],
@@ -122,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-creative-builder",
     "metric": {
-      "installs": 784
+      "installs": 799
     },
     "description": "",
     "topics": [],
@@ -135,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-sequence-designer",
     "metric": {
-      "installs": 784
+      "installs": 799
     },
     "description": "",
     "topics": [],
@@ -148,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-quality-auditor",
     "metric": {
-      "installs": 777
+      "installs": 792
     },
     "description": "",
     "topics": [],
@@ -161,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/cosmoblk/email-marketing-bible/email-marketing-bible",
     "metric": {
-      "installs": 365
+      "installs": 366
     },
     "description": "",
     "topics": [],
@@ -187,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/email-marketing",
     "metric": {
-      "installs": 145
+      "installs": 147
     },
     "description": "",
     "topics": [],
@@ -205,19 +231,6 @@
     "description": "",
     "topics": [],
     "install": "npx skills add maddhruv/absolute@email-marketing",
-    "seed_keyword": "email marketing"
-  },
-  {
-    "id": "skillssh:finsilabs/awesome-ecommerce-skills@email-marketing-automation",
-    "name": "finsilabs/awesome-ecommerce-skills@email-marketing-automation",
-    "type": "skill",
-    "source_url": "https://skills.sh/finsilabs/awesome-ecommerce-skills/email-marketing-automation",
-    "metric": {
-      "installs": 99
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add finsilabs/awesome-ecommerce-skills@email-marketing-automation",
     "seed_keyword": "email marketing"
   },
   {

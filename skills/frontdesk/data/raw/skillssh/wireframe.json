@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ghaida/intent/wireframe",
     "metric": {
-      "installs": 1400
+      "installs": 1500
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/plannotator/effective-html/html-wireframe",
     "metric": {
-      "installs": 1200
+      "installs": 1300
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mengto/skills/technical-wireframe-info-layout",
     "metric": {
-      "installs": 944
+      "installs": 980
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mengto/skills/build-wireframe-scan-reveal",
     "metric": {
-      "installs": 663
+      "installs": 699
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/roble3/cc-blender-skill/wireframe-to-3d",
     "metric": {
-      "installs": 379
+      "installs": 393
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/markdown-viewer/skills/wireframe",
     "metric": {
-      "installs": 290
+      "installs": 291
     },
     "description": "",
     "topics": [],
@@ -117,12 +117,25 @@
     "seed_keyword": "wireframe"
   },
   {
+    "id": "skillssh:heygen-com/hyperframes@wireframe-portal-title",
+    "name": "heygen-com/hyperframes@wireframe-portal-title",
+    "type": "skill",
+    "source_url": "https://skills.sh/heygen-com/hyperframes/wireframe-portal-title",
+    "metric": {
+      "installs": 232
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add heygen-com/hyperframes@wireframe-portal-title",
+    "seed_keyword": "wireframe"
+  },
+  {
     "id": "skillssh:agilek/wireframer-skill@wireframer",
     "name": "agilek/wireframer-skill@wireframer",
     "type": "skill",
     "source_url": "https://skills.sh/agilek/wireframer-skill/wireframer",
     "metric": {
-      "installs": 131
+      "installs": 134
     },
     "description": "",
     "topics": [],
@@ -135,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/wireframer",
     "metric": {
-      "installs": 115
+      "installs": 119
     },
     "description": "",
     "topics": [],
@@ -148,11 +161,24 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/wireframe-skill",
     "metric": {
-      "installs": 113
+      "installs": 117
     },
     "description": "",
     "topics": [],
     "install": "npx skills add podo/design-agent-skills@wireframe-skill",
+    "seed_keyword": "wireframe"
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@claude-wireframe-skill",
+    "name": "podo/design-agent-skills@claude-wireframe-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/claude-wireframe-skill",
+    "metric": {
+      "installs": 115
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add podo/design-agent-skills@claude-wireframe-skill",
     "seed_keyword": "wireframe"
   },
   {
@@ -166,19 +192,6 @@
     "description": "",
     "topics": [],
     "install": "npx skills add bm629/agent-skills@authoring-wireframes",
-    "seed_keyword": "wireframe"
-  },
-  {
-    "id": "skillssh:podo/design-agent-skills@claude-wireframe-skill",
-    "name": "podo/design-agent-skills@claude-wireframe-skill",
-    "type": "skill",
-    "source_url": "https://skills.sh/podo/design-agent-skills/claude-wireframe-skill",
-    "metric": {
-      "installs": 111
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add podo/design-agent-skills@claude-wireframe-skill",
     "seed_keyword": "wireframe"
   },
   {
@@ -200,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/manalkaff/opendesign/wireframe",
     "metric": {
-      "installs": 82
+      "installs": 84
     },
     "description": "",
     "topics": [],
@@ -226,7 +239,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/teo5777/easy-wireframe/easy-wireframe",
     "metric": {
-      "installs": 48
+      "installs": 49
     },
     "description": "",
     "topics": [],

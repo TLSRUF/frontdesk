@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:40:47.770Z",
+  "generated_at": "2026-09-21T04:31:30.655Z",
   "granularity": "department",
   "note": "installs(설치 수) 기준 인기 1위이지, 실측 성능/품질 순위가 아님. archived·라이선스 없음·fork 없음(health_score)이거나 Socket/Snyk 등에서 위험 신호가 나온(audit_score) 항목은 미리 제외함 — ARCHITECTURE.md/BENCHMARK.md의 한계 참고",
   "picks": [
@@ -8,7 +8,7 @@
       "group_name": "전략/기획 (Strategy)",
       "name": "coreyhaines31/marketingskills@pricing",
       "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing",
-      "installs": 62500,
+      "installs": 63200,
       "health_score": 100,
       "audit_score": 91.7,
       "install": "npx skills add coreyhaines31/marketingskills@pricing"
@@ -18,7 +18,7 @@
       "group_name": "프로덕트 매니지먼트",
       "name": "larksuite/cli@lark-okr",
       "source_url": "https://skills.sh/larksuite/cli/lark-okr",
-      "installs": 378900,
+      "installs": 380200,
       "health_score": 100,
       "audit_score": 83.3,
       "install": "npx skills add larksuite/cli@lark-okr"
@@ -28,7 +28,7 @@
       "group_name": "디자인",
       "name": "arvindrk/extract-design-system@extract-design-system",
       "source_url": "https://skills.sh/arvindrk/extract-design-system/extract-design-system",
-      "installs": 129200,
+      "installs": 129300,
       "health_score": 95.9,
       "audit_score": 75,
       "install": "npx skills add arvindrk/extract-design-system@extract-design-system"
@@ -38,7 +38,7 @@
       "group_name": "엔지니어링-프론트엔드",
       "name": "vercel-labs/agent-skills@vercel-react-best-practices",
       "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
-      "installs": 725700,
+      "installs": 729800,
       "health_score": 90,
       "audit_score": 93.8,
       "install": "npx skills add vercel-labs/agent-skills@vercel-react-best-practices"
@@ -48,7 +48,7 @@
       "group_name": "엔지니어링-백엔드",
       "name": "wshobson/agents@api-design-principles",
       "source_url": "https://skills.sh/wshobson/agents/api-design-principles",
-      "installs": 28400,
+      "installs": 28500,
       "health_score": 100,
       "audit_score": 87.5,
       "install": "npx skills add wshobson/agents@api-design-principles"
@@ -58,7 +58,7 @@
       "group_name": "엔지니어링-인프라/DevOps",
       "name": "google/agents-cli@google-agents-cli-observability",
       "source_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
-      "installs": 264800,
+      "installs": 286200,
       "health_score": 100,
       "audit_score": 91.7,
       "install": "npx skills add google/agents-cli@google-agents-cli-observability"
@@ -68,7 +68,7 @@
       "group_name": "엔지니어링-데이터/ML/AI",
       "name": "wshobson/agents@prompt-engineering-patterns",
       "source_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
-      "installs": 21600,
+      "installs": 21700,
       "health_score": 100,
       "audit_score": 93.8,
       "install": "npx skills add wshobson/agents@prompt-engineering-patterns"
@@ -78,7 +78,7 @@
       "group_name": "품질/보안",
       "name": "anthropics/skills@webapp-testing",
       "source_url": "https://skills.sh/anthropics/skills/webapp-testing",
-      "installs": 159300,
+      "installs": 160600,
       "health_score": 90,
       "audit_score": 62.5,
       "install": "npx skills add anthropics/skills@webapp-testing"
@@ -88,7 +88,7 @@
       "group_name": "마케팅/그로스",
       "name": "coreyhaines31/marketingskills@seo-audit",
       "source_url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
-      "installs": 209900,
+      "installs": 210900,
       "health_score": 100,
       "audit_score": 87.5,
       "install": "npx skills add coreyhaines31/marketingskills@seo-audit"
@@ -98,7 +98,7 @@
       "group_name": "세일즈/매출",
       "name": "coreyhaines31/marketingskills@cold-email",
       "source_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
-      "installs": 110000,
+      "installs": 110700,
       "health_score": 100,
       "audit_score": 81.3,
       "install": "npx skills add coreyhaines31/marketingskills@cold-email"
@@ -108,7 +108,7 @@
       "group_name": "운영/거버넌스",
       "name": "microsoft/azure-skills@azure-compliance",
       "source_url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
-      "installs": 588100,
+      "installs": 589400,
       "health_score": 100,
       "audit_score": 93.8,
       "install": "npx skills add microsoft/azure-skills@azure-compliance"
@@ -118,10 +118,20 @@
       "group_name": "메타/효율화 레이어",
       "name": "addyosmani/agent-skills@context-engineering",
       "source_url": "https://skills.sh/addyosmani/agent-skills/context-engineering",
-      "installs": 36800,
+      "installs": 38100,
       "health_score": 100,
       "audit_score": 87.5,
       "install": "npx skills add addyosmani/agent-skills@context-engineering"
+    },
+    {
+      "group": "13",
+      "group_name": "AI 에이전트 생태계/메타 도구",
+      "name": "shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+      "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/thinking-out-loud",
+      "installs": 296,
+      "health_score": 100,
+      "audit_score": 91.7,
+      "install": "npx skills add shubhamsaboo/awesome-llm-apps@thinking-out-loud"
     }
   ]
 }

@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
     "metric": {
-      "installs": 588100
+      "installs": 589400
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/accessibility-compliance",
     "metric": {
-      "installs": 13300
+      "installs": 13400
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/customs-trade-compliance",
     "metric": {
-      "installs": 8500
+      "installs": 8600
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/healthcare-phi-compliance",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/hipaa-compliance",
     "metric": {
-      "installs": 7300
+      "installs": 7400
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/trailofbits/skills/spec-to-code-compliance",
     "metric": {
-      "installs": 5100
+      "installs": 5200
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/amazon-skills/amazon-product-compliance",
     "metric": {
-      "installs": 985
+      "installs": 989
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance",
     "metric": {
-      "installs": 853
+      "installs": 864
     },
     "description": "",
     "topics": [],
@@ -200,7 +200,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/shopify-tax-compliance",
     "metric": {
-      "installs": 811
+      "installs": 822
     },
     "description": "",
     "topics": [],
@@ -213,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/claude-for-legal/entity-compliance",
     "metric": {
-      "installs": 560
+      "installs": 567
     },
     "description": "",
     "topics": [],

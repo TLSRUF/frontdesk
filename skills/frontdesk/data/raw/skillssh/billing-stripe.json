@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-billing",
     "metric": {
-      "installs": 14700
+      "installs": 14900
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ssheleg/sheleg-dev/stripe-billing",
     "metric": {
-      "installs": 125
+      "installs": 127
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/borghei/claude-skills/stripe-integration-expert",
     "metric": {
-      "installs": 116
+      "installs": 117
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/whawkinsiv/solo-founder-skills/payments",
     "metric": {
-      "installs": 38
+      "installs": 39
     },
     "description": "",
     "topics": [],
@@ -135,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/geelark/geelark-cli/geelark-billing",
     "metric": {
-      "installs": 35
+      "installs": 36
     },
     "description": "",
     "topics": [],

@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/joellewis/finance_skills/crm-client-lifecycle",
     "metric": {
-      "installs": 572
+      "installs": 576
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/membranedev/application-skills/zoho-crm",
     "metric": {
-      "installs": 571
+      "installs": 572
     },
     "description": "",
     "topics": [],
@@ -117,6 +117,19 @@
     "seed_keyword": "crm"
   },
   {
+    "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
+    "name": "mbfinotti/revops-skills@crm-data-governance",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/revops-skills/crm-data-governance",
+    "metric": {
+      "installs": 392
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add mbfinotti/revops-skills@crm-data-governance",
+    "seed_keyword": "crm"
+  },
+  {
     "id": "skillssh:casper-studios/casper-marketplace@attio-crm",
     "name": "casper-studios/casper-marketplace@attio-crm",
     "type": "skill",
@@ -127,19 +140,6 @@
     "description": "",
     "topics": [],
     "install": "npx skills add casper-studios/casper-marketplace@attio-crm",
-    "seed_keyword": "crm"
-  },
-  {
-    "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
-    "name": "mbfinotti/revops-skills@crm-data-governance",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/revops-skills/crm-data-governance",
-    "metric": {
-      "installs": 286
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add mbfinotti/revops-skills@crm-data-governance",
     "seed_keyword": "crm"
   },
   {
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/onewave-ai/claude-skills/gmail-to-crm-pipeline",
     "metric": {
-      "installs": 215
+      "installs": 217
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/crm-hygiene",
     "metric": {
-      "installs": 212
+      "installs": 215
     },
     "description": "",
     "topics": [],
@@ -234,29 +234,29 @@
     "seed_keyword": "crm"
   },
   {
-    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm-development",
-    "name": "bobmatnyc/claude-mpm-skills@espocrm-development",
+    "id": "skillssh:anthropics/knowledge-work-plugins@crm-hygiene-check",
+    "name": "anthropics/knowledge-work-plugins@crm-hygiene-check",
     "type": "skill",
-    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm-development",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-hygiene-check",
     "metric": {
-      "installs": 152
+      "installs": 43
     },
     "description": "",
     "topics": [],
-    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm-development",
+    "install": "npx skills add anthropics/knowledge-work-plugins@crm-hygiene-check",
     "seed_keyword": "crm"
   },
   {
-    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm",
-    "name": "bobmatnyc/claude-mpm-skills@espocrm",
+    "id": "skillssh:anthropics/knowledge-work-plugins@crm-autopilot",
+    "name": "anthropics/knowledge-work-plugins@crm-autopilot",
     "type": "skill",
-    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-autopilot",
     "metric": {
-      "installs": 146
+      "installs": 43
     },
     "description": "",
     "topics": [],
-    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm",
+    "install": "npx skills add anthropics/knowledge-work-plugins@crm-autopilot",
     "seed_keyword": "crm"
   }
 ]

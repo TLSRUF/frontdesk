@@ -61,15 +61,16 @@ node scripts/benchmark.mjs
 
 | 프로젝트 | 스킬/항목 수 | 부서 수 | 메커니즘 | stars |
 |---|---:|---:|---|---:|
-| **frontdesk** | 1,325 | 13 | 외부(GitHub+skills.sh) 스킬을 수집해 부서별로 분류하고 규칙 기반으로 라우팅 | - |
+| **frontdesk** | 1,348 | 13 | 외부(GitHub+skills.sh) 스킬을 수집해 부서별로 분류하고 규칙 기반으로 라우팅 | - |
 | [headcount](https://github.com/cbrock84/headcount) | 125+ | 15+ | 자체 제작 스킬로 구성된 "회사 조직" 시뮬레이션 | 1,626 |
 | [skene-cookbook](https://github.com/SkeneTechnologies/skene-cookbook) | 700+ | 비공개 | 스킬 모음, 분류/라우팅 로직 비공개 | 53 |
 
-(2026-09-19 기준, 각 저장소의 GitHub API 응답과 README 자체 설명에서 직접 확인. 전체 원본은 [`data/comparison.json`](data/comparison.json).)
+(2026-09-21 기준, 각 저장소의 GitHub API 응답과 README 자체 설명에서 직접 확인. 전체 원본은 [`data/comparison.json`](data/comparison.json).)
 
-메커니즘이 다른 두 프로젝트도 참고로 남긴다 (카탈로그 규모 비교에는 넣지 않았다 — 애초에 하는 일이 다르다):
+메커니즘이 다른 프로젝트도 참고로 남긴다 (카탈로그 규모 비교에는 넣지 않았다 — 애초에 하는 일이 다르다):
 
 - [harness](https://github.com/revfactory/harness) (9,024★) — 기존 카탈로그에서 고르는 게 아니라, 요청마다 새 전문 에이전트 팀을 그때그때 설계/생성한다.
 - [the-architect](https://github.com/Hainrixz/the-architect) (505★) — 라우팅이 아니라 프로젝트 아키텍처/블루프린트 설계가 목적이다.
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (139,195★) — 대부분(100개 이상)은 클론해서 돌려보는 Python 예제 에이전트 앱 모음이지, 설치 하나로 좁은 작업에 바로 쓰는 카탈로그+라우터가 아니다. 다만 `agent_skills/` 계열은 방향이 같아서(skills.sh에 정식 인덱싱된 실제 설치형 스킬) 25개 이상을 이번에 frontdesk 카탈로그로 가져왔다 — 자세한 경위는 [`../../ARCHITECTURE.md`](../../ARCHITECTURE.md)의 "외부 카탈로그 조사" 절 참고.
 
 **이건 성능 벤치마크가 아니라 규모/메커니즘 비교다.** 다른 프로젝트를 실제로 설치해서 정확도나 속도를 재지 않았다 — 그건 이번 범위에서 공정하게 할 수 없었다 (서로 하는 일이 다르고, 임의의 서드파티 코드를 실행하는 것 자체도 신중해야 한다). 위 표의 숫자는 전부 각 프로젝트가 스스로 공개한 사실이다.

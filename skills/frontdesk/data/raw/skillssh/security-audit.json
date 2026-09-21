@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/firebase/agent-skills/firebase-security-rules-auditor",
     "metric": {
-      "installs": 117800
+      "installs": 118900
     },
     "description": "",
     "topics": [],
@@ -135,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/skill-security-auditor",
     "metric": {
-      "installs": 753
+      "installs": 755
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/laravel-security-audit",
     "metric": {
-      "installs": 554
+      "installs": 556
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/netresearch/security-audit-skill/security-audit",
     "metric": {
-      "installs": 548
+      "installs": 555
     },
     "description": "",
     "topics": [],
@@ -187,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/security-audit-logging",
     "metric": {
-      "installs": 548
+      "installs": 551
     },
     "description": "",
     "topics": [],
@@ -239,7 +239,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/agentnode-dev/skills-security-audit/skills-security-audit",
     "metric": {
-      "installs": 332
+      "installs": 335
     },
     "description": "",
     "topics": [],
@@ -252,7 +252,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/donchitos/claude-code-game-studios/security-audit",
     "metric": {
-      "installs": 312
+      "installs": 314
     },
     "description": "",
     "topics": [],

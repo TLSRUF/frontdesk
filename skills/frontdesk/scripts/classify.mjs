@@ -36,21 +36,22 @@ function loadRaw() {
 // 그래서 1차는 name+description+topics(신뢰도 높음)만으로 매칭하고,
 // 실패했을 때만 2차로 seed까지 포함해 재시도한다(신뢰도 낮음, weak_match로 표시).
 //
-// skills.sh 항목의 name은 "owner/repo@skill" 형태다. repo 이름이 "awesome-copilot"처럼
-// 브랜딩성 단어를 포함하면, 그 repo의 모든 스킬이 실제 내용과 무관하게 그 단어로 강하게
-// 매칭되는 문제가 생긴다(예: pytest-coverage 스킬이 repo명의 "awesome" 때문에
-// "큐레이션 목록" 카테고리로 잘못 분류됨). 그래서 repo 경로는 약한 신호로만 쓰고,
-// 스킬 이름 자체(및 설명/토픽)만 강한 신호로 쓴다.
-function splitSkillName(name) {
+// skills.sh 항목의 name은 "owner/repo@skill" 형태다. repo 이름이 "awesome-copilot"이나
+// "awesome-llm-apps"처럼 브랜딩성 단어를 포함하면, 그 repo의 모든 스킬이 실제 내용과 무관하게
+// 그 단어로 매칭되는 문제가 생긴다. 처음엔 이걸 "약한 신호"로 격하시켰는데(강한 매칭에서만
+// 제외), shubhamsaboo/awesome-llm-apps처럼 설명이 비어있는 스킬이 많은 저장소를 수집하면서
+// 약한 매칭 단계에서도 같은 문제가 재발했다(예: description 없는 "technical-writer" 스킬이
+// repo명의 "awesome" 때문에 엉뚱하게 "큐레이션 목록"으로 분류됨). 그래서 repo 경로는 강한
+// 매칭이든 약한 매칭이든 아예 분류에 안 쓰기로 했다 — 스킬 이름 자체, 설명, 토픽, (약한
+// 매칭에서만) 검색 시드만 쓴다.
+function skillNameOnly(name) {
   const at = name.indexOf("@");
-  if (at === -1) return { strongPart: name, weakPart: "" };
-  return { strongPart: name.slice(at + 1), weakPart: name.slice(0, at) };
+  return at === -1 ? name : name.slice(at + 1);
 }
 
 function haystack(item, includeSeed) {
-  const { strongPart, weakPart } = splitSkillName(item.name);
-  const parts = [strongPart, item.description, ...(item.topics || [])];
-  if (includeSeed) parts.push(weakPart, item.seed_topic, item.seed_keyword);
+  const parts = [skillNameOnly(item.name), item.description, ...(item.topics || [])];
+  if (includeSeed) parts.push(item.seed_topic, item.seed_keyword);
   return parts.filter(Boolean).join(" ");
 }
 

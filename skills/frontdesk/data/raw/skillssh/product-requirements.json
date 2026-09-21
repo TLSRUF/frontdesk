@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/product-on-purpose/pm-skills/measure-dashboard-requirements",
     "metric": {
-      "installs": 683
+      "installs": 687
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/khazp/vibe-coding-prompt-template/vibe-prd",
     "metric": {
-      "installs": 174
+      "installs": 175
     },
     "description": "",
     "topics": [],
@@ -96,24 +96,11 @@
     "type": "skill",
     "source_url": "https://skills.sh/davidlee/doctrine/spec-product",
     "metric": {
-      "installs": 91
+      "installs": 93
     },
     "description": "",
     "topics": [],
     "install": "npx skills add davidlee/doctrine@spec-product",
-    "seed_keyword": "product requirements"
-  },
-  {
-    "id": "skillssh:vilin1927/autoflux-landing@product-requirements",
-    "name": "vilin1927/autoflux-landing@product-requirements",
-    "type": "skill",
-    "source_url": "https://skills.sh/vilin1927/autoflux-landing/product-requirements",
-    "metric": {
-      "installs": 26
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add vilin1927/autoflux-landing@product-requirements",
     "seed_keyword": "product requirements"
   },
   {
@@ -169,12 +156,25 @@
     "seed_keyword": "product requirements"
   },
   {
+    "id": "skillssh:ynulihao/agentskillos@product-requirements",
+    "name": "ynulihao/agentskillos@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/ynulihao/agentskillos/product-requirements",
+    "metric": {
+      "installs": 9
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add ynulihao/agentskillos@product-requirements",
+    "seed_keyword": "product requirements"
+  },
+  {
     "id": "skillssh:cbrock84/headcount@product-requirements",
     "name": "cbrock84/headcount@product-requirements",
     "type": "skill",
     "source_url": "https://skills.sh/cbrock84/headcount/product-requirements",
     "metric": {
-      "installs": 6
+      "installs": 8
     },
     "description": "",
     "topics": [],

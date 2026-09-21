@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory",
     "metric": {
-      "installs": 16700
+      "installs": 16800
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/remember",
     "metric": {
-      "installs": 12300
+      "installs": 12400
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/recall",
     "metric": {
-      "installs": 12200
+      "installs": 12300
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/session-history",
     "metric": {
-      "installs": 12100
+      "installs": 12300
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/forget",
     "metric": {
-      "installs": 12100
+      "installs": 12200
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/recap",
     "metric": {
-      "installs": 12000
+      "installs": 12100
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/commit-context",
     "metric": {
-      "installs": 12000
+      "installs": 12100
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/commit-history",
     "metric": {
-      "installs": 12000
+      "installs": 12100
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/handoff",
     "metric": {
-      "installs": 11900
+      "installs": 12000
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/memory-safety-patterns",
     "metric": {
-      "installs": 10700
+      "installs": 10800
     },
     "description": "",
     "topics": [],
@@ -135,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/memory-forensics",
     "metric": {
-      "installs": 10000
+      "installs": 10100
     },
     "description": "",
     "topics": [],
@@ -148,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-agents",
     "metric": {
-      "installs": 9400
+      "installs": 9500
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-mcp-tools",
     "metric": {
-      "installs": 9300
+      "installs": 9400
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-config",
     "metric": {
-      "installs": 9300
+      "installs": 9400
     },
     "description": "",
     "topics": [],
@@ -187,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-rest-api",
     "metric": {
-      "installs": 9300
+      "installs": 9400
     },
     "description": "",
     "topics": [],
@@ -200,7 +200,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-architecture",
     "metric": {
-      "installs": 9200
+      "installs": 9300
     },
     "description": "",
     "topics": [],
@@ -213,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-hooks",
     "metric": {
-      "installs": 9200
+      "installs": 9300
     },
     "description": "",
     "topics": [],
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/write-agentmemory-skill",
     "metric": {
-      "installs": 9200
+      "installs": 9300
     },
     "description": "",
     "topics": [],
@@ -239,7 +239,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/agent-memory-systems",
     "metric": {
-      "installs": 1900
+      "installs": 2000
     },
     "description": "",
     "topics": [],

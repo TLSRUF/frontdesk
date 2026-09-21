@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/googleworkspace/cli/persona-customer-support",
     "metric": {
-      "installs": 27800
+      "installs": 27900
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/twilio/ai/twilio-customer-support-architect",
     "metric": {
-      "installs": 116
+      "installs": 118
     },
     "description": "",
     "topics": [],

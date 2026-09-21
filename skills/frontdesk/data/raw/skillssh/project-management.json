@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/googleworkspace/cli/persona-project-manager",
     "metric": {
-      "installs": 29400
+      "installs": 29500
     },
     "description": "",
     "topics": [],
@@ -83,7 +83,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/miles990/claude-software-skills/project-management",
     "metric": {
-      "installs": 382
+      "installs": 384
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/laurigates/claude-plugins/uv-project-management",
     "metric": {
-      "installs": 165
+      "installs": 173
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vivy-yi/xiaohongshu-skills/project-management",
     "metric": {
-      "installs": 156
+      "installs": 157
     },
     "description": "",
     "topics": [],
@@ -135,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management",
     "metric": {
-      "installs": 98
+      "installs": 100
     },
     "description": "",
     "topics": [],
@@ -208,6 +208,19 @@
     "seed_keyword": "project management"
   },
   {
+    "id": "skillssh:cheehoolabs/spureeskills@project-management",
+    "name": "cheehoolabs/spureeskills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/cheehoolabs/spureeskills/project-management",
+    "metric": {
+      "installs": 27
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add cheehoolabs/spureeskills@project-management",
+    "seed_keyword": "project management"
+  },
+  {
     "id": "skillssh:dmend3z/tribo-skills@project-management",
     "name": "dmend3z/tribo-skills@project-management",
     "type": "skill",
@@ -218,19 +231,6 @@
     "description": "",
     "topics": [],
     "install": "npx skills add dmend3z/tribo-skills@project-management",
-    "seed_keyword": "project management"
-  },
-  {
-    "id": "skillssh:peterbamuhigire/proposal-skills@project-management",
-    "name": "peterbamuhigire/proposal-skills@project-management",
-    "type": "skill",
-    "source_url": "https://skills.sh/peterbamuhigire/proposal-skills/project-management",
-    "metric": {
-      "installs": 8
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add peterbamuhigire/proposal-skills@project-management",
     "seed_keyword": "project management"
   }
 ]

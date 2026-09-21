@@ -1,28 +1,28 @@
 [
   {
-    "id": "skillssh:samber/cc-skills-golang@golang-documentation",
-    "name": "samber/cc-skills-golang@golang-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-documentation",
-    "metric": {
-      "installs": 38800
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add samber/cc-skills-golang@golang-documentation",
-    "seed_keyword": "documentation"
-  },
-  {
     "id": "skillssh:addyosmani/agent-skills@documentation-and-adrs",
     "name": "addyosmani/agent-skills@documentation-and-adrs",
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/documentation-and-adrs",
     "metric": {
-      "installs": 37900
+      "installs": 39200
     },
     "description": "",
     "topics": [],
     "install": "npx skills add addyosmani/agent-skills@documentation-and-adrs",
+    "seed_keyword": "documentation"
+  },
+  {
+    "id": "skillssh:samber/cc-skills-golang@golang-documentation",
+    "name": "samber/cc-skills-golang@golang-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-documentation",
+    "metric": {
+      "installs": 39000
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add samber/cc-skills-golang@golang-documentation",
     "seed_keyword": "documentation"
   },
   {
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/github/awesome-copilot/documentation-writer",
     "metric": {
-      "installs": 26600
+      "installs": 26700
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/spring-boot-openapi-documentation",
     "metric": {
-      "installs": 3300
+      "installs": 3400
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dart-lang/skills/dart-write-documentation",
     "metric": {
-      "installs": 2700
+      "installs": 2900
     },
     "description": "",
     "topics": [],
@@ -187,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/owl-listener/designer-skills/documentation-template",
     "metric": {
-      "installs": 1600
+      "installs": 1700
     },
     "description": "",
     "topics": [],
@@ -252,7 +252,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/makenotion/claude-code-notion-plugin/notion-research-documentation",
     "metric": {
-      "installs": 316
+      "installs": 319
     },
     "description": "",
     "topics": [],

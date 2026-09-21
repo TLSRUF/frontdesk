@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/paramchoudhary/resumeskills/job-description-analyzer",
     "metric": {
-      "installs": 8300
+      "installs": 8400
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/job-description",
     "metric": {
-      "installs": 150
+      "installs": 152
     },
     "description": "",
     "topics": [],
@@ -91,6 +91,19 @@
     "seed_keyword": "job description"
   },
   {
+    "id": "skillssh:catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "name": "catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "type": "skill",
+    "source_url": "https://skills.sh/catalystbyzoho/agent-skills/catalyst-job-scheduling",
+    "metric": {
+      "installs": 84
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "seed_keyword": "job description"
+  },
+  {
     "id": "skillssh:vince-winkintel/gitlab-cli-skills@glab-job",
     "name": "vince-winkintel/gitlab-cli-skills@glab-job",
     "type": "skill",
@@ -114,19 +127,6 @@
     "description": "",
     "topics": [],
     "install": "npx skills add tilebox/skills@tilebox-workflow-jobs",
-    "seed_keyword": "job description"
-  },
-  {
-    "id": "skillssh:catalystbyzoho/agent-skills@catalyst-job-scheduling",
-    "name": "catalystbyzoho/agent-skills@catalyst-job-scheduling",
-    "type": "skill",
-    "source_url": "https://skills.sh/catalystbyzoho/agent-skills/catalyst-job-scheduling",
-    "metric": {
-      "installs": 70
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add catalystbyzoho/agent-skills@catalyst-job-scheduling",
     "seed_keyword": "job description"
   },
   {
@@ -192,6 +192,19 @@
     "description": "",
     "topics": [],
     "install": "npx skills add w95/awesome-claude-corporate-skills@job-description-writer",
+    "seed_keyword": "job description"
+  },
+  {
+    "id": "skillssh:oldwinter/skills@writing-job-descriptions",
+    "name": "oldwinter/skills@writing-job-descriptions",
+    "type": "skill",
+    "source_url": "https://skills.sh/oldwinter/skills/writing-job-descriptions",
+    "metric": {
+      "installs": 35
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add oldwinter/skills@writing-job-descriptions",
     "seed_keyword": "job description"
   },
   {

@@ -12817,5 +12817,496 @@
       }
     },
     "fetched_at": "2026-09-19T12:14:58.195Z"
+  },
+  "shubhamsaboo/awesome-llm-apps": {
+    "data": {
+      "strategy-advisor": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:42:54.963Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:24.221Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:09:10.387740+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T03:51:43.181Z"
+        }
+      },
+      "sprint-planner": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:45:48.226Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:28.694Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:11:04.920212+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T03:51:43.111Z"
+        }
+      },
+      "ux-designer": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-25T05:38:11.214Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:30.694Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-25T05:38:08.785383+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-15T19:45:30.846Z"
+        }
+      },
+      "data-analyst": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:41:41.549Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:17.981Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-17T22:27:11.320399+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T02:46:22.012Z"
+        }
+      },
+      "visualization-expert": {
+        "ath": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:38:24.324Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:21.901Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:08:42.573610+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-15T21:56:19.770Z"
+        }
+      },
+      "debugger": {
+        "ath": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:39:38.780Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:23.979Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:08:58.753908+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T03:51:42.994Z"
+        }
+      },
+      "code-reviewer": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:41:01.694Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:18.078Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-17T22:26:00.892516+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T03:51:43.020Z"
+        }
+      },
+      "scope-creep-detector": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-07-22T19:57:30.026Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-07-22T19:57:02.789Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-07-22T19:56:41.648551+00:00"
+        }
+      },
+      "commit-archaeologist": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-07-23T05:14:38.807Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-07-23T05:14:33.773Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-07-23T05:14:09.482712+00:00"
+        }
+      },
+      "dependency-doctor": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-08-03T00:58:26.189Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-08-03T00:59:08.709Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-08-03T00:58:22.211509+00:00"
+        }
+      },
+      "content-creator": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:36:38.702Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:15.637Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-17T22:20:21.792489+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-15T21:39:22.495Z"
+        }
+      },
+      "fact-checker": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:44:51.030Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:26.262Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-15T20:10:22.842556+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T13:58:30.244Z"
+        }
+      },
+      "first-reader": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-13T04:49:57.419Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-14T11:08:41.199Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-13T04:49:35.454183+00:00"
+        }
+      },
+      "project-planner": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:41:24.315Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:19.808Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-17T22:27:12.522969+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T11:38:47.995Z"
+        }
+      },
+      "project-graveyard": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-08-01T01:35:08.953Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-08-01T01:35:06.173Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-08-01T01:34:53.944595+00:00"
+        }
+      },
+      "technical-writer": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-02-17T16:41:34.223Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "analyzedAt": "2026-03-18T16:48:19.977Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-02-17T22:27:00.493644+00:00"
+        },
+        "zeroleaks": {
+          "risk": "safe",
+          "score": 93,
+          "analyzedAt": "2026-04-16T06:20:51.074Z"
+        }
+      },
+      "advisor-orchestrator-worker": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-11T06:45:31.423Z"
+        },
+        "socket": {
+          "risk": "critical",
+          "alerts": 1,
+          "score": 90,
+          "analyzedAt": "2026-09-11T06:46:21.031Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-09-11T06:44:41.875306+00:00"
+        }
+      },
+      "thinking-out-loud": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-07-23T07:16:49.712Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-07-23T07:17:16.194Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-07-23T07:17:01.532170+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:25.604Z"
+  },
+  "ynulihao/agentskillos": {
+    "data": {
+      "product-requirements": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-19T12:31:56.689Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-19T12:32:05.870Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-19T12:31:34.815916+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:26.222Z"
+  },
+  "blockmatic/basilic-skills": {
+    "data": {
+      "w-roadmap": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-21T00:07:17.654Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-21T00:07:28.326Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-21T00:06:56.829467+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:26.972Z"
+  },
+  "heygen-com/hyperframes": {
+    "data": {
+      "wireframe-portal-title": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-19T21:01:17.605Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-19T21:01:56.888Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-09-19T21:00:54.386676+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:27.583Z"
+  },
+  "shubhamsaboo/taste-skill": {
+    "data": {
+      "redesign-existing-projects": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-05T03:43:38.176Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-05T03:43:31.033Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-05T03:42:58.580098+00:00"
+        }
+      },
+      "design-taste-frontend": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-05T03:43:12.403Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-05T03:43:31.179Z"
+        },
+        "snyk": {
+          "risk": "low",
+          "analyzedAt": "2026-09-05T03:42:58.712814+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:28.249Z"
+  },
+  "reason-machines/marketing-skills": {
+    "data": {
+      "email-marketing-bible-skill": {},
+      "claude-email-marketing-skill": {}
+    },
+    "fetched_at": "2026-09-21T04:31:28.851Z"
+  },
+  "cheehoolabs/spureeskills": {
+    "data": {
+      "project-management": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-20T16:00:49.610Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-20T16:01:34.098Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-09-20T16:00:31.366310+00:00"
+        },
+        "zeroleaks": {
+          "risk": "low",
+          "score": 86,
+          "analyzedAt": "2026-04-16T07:00:02.798Z"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:29.519Z"
+  },
+  "happy-technologies-llc/happy-platform-skills": {
+    "data": {
+      "legal-request-triage": {
+        "ath": {
+          "risk": "safe",
+          "analyzedAt": "2026-09-15T11:45:28.225Z"
+        },
+        "socket": {
+          "risk": "safe",
+          "alerts": 0,
+          "score": 90,
+          "analyzedAt": "2026-09-15T11:47:54.648Z"
+        },
+        "snyk": {
+          "risk": "medium",
+          "analyzedAt": "2026-09-15T11:45:45.021797+00:00"
+        }
+      }
+    },
+    "fetched_at": "2026-09-21T04:31:30.122Z"
   }
 }

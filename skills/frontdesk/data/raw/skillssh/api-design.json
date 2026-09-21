@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/api-and-interface-design",
     "metric": {
-      "installs": 36400
+      "installs": 37600
     },
     "description": "",
     "topics": [],
@@ -18,7 +18,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/api-design-principles",
     "metric": {
-      "installs": 28400
+      "installs": 28500
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/jeffallan/claude-skills/api-designer",
     "metric": {
-      "installs": 5700
+      "installs": 5800
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dpearson2699/swift-ios-skills/swift-api-design-guidelines",
     "metric": {
-      "installs": 2400
+      "installs": 2500
     },
     "description": "",
     "topics": [],
@@ -104,29 +104,29 @@
     "seed_keyword": "api design"
   },
   {
-    "id": "skillssh:alirezarezvani/claude-skills@api-design-reviewer",
-    "name": "alirezarezvani/claude-skills@api-design-reviewer",
-    "type": "skill",
-    "source_url": "https://skills.sh/alirezarezvani/claude-skills/api-design-reviewer",
-    "metric": {
-      "installs": 752
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add alirezarezvani/claude-skills@api-design-reviewer",
-    "seed_keyword": "api design"
-  },
-  {
     "id": "skillssh:asyrafhussin/agent-skills@api-design-patterns",
     "name": "asyrafhussin/agent-skills@api-design-patterns",
     "type": "skill",
     "source_url": "https://skills.sh/asyrafhussin/agent-skills/api-design-patterns",
     "metric": {
-      "installs": 752
+      "installs": 757
     },
     "description": "",
     "topics": [],
     "install": "npx skills add asyrafhussin/agent-skills@api-design-patterns",
+    "seed_keyword": "api design"
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@api-design-reviewer",
+    "name": "alirezarezvani/claude-skills@api-design-reviewer",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/api-design-reviewer",
+    "metric": {
+      "installs": 756
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add alirezarezvani/claude-skills@api-design-reviewer",
     "seed_keyword": "api design"
   },
   {
@@ -148,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samuraigpt/generative-media-skills/muapi-design-guide",
     "metric": {
-      "installs": 647
+      "installs": 649
     },
     "description": "",
     "topics": [],
@@ -161,7 +161,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaronontheweb/dotnet-skills/api-design",
     "metric": {
-      "installs": 602
+      "installs": 609
     },
     "description": "",
     "topics": [],
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/secondsky/claude-skills/rest-api-design",
     "metric": {
-      "installs": 542
+      "installs": 544
     },
     "description": "",
     "topics": [],
@@ -187,7 +187,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/api-design-patterns",
     "metric": {
-      "installs": 530
+      "installs": 531
     },
     "description": "",
     "topics": [],
@@ -200,7 +200,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/chrisbanes/skills/kotlin-api-design",
     "metric": {
-      "installs": 519
+      "installs": 529
     },
     "description": "",
     "topics": [],
@@ -213,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/manutej/luxor-claude-marketplace/rest-api-design-patterns",
     "metric": {
-      "installs": 493
+      "installs": 498
     },
     "description": "",
     "topics": [],
@@ -226,7 +226,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/margelo/react-native-skills/api-design",
     "metric": {
-      "installs": 430
+      "installs": 437
     },
     "description": "",
     "topics": [],
@@ -252,7 +252,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/proyecto26/system-design-skills/api-design",
     "metric": {
-      "installs": 224
+      "installs": 232
     },
     "description": "",
     "topics": [],

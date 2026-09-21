@@ -22,7 +22,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/market-research",
     "metric": {
-      "installs": 10600
+      "installs": 10700
     },
     "description": "",
     "license": null,
@@ -56,7 +56,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/prediction-market-oracle-research",
     "metric": {
-      "installs": 4400
+      "installs": 4500
     },
     "description": "",
     "license": null,
@@ -106,7 +106,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/davila7/claude-code-templates/market-research-reports",
     "metric": {
-      "installs": 1800
+      "installs": 1900
     },
     "description": "",
     "license": null,
@@ -140,7 +140,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/keyword-research",
     "metric": {
-      "installs": 1400
+      "installs": 1500
     },
     "description": "",
     "license": null,
@@ -174,7 +174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/kostja94/marketing-skills/research-sources",
     "metric": {
-      "installs": 969
+      "installs": 974
     },
     "description": "",
     "license": null,
@@ -191,7 +191,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/manojbajaj95/claude-gtm-plugin/market-research-analysis",
     "metric": {
-      "installs": 845
+      "installs": 846
     },
     "description": "",
     "license": null,
@@ -225,7 +225,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/linkfox-ai/linkfox-skills/linkfox-sellersprite-market-research",
     "metric": {
-      "installs": 388
+      "installs": 390
     },
     "description": "",
     "license": null,
@@ -259,7 +259,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/market-research",
     "metric": {
-      "installs": 204
+      "installs": 209
     },
     "description": "",
     "license": null,
@@ -276,7 +276,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/market-research",
     "metric": {
-      "installs": 186
+      "installs": 189
     },
     "description": "",
     "license": null,
@@ -339,12 +339,30 @@
     "audit_score": 93.8
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@strategy-advisor",
+    "name": "shubhamsaboo/awesome-llm-apps@strategy-advisor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/strategy-advisor",
+    "metric": {
+      "installs": 3100
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@strategy-advisor",
+    "category": "1.3",
+    "category_name": "전략/기획 (Strategy) > 비즈니스모델/수익화",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "skillssh:coreyhaines31/marketingskills@pricing",
     "name": "coreyhaines31/marketingskills@pricing",
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/pricing",
     "metric": {
-      "installs": 62500
+      "installs": 63200
     },
     "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' '",
     "license": null,
@@ -514,7 +532,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/kostja94/marketing-skills/pricing-page-generator",
     "metric": {
-      "installs": 992
+      "installs": 999
     },
     "description": "",
     "license": null,
@@ -531,7 +549,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/amazon-skills/amazon-repricing-strategy",
     "metric": {
-      "installs": 970
+      "installs": 974
     },
     "description": "",
     "license": null,
@@ -543,12 +561,29 @@
     "audit_score": 93.8
   },
   {
+    "id": "skillssh:shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "name": "shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "type": "skill",
+    "source_url": "https://skills.sh/shopify/shopify-ai-toolkit/shopify-app-pricing",
+    "metric": {
+      "installs": 893
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shopify/shopify-ai-toolkit@shopify-app-pricing",
+    "category": "1.4",
+    "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
+    "weak_match": false,
+    "health_score": 99.1,
+    "audit_score": 50
+  },
+  {
     "id": "skillssh:nexscope-ai/ecommerce-skills@etsy-pricing-strategy",
     "name": "nexscope-ai/ecommerce-skills@etsy-pricing-strategy",
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/etsy-pricing-strategy",
     "metric": {
-      "installs": 848
+      "installs": 858
     },
     "description": "",
     "license": null,
@@ -565,7 +600,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-pricing",
     "metric": {
-      "installs": 839
+      "installs": 850
     },
     "description": "",
     "license": null,
@@ -594,29 +629,12 @@
     "audit_score": 93.8
   },
   {
-    "id": "skillssh:shopify/shopify-ai-toolkit@shopify-app-pricing",
-    "name": "shopify/shopify-ai-toolkit@shopify-app-pricing",
-    "type": "skill",
-    "source_url": "https://skills.sh/shopify/shopify-ai-toolkit/shopify-app-pricing",
-    "metric": {
-      "installs": 826
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add shopify/shopify-ai-toolkit@shopify-app-pricing",
-    "category": "1.4",
-    "category_name": "전략/기획 (Strategy) > 프라이싱 전략",
-    "weak_match": false,
-    "health_score": 99.1,
-    "audit_score": 50
-  },
-  {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
     "name": "aaron-he-zhu/aaron-marketing-skills@pricing-packaging-planner",
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/pricing-packaging-planner",
     "metric": {
-      "installs": 777
+      "installs": 792
     },
     "description": "",
     "license": null,
@@ -633,7 +651,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ognjengt/founder-skills/pricing-strategist",
     "metric": {
-      "installs": 716
+      "installs": 722
     },
     "description": "",
     "license": null,
@@ -650,7 +668,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/pricing-strategy",
     "metric": {
-      "installs": 649
+      "installs": 652
     },
     "description": "",
     "license": null,
@@ -700,7 +718,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/product-on-purpose/pm-skills/measure-dashboard-requirements",
     "metric": {
-      "installs": 683
+      "installs": 687
     },
     "description": "",
     "license": null,
@@ -767,7 +785,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/khazp/vibe-coding-prompt-template/vibe-prd",
     "metric": {
-      "installs": 174
+      "installs": 175
     },
     "description": "",
     "license": null,
@@ -784,7 +802,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/davidlee/doctrine/spec-product",
     "metric": {
-      "installs": 91
+      "installs": 93
     },
     "description": "",
     "license": null,
@@ -794,23 +812,6 @@
     "weak_match": true,
     "health_score": 85,
     "audit_score": 58.3
-  },
-  {
-    "id": "skillssh:vilin1927/autoflux-landing@product-requirements",
-    "name": "vilin1927/autoflux-landing@product-requirements",
-    "type": "skill",
-    "source_url": "https://skills.sh/vilin1927/autoflux-landing/product-requirements",
-    "metric": {
-      "installs": 26
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add vilin1927/autoflux-landing@product-requirements",
-    "category": "2.1",
-    "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
-    "weak_match": false,
-    "health_score": null,
-    "audit_score": 83.3
   },
   {
     "id": "skillssh:ssdeanx/agentstack@product-requirements",
@@ -881,12 +882,29 @@
     "audit_score": 83.3
   },
   {
+    "id": "skillssh:ynulihao/agentskillos@product-requirements",
+    "name": "ynulihao/agentskillos@product-requirements",
+    "type": "skill",
+    "source_url": "https://skills.sh/ynulihao/agentskillos/product-requirements",
+    "metric": {
+      "installs": 9
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add ynulihao/agentskillos@product-requirements",
+    "category": "2.1",
+    "category_name": "프로덕트 매니지먼트 > PRD/요구사항 작성",
+    "weak_match": false,
+    "health_score": 56.6,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:cbrock84/headcount@product-requirements",
     "name": "cbrock84/headcount@product-requirements",
     "type": "skill",
     "source_url": "https://skills.sh/cbrock84/headcount/product-requirements",
     "metric": {
-      "installs": 6
+      "installs": 8
     },
     "description": "",
     "license": null,
@@ -954,7 +972,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/larksuite/cli/lark-okr",
     "metric": {
-      "installs": 378900
+      "installs": 380200
     },
     "description": "飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（lark-calendar）、绩效评估",
     "license": null,
@@ -1021,7 +1039,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/roadmap-update",
     "metric": {
-      "installs": 2800
+      "installs": 2900
     },
     "description": "",
     "license": null,
@@ -1031,6 +1049,24 @@
     "weak_match": false,
     "health_score": 100,
     "audit_score": 87.5
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@sprint-planner",
+    "name": "shubhamsaboo/awesome-llm-apps@sprint-planner",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/sprint-planner",
+    "metric": {
+      "installs": 2700
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@sprint-planner",
+    "category": "2.2",
+    "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "skillssh:refoundai/lenny-skills@setting-okrs-goals",
@@ -1105,7 +1141,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/codestable/codestable/cs-roadmap",
     "metric": {
-      "installs": 1300
+      "installs": 1400
     },
     "description": "",
     "license": null,
@@ -1155,7 +1191,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/product-on-purpose/pm-skills/foundation-okr-writer",
     "metric": {
-      "installs": 644
+      "installs": 647
     },
     "description": "",
     "license": null,
@@ -1172,7 +1208,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/product-on-purpose/pm-skills/measure-okr-grader",
     "metric": {
-      "installs": 599
+      "installs": 601
     },
     "description": "",
     "license": null,
@@ -1189,7 +1225,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/roadmap-communicator",
     "metric": {
-      "installs": 588
+      "installs": 589
     },
     "description": "",
     "license": null,
@@ -1206,7 +1242,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/technical-roadmap-planning",
     "metric": {
-      "installs": 564
+      "installs": 565
     },
     "description": "",
     "license": null,
@@ -1251,12 +1287,29 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:blockmatic/basilic-skills@w-roadmap",
+    "name": "blockmatic/basilic-skills@w-roadmap",
+    "type": "skill",
+    "source_url": "https://skills.sh/blockmatic/basilic-skills/w-roadmap",
+    "metric": {
+      "installs": 343
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add blockmatic/basilic-skills@w-roadmap",
+    "category": "2.2",
+    "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:refoundai/lenny-skills@goal-setting-okrs",
     "name": "refoundai/lenny-skills@goal-setting-okrs",
     "type": "skill",
     "source_url": "https://skills.sh/refoundai/lenny-skills/goal-setting-okrs",
     "metric": {
-      "installs": 320
+      "installs": 330
     },
     "description": "",
     "license": null,
@@ -1273,7 +1326,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/promovaweb/specsfy/specsfy-roadmap-milestone-interviewer",
     "metric": {
-      "installs": 315
+      "installs": 328
     },
     "description": "",
     "license": null,
@@ -1290,7 +1343,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/refoundai/lenny-skills/roadmap-prioritization",
     "metric": {
-      "installs": 305
+      "installs": 312
     },
     "description": "",
     "license": null,
@@ -1409,7 +1462,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/onewave-ai/claude-skills/okr-generator",
     "metric": {
-      "installs": 206
+      "installs": 208
     },
     "description": "",
     "license": null,
@@ -1418,6 +1471,23 @@
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
     "health_score": 87.7,
+    "audit_score": 91.7
+  },
+  {
+    "id": "skillssh:rampstackco/claude-skills@roadmap-planning",
+    "name": "rampstackco/claude-skills@roadmap-planning",
+    "type": "skill",
+    "source_url": "https://skills.sh/rampstackco/claude-skills/roadmap-planning",
+    "metric": {
+      "installs": 205
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add rampstackco/claude-skills@roadmap-planning",
+    "category": "2.2",
+    "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
+    "weak_match": false,
+    "health_score": 100,
     "audit_score": 91.7
   },
   {
@@ -1438,29 +1508,12 @@
     "audit_score": 91.7
   },
   {
-    "id": "skillssh:rampstackco/claude-skills@roadmap-planning",
-    "name": "rampstackco/claude-skills@roadmap-planning",
-    "type": "skill",
-    "source_url": "https://skills.sh/rampstackco/claude-skills/roadmap-planning",
-    "metric": {
-      "installs": 204
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add rampstackco/claude-skills@roadmap-planning",
-    "category": "2.2",
-    "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 91.7
-  },
-  {
     "id": "skillssh:f-labs-io/agent-html-skills@html-timeline-roadmap",
     "name": "f-labs-io/agent-html-skills@html-timeline-roadmap",
     "type": "skill",
     "source_url": "https://skills.sh/f-labs-io/agent-html-skills/html-timeline-roadmap",
     "metric": {
-      "installs": 202
+      "installs": 203
     },
     "description": "",
     "license": null,
@@ -1469,23 +1522,6 @@
     "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
     "weak_match": false,
     "health_score": 90.8,
-    "audit_score": 91.7
-  },
-  {
-    "id": "skillssh:shipshitdev/skills@roadmap-analyzer",
-    "name": "shipshitdev/skills@roadmap-analyzer",
-    "type": "skill",
-    "source_url": "https://skills.sh/shipshitdev/skills/roadmap-analyzer",
-    "metric": {
-      "installs": 182
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add shipshitdev/skills@roadmap-analyzer",
-    "category": "2.2",
-    "category_name": "프로덕트 매니지먼트 > 로드맵/우선순위",
-    "weak_match": false,
-    "health_score": 79.5,
     "audit_score": 91.7
   },
   {
@@ -1630,7 +1666,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/customer-research",
     "metric": {
-      "installs": 95900
+      "installs": 96600
     },
     "description": "When the user wants to conduct, analyze, or synthesize customer research. Use when the user mentions \"customer research,\" \"ICP research,\" \"talk to customers,\" \"analyze transcripts,\" \"customer interviews,\" \"survey analysi",
     "license": null,
@@ -1680,7 +1716,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/user-research-analysis",
     "metric": {
-      "installs": 599
+      "installs": 600
     },
     "description": "",
     "license": null,
@@ -1714,7 +1750,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/glebis/claude-skills/deep-research",
     "metric": {
-      "installs": 316
+      "installs": 318
     },
     "description": "",
     "license": null,
@@ -1731,7 +1767,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/cookiy-ai/user-research-skill/user-research-cookiy",
     "metric": {
-      "installs": 248
+      "installs": 249
     },
     "description": "",
     "license": null,
@@ -1748,7 +1784,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/user-research-synthesis",
     "metric": {
-      "installs": 151
+      "installs": 154
     },
     "description": "",
     "license": null,
@@ -1765,7 +1801,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/user-research-cookiy",
     "metric": {
-      "installs": 136
+      "installs": 142
     },
     "description": "",
     "license": null,
@@ -2170,6 +2206,23 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@ux-designer",
+    "name": "shubhamsaboo/awesome-llm-apps@ux-designer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/ux-designer",
+    "metric": {
+      "installs": 3700
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@ux-designer",
+    "category": "3.1",
+    "category_name": "디자인 > UX/와이어프레임",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "github:orico/www.mlcompendium.com",
     "name": "www.mlcompendium.com",
     "type": "github-repo",
@@ -2208,7 +2261,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ghaida/intent/wireframe",
     "metric": {
-      "installs": 1400
+      "installs": 1500
     },
     "description": "",
     "license": null,
@@ -2242,7 +2295,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/plannotator/effective-html/html-wireframe",
     "metric": {
-      "installs": 1200
+      "installs": 1300
     },
     "description": "",
     "license": null,
@@ -2259,7 +2312,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mengto/skills/technical-wireframe-info-layout",
     "metric": {
-      "installs": 944
+      "installs": 980
     },
     "description": "",
     "license": null,
@@ -2276,7 +2329,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mengto/skills/build-wireframe-scan-reveal",
     "metric": {
-      "installs": 663
+      "installs": 699
     },
     "description": "",
     "license": null,
@@ -2293,7 +2346,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/roble3/cc-blender-skill/wireframe-to-3d",
     "metric": {
-      "installs": 379
+      "installs": 393
     },
     "description": "",
     "license": null,
@@ -2310,7 +2363,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/markdown-viewer/skills/wireframe",
     "metric": {
-      "installs": 290
+      "installs": 291
     },
     "description": "",
     "license": null,
@@ -2339,12 +2392,29 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:heygen-com/hyperframes@wireframe-portal-title",
+    "name": "heygen-com/hyperframes@wireframe-portal-title",
+    "type": "skill",
+    "source_url": "https://skills.sh/heygen-com/hyperframes/wireframe-portal-title",
+    "metric": {
+      "installs": 232
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add heygen-com/hyperframes@wireframe-portal-title",
+    "category": "3.1",
+    "category_name": "디자인 > UX/와이어프레임",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 83.3
+  },
+  {
     "id": "skillssh:agilek/wireframer-skill@wireframer",
     "name": "agilek/wireframer-skill@wireframer",
     "type": "skill",
     "source_url": "https://skills.sh/agilek/wireframer-skill/wireframer",
     "metric": {
-      "installs": 131
+      "installs": 134
     },
     "description": "",
     "license": null,
@@ -2361,7 +2431,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/wireframer",
     "metric": {
-      "installs": 115
+      "installs": 119
     },
     "description": "",
     "license": null,
@@ -2378,7 +2448,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/wireframe-skill",
     "metric": {
-      "installs": 113
+      "installs": 117
     },
     "description": "",
     "license": null,
@@ -2388,6 +2458,23 @@
     "weak_match": false,
     "health_score": 87.3,
     "audit_score": 66.7
+  },
+  {
+    "id": "skillssh:podo/design-agent-skills@claude-wireframe-skill",
+    "name": "podo/design-agent-skills@claude-wireframe-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/podo/design-agent-skills/claude-wireframe-skill",
+    "metric": {
+      "installs": 115
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add podo/design-agent-skills@claude-wireframe-skill",
+    "category": "3.1",
+    "category_name": "디자인 > UX/와이어프레임",
+    "weak_match": false,
+    "health_score": 87.3,
+    "audit_score": 16.7
   },
   {
     "id": "skillssh:bm629/agent-skills@authoring-wireframes",
@@ -2405,23 +2492,6 @@
     "weak_match": false,
     "health_score": 87.3,
     "audit_score": 91.7
-  },
-  {
-    "id": "skillssh:podo/design-agent-skills@claude-wireframe-skill",
-    "name": "podo/design-agent-skills@claude-wireframe-skill",
-    "type": "skill",
-    "source_url": "https://skills.sh/podo/design-agent-skills/claude-wireframe-skill",
-    "metric": {
-      "installs": 111
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add podo/design-agent-skills@claude-wireframe-skill",
-    "category": "3.1",
-    "category_name": "디자인 > UX/와이어프레임",
-    "weak_match": false,
-    "health_score": 87.3,
-    "audit_score": 16.7
   },
   {
     "id": "skillssh:bm629/agent-skills@reviewing-wireframes",
@@ -2446,7 +2516,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/manalkaff/opendesign/wireframe",
     "metric": {
-      "installs": 82
+      "installs": 84
     },
     "description": "",
     "license": null,
@@ -2480,7 +2550,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/teo5777/easy-wireframe/easy-wireframe",
     "metric": {
-      "installs": 48
+      "installs": 49
     },
     "description": "",
     "license": null,
@@ -2514,7 +2584,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ceorkm/mobile-app-ui-design/mobile-app-ui-design",
     "metric": {
-      "installs": 9300
+      "installs": 9500
     },
     "description": "",
     "license": null,
@@ -2565,7 +2635,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-ui-design",
     "metric": {
-      "installs": 127
+      "installs": 131
     },
     "description": "",
     "license": null,
@@ -2575,6 +2645,24 @@
     "weak_match": false,
     "health_score": 87.3,
     "audit_score": 50
+  },
+  {
+    "id": "skillssh:shubhamsaboo/taste-skill@redesign-existing-projects",
+    "name": "shubhamsaboo/taste-skill@redesign-existing-projects",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/taste-skill/redesign-existing-projects",
+    "metric": {
+      "installs": 2
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/taste-skill@redesign-existing-projects",
+    "category": "3.2",
+    "category_name": "디자인 > UI 비주얼 디자인",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 77.3,
+    "audit_score": 91.7
   },
   {
     "id": "github:donnemartin/system-design-primer",
@@ -2598,7 +2686,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/arvindrk/extract-design-system/extract-design-system",
     "metric": {
-      "installs": 129200
+      "installs": 129300
     },
     "description": "Extract design primitives from a public website and generate starter token files for your project.",
     "license": null,
@@ -2647,7 +2735,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/tailwind-design-system",
     "metric": {
-      "installs": 64600
+      "installs": 64900
     },
     "description": "Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.",
     "license": null,
@@ -2696,7 +2784,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/design-system",
     "metric": {
-      "installs": 29700
+      "installs": 30300
     },
     "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design t",
     "license": null,
@@ -2761,7 +2849,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/design-system-patterns",
     "metric": {
-      "installs": 14400
+      "installs": 14500
     },
     "description": "Build scalable design systems with design tokens, theming infrastructure, and component architecture patterns. Use when creating design tokens, implementing theme switching, building component libraries, or establishing ",
     "license": null,
@@ -2939,7 +3027,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/expo/skills/expo-design-system",
     "metric": {
-      "installs": 8000
+      "installs": 8400
     },
     "description": "",
     "license": null,
@@ -3129,6 +3217,23 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:forcedotcom/sf-skills@design-systems-slds2-migrate",
+    "name": "forcedotcom/sf-skills@design-systems-slds2-migrate",
+    "type": "skill",
+    "source_url": "https://skills.sh/forcedotcom/sf-skills/design-systems-slds2-migrate",
+    "metric": {
+      "installs": 5400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add forcedotcom/sf-skills@design-systems-slds2-migrate",
+    "category": "3.3",
+    "category_name": "디자인 > 디자인 시스템",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 83.3
+  },
+  {
     "id": "github:system-ui/theme-ui",
     "name": "theme-ui",
     "type": "github-repo",
@@ -3161,29 +3266,12 @@
     "health_score": 90
   },
   {
-    "id": "skillssh:forcedotcom/sf-skills@design-systems-slds2-migrate",
-    "name": "forcedotcom/sf-skills@design-systems-slds2-migrate",
-    "type": "skill",
-    "source_url": "https://skills.sh/forcedotcom/sf-skills/design-systems-slds2-migrate",
-    "metric": {
-      "installs": 5300
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add forcedotcom/sf-skills@design-systems-slds2-migrate",
-    "category": "3.3",
-    "category_name": "디자인 > 디자인 시스템",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 83.3
-  },
-  {
     "id": "skillssh:wondelai/skills@system-design",
     "name": "wondelai/skills@system-design",
     "type": "skill",
     "source_url": "https://skills.sh/wondelai/skills/system-design",
     "metric": {
-      "installs": 5100
+      "installs": 5200
     },
     "description": "",
     "license": null,
@@ -3216,7 +3304,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/tailwind-design-system",
     "metric": {
-      "installs": 3800
+      "installs": 3900
     },
     "description": "",
     "license": null,
@@ -3367,7 +3455,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/web-quality-skills/accessibility",
     "metric": {
-      "installs": 54000
+      "installs": 54500
     },
     "description": "Audit and improve web accessibility following WCAG 2.2 guidelines. Use when asked to \"improve accessibility\", \"a11y audit\", \"WCAG compliance\", \"screen reader support\", \"keyboard navigation\", or \"make accessible\".",
     "license": null,
@@ -3464,7 +3552,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ibelick/ui-skills/fixing-accessibility",
     "metric": {
-      "installs": 18600
+      "installs": 18800
     },
     "description": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.",
     "license": null,
@@ -3481,7 +3569,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/jakubkrehel/skills/better-accessibility",
     "metric": {
-      "installs": 17900
+      "installs": 18400
     },
     "description": "Helps your project comply with accessibility standards and best practices.",
     "license": null,
@@ -3514,7 +3602,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/accessibility-compliance",
     "metric": {
-      "installs": 13300
+      "installs": 13400
     },
     "description": "Implement WCAG 2.2 compliant interfaces with mobile accessibility, inclusive design patterns, and assistive technology support. Use when auditing accessibility, implementing ARIA patterns, building for screen readers, or",
     "license": null,
@@ -3628,7 +3716,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/accessibility",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "license": null,
@@ -3842,7 +3930,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/owl-listener/designer-skills/accessibility-test-plan",
     "metric": {
-      "installs": 1600
+      "installs": 1700
     },
     "description": "",
     "license": null,
@@ -3927,7 +4015,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dadederk/ios-accessibility-agent-skill/ios-accessibility",
     "metric": {
-      "installs": 825
+      "installs": 832
     },
     "description": "",
     "license": null,
@@ -3978,7 +4066,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
     "metric": {
-      "installs": 725700
+      "installs": 729800
     },
     "description": "",
     "license": null,
@@ -3995,7 +4083,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills",
     "metric": {
-      "installs": 215100
+      "installs": 216700
     },
     "description": "",
     "license": null,
@@ -4044,7 +4132,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-view-transitions",
     "metric": {
-      "installs": 125300
+      "installs": 127100
     },
     "description": "",
     "license": null,
@@ -4125,7 +4213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/greensock/gsap-skills/gsap-react",
     "metric": {
-      "installs": 50900
+      "installs": 51300
     },
     "description": "Official GSAP skill for React — useGSAP hook, refs, gsap.context(), cleanup. Use when the user wants animation in React or Next.js, or asks about GSAP with React, useGSAP, or cleanup on unmount. Recommend GSAP for React ",
     "license": null,
@@ -4222,7 +4310,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/callstackincubator/agent-skills/react-native-best-practices",
     "metric": {
-      "installs": 26200
+      "installs": 26400
     },
     "description": "Provides React Native performance optimization guidelines for FPS, TTI, bundle size, memory leaks, re-renders, and animations. Applies to tasks involving Hermes optimization, JS thread blocking, bridge overhead, FlashLis",
     "license": null,
@@ -4303,7 +4391,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-react-patterns",
     "metric": {
-      "installs": 17000
+      "installs": 17200
     },
     "description": "React SPA auth patterns with @clerk/react for Vite/CRA - ClerkProvider",
     "license": null,
@@ -4336,7 +4424,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/millionco/react-doctor/react-doctor",
     "metric": {
-      "installs": 14600
+      "installs": 14700
     },
     "description": "Use when finishing a feature, fixing a bug, before committing React code, or when the user types `/doctor`, asks to scan, triage, or clean up React diagnostics. Covers lint, accessibility, bundle size, architecture. Incl",
     "license": null,
@@ -4353,7 +4441,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-react-router-patterns",
     "metric": {
-      "installs": 13600
+      "installs": 13800
     },
     "description": "React Router v7/v8 patterns with Clerk — rootAuthLoader, getAuth in loaders,",
     "license": null,
@@ -4435,7 +4523,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vuejs-ai/skills/vue-testing-best-practices",
     "metric": {
-      "installs": 11800
+      "installs": 11900
     },
     "description": "",
     "license": null,
@@ -4444,6 +4532,23 @@
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
     "health_score": 80,
+    "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:vercel-labs/json-render@react",
+    "name": "vercel-labs/json-render@react",
+    "type": "skill",
+    "source_url": "https://skills.sh/vercel-labs/json-render/react",
+    "metric": {
+      "installs": 11000
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add vercel-labs/json-render@react",
+    "category": "4.1",
+    "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
+    "weak_match": false,
+    "health_score": 100,
     "audit_score": 93.8
   },
   {
@@ -4461,23 +4566,6 @@
     "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
     "weak_match": false,
     "health_score": 100
-  },
-  {
-    "id": "skillssh:vercel-labs/json-render@react",
-    "name": "vercel-labs/json-render@react",
-    "type": "skill",
-    "source_url": "https://skills.sh/vercel-labs/json-render/react",
-    "metric": {
-      "installs": 10700
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add vercel-labs/json-render@react",
-    "category": "4.1",
-    "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 93.8
   },
   {
     "id": "skillssh:callstackincubator/agent-skills@upgrading-react-native",
@@ -5112,12 +5200,29 @@
     "health_score": 86.2
   },
   {
+    "id": "skillssh:shubhamsaboo/taste-skill@design-taste-frontend",
+    "name": "shubhamsaboo/taste-skill@design-taste-frontend",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/taste-skill/design-taste-frontend",
+    "metric": {
+      "installs": 2
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/taste-skill@design-taste-frontend",
+    "category": "4.1",
+    "category_name": "엔지니어링-프론트엔드 > 웹 프론트엔드",
+    "weak_match": false,
+    "health_score": 77.3,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:designed-by-ai/skills@design-mobile-apps",
     "name": "designed-by-ai/skills@design-mobile-apps",
     "type": "skill",
     "source_url": "https://skills.sh/designed-by-ai/skills/design-mobile-apps",
     "metric": {
-      "installs": 297500
+      "installs": 332900
     },
     "description": "Use when the user wants to design a mobile app or UI screens, when they mention their Sleek (sleek.design) projects, or when implementing Sleek designs in code (HTML, React Native, SwiftUI).",
     "license": null,
@@ -5183,7 +5288,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/solana-mobile/solana-mobile-skills/solana-mobile",
     "metric": {
-      "installs": 5100
+      "installs": 5300
     },
     "description": "",
     "license": null,
@@ -5282,7 +5387,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-testing",
     "metric": {
-      "installs": 810
+      "installs": 811
     },
     "description": "",
     "license": null,
@@ -5315,7 +5420,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/mobile-app-debugging",
     "metric": {
-      "installs": 551
+      "installs": 552
     },
     "description": "",
     "license": null,
@@ -5332,7 +5437,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-testing",
     "metric": {
-      "installs": 431
+      "installs": 432
     },
     "description": "",
     "license": null,
@@ -5349,7 +5454,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/secondsky/claude-skills/mobile-app-debugging",
     "metric": {
-      "installs": 396
+      "installs": 397
     },
     "description": "",
     "license": null,
@@ -5366,7 +5471,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mukul975/anthropic-cybersecurity-skills/conducting-mobile-app-penetration-test",
     "metric": {
-      "installs": 282
+      "installs": 285
     },
     "description": "",
     "license": null,
@@ -5417,7 +5522,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/qodex-ai/ai-agent-skills/mobile-app-interface",
     "metric": {
-      "installs": 160
+      "installs": 161
     },
     "description": "",
     "license": null,
@@ -5434,7 +5539,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/podo/design-agent-skills/mobile-app-design",
     "metric": {
-      "installs": 129
+      "installs": 134
     },
     "description": "",
     "license": null,
@@ -5446,21 +5551,21 @@
     "audit_score": 41.7
   },
   {
-    "id": "skillssh:404kidwiz/claude-supercode-skills@mobile-app-developer",
-    "name": "404kidwiz/claude-supercode-skills@mobile-app-developer",
+    "id": "skillssh:podo/design-agent-skills@sleek-design-mobile-apps",
+    "name": "podo/design-agent-skills@sleek-design-mobile-apps",
     "type": "skill",
-    "source_url": "https://skills.sh/404kidwiz/claude-supercode-skills/mobile-app-developer",
+    "source_url": "https://skills.sh/podo/design-agent-skills/sleek-design-mobile-apps",
     "metric": {
-      "installs": 128
+      "installs": 129
     },
     "description": "",
     "license": null,
-    "install": "npx skills add 404kidwiz/claude-supercode-skills@mobile-app-developer",
+    "install": "npx skills add podo/design-agent-skills@sleek-design-mobile-apps",
     "category": "4.2",
     "category_name": "엔지니어링-프론트엔드 > 모바일",
     "weak_match": false,
-    "health_score": null,
-    "audit_score": 91.7
+    "health_score": 87.3,
+    "audit_score": null
   },
   {
     "id": "skillssh:ww-w-ai/bkit-claude-code@mobile-app",
@@ -5485,7 +5590,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/power-platform-skills/create-mobile-app",
     "metric": {
-      "installs": 100
+      "installs": 101
     },
     "description": "",
     "license": null,
@@ -5551,7 +5656,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/api-and-interface-design",
     "metric": {
-      "installs": 36400
+      "installs": 37600
     },
     "description": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or establishing boundarie",
     "license": null,
@@ -5568,7 +5673,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/api-design-principles",
     "metric": {
-      "installs": 28400
+      "installs": 28500
     },
     "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing API design standards.",
     "license": null,
@@ -5617,7 +5722,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-rest-api",
     "metric": {
-      "installs": 9300
+      "installs": 9400
     },
     "description": "",
     "license": null,
@@ -5634,7 +5739,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/jeffallan/claude-skills/api-designer",
     "metric": {
-      "installs": 5700
+      "installs": 5800
     },
     "description": "",
     "license": null,
@@ -5667,7 +5772,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/spring-boot-openapi-documentation",
     "metric": {
-      "installs": 3300
+      "installs": 3400
     },
     "description": "",
     "license": null,
@@ -5716,7 +5821,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dpearson2699/swift-ios-skills/swift-api-design-guidelines",
     "metric": {
-      "installs": 2400
+      "installs": 2500
     },
     "description": "",
     "license": null,
@@ -5779,29 +5884,12 @@
     "audit_score": 91.7
   },
   {
-    "id": "skillssh:alirezarezvani/claude-skills@api-design-reviewer",
-    "name": "alirezarezvani/claude-skills@api-design-reviewer",
-    "type": "skill",
-    "source_url": "https://skills.sh/alirezarezvani/claude-skills/api-design-reviewer",
-    "metric": {
-      "installs": 752
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add alirezarezvani/claude-skills@api-design-reviewer",
-    "category": "5.1",
-    "category_name": "엔지니어링-백엔드 > API 설계",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 91.7
-  },
-  {
     "id": "skillssh:asyrafhussin/agent-skills@api-design-patterns",
     "name": "asyrafhussin/agent-skills@api-design-patterns",
     "type": "skill",
     "source_url": "https://skills.sh/asyrafhussin/agent-skills/api-design-patterns",
     "metric": {
-      "installs": 752
+      "installs": 757
     },
     "description": "",
     "license": null,
@@ -5811,6 +5899,23 @@
     "weak_match": false,
     "health_score": 92.8,
     "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:alirezarezvani/claude-skills@api-design-reviewer",
+    "name": "alirezarezvani/claude-skills@api-design-reviewer",
+    "type": "skill",
+    "source_url": "https://skills.sh/alirezarezvani/claude-skills/api-design-reviewer",
+    "metric": {
+      "installs": 756
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add alirezarezvani/claude-skills@api-design-reviewer",
+    "category": "5.1",
+    "category_name": "엔지니어링-백엔드 > API 설계",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:zhaono1/agent-playbook@api-designer",
@@ -5835,7 +5940,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samuraigpt/generative-media-skills/muapi-design-guide",
     "metric": {
-      "installs": 647
+      "installs": 649
     },
     "description": "",
     "license": null,
@@ -5852,7 +5957,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaronontheweb/dotnet-skills/api-design",
     "metric": {
-      "installs": 602
+      "installs": 609
     },
     "description": "",
     "license": null,
@@ -5869,7 +5974,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/secondsky/claude-skills/rest-api-design",
     "metric": {
-      "installs": 542
+      "installs": 544
     },
     "description": "",
     "license": null,
@@ -5886,7 +5991,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/api-design-patterns",
     "metric": {
-      "installs": 530
+      "installs": 531
     },
     "description": "",
     "license": null,
@@ -5903,7 +6008,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/chrisbanes/skills/kotlin-api-design",
     "metric": {
-      "installs": 519
+      "installs": 529
     },
     "description": "",
     "license": null,
@@ -5920,7 +6025,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/manutej/luxor-claude-marketplace/rest-api-design-patterns",
     "metric": {
-      "installs": 493
+      "installs": 498
     },
     "description": "",
     "license": null,
@@ -5937,7 +6042,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/margelo/react-native-skills/api-design",
     "metric": {
-      "installs": 430
+      "installs": 437
     },
     "description": "",
     "license": null,
@@ -5971,7 +6076,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/proyecto26/system-design-skills/api-design",
     "metric": {
-      "installs": 224
+      "installs": 232
     },
     "description": "",
     "license": null,
@@ -6117,7 +6222,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/database-migrations",
     "metric": {
-      "installs": 10100
+      "installs": 10200
     },
     "description": "",
     "license": null,
@@ -6230,7 +6335,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/database-migration-management",
     "metric": {
-      "installs": 488
+      "installs": 489
     },
     "description": "",
     "license": null,
@@ -6247,7 +6352,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/database-migration",
     "metric": {
-      "installs": 377
+      "installs": 378
     },
     "description": "",
     "license": null,
@@ -6349,7 +6454,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/timescale/pg-aiguide/postgres-database-migration",
     "metric": {
-      "installs": 148
+      "installs": 152
     },
     "description": "",
     "license": null,
@@ -6400,7 +6505,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/azure-sql-database-container/azuresql-db-schema-migration",
     "metric": {
-      "installs": 62
+      "installs": 63
     },
     "description": "",
     "license": null,
@@ -6759,7 +6864,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/terraform-module-library",
     "metric": {
-      "installs": 14400
+      "installs": 14500
     },
     "description": "Build reusable Terraform modules for AWS, Azure, GCP, and OCI infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing re",
     "license": null,
@@ -6792,7 +6897,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-style-guide",
     "metric": {
-      "installs": 11100
+      "installs": 11200
     },
     "description": "",
     "license": null,
@@ -6852,6 +6957,40 @@
     "health_score": 100
   },
   {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-generator",
+    "metric": {
+      "installs": 9500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
+    "category": "6.2",
+    "category_name": "엔지니어링-인프라/DevOps > IaC",
+    "weak_match": false,
+    "health_score": 93.1,
+    "audit_score": 83.3
+  },
+  {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-installer",
+    "metric": {
+      "installs": 9500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
+    "category": "6.2",
+    "category_name": "엔지니어링-인프라/DevOps > IaC",
+    "weak_match": false,
+    "health_score": 93.1,
+    "audit_score": 58.3
+  },
+  {
     "id": "github:runatlantis/atlantis",
     "name": "atlantis",
     "type": "github-repo",
@@ -6899,40 +7038,6 @@
     "weak_match": false,
     "health_score": 100,
     "audit_score": 93.8
-  },
-  {
-    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
-    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
-    "type": "skill",
-    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-generator",
-    "metric": {
-      "installs": 8900
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-generator",
-    "category": "6.2",
-    "category_name": "엔지니어링-인프라/DevOps > IaC",
-    "weak_match": false,
-    "health_score": 93.1,
-    "audit_score": 83.3
-  },
-  {
-    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
-    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
-    "type": "skill",
-    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-terraform-installer",
-    "metric": {
-      "installs": 8900
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-terraform-installer",
-    "category": "6.2",
-    "category_name": "엔지니어링-인프라/DevOps > IaC",
-    "weak_match": false,
-    "health_score": 93.1,
-    "audit_score": 58.3
   },
   {
     "id": "github:Orange-Cyberdefense/GOAD",
@@ -6988,7 +7093,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-test",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "license": null,
@@ -7118,7 +7223,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/hashicorp/agent-skills/terraform-stacks",
     "metric": {
-      "installs": 5200
+      "installs": 5300
     },
     "description": "",
     "license": null,
@@ -7203,7 +7308,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/pulumi/agent-skills/pulumi-terraform-to-pulumi",
     "metric": {
-      "installs": 910
+      "installs": 911
     },
     "description": "",
     "license": null,
@@ -7220,7 +7325,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/terraform-infrastructure",
     "metric": {
-      "installs": 776
+      "installs": 777
     },
     "description": "",
     "license": null,
@@ -7237,7 +7342,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/eraserlabs/eraser-io/terraform-diagrams",
     "metric": {
-      "installs": 704
+      "installs": 706
     },
     "description": "",
     "license": null,
@@ -7254,7 +7359,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mindrally/skills/terraform",
     "metric": {
-      "installs": 665
+      "installs": 667
     },
     "description": "",
     "license": null,
@@ -7271,7 +7376,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/daymade/claude-code-skills/terraform-skill",
     "metric": {
-      "installs": 618
+      "installs": 623
     },
     "description": "",
     "license": null,
@@ -7288,7 +7393,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/terraform-patterns",
     "metric": {
-      "installs": 614
+      "installs": 616
     },
     "description": "",
     "license": null,
@@ -7305,7 +7410,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/terraform",
     "metric": {
-      "installs": 291
+      "installs": 292
     },
     "description": "",
     "license": null,
@@ -7355,7 +7460,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
     "metric": {
-      "installs": 264800
+      "installs": 286200
     },
     "description": ">",
     "license": null,
@@ -7421,7 +7526,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samber/cc-skills-golang/golang-observability",
     "metric": {
-      "installs": 38300
+      "installs": 38500
     },
     "description": "Golang everyday observability — the always-on signals in production. Covers structured logging with slog, Prometheus metrics, OpenTelemetry distributed tracing, continuous profiling with pprof/Pyroscope, server-side RUM ",
     "license": null,
@@ -7454,7 +7559,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/observability-and-instrumentation",
     "metric": {
-      "installs": 30000
+      "installs": 31200
     },
     "description": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when p",
     "license": null,
@@ -7567,7 +7672,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/python-observability",
     "metric": {
-      "installs": 10400
+      "installs": 10500
     },
     "description": "",
     "license": null,
@@ -7584,7 +7689,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/google/skills/google-cloud-networking-observability",
     "metric": {
-      "installs": 9800
+      "installs": 9900
     },
     "description": "",
     "license": null,
@@ -7666,7 +7771,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aws/agent-toolkit-for-aws/aws-observability",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "license": null,
@@ -7763,7 +7868,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/google/skills/gke-observability",
     "metric": {
-      "installs": 4800
+      "installs": 4900
     },
     "description": "",
     "license": null,
@@ -7841,29 +7946,12 @@
     "audit_score": 91.7
   },
   {
-    "id": "skillssh:assistant-ui/skills@observability",
-    "name": "assistant-ui/skills@observability",
-    "type": "skill",
-    "source_url": "https://skills.sh/assistant-ui/skills/observability",
-    "metric": {
-      "installs": 3300
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add assistant-ui/skills@observability",
-    "category": "6.3",
-    "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
-    "weak_match": false,
-    "health_score": 80.8,
-    "audit_score": 91.7
-  },
-  {
     "id": "skillssh:grafana/skills@database-observability",
     "name": "grafana/skills@database-observability",
     "type": "skill",
     "source_url": "https://skills.sh/grafana/skills/database-observability",
     "metric": {
-      "installs": 3300
+      "installs": 3400
     },
     "description": "",
     "license": null,
@@ -7872,6 +7960,23 @@
     "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
     "weak_match": false,
     "health_score": 95.5,
+    "audit_score": 91.7
+  },
+  {
+    "id": "skillssh:assistant-ui/skills@observability",
+    "name": "assistant-ui/skills@observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/assistant-ui/skills/observability",
+    "metric": {
+      "installs": 3400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add assistant-ui/skills@observability",
+    "category": "6.3",
+    "category_name": "엔지니어링-인프라/DevOps > 옵저버빌리티/모니터링",
+    "weak_match": false,
+    "health_score": 80.8,
     "audit_score": 91.7
   },
   {
@@ -7999,7 +8104,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aj-geddes/useful-ai-prompts/security-audit-logging",
     "metric": {
-      "installs": 548
+      "installs": 551
     },
     "description": "",
     "license": null,
@@ -8090,6 +8195,42 @@
     "category_name": "엔지니어링-데이터/ML/AI > 데이터 파이프라인/ETL",
     "weak_match": false,
     "health_score": 100
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@data-analyst",
+    "name": "shubhamsaboo/awesome-llm-apps@data-analyst",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/data-analyst",
+    "metric": {
+      "installs": 4000
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@data-analyst",
+    "category": "7.1",
+    "category_name": "엔지니어링-데이터/ML/AI > 데이터 파이프라인/ETL",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@visualization-expert",
+    "name": "shubhamsaboo/awesome-llm-apps@visualization-expert",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/visualization-expert",
+    "metric": {
+      "installs": 3500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@visualization-expert",
+    "category": "7.1",
+    "category_name": "엔지니어링-데이터/ML/AI > 데이터 파이프라인/ETL",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:grouparoo/grouparoo",
@@ -8316,29 +8457,12 @@
     "health_score": 100
   },
   {
-    "id": "skillssh:pytorch/pytorch@pyrefly-type-coverage",
-    "name": "pytorch/pytorch@pyrefly-type-coverage",
-    "type": "skill",
-    "source_url": "https://skills.sh/pytorch/pytorch/pyrefly-type-coverage",
-    "metric": {
-      "installs": 2900
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add pytorch/pytorch@pyrefly-type-coverage",
-    "category": "7.2",
-    "category_name": "엔지니어링-데이터/ML/AI > 모델 학습",
-    "weak_match": true,
-    "health_score": 100,
-    "audit_score": 93.8
-  },
-  {
     "id": "skillssh:microsoft/azure-skills@azure-storage",
     "name": "microsoft/azure-skills@azure-storage",
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/azure-skills/azure-storage",
     "metric": {
-      "installs": 588500
+      "installs": 589900
     },
     "description": "Azure Storage Services including Blob Storage, File Shares, Queue Storage, Table Storage, and Data Lake. Answers questions about storage access tiers (hot, cool, cold, archive), when to use each tier, and tier comparison",
     "license": null,
@@ -8355,7 +8479,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/mattpocock/skills/writing-fragments",
     "metric": {
-      "installs": 359200
+      "installs": 365100
     },
     "description": "Writing, explore: mine raw fragments, no structure yet.",
     "license": null,
@@ -8820,7 +8944,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/caffeinelabs/skills/extension-object-storage",
     "metric": {
-      "installs": 21000
+      "installs": 21400
     },
     "description": "General file/object storage, such as for images, videos, files, documents and other bulk data. Perfect fit for image galleries, video galleries, and other file or object management. Supports large files beyond IC limit, ",
     "license": null,
@@ -8917,7 +9041,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dart-lang/skills/dart-collect-coverage",
     "metric": {
-      "installs": 15300
+      "installs": 15500
     },
     "description": "Collect coverage using the coverage packge and create an LCOV report",
     "license": null,
@@ -8934,7 +9058,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/langchain-ai/langchain-skills/langchain-rag",
     "metric": {
-      "installs": 15200
+      "installs": 15300
     },
     "description": "INVOKE THIS SKILL when building ANY retrieval-augmented generation (RAG) system. Covers document loaders, RecursiveCharacterTextSplitter, embeddings (OpenAI), and vector stores (Chroma, FAISS, Pinecone).",
     "license": null,
@@ -8999,7 +9123,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/rag-implementation",
     "metric": {
-      "installs": 12700
+      "installs": 12800
     },
     "description": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with exte",
     "license": null,
@@ -9092,6 +9216,23 @@
     "health_score": 100
   },
   {
+    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "type": "skill",
+    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-storage-query",
+    "metric": {
+      "installs": 9500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "category": "7.3",
+    "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
+    "weak_match": true,
+    "health_score": 93.1,
+    "audit_score": 50
+  },
+  {
     "id": "github:databendlabs/databend",
     "name": "databend",
     "type": "github-repo",
@@ -9140,21 +9281,21 @@
     "health_score": 80
   },
   {
-    "id": "skillssh:huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
-    "name": "huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "id": "skillssh:neondatabase/agent-skills@neon-object-storage",
+    "name": "neondatabase/agent-skills@neon-object-storage",
     "type": "skill",
-    "source_url": "https://skills.sh/huaweicloud/huaweicloud-skills/huawei-cloud-storage-query",
+    "source_url": "https://skills.sh/neondatabase/agent-skills/neon-object-storage",
     "metric": {
-      "installs": 8900
+      "installs": 9100
     },
     "description": "",
     "license": null,
-    "install": "npx skills add huaweicloud/huaweicloud-skills@huawei-cloud-storage-query",
+    "install": "npx skills add neondatabase/agent-skills@neon-object-storage",
     "category": "7.3",
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": true,
-    "health_score": 93.1,
-    "audit_score": 50
+    "health_score": 94.8,
+    "audit_score": 58.3
   },
   {
     "id": "github:reorproject/reor",
@@ -9187,23 +9328,6 @@
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
     "health_score": 67.5
-  },
-  {
-    "id": "skillssh:neondatabase/agent-skills@neon-object-storage",
-    "name": "neondatabase/agent-skills@neon-object-storage",
-    "type": "skill",
-    "source_url": "https://skills.sh/neondatabase/agent-skills/neon-object-storage",
-    "metric": {
-      "installs": 8200
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add neondatabase/agent-skills@neon-object-storage",
-    "category": "7.3",
-    "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
-    "weak_match": true,
-    "health_score": 94.8,
-    "audit_score": 58.3
   },
   {
     "id": "skillssh:getcargohq/cargo-skills@cargo-storage",
@@ -9320,6 +9444,23 @@
     "health_score": 100
   },
   {
+    "id": "skillssh:latent-spaces/brag@brag",
+    "name": "latent-spaces/brag@brag",
+    "type": "skill",
+    "source_url": "https://skills.sh/latent-spaces/brag/brag",
+    "metric": {
+      "installs": 5800
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add latent-spaces/brag@brag",
+    "category": "7.3",
+    "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
+    "weak_match": true,
+    "health_score": 100,
+    "audit_score": 91.7
+  },
+  {
     "id": "github:ATH-MaaS/ComfyUI-Copilot",
     "name": "ComfyUI-Copilot",
     "type": "github-repo",
@@ -9366,23 +9507,6 @@
     "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
     "weak_match": false,
     "health_score": 100
-  },
-  {
-    "id": "skillssh:latent-spaces/brag@brag",
-    "name": "latent-spaces/brag@brag",
-    "type": "skill",
-    "source_url": "https://skills.sh/latent-spaces/brag/brag",
-    "metric": {
-      "installs": 4300
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add latent-spaces/brag@brag",
-    "category": "7.3",
-    "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
-    "weak_match": true,
-    "health_score": 100,
-    "audit_score": 91.7
   },
   {
     "id": "github:langroid/langroid",
@@ -9449,6 +9573,23 @@
     "weak_match": false,
     "health_score": 100,
     "audit_score": 91.7
+  },
+  {
+    "id": "skillssh:pytorch/pytorch@pyrefly-type-coverage",
+    "name": "pytorch/pytorch@pyrefly-type-coverage",
+    "type": "skill",
+    "source_url": "https://skills.sh/pytorch/pytorch/pyrefly-type-coverage",
+    "metric": {
+      "installs": 2900
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add pytorch/pytorch@pyrefly-type-coverage",
+    "category": "7.3",
+    "category_name": "엔지니어링-데이터/ML/AI > RAG/벡터검색",
+    "weak_match": true,
+    "health_score": 100,
+    "audit_score": 93.8
   },
   {
     "id": "github:zilliztech/memsearch",
@@ -9588,7 +9729,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aws/agent-toolkit-for-aws/aws-storage",
     "metric": {
-      "installs": 1500
+      "installs": 1600
     },
     "description": "",
     "license": null,
@@ -10517,7 +10658,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
     "metric": {
-      "installs": 21600
+      "installs": 21700
     },
     "description": ">-",
     "license": null,
@@ -12094,7 +12235,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/spencerpauly/awesome-cursor-skills/prompt-engineering",
     "metric": {
-      "installs": 356
+      "installs": 359
     },
     "description": "",
     "license": null,
@@ -12143,7 +12284,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/justinperea/midjourney-cc-skill/midjourney-prompt-engineering",
     "metric": {
-      "installs": 310
+      "installs": 311
     },
     "description": "",
     "license": null,
@@ -12192,7 +12333,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/martinholovsky/claude-skills-generator/prompt-engineering",
     "metric": {
-      "installs": 222
+      "installs": 223
     },
     "description": "",
     "license": null,
@@ -12209,7 +12350,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vasilyu1983/ai-agents-public/ai-prompt-engineering",
     "metric": {
-      "installs": 213
+      "installs": 214
     },
     "description": "",
     "license": null,
@@ -12422,7 +12563,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/oakoss/agent-skills/prompt-engineering",
     "metric": {
-      "installs": 100
+      "installs": 102
     },
     "description": "",
     "license": null,
@@ -12665,7 +12806,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/skills/webapp-testing",
     "metric": {
-      "installs": 159300
+      "installs": 160600
     },
     "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
     "license": null,
@@ -12698,7 +12839,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/ab-testing",
     "metric": {
-      "installs": 60200
+      "installs": 60900
     },
     "description": "When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant",
     "license": null,
@@ -12715,7 +12856,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samber/cc-skills-golang/golang-testing",
     "metric": {
-      "installs": 40900
+      "installs": 41200
     },
     "description": "Production-ready Golang tests — table-driven tests, testify suites and mocks, parallel tests, fuzzing, fixtures, goroutine leak detection with goleak, snapshot testing, code coverage, integration tests, idiomatic test na",
     "license": null,
@@ -12732,7 +12873,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-testing",
     "metric": {
-      "installs": 39200
+      "installs": 39800
     },
     "description": "E2E testing for Clerk apps. Use with Playwright or Cypress for auth flow",
     "license": null,
@@ -12749,7 +12890,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/browser-testing-with-devtools",
     "metric": {
-      "installs": 34600
+      "installs": 35800
     },
     "description": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to inspect the DOM, capture console errors, analyze network requests, profile performance,",
     "license": null,
@@ -12766,7 +12907,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/python-testing-patterns",
     "metric": {
-      "installs": 32900
+      "installs": 33000
     },
     "description": "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices.",
     "license": null,
@@ -12783,7 +12924,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/e2e-testing-patterns",
     "metric": {
-      "installs": 22700
+      "installs": 22800
     },
     "description": "Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky tests, or establishing",
     "license": null,
@@ -12800,7 +12941,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/javascript-testing-patterns",
     "metric": {
-      "installs": 18900
+      "installs": 19000
     },
     "description": "Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use when writing JavaScrip",
     "license": null,
@@ -12834,7 +12975,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/golang-testing",
     "metric": {
-      "installs": 12600
+      "installs": 12700
     },
     "description": ">",
     "license": null,
@@ -12885,7 +13026,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/temporal-python-testing",
     "metric": {
-      "installs": 9900
+      "installs": 10000
     },
     "description": "",
     "license": null,
@@ -12902,7 +13043,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/web3-testing",
     "metric": {
-      "installs": 9800
+      "installs": 9900
     },
     "description": "",
     "license": null,
@@ -12936,7 +13077,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/twostraws/swift-testing-agent-skill/swift-testing-pro",
     "metric": {
-      "installs": 8700
+      "installs": 8800
     },
     "description": "",
     "license": null,
@@ -12963,6 +13104,24 @@
     "weak_match": false,
     "health_score": 100,
     "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@debugger",
+    "name": "shubhamsaboo/awesome-llm-apps@debugger",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/debugger",
+    "metric": {
+      "installs": 3200
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@debugger",
+    "category": "8.1",
+    "category_name": "품질/보안 > 테스트 자동화",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 87.5
   },
   {
     "id": "github:inspec/inspec",
@@ -13014,6 +13173,23 @@
     "health_score": 85.6
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@code-reviewer",
+    "name": "shubhamsaboo/awesome-llm-apps@code-reviewer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/code-reviewer",
+    "metric": {
+      "installs": 4600
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@code-reviewer",
+    "category": "8.2",
+    "category_name": "품질/보안 > 코드 리뷰",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "github:hyhmrright/brooks-lint",
     "name": "brooks-lint",
     "type": "github-repo",
@@ -13028,6 +13204,24 @@
     "category_name": "품질/보안 > 코드 리뷰",
     "weak_match": false,
     "health_score": 98.7
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@scope-creep-detector",
+    "name": "shubhamsaboo/awesome-llm-apps@scope-creep-detector",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/scope-creep-detector",
+    "metric": {
+      "installs": 440
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@scope-creep-detector",
+    "category": "8.2",
+    "category_name": "품질/보안 > 코드 리뷰",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 83.3
   },
   {
     "id": "github:Nayjest/Gito",
@@ -13046,12 +13240,48 @@
     "health_score": 97.2
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@commit-archaeologist",
+    "name": "shubhamsaboo/awesome-llm-apps@commit-archaeologist",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/commit-archaeologist",
+    "metric": {
+      "installs": 370
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@commit-archaeologist",
+    "category": "8.2",
+    "category_name": "품질/보안 > 코드 리뷰",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 83.3
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@dependency-doctor",
+    "name": "shubhamsaboo/awesome-llm-apps@dependency-doctor",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/dependency-doctor",
+    "metric": {
+      "installs": 246
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@dependency-doctor",
+    "category": "8.2",
+    "category_name": "품질/보안 > 코드 리뷰",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:firebase/agent-skills@firebase-security-rules-auditor",
     "name": "firebase/agent-skills@firebase-security-rules-auditor",
     "type": "skill",
     "source_url": "https://skills.sh/firebase/agent-skills/firebase-security-rules-auditor",
     "metric": {
-      "installs": 117800
+      "installs": 118900
     },
     "description": ">-",
     "license": null,
@@ -13237,7 +13467,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/alirezarezvani/claude-skills/skill-security-auditor",
     "metric": {
-      "installs": 753
+      "installs": 755
     },
     "description": "",
     "license": null,
@@ -13271,7 +13501,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/laravel-security-audit",
     "metric": {
-      "installs": 554
+      "installs": 556
     },
     "description": "",
     "license": null,
@@ -13288,7 +13518,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/netresearch/security-audit-skill/security-audit",
     "metric": {
-      "installs": 548
+      "installs": 555
     },
     "description": "",
     "license": null,
@@ -13356,7 +13586,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/agentnode-dev/skills-security-audit/skills-security-audit",
     "metric": {
-      "installs": 332
+      "installs": 335
     },
     "description": "",
     "license": null,
@@ -13373,7 +13603,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/donchitos/claude-code-game-studios/security-audit",
     "metric": {
-      "installs": 312
+      "installs": 314
     },
     "description": "",
     "license": null,
@@ -13390,7 +13620,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
     "metric": {
-      "installs": 209900
+      "installs": 210900
     },
     "description": "When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions \"SEO audit,\" \"technical SEO,\" \"why am I not ranking,\" \"SEO issues,\" \"on-page SEO,\" \"meta tags review,\" \"SEO heal",
     "license": null,
@@ -13407,7 +13637,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/programmatic-seo",
     "metric": {
-      "installs": 133500
+      "installs": 134200
     },
     "description": "When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions \"programmatic SEO,\" \"template pages,\" \"pages at scale,\" \"directory pages,\" \"location pages,\" \"[keyword] + ",
     "license": null,
@@ -13424,7 +13654,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/ai-seo",
     "metric": {
-      "installs": 127400
+      "installs": 128200
     },
     "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generati",
     "license": null,
@@ -13509,7 +13739,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/resciencelab/opc-skills/seo-geo",
     "metric": {
-      "installs": 47900
+      "installs": 48200
     },
     "description": "|",
     "license": null,
@@ -13526,7 +13756,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/web-quality-skills/seo",
     "metric": {
-      "installs": 46200
+      "installs": 46500
     },
     "description": "Optimize for search engine visibility and ranking. Use when asked to \"improve SEO\", \"optimize for search\", \"fix meta tags\", \"add structured data\", \"sitemap optimization\", or \"search engine optimization\".",
     "license": null,
@@ -13576,7 +13806,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/seo",
     "metric": {
-      "installs": 8200
+      "installs": 8300
     },
     "description": "",
     "license": null,
@@ -13644,7 +13874,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/sanity-io/agent-toolkit/seo-aeo-best-practices",
     "metric": {
-      "installs": 6400
+      "installs": 6500
     },
     "description": "",
     "license": null,
@@ -13661,7 +13891,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/agricidaniel/claude-seo/seo-content",
     "metric": {
-      "installs": 6200
+      "installs": 6300
     },
     "description": "",
     "license": null,
@@ -13678,7 +13908,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/getpaseo/paseo/paseo",
     "metric": {
-      "installs": 4000
+      "installs": 4100
     },
     "description": "",
     "license": null,
@@ -13695,7 +13925,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/getpaseo/paseo/paseo-handoff",
     "metric": {
-      "installs": 3800
+      "installs": 3900
     },
     "description": "",
     "license": null,
@@ -13712,7 +13942,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/getpaseo/paseo/paseo-committee",
     "metric": {
-      "installs": 3700
+      "installs": 3800
     },
     "description": "",
     "license": null,
@@ -13794,7 +14024,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/copywriting",
     "metric": {
-      "installs": 203400
+      "installs": 204400
     },
     "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,",
     "license": null,
@@ -13802,6 +14032,24 @@
     "category": "9.2",
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@content-creator",
+    "name": "shubhamsaboo/awesome-llm-apps@content-creator",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/content-creator",
+    "metric": {
+      "installs": 4700
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@content-creator",
+    "category": "9.2",
+    "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
+    "weak_match": false,
+    "manual_override": true,
     "health_score": 100,
     "audit_score": 93.8
   },
@@ -13820,6 +14068,24 @@
     "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
     "weak_match": false,
     "health_score": 80,
+    "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@fact-checker",
+    "name": "shubhamsaboo/awesome-llm-apps@fact-checker",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/fact-checker",
+    "metric": {
+      "installs": 3300
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@fact-checker",
+    "category": "9.2",
+    "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
     "audit_score": 93.8
   },
   {
@@ -13845,7 +14111,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexu-io/open-design/copywriting",
     "metric": {
-      "installs": 2700
+      "installs": 2800
     },
     "description": "",
     "license": null,
@@ -13879,7 +14145,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samber/cc-skills/copywriting-cta",
     "metric": {
-      "installs": 2300
+      "installs": 2400
     },
     "description": "",
     "license": null,
@@ -13913,7 +14179,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/miqdadbadjuber/anti-slop/antislop-copywriting",
     "metric": {
-      "installs": 2000
+      "installs": 2200
     },
     "description": "",
     "license": null,
@@ -13947,7 +14213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/conversion-copywriting",
     "metric": {
-      "installs": 644
+      "installs": 648
     },
     "description": "",
     "license": null,
@@ -13964,7 +14230,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vivy-yi/xiaohongshu-skills/copywriting-skills",
     "metric": {
-      "installs": 551
+      "installs": 552
     },
     "description": "",
     "license": null,
@@ -13981,7 +14247,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/openclaudia/openclaudia-skills/copywriting",
     "metric": {
-      "installs": 496
+      "installs": 499
     },
     "description": "",
     "license": null,
@@ -14015,7 +14281,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/yashaiguy-dev/sales-page-copywriting-skill/sales-page-copywriting",
     "metric": {
-      "installs": 481
+      "installs": 482
     },
     "description": "",
     "license": null,
@@ -14032,7 +14298,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/boraoztunc/skills/ogilvy-copywriting",
     "metric": {
-      "installs": 419
+      "installs": 426
     },
     "description": "",
     "license": null,
@@ -14049,7 +14315,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/louisblythe/sales-skills/copywriting",
     "metric": {
-      "installs": 374
+      "installs": 380
     },
     "description": "",
     "license": null,
@@ -14111,12 +14377,30 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@first-reader",
+    "name": "shubhamsaboo/awesome-llm-apps@first-reader",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/first-reader",
+    "metric": {
+      "installs": 70
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@first-reader",
+    "category": "9.2",
+    "category_name": "마케팅/그로스 > 콘텐츠/카피라이팅",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:supabase/supabase@copywriting",
     "name": "supabase/supabase@copywriting",
     "type": "skill",
     "source_url": "https://skills.sh/supabase/supabase/copywriting",
     "metric": {
-      "installs": 67
+      "installs": 68
     },
     "description": "",
     "license": null,
@@ -14229,7 +14513,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/emails",
     "metric": {
-      "installs": 60800
+      "installs": 61400
     },
     "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campaign,\" \"nurture sequence,\" \"onboar",
     "license": null,
@@ -14263,7 +14547,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/caffeinelabs/skills/extension-email-marketing",
     "metric": {
-      "installs": 21000
+      "installs": 21400
     },
     "description": "Send personalised marketing emails to subscribers with an unsubscribe link.",
     "license": null,
@@ -14395,7 +14679,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/ecommerce-email-marketing-builder",
     "metric": {
-      "installs": 928
+      "installs": 941
     },
     "description": "",
     "license": null,
@@ -14407,12 +14691,46 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:reason-machines/marketing-skills@email-marketing-bible-skill",
+    "name": "reason-machines/marketing-skills@email-marketing-bible-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/marketing-skills/email-marketing-bible-skill",
+    "metric": {
+      "installs": 896
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add reason-machines/marketing-skills@email-marketing-bible-skill",
+    "category": "9.5",
+    "category_name": "마케팅/그로스 > 이메일/CRM",
+    "weak_match": false,
+    "health_score": 77.3,
+    "audit_score": null
+  },
+  {
+    "id": "skillssh:reason-machines/marketing-skills@claude-email-marketing-skill",
+    "name": "reason-machines/marketing-skills@claude-email-marketing-skill",
+    "type": "skill",
+    "source_url": "https://skills.sh/reason-machines/marketing-skills/claude-email-marketing-skill",
+    "metric": {
+      "installs": 883
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add reason-machines/marketing-skills@claude-email-marketing-skill",
+    "category": "9.5",
+    "category_name": "마케팅/그로스 > 이메일/CRM",
+    "weak_match": false,
+    "health_score": 77.3,
+    "audit_score": null
+  },
+  {
     "id": "skillssh:aaron-he-zhu/aaron-marketing-skills@email-render-builder",
     "name": "aaron-he-zhu/aaron-marketing-skills@email-render-builder",
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-render-builder",
     "metric": {
-      "installs": 785
+      "installs": 800
     },
     "description": "",
     "license": null,
@@ -14429,7 +14747,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-creative-builder",
     "metric": {
-      "installs": 784
+      "installs": 799
     },
     "description": "",
     "license": null,
@@ -14446,7 +14764,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-sequence-designer",
     "metric": {
-      "installs": 784
+      "installs": 799
     },
     "description": "",
     "license": null,
@@ -14463,7 +14781,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/email-quality-auditor",
     "metric": {
-      "installs": 777
+      "installs": 792
     },
     "description": "",
     "license": null,
@@ -14512,7 +14830,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/cosmoblk/email-marketing-bible/email-marketing-bible",
     "metric": {
-      "installs": 365
+      "installs": 366
     },
     "description": "",
     "license": null,
@@ -14562,7 +14880,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/email-marketing",
     "metric": {
-      "installs": 145
+      "installs": 147
     },
     "description": "",
     "license": null,
@@ -14589,23 +14907,6 @@
     "weak_match": false,
     "health_score": 86.2,
     "audit_score": null
-  },
-  {
-    "id": "skillssh:finsilabs/awesome-ecommerce-skills@email-marketing-automation",
-    "name": "finsilabs/awesome-ecommerce-skills@email-marketing-automation",
-    "type": "skill",
-    "source_url": "https://skills.sh/finsilabs/awesome-ecommerce-skills/email-marketing-automation",
-    "metric": {
-      "installs": 99
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add finsilabs/awesome-ecommerce-skills@email-marketing-automation",
-    "category": "9.5",
-    "category_name": "마케팅/그로스 > 이메일/CRM",
-    "weak_match": false,
-    "health_score": 59.7,
-    "audit_score": 91.7
   },
   {
     "id": "skillssh:mphinance/alpha-skills@email-marketing",
@@ -14663,7 +14964,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
     "metric": {
-      "installs": 110000
+      "installs": 110700
     },
     "description": "Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails, prospecting emails, cold email campaigns, sales development emails, or SDR emails. Also use when the ",
     "license": null,
@@ -15071,7 +15372,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/joellewis/finance_skills/crm-client-lifecycle",
     "metric": {
-      "installs": 572
+      "installs": 576
     },
     "description": "",
     "license": null,
@@ -15088,7 +15389,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/membranedev/application-skills/zoho-crm",
     "metric": {
-      "installs": 571
+      "installs": 572
     },
     "description": "",
     "license": null,
@@ -15117,12 +15418,29 @@
     "audit_score": 50
   },
   {
+    "id": "skillssh:mbfinotti/sales-skills@sales-outreach-personalization",
+    "name": "mbfinotti/sales-skills@sales-outreach-personalization",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/sales-skills/sales-outreach-personalization",
+    "metric": {
+      "installs": 429
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/sales-skills@sales-outreach-personalization",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 83.3
+  },
+  {
     "id": "skillssh:louisblythe/sales-skills@email-sequence",
     "name": "louisblythe/sales-skills@email-sequence",
     "type": "skill",
     "source_url": "https://skills.sh/louisblythe/sales-skills/email-sequence",
     "metric": {
-      "installs": 415
+      "installs": 421
     },
     "description": "",
     "license": null,
@@ -15131,6 +15449,23 @@
     "category_name": "세일즈/매출 > 세일즈 아웃리치",
     "weak_match": true,
     "health_score": 54.4,
+    "audit_score": 91.7
+  },
+  {
+    "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
+    "name": "mbfinotti/revops-skills@crm-data-governance",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/revops-skills/crm-data-governance",
+    "metric": {
+      "installs": 392
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/revops-skills@crm-data-governance",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false,
+    "health_score": 85,
     "audit_score": 91.7
   },
   {
@@ -15183,40 +15518,6 @@
     "health_score": 99.7
   },
   {
-    "id": "skillssh:mbfinotti/sales-skills@sales-outreach-personalization",
-    "name": "mbfinotti/sales-skills@sales-outreach-personalization",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/sales-skills/sales-outreach-personalization",
-    "metric": {
-      "installs": 302
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/sales-skills@sales-outreach-personalization",
-    "category": "10.1",
-    "category_name": "세일즈/매출 > 세일즈 아웃리치",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 83.3
-  },
-  {
-    "id": "skillssh:mbfinotti/revops-skills@crm-data-governance",
-    "name": "mbfinotti/revops-skills@crm-data-governance",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/revops-skills/crm-data-governance",
-    "metric": {
-      "installs": 286
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/revops-skills@crm-data-governance",
-    "category": "10.1",
-    "category_name": "세일즈/매출 > 세일즈 아웃리치",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 91.7
-  },
-  {
     "id": "github:nando0x/ProspectOS",
     "name": "ProspectOS",
     "type": "github-repo",
@@ -15255,7 +15556,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/onewave-ai/claude-skills/gmail-to-crm-pipeline",
     "metric": {
-      "installs": 215
+      "installs": 217
     },
     "description": "",
     "license": null,
@@ -15272,7 +15573,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/crm-hygiene",
     "metric": {
-      "installs": 212
+      "installs": 215
     },
     "description": "",
     "license": null,
@@ -15334,6 +15635,23 @@
     "health_score": 97.7
   },
   {
+    "id": "skillssh:crustdata/skills@sales-outreach",
+    "name": "crustdata/skills@sales-outreach",
+    "type": "skill",
+    "source_url": "https://skills.sh/crustdata/skills/sales-outreach",
+    "metric": {
+      "installs": 170
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add crustdata/skills@sales-outreach",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false,
+    "health_score": 89.5,
+    "audit_score": 83.3
+  },
+  {
     "id": "skillssh:membranedev/application-skills@capsule-crm",
     "name": "membranedev/application-skills@capsule-crm",
     "type": "skill",
@@ -15349,23 +15667,6 @@
     "weak_match": false,
     "health_score": 67.3,
     "audit_score": 91.7
-  },
-  {
-    "id": "skillssh:crustdata/skills@sales-outreach",
-    "name": "crustdata/skills@sales-outreach",
-    "type": "skill",
-    "source_url": "https://skills.sh/crustdata/skills/sales-outreach",
-    "metric": {
-      "installs": 169
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add crustdata/skills@sales-outreach",
-    "category": "10.1",
-    "category_name": "세일즈/매출 > 세일즈 아웃리치",
-    "weak_match": false,
-    "health_score": 89.5,
-    "audit_score": 83.3
   },
   {
     "id": "skillssh:maddhruv/absolute@crm-management",
@@ -15400,40 +15701,6 @@
     "weak_match": false,
     "health_score": 67.3,
     "audit_score": 62.5
-  },
-  {
-    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm-development",
-    "name": "bobmatnyc/claude-mpm-skills@espocrm-development",
-    "type": "skill",
-    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm-development",
-    "metric": {
-      "installs": 152
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm-development",
-    "category": "10.1",
-    "category_name": "세일즈/매출 > 세일즈 아웃리치",
-    "weak_match": true,
-    "health_score": 84.8,
-    "audit_score": 83.3
-  },
-  {
-    "id": "skillssh:bobmatnyc/claude-mpm-skills@espocrm",
-    "name": "bobmatnyc/claude-mpm-skills@espocrm",
-    "type": "skill",
-    "source_url": "https://skills.sh/bobmatnyc/claude-mpm-skills/espocrm",
-    "metric": {
-      "installs": 146
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add bobmatnyc/claude-mpm-skills@espocrm",
-    "category": "10.1",
-    "category_name": "세일즈/매출 > 세일즈 아웃리치",
-    "weak_match": true,
-    "health_score": 84.8,
-    "audit_score": 91.7
   },
   {
     "id": "github:toofast1/awesome-ai-lead-generation",
@@ -15644,6 +15911,40 @@
     "health_score": 90.8
   },
   {
+    "id": "skillssh:anthropics/knowledge-work-plugins@crm-hygiene-check",
+    "name": "anthropics/knowledge-work-plugins@crm-hygiene-check",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-hygiene-check",
+    "metric": {
+      "installs": 43
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add anthropics/knowledge-work-plugins@crm-hygiene-check",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": null
+  },
+  {
+    "id": "skillssh:anthropics/knowledge-work-plugins@crm-autopilot",
+    "name": "anthropics/knowledge-work-plugins@crm-autopilot",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/crm-autopilot",
+    "metric": {
+      "installs": 43
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add anthropics/knowledge-work-plugins@crm-autopilot",
+    "category": "10.1",
+    "category_name": "세일즈/매출 > 세일즈 아웃리치",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": null
+  },
+  {
     "id": "skillssh:iamzifei/show-me-the-money@money-outreach",
     "name": "iamzifei/show-me-the-money@money-outreach",
     "type": "skill",
@@ -15698,7 +15999,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/openai/role-specific-plugins/sales-company-research",
     "metric": {
-      "installs": 40
+      "installs": 41
     },
     "description": "",
     "license": null,
@@ -15899,7 +16200,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/clerk/skills/clerk-billing",
     "metric": {
-      "installs": 14700
+      "installs": 14900
     },
     "description": "Clerk Billing for subscription management - render Clerk's PricingTable",
     "license": null,
@@ -15967,7 +16268,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/ssheleg/sheleg-dev/stripe-billing",
     "metric": {
-      "installs": 125
+      "installs": 127
     },
     "description": "",
     "license": null,
@@ -15984,7 +16285,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/borghei/claude-skills/stripe-integration-expert",
     "metric": {
-      "installs": 116
+      "installs": 117
     },
     "description": "",
     "license": null,
@@ -16035,7 +16336,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/whawkinsiv/solo-founder-skills/payments",
     "metric": {
-      "installs": 38
+      "installs": 39
     },
     "description": "",
     "license": null,
@@ -16069,7 +16370,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/geelark/geelark-cli/geelark-billing",
     "metric": {
-      "installs": 35
+      "installs": 36
     },
     "description": "",
     "license": null,
@@ -16205,7 +16506,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/googleworkspace/cli/persona-customer-support",
     "metric": {
-      "installs": 27800
+      "installs": 27900
     },
     "description": "Manage customer support — track tickets, respond, escalate issues.",
     "license": null,
@@ -16643,7 +16944,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/twilio/ai/twilio-customer-support-architect",
     "metric": {
-      "installs": 116
+      "installs": 118
     },
     "description": "",
     "license": null,
@@ -16846,7 +17147,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/googleworkspace/cli/persona-project-manager",
     "metric": {
-      "installs": 29400
+      "installs": 29500
     },
     "description": "Coordinate projects — track tasks, schedule meetings, and share docs.",
     "license": null,
@@ -16890,6 +17191,24 @@
     "health_score": 100
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@project-planner",
+    "name": "shubhamsaboo/awesome-llm-apps@project-planner",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/project-planner",
+    "metric": {
+      "installs": 4400
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@project-planner",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "skillssh:elastic/agent-skills@cloud-manage-project",
     "name": "elastic/agent-skills@cloud-manage-project",
     "type": "skill",
@@ -16921,6 +17240,24 @@
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
     "health_score": 32.5
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@project-graveyard",
+    "name": "shubhamsaboo/awesome-llm-apps@project-graveyard",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/project-graveyard",
+    "metric": {
+      "installs": 1600
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@project-graveyard",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "skillssh:ruvnet/ruflo@github-project-management",
@@ -17028,7 +17365,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/miles990/claude-software-skills/project-management",
     "metric": {
-      "installs": 382
+      "installs": 384
     },
     "description": "",
     "license": null,
@@ -17062,7 +17399,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/laurigates/claude-plugins/uv-project-management",
     "metric": {
-      "installs": 165
+      "installs": 173
     },
     "description": "",
     "license": null,
@@ -17079,7 +17416,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vivy-yi/xiaohongshu-skills/project-management",
     "metric": {
-      "installs": 156
+      "installs": 157
     },
     "description": "",
     "license": null,
@@ -17096,7 +17433,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction/n8n-project-management",
     "metric": {
-      "installs": 98
+      "installs": 100
     },
     "description": "",
     "license": null,
@@ -17193,6 +17530,23 @@
     "audit_score": 66.7
   },
   {
+    "id": "skillssh:cheehoolabs/spureeskills@project-management",
+    "name": "cheehoolabs/spureeskills@project-management",
+    "type": "skill",
+    "source_url": "https://skills.sh/cheehoolabs/spureeskills/project-management",
+    "metric": {
+      "installs": 27
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add cheehoolabs/spureeskills@project-management",
+    "category": "11.1",
+    "category_name": "운영/거버넌스 > 프로젝트 관리",
+    "weak_match": false,
+    "health_score": 75,
+    "audit_score": 81.3
+  },
+  {
     "id": "skillssh:dmend3z/tribo-skills@project-management",
     "name": "dmend3z/tribo-skills@project-management",
     "type": "skill",
@@ -17207,23 +17561,6 @@
     "category_name": "운영/거버넌스 > 프로젝트 관리",
     "weak_match": false,
     "health_score": 59.3,
-    "audit_score": 91.7
-  },
-  {
-    "id": "skillssh:peterbamuhigire/proposal-skills@project-management",
-    "name": "peterbamuhigire/proposal-skills@project-management",
-    "type": "skill",
-    "source_url": "https://skills.sh/peterbamuhigire/proposal-skills/project-management",
-    "metric": {
-      "installs": 8
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add peterbamuhigire/proposal-skills@project-management",
-    "category": "11.1",
-    "category_name": "운영/거버넌스 > 프로젝트 관리",
-    "weak_match": false,
-    "health_score": 79.5,
     "audit_score": 91.7
   },
   {
@@ -17277,29 +17614,12 @@
     "health_score": 100
   },
   {
-    "id": "skillssh:samber/cc-skills-golang@golang-documentation",
-    "name": "samber/cc-skills-golang@golang-documentation",
-    "type": "skill",
-    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-documentation",
-    "metric": {
-      "installs": 38800
-    },
-    "description": "Comprehensive documentation guide for Golang projects, covering godoc comments, README, CONTRIBUTING, CHANGELOG, Go Playground, Example tests, API docs, and llms.txt. Use when writing or reviewing doc comments, documenta",
-    "license": null,
-    "install": "npx skills add samber/cc-skills-golang@golang-documentation",
-    "category": "11.2",
-    "category_name": "운영/거버넌스 > 문서화",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 93.8
-  },
-  {
     "id": "skillssh:addyosmani/agent-skills@documentation-and-adrs",
     "name": "addyosmani/agent-skills@documentation-and-adrs",
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/documentation-and-adrs",
     "metric": {
-      "installs": 37900
+      "installs": 39200
     },
     "description": "Records decisions and documentation. Use when you need to document an architecture decision (ADR) or the reasoning behind a design choice, when changing public APIs, shipping features, or when you need to record context ",
     "license": null,
@@ -17311,12 +17631,29 @@
     "audit_score": 81.3
   },
   {
+    "id": "skillssh:samber/cc-skills-golang@golang-documentation",
+    "name": "samber/cc-skills-golang@golang-documentation",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/cc-skills-golang/golang-documentation",
+    "metric": {
+      "installs": 39000
+    },
+    "description": "Comprehensive documentation guide for Golang projects, covering godoc comments, README, CONTRIBUTING, CHANGELOG, Go Playground, Example tests, API docs, and llms.txt. Use when writing or reviewing doc comments, documenta",
+    "license": null,
+    "install": "npx skills add samber/cc-skills-golang@golang-documentation",
+    "category": "11.2",
+    "category_name": "운영/거버넌스 > 문서화",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "skillssh:github/awesome-copilot@documentation-writer",
     "name": "github/awesome-copilot@documentation-writer",
     "type": "skill",
     "source_url": "https://skills.sh/github/awesome-copilot/documentation-writer",
     "metric": {
-      "installs": 26600
+      "installs": 26700
     },
     "description": "Diátaxis Documentation Expert. An expert technical writer specializing in creating high-quality software documentation, guided by the principles and structure of the Diátaxis technical documentation authoring framework.",
     "license": null,
@@ -17492,6 +17829,24 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@technical-writer",
+    "name": "shubhamsaboo/awesome-llm-apps@technical-writer",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/technical-writer",
+    "metric": {
+      "installs": 4500
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@technical-writer",
+    "category": "11.2",
+    "category_name": "운영/거버넌스 > 문서화",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "github:jupyter-book/jupyter-book",
     "name": "jupyter-book",
     "type": "github-repo",
@@ -17562,7 +17917,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/dart-lang/skills/dart-write-documentation",
     "metric": {
-      "installs": 2700
+      "installs": 2900
     },
     "description": "",
     "license": null,
@@ -17722,6 +18077,23 @@
     "audit_score": 93.8
   },
   {
+    "id": "skillssh:owl-listener/designer-skills@documentation-template",
+    "name": "owl-listener/designer-skills@documentation-template",
+    "type": "skill",
+    "source_url": "https://skills.sh/owl-listener/designer-skills/documentation-template",
+    "metric": {
+      "installs": 1700
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add owl-listener/designer-skills@documentation-template",
+    "category": "11.2",
+    "category_name": "운영/거버넌스 > 문서화",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 93.8
+  },
+  {
     "id": "github:SwiftDocOrg/swift-doc",
     "name": "swift-doc",
     "type": "github-repo",
@@ -17752,23 +18124,6 @@
     "category_name": "운영/거버넌스 > 문서화",
     "weak_match": false,
     "health_score": 42.5
-  },
-  {
-    "id": "skillssh:owl-listener/designer-skills@documentation-template",
-    "name": "owl-listener/designer-skills@documentation-template",
-    "type": "skill",
-    "source_url": "https://skills.sh/owl-listener/designer-skills/documentation-template",
-    "metric": {
-      "installs": 1600
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add owl-listener/designer-skills@documentation-template",
-    "category": "11.2",
-    "category_name": "운영/거버넌스 > 문서화",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 93.8
   },
   {
     "id": "skillssh:mcollina/skills@documentation",
@@ -18085,7 +18440,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/makenotion/claude-code-notion-plugin/notion-research-documentation",
     "metric": {
-      "installs": 316
+      "installs": 319
     },
     "description": "",
     "license": null,
@@ -18102,7 +18457,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/microsoft/azure-skills/azure-compliance",
     "metric": {
-      "installs": 588100
+      "installs": 589400
     },
     "description": "Run Azure compliance and security audits with azqr plus Key Vault expiration checks. Covers best-practice assessment, resource review, policy/compliance validation, and security posture checks. WHEN: compliance scan, sec",
     "license": null,
@@ -18168,7 +18523,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/customs-trade-compliance",
     "metric": {
-      "installs": 8500
+      "installs": 8600
     },
     "description": "",
     "license": null,
@@ -18201,7 +18556,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/healthcare-phi-compliance",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "license": null,
@@ -18218,7 +18573,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/affaan-m/ecc/hipaa-compliance",
     "metric": {
-      "installs": 7300
+      "installs": 7400
     },
     "description": "",
     "license": null,
@@ -18235,7 +18590,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/trailofbits/skills/spec-to-code-compliance",
     "metric": {
-      "installs": 5100
+      "installs": 5200
     },
     "description": "",
     "license": null,
@@ -18530,7 +18885,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/amazon-skills/amazon-product-compliance",
     "metric": {
-      "installs": 985
+      "installs": 989
     },
     "description": "",
     "license": null,
@@ -18547,7 +18902,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/tiktok-shop-compliance",
     "metric": {
-      "installs": 853
+      "installs": 864
     },
     "description": "",
     "license": null,
@@ -18581,7 +18936,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/nexscope-ai/ecommerce-skills/shopify-tax-compliance",
     "metric": {
-      "installs": 811
+      "installs": 822
     },
     "description": "",
     "license": null,
@@ -18598,7 +18953,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/claude-for-legal/entity-compliance",
     "metric": {
-      "installs": 560
+      "installs": 567
     },
     "description": "",
     "license": null,
@@ -18615,7 +18970,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/claude-for-legal/material-contract-schedule",
     "metric": {
-      "installs": 548
+      "installs": 555
     },
     "description": "",
     "license": null,
@@ -18751,7 +19106,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/evolsb/claude-legal-skill/contract-review",
     "metric": {
-      "installs": 110
+      "installs": 111
     },
     "description": "",
     "license": null,
@@ -18802,7 +19157,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/qfeius/contract-cli/contract-cli-mdm-legal",
     "metric": {
-      "installs": 103
+      "installs": 104
     },
     "description": "",
     "license": null,
@@ -18819,7 +19174,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/qfeius/contract-cli/contract-cli-contract",
     "metric": {
-      "installs": 99
+      "installs": 100
     },
     "description": "",
     "license": null,
@@ -18836,7 +19191,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/cat-xierluo/legal-skills/contract-copilot",
     "metric": {
-      "installs": 96
+      "installs": 97
     },
     "description": "",
     "license": null,
@@ -18950,23 +19305,6 @@
     "audit_score": 91.7
   },
   {
-    "id": "skillssh:liaoann/skills@contracts",
-    "name": "liaoann/skills@contracts",
-    "type": "skill",
-    "source_url": "https://skills.sh/liaoann/skills/contracts",
-    "metric": {
-      "installs": 42
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add liaoann/skills@contracts",
-    "category": "11.3",
-    "category_name": "운영/거버넌스 > 법무/컴플라이언스",
-    "weak_match": false,
-    "health_score": 75,
-    "audit_score": 91.7
-  },
-  {
     "id": "skillssh:austintgriffith/ethskills@contracts",
     "name": "austintgriffith/ethskills@contracts",
     "type": "skill",
@@ -18981,6 +19319,23 @@
     "category_name": "운영/거버넌스 > 법무/컴플라이언스",
     "weak_match": false,
     "health_score": 78.2,
+    "audit_score": 83.3
+  },
+  {
+    "id": "skillssh:happy-technologies-llc/happy-platform-skills@legal-request-triage",
+    "name": "happy-technologies-llc/happy-platform-skills@legal-request-triage",
+    "type": "skill",
+    "source_url": "https://skills.sh/happy-technologies-llc/happy-platform-skills/legal-request-triage",
+    "metric": {
+      "installs": 33
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add happy-technologies-llc/happy-platform-skills@legal-request-triage",
+    "category": "11.3",
+    "category_name": "운영/거버넌스 > 법무/컴플라이언스",
+    "weak_match": true,
+    "health_score": 83.6,
     "audit_score": 83.3
   },
   {
@@ -19038,7 +19393,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/paramchoudhary/resumeskills/job-description-analyzer",
     "metric": {
-      "installs": 8300
+      "installs": 8400
     },
     "description": "",
     "license": null,
@@ -19248,7 +19603,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/anthropics/claude-for-legal/hiring-review",
     "metric": {
-      "installs": 547
+      "installs": 555
     },
     "description": "",
     "license": null,
@@ -19292,6 +19647,23 @@
     "health_score": 53
   },
   {
+    "id": "skillssh:mbfinotti/sales-skills@sales-hiring",
+    "name": "mbfinotti/sales-skills@sales-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/sales-skills/sales-hiring",
+    "metric": {
+      "installs": 431
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/sales-skills@sales-hiring",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 91.7
+  },
+  {
     "id": "github:profilecity/vidur",
     "name": "vidur",
     "type": "github-repo",
@@ -19324,12 +19696,29 @@
     "health_score": 67.5
   },
   {
+    "id": "skillssh:mbfinotti/revops-skills@revops-hiring",
+    "name": "mbfinotti/revops-skills@revops-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/revops-skills/revops-hiring",
+    "metric": {
+      "installs": 397
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/revops-skills@revops-hiring",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:borghei/claude-skills@talent-acquisition",
     "name": "borghei/claude-skills@talent-acquisition",
     "type": "skill",
     "source_url": "https://skills.sh/borghei/claude-skills/talent-acquisition",
     "metric": {
-      "installs": 340
+      "installs": 341
     },
     "description": "",
     "license": null,
@@ -19339,6 +19728,40 @@
     "weak_match": true,
     "health_score": 90,
     "audit_score": 93.8
+  },
+  {
+    "id": "skillssh:mbfinotti/advertising-skills@advertising-hiring",
+    "name": "mbfinotti/advertising-skills@advertising-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/advertising-skills/advertising-hiring",
+    "metric": {
+      "installs": 337
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/advertising-skills@advertising-hiring",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 91.7
+  },
+  {
+    "id": "skillssh:samber/developer-relations-skills@devrel-hiring",
+    "name": "samber/developer-relations-skills@devrel-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/developer-relations-skills/devrel-hiring",
+    "metric": {
+      "installs": 331
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add samber/developer-relations-skills@devrel-hiring",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 91.7
   },
   {
     "id": "github:jobright-ai/Daily-H1B-Jobs-In-Tech",
@@ -19357,12 +19780,29 @@
     "health_score": 65.4
   },
   {
+    "id": "skillssh:mbfinotti/partnerships-skills@partnerships-hiring",
+    "name": "mbfinotti/partnerships-skills@partnerships-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/mbfinotti/partnerships-skills/partnerships-hiring",
+    "metric": {
+      "installs": 319
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add mbfinotti/partnerships-skills@partnerships-hiring",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 85,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:apidojo-io/apidojo-skills@tracking-hiring-signals-from-company-tweets",
     "name": "apidojo-io/apidojo-skills@tracking-hiring-signals-from-company-tweets",
     "type": "skill",
     "source_url": "https://skills.sh/apidojo-io/apidojo-skills/tracking-hiring-signals-from-company-tweets",
     "metric": {
-      "installs": 303
+      "installs": 306
     },
     "description": "",
     "license": null,
@@ -19372,40 +19812,6 @@
     "weak_match": false,
     "health_score": 67.3,
     "audit_score": 50
-  },
-  {
-    "id": "skillssh:mbfinotti/sales-skills@sales-hiring",
-    "name": "mbfinotti/sales-skills@sales-hiring",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/sales-skills/sales-hiring",
-    "metric": {
-      "installs": 297
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/sales-skills@sales-hiring",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 91.7
-  },
-  {
-    "id": "skillssh:mbfinotti/revops-skills@revops-hiring",
-    "name": "mbfinotti/revops-skills@revops-hiring",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/revops-skills/revops-hiring",
-    "metric": {
-      "installs": 287
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/revops-skills@revops-hiring",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 91.7
   },
   {
     "id": "github:Creditas/challenge",
@@ -19424,23 +19830,6 @@
     "health_score": 32.5
   },
   {
-    "id": "skillssh:samber/developer-relations-skills@devrel-hiring",
-    "name": "samber/developer-relations-skills@devrel-hiring",
-    "type": "skill",
-    "source_url": "https://skills.sh/samber/developer-relations-skills/devrel-hiring",
-    "metric": {
-      "installs": 277
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add samber/developer-relations-skills@devrel-hiring",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 91.7
-  },
-  {
     "id": "github:sliday/resume-job-matcher",
     "name": "resume-job-matcher",
     "type": "github-repo",
@@ -19455,23 +19844,6 @@
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
     "health_score": 87.2
-  },
-  {
-    "id": "skillssh:mbfinotti/partnerships-skills@partnerships-hiring",
-    "name": "mbfinotti/partnerships-skills@partnerships-hiring",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/partnerships-skills/partnerships-hiring",
-    "metric": {
-      "installs": 253
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/partnerships-skills@partnerships-hiring",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 91.7
   },
   {
     "id": "github:Dannny-Babs/Canadian-Tech-Internships-2025",
@@ -19490,29 +19862,12 @@
     "health_score": 64.8
   },
   {
-    "id": "skillssh:mbfinotti/advertising-skills@advertising-hiring",
-    "name": "mbfinotti/advertising-skills@advertising-hiring",
-    "type": "skill",
-    "source_url": "https://skills.sh/mbfinotti/advertising-skills/advertising-hiring",
-    "metric": {
-      "installs": 234
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add mbfinotti/advertising-skills@advertising-hiring",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": false,
-    "health_score": 85,
-    "audit_score": 91.7
-  },
-  {
     "id": "skillssh:refoundai/lenny-skills@hiring-product-talent",
     "name": "refoundai/lenny-skills@hiring-product-talent",
     "type": "skill",
     "source_url": "https://skills.sh/refoundai/lenny-skills/hiring-product-talent",
     "metric": {
-      "installs": 230
+      "installs": 236
     },
     "description": "",
     "license": null,
@@ -19529,7 +19884,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/onewave-ai/claude-skills/hiring-scorecard",
     "metric": {
-      "installs": 219
+      "installs": 221
     },
     "description": "",
     "license": null,
@@ -19538,6 +19893,23 @@
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
     "health_score": 87.7,
+    "audit_score": 91.7
+  },
+  {
+    "id": "skillssh:samber/dev-event-organizer-skills@dev-event-hiring",
+    "name": "samber/dev-event-organizer-skills@dev-event-hiring",
+    "type": "skill",
+    "source_url": "https://skills.sh/samber/dev-event-organizer-skills/dev-event-hiring",
+    "metric": {
+      "installs": 204
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add samber/dev-event-organizer-skills@dev-event-hiring",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 85,
     "audit_score": 91.7
   },
   {
@@ -19557,16 +19929,16 @@
     "health_score": 36.8
   },
   {
-    "id": "skillssh:samber/dev-event-organizer-skills@dev-event-hiring",
-    "name": "samber/dev-event-organizer-skills@dev-event-hiring",
+    "id": "skillssh:samber/developer-platform-skills@developer-platform-hiring",
+    "name": "samber/developer-platform-skills@developer-platform-hiring",
     "type": "skill",
-    "source_url": "https://skills.sh/samber/dev-event-organizer-skills/dev-event-hiring",
+    "source_url": "https://skills.sh/samber/developer-platform-skills/developer-platform-hiring",
     "metric": {
-      "installs": 180
+      "installs": 184
     },
     "description": "",
     "license": null,
-    "install": "npx skills add samber/dev-event-organizer-skills@dev-event-hiring",
+    "install": "npx skills add samber/developer-platform-skills@developer-platform-hiring",
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
@@ -19596,7 +19968,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/shawnpang/startup-founder-skills/job-description",
     "metric": {
-      "installs": 150
+      "installs": 152
     },
     "description": "",
     "license": null,
@@ -19605,23 +19977,6 @@
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
     "health_score": 64.7,
-    "audit_score": 91.7
-  },
-  {
-    "id": "skillssh:samber/developer-platform-skills@developer-platform-hiring",
-    "name": "samber/developer-platform-skills@developer-platform-hiring",
-    "type": "skill",
-    "source_url": "https://skills.sh/samber/developer-platform-skills/developer-platform-hiring",
-    "metric": {
-      "installs": 148
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add samber/developer-platform-skills@developer-platform-hiring",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": false,
-    "health_score": 85,
     "audit_score": 91.7
   },
   {
@@ -19743,6 +20098,23 @@
     "audit_score": 83.3
   },
   {
+    "id": "skillssh:catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "name": "catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "type": "skill",
+    "source_url": "https://skills.sh/catalystbyzoho/agent-skills/catalyst-job-scheduling",
+    "metric": {
+      "installs": 84
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add catalystbyzoho/agent-skills@catalyst-job-scheduling",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": true,
+    "health_score": 93.8,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:vince-winkintel/gitlab-cli-skills@glab-job",
     "name": "vince-winkintel/gitlab-cli-skills@glab-job",
     "type": "skill",
@@ -19777,29 +20149,12 @@
     "audit_score": 91.7
   },
   {
-    "id": "skillssh:catalystbyzoho/agent-skills@catalyst-job-scheduling",
-    "name": "catalystbyzoho/agent-skills@catalyst-job-scheduling",
-    "type": "skill",
-    "source_url": "https://skills.sh/catalystbyzoho/agent-skills/catalyst-job-scheduling",
-    "metric": {
-      "installs": 70
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add catalystbyzoho/agent-skills@catalyst-job-scheduling",
-    "category": "11.4",
-    "category_name": "운영/거버넌스 > 채용/HR",
-    "weak_match": true,
-    "health_score": 93.8,
-    "audit_score": 91.7
-  },
-  {
     "id": "skillssh:onewave-ai/claude-skills@cowork-hiring-screener",
     "name": "onewave-ai/claude-skills@cowork-hiring-screener",
     "type": "skill",
     "source_url": "https://skills.sh/onewave-ai/claude-skills/cowork-hiring-screener",
     "metric": {
-      "installs": 61
+      "installs": 63
     },
     "description": "",
     "license": null,
@@ -19896,6 +20251,23 @@
     "audit_score": 91.7
   },
   {
+    "id": "skillssh:anthropics/knowledge-work-plugins@hiring-screener",
+    "name": "anthropics/knowledge-work-plugins@hiring-screener",
+    "type": "skill",
+    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/hiring-screener",
+    "metric": {
+      "installs": 46
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add anthropics/knowledge-work-plugins@hiring-screener",
+    "category": "11.4",
+    "category_name": "운영/거버넌스 > 채용/HR",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 83.3
+  },
+  {
     "id": "skillssh:w95/awesome-claude-corporate-skills@job-description-writer",
     "name": "w95/awesome-claude-corporate-skills@job-description-writer",
     "type": "skill",
@@ -19930,21 +20302,21 @@
     "audit_score": 91.7
   },
   {
-    "id": "skillssh:anthropics/knowledge-work-plugins@hiring-screener",
-    "name": "anthropics/knowledge-work-plugins@hiring-screener",
+    "id": "skillssh:oldwinter/skills@writing-job-descriptions",
+    "name": "oldwinter/skills@writing-job-descriptions",
     "type": "skill",
-    "source_url": "https://skills.sh/anthropics/knowledge-work-plugins/hiring-screener",
+    "source_url": "https://skills.sh/oldwinter/skills/writing-job-descriptions",
     "metric": {
-      "installs": 30
+      "installs": 35
     },
     "description": "",
     "license": null,
-    "install": "npx skills add anthropics/knowledge-work-plugins@hiring-screener",
+    "install": "npx skills add oldwinter/skills@writing-job-descriptions",
     "category": "11.4",
     "category_name": "운영/거버넌스 > 채용/HR",
     "weak_match": false,
-    "health_score": 100,
-    "audit_score": 83.3
+    "health_score": 75,
+    "audit_score": null
   },
   {
     "id": "skillssh:ericgandrade/claude-superskills@job-description-analyzer",
@@ -20062,6 +20434,23 @@
     "health_score": 80
   },
   {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@advisor-orchestrator-worker",
+    "name": "shubhamsaboo/awesome-llm-apps@advisor-orchestrator-worker",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/advisor-orchestrator-worker",
+    "metric": {
+      "installs": 469
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@advisor-orchestrator-worker",
+    "category": "12.2",
+    "category_name": "메타/효율화 레이어 > 에이전트 라우팅 메타에이전트",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 50
+  },
+  {
     "id": "skillssh:salesably/salesably-marketplace@sales-orchestrator",
     "name": "salesably/salesably-marketplace@sales-orchestrator",
     "type": "skill",
@@ -20116,7 +20505,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/context-engineering",
     "metric": {
-      "installs": 36800
+      "installs": 38100
     },
     "description": "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.",
     "license": null,
@@ -20149,7 +20538,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/langchain-ai/langchain-skills/deep-agents-memory",
     "metric": {
-      "installs": 16700
+      "installs": 16800
     },
     "description": "INVOKE THIS SKILL when your Deep Agent needs memory, persistence, or filesystem access. Covers StateBackend (ephemeral), StoreBackend (persistent), FilesystemMiddleware, and CompositeBackend for routing.",
     "license": null,
@@ -20214,7 +20603,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/remember",
     "metric": {
-      "installs": 12300
+      "installs": 12400
     },
     "description": "Save an insight, decision, or learning to agentmemory's long-term storage with searchable concept tags. Use when the user says \"remember this\", \"save this\", \"note that\", \"don't forget\", or wants to preserve knowledge for",
     "license": null,
@@ -20231,7 +20620,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/recall",
     "metric": {
-      "installs": 12200
+      "installs": 12300
     },
     "description": "Search agentmemory for past observations, sessions, and learnings about a topic using hybrid BM25 plus vector plus graph search. Use when the user says \"recall\", \"what did we do about\", \"did we ever\", \"have we seen\", or ",
     "license": null,
@@ -20248,7 +20637,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/session-history",
     "metric": {
-      "installs": 12100
+      "installs": 12300
     },
     "description": "Show what happened in recent past sessions on this project as a clean timeline. Use when the user asks \"what did we do last time\", \"session history\", \"past sessions\", or wants an overview of previous work.",
     "license": null,
@@ -20265,7 +20654,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/forget",
     "metric": {
-      "installs": 12100
+      "installs": 12200
     },
     "description": "Delete specific observations from agentmemory after showing them and getting explicit confirmation. Use when the user says \"forget this\", \"delete memory\", \"remove that note\", or wants to scrub specific data for privacy.",
     "license": null,
@@ -20282,7 +20671,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/recap",
     "metric": {
-      "installs": 12000
+      "installs": 12100
     },
     "description": "Summarize the last N agent sessions for the current project, grouped by date, with highlight observations per session. Use when the user asks \"recap\", \"what have we been doing\", \"today\", \"this week\", or wants a rollup of",
     "license": null,
@@ -20299,7 +20688,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/commit-context",
     "metric": {
-      "installs": 12000
+      "installs": 12100
     },
     "description": "",
     "license": null,
@@ -20316,7 +20705,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/commit-history",
     "metric": {
-      "installs": 12000
+      "installs": 12100
     },
     "description": "",
     "license": null,
@@ -20333,7 +20722,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/handoff",
     "metric": {
-      "installs": 11900
+      "installs": 12000
     },
     "description": "",
     "license": null,
@@ -20350,7 +20739,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/memory-safety-patterns",
     "metric": {
-      "installs": 10700
+      "installs": 10800
     },
     "description": "",
     "license": null,
@@ -20367,7 +20756,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/memory-forensics",
     "metric": {
-      "installs": 10000
+      "installs": 10100
     },
     "description": "",
     "license": null,
@@ -20384,7 +20773,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-agents",
     "metric": {
-      "installs": 9400
+      "installs": 9500
     },
     "description": "",
     "license": null,
@@ -20401,7 +20790,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-mcp-tools",
     "metric": {
-      "installs": 9300
+      "installs": 9400
     },
     "description": "",
     "license": null,
@@ -20418,7 +20807,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-config",
     "metric": {
-      "installs": 9300
+      "installs": 9400
     },
     "description": "",
     "license": null,
@@ -20435,7 +20824,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-architecture",
     "metric": {
-      "installs": 9200
+      "installs": 9300
     },
     "description": "",
     "license": null,
@@ -20452,7 +20841,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/agentmemory-hooks",
     "metric": {
-      "installs": 9200
+      "installs": 9300
     },
     "description": "",
     "license": null,
@@ -20469,7 +20858,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/rohitg00/agentmemory/write-agentmemory-skill",
     "metric": {
-      "installs": 9200
+      "installs": 9300
     },
     "description": "",
     "license": null,
@@ -20627,6 +21016,23 @@
     "health_score": 100
   },
   {
+    "id": "skillssh:sickn33/agentic-awesome-skills@agent-memory-systems",
+    "name": "sickn33/agentic-awesome-skills@agent-memory-systems",
+    "type": "skill",
+    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/agent-memory-systems",
+    "metric": {
+      "installs": 2000
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add sickn33/agentic-awesome-skills@agent-memory-systems",
+    "category": "12.3",
+    "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
+    "weak_match": false,
+    "health_score": 100,
+    "audit_score": 91.7
+  },
+  {
     "id": "skillssh:deanpeters/product-manager-skills@context-engineering-advisor",
     "name": "deanpeters/product-manager-skills@context-engineering-advisor",
     "type": "skill",
@@ -20642,23 +21048,6 @@
     "weak_match": false,
     "health_score": 100,
     "audit_score": 93.8
-  },
-  {
-    "id": "skillssh:sickn33/agentic-awesome-skills@agent-memory-systems",
-    "name": "sickn33/agentic-awesome-skills@agent-memory-systems",
-    "type": "skill",
-    "source_url": "https://skills.sh/sickn33/agentic-awesome-skills/agent-memory-systems",
-    "metric": {
-      "installs": 1900
-    },
-    "description": "",
-    "license": null,
-    "install": "npx skills add sickn33/agentic-awesome-skills@agent-memory-systems",
-    "category": "12.3",
-    "category_name": "메타/효율화 레이어 > 메모리/컨텍스트 관리",
-    "weak_match": false,
-    "health_score": 100,
-    "audit_score": 91.7
   },
   {
     "id": "github:Intuition-Lab/personal-model",
@@ -20917,7 +21306,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/guia-matthieu/clawfu-skills/context-engineering",
     "metric": {
-      "installs": 226
+      "installs": 228
     },
     "description": "",
     "license": null,
@@ -20934,7 +21323,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/siviter-xyz/dot-agent/context-engineering",
     "metric": {
-      "installs": 186
+      "installs": 188
     },
     "description": "",
     "license": null,
@@ -21432,6 +21821,24 @@
     "category_name": "AI 에이전트 생태계/메타 도구 > IDE 규칙/컨벤션",
     "weak_match": false,
     "health_score": 57.5
+  },
+  {
+    "id": "skillssh:shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+    "name": "shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+    "type": "skill",
+    "source_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/thinking-out-loud",
+    "metric": {
+      "installs": 296
+    },
+    "description": "",
+    "license": null,
+    "install": "npx skills add shubhamsaboo/awesome-llm-apps@thinking-out-loud",
+    "category": "13.4",
+    "category_name": "AI 에이전트 생태계/메타 도구 > IDE 규칙/컨벤션",
+    "weak_match": false,
+    "manual_override": true,
+    "health_score": 100,
+    "audit_score": 91.7
   },
   {
     "id": "github:mbeijen/andrej-karpathy-skills-cursor-vscode",

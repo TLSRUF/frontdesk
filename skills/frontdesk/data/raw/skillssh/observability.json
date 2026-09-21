@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
     "metric": {
-      "installs": 264800
+      "installs": 286200
     },
     "description": "",
     "topics": [],
@@ -31,7 +31,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/samber/cc-skills-golang/golang-observability",
     "metric": {
-      "installs": 38300
+      "installs": 38500
     },
     "description": "",
     "topics": [],
@@ -44,7 +44,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/addyosmani/agent-skills/observability-and-instrumentation",
     "metric": {
-      "installs": 30000
+      "installs": 31200
     },
     "description": "",
     "topics": [],
@@ -57,7 +57,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/python-observability",
     "metric": {
-      "installs": 10400
+      "installs": 10500
     },
     "description": "",
     "topics": [],
@@ -70,7 +70,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/google/skills/google-cloud-networking-observability",
     "metric": {
-      "installs": 9800
+      "installs": 9900
     },
     "description": "",
     "topics": [],
@@ -96,7 +96,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/aws/agent-toolkit-for-aws/aws-observability",
     "metric": {
-      "installs": 7800
+      "installs": 7900
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/google/skills/gke-observability",
     "metric": {
-      "installs": 4800
+      "installs": 4900
     },
     "description": "",
     "topics": [],
@@ -143,29 +143,29 @@
     "seed_keyword": "observability"
   },
   {
-    "id": "skillssh:assistant-ui/skills@observability",
-    "name": "assistant-ui/skills@observability",
-    "type": "skill",
-    "source_url": "https://skills.sh/assistant-ui/skills/observability",
-    "metric": {
-      "installs": 3300
-    },
-    "description": "",
-    "topics": [],
-    "install": "npx skills add assistant-ui/skills@observability",
-    "seed_keyword": "observability"
-  },
-  {
     "id": "skillssh:grafana/skills@database-observability",
     "name": "grafana/skills@database-observability",
     "type": "skill",
     "source_url": "https://skills.sh/grafana/skills/database-observability",
     "metric": {
-      "installs": 3300
+      "installs": 3400
     },
     "description": "",
     "topics": [],
     "install": "npx skills add grafana/skills@database-observability",
+    "seed_keyword": "observability"
+  },
+  {
+    "id": "skillssh:assistant-ui/skills@observability",
+    "name": "assistant-ui/skills@observability",
+    "type": "skill",
+    "source_url": "https://skills.sh/assistant-ui/skills/observability",
+    "metric": {
+      "installs": 3400
+    },
+    "description": "",
+    "topics": [],
+    "install": "npx skills add assistant-ui/skills@observability",
     "seed_keyword": "observability"
   },
   {

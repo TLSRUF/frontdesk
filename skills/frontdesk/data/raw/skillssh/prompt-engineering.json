@@ -5,7 +5,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
     "metric": {
-      "installs": 21600
+      "installs": 21700
     },
     "description": "",
     "topics": [],
@@ -109,7 +109,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/spencerpauly/awesome-cursor-skills/prompt-engineering",
     "metric": {
-      "installs": 356
+      "installs": 359
     },
     "description": "",
     "topics": [],
@@ -122,7 +122,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/justinperea/midjourney-cc-skill/midjourney-prompt-engineering",
     "metric": {
-      "installs": 310
+      "installs": 311
     },
     "description": "",
     "topics": [],
@@ -135,7 +135,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/martinholovsky/claude-skills-generator/prompt-engineering",
     "metric": {
-      "installs": 222
+      "installs": 223
     },
     "description": "",
     "topics": [],
@@ -148,7 +148,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/vasilyu1983/ai-agents-public/ai-prompt-engineering",
     "metric": {
-      "installs": 213
+      "installs": 214
     },
     "description": "",
     "topics": [],
@@ -213,7 +213,7 @@
     "type": "skill",
     "source_url": "https://skills.sh/oakoss/agent-skills/prompt-engineering",
     "metric": {
-      "installs": 100
+      "installs": 102
     },
     "description": "",
     "topics": [],

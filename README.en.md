@@ -22,7 +22,7 @@ Once installed, Claude will check "is there already a skill for this?" before do
 
 ## What's here
 
-- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 1,325 agents/skills classified into 13 departments / ~57 sub-categories (the human-readable end product)
+- **[skills/frontdesk/CATALOG.md](skills/frontdesk/CATALOG.md)** — 1,348 agents/skills classified into 13 departments / ~57 sub-categories (the human-readable end product)
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** — the design direction for a unified orchestrator built on this catalog, and the rule-based router prototype (applying [ponytail](https://github.com/DietrichGebert/ponytail)'s low-token decision ladder to "agent selection" instead of "writing code")
 - **[skills/frontdesk/taxonomy.mjs](skills/frontdesk/taxonomy.mjs)** — the classification scheme (departments/sub-categories/keyword hints)
 - **`skills/frontdesk/data/catalog.json`** — the final classified data (machine-readable source of truth)
@@ -32,7 +32,7 @@ Once installed, Claude will check "is there already a skill for this?" before do
 
 ## Starter pack & pipeline
 
-- **Starter pack** — for "just install this one thing and get the best skill per department automatically." `npm run starter-pack` picks the most-installed, confidently-classified item per department (12 currently) that's neither abandoned (`health_score`, from GitHub archive status/license/forks) nor flagged risky (`audit_score`, from skills.sh's public Socket/Snyk/etc. audit API). `node scripts/install-starter-pack.mjs --yes` installs all of them at once. **Note: this picks the most-installed skill among the safe, maintained ones, not the best-*performing* one** — there's still no way to measure real performance (we also checked Reddit mention counts as a proxy, but even ponytail turned up no findable signal, so we dropped that approach).
+- **Starter pack** — for "just install this one thing and get the best skill per department automatically." `npm run starter-pack` picks the most-installed, confidently-classified item per department (all 13) that's neither abandoned (`health_score`, from GitHub archive status/license/forks) nor flagged risky (`audit_score`, from skills.sh's public Socket/Snyk/etc. audit API). `node scripts/install-starter-pack.mjs --yes` installs all of them at once. **Note: this picks the most-installed skill among the safe, maintained ones, not the best-*performing* one** — there's still no way to measure real performance (we also checked Reddit mention counts as a proxy, but even ponytail turned up no findable signal, so we dropped that approach).
 - **Pipeline** — 8 stages (idea → product definition → design → engineering → QA/security → marketing/sales → deploy → ops) that reuse the existing catalog/router, scoped per stage to the relevant department(s): `node scripts/pipeline.mjs "project description"`. Deploy and ops can affect a real service, so this is designed for **human confirmation at every stage transition** (not a fully unattended run end-to-end).
 
 Full design rationale and limitations are in [`ARCHITECTURE.md`](ARCHITECTURE.md) under "스타터팩" / "파이프라인" / "목표 대비 현황" (Korean headings, but readable via the code blocks and tables).

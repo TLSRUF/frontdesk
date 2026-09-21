@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:40:59.720Z",
+  "generated_at": "2026-09-21T04:36:27.242Z",
   "testset_size": 87,
   "english_in_domain": 78,
   "null_cases": 4,
@@ -519,6 +519,6 @@
     "total": 5,
     "note": "영어 키워드만 매칭하는 현재 구현의 알려진 한계 (ARCHITECTURE.md 참고)"
   },
-  "latency_ms_per_call": 0.0281,
+  "latency_ms_per_call": 0.0349,
   "latency_note": "5000회 반복 측정한 실측값. LLM 호출이 없는 순수 정규식 매칭이라 토큰 비용이 0이다."
 }

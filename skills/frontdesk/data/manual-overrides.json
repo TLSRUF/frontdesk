@@ -14,6 +14,23 @@
     "github:farion1231/cc-switch": "13.5",
     "github:router-for-me/CLIProxyAPI": "13.2",
     "github:0xPlaygrounds/rig": "12.4",
-    "github:alyssaxuu/flowy": "4.1"
+    "github:alyssaxuu/flowy": "4.1",
+
+    "skillssh:shubhamsaboo/awesome-llm-apps@project-graveyard": "11.1",
+    "skillssh:shubhamsaboo/awesome-llm-apps@thinking-out-loud": "13.4",
+    "skillssh:shubhamsaboo/awesome-llm-apps@first-reader": "9.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@content-creator": "9.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@technical-writer": "11.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@data-analyst": "7.1",
+    "skillssh:shubhamsaboo/awesome-llm-apps@visualization-expert": "7.1",
+    "skillssh:shubhamsaboo/awesome-llm-apps@debugger": "8.1",
+    "skillssh:shubhamsaboo/awesome-llm-apps@sprint-planner": "2.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@scope-creep-detector": "8.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@commit-archaeologist": "8.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@dependency-doctor": "8.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@project-planner": "11.1",
+    "skillssh:shubhamsaboo/awesome-llm-apps@fact-checker": "9.2",
+    "skillssh:shubhamsaboo/awesome-llm-apps@strategy-advisor": "1.3",
+    "skillssh:shubhamsaboo/taste-skill@redesign-existing-projects": "3.2"
   }
 }
